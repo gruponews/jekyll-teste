@@ -13,7 +13,7 @@ published: true
 dsq_thread_id:
   - "2999625518"
 ---
-<h2>Costurando as redes de comunhão em amor</h2>
+<h2>Costurando as redes de comunhão em amor2</h2>
 
 “Acredito que a vinda do irmão Wolfgang Simson ao Brasil foi um marco entre nós e um novo passo significativo ao mover de restauração da igreja neste país. Embora o encontro tenha sido de poucos dias, nosso irmão foi recebido por todos com paz e alegria interior, como igreja reunida num mesmo propósito. Houve fortalecimento no espírito ao conhecermos como Deus tem avivado Sua obra em muitas partes do mundo, levantando e enviando obreiros com encargos apostólicos, multiplicando o número de salvos e abrindo os olhos de milhares de Seus filhos para voltarem a congregar-se na base bíblica da igreja como Corpo de Cristo em cada lugar, vivendo como família em muitas casas.
 
