@@ -7,5 +7,6 @@ install:
   - bundle install
 script: jekyll build
 after_success:
-  - sshpass -p $ftpPassword scp -r /home/travis/build/gruponews/jekyll-teste/_site/* gruponewscombr@cyclone.dreamhost.com:jekyll.gruponews.com.br/public
+  - sshpass -p $ftpPassword scp -r /home/travis/build/gruponews/jekyll-teste/_site/* gruponewscombr@cyclone.dreamhost.com:jekyll.gruponews.com.br/public1
+  - travis-custom-deploy sftp service:jekyll
   - echo 'Teste OK'
