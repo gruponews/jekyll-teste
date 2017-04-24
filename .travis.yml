@@ -3,4 +3,4 @@ rvm:
   - 2.3.3
 install: bundle install
 script: jekyll build
-after_success: "curl --ftp-create-dirs -T /home/travis/build/gruponews/jekyll-teste/_site/* -u $ftpUser:$ftpPassword ftp://$ftpAddress/$ftpDir"
+after_success: "curl --ftp-create-dirs -T /home/travis/build/gruponews/jekyll-teste/_site/* ftp://$ftpUser:$ftpPassword@$ftpAddress/$ftpDir"
