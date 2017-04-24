@@ -1,6 +1,6 @@
 language: ruby
 rvm:
   - 2.3.3
-install: gem install jekyll -v 3.3.1
+install: bundle install
 script: jekyll build
 after_success: "curl --ftp-create-dirs -T _site/* -u $ftpUser:$ftpPassword ftp://$ftpAddress/$ftpDir"
