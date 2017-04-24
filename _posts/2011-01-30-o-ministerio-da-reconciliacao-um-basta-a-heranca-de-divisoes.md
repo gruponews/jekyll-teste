@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2011-01-30 12:00:05
 post_excerpt: ""
 layout: post
-permalink: >
-  /publicacoes/o-ministerio-da-reconciliacao-um-basta-a-heranca-de-divisoes
+permalink: /publicacoes/o-ministerio-da-reconciliacao-um-basta-a-heranca-de-divisoes
 published: true
 aktt_notify_twitter:
   - 'yes'

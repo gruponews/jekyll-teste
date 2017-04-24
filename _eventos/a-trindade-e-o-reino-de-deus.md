@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2012-09-18 00:00:48
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/a-trindade-e-o-reino-de-deus
+permalink: /eventos/a-trindade-e-o-reino-de-deus
 published: true
 aktt_notify_twitter:
   - 'yes'

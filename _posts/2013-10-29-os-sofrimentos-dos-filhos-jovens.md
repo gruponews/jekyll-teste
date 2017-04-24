@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2013-10-29 07:00:16
 post_excerpt: ""
 layout: post
-permalink: >
-  /familia-materias/os-sofrimentos-dos-filhos-jovens
+permalink: /familia-materias/os-sofrimentos-dos-filhos-jovens
 published: true
 wpcf-gn_post_autor:
   - ""

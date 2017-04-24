@@ -5,8 +5,7 @@ author: eduardolucas
 post_date: 2009-11-28 16:44:05
 post_excerpt: ""
 layout: post
-permalink: >
-  /familia-materias/hombridade-e-a-casa-digna
+permalink: /familia-materias/hombridade-e-a-casa-digna
 published: true
 post_autor:
   - Pedro Arruda

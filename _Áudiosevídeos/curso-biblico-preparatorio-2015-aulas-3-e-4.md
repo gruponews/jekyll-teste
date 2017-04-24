@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2015-11-18 19:01:03
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/curso-biblico-preparatorio-2015-aulas-3-e-4
+permalink: /audioevideo/curso-biblico-preparatorio-2015-aulas-3-e-4
 published: true
 wpcf-gn_audiovideo_data:
   - "1447459200"

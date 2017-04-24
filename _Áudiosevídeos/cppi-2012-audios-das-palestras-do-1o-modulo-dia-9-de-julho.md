@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2012-07-14 20:38:23
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/cppi-2012-audios-das-palestras-do-1o-modulo-dia-9-de-julho
+permalink: /audioevideo/cppi-2012-audios-das-palestras-do-1o-modulo-dia-9-de-julho
 published: true
 aktt_notify_twitter:
   - 'yes'

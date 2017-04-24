@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2015-09-19 00:37:46
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/johannes-fichtenbauer-parte-2
+permalink: /audioevideo/johannes-fichtenbauer-parte-2
 published: true
 wpcf-gn_audiovideo_data:
   - "1441324800"

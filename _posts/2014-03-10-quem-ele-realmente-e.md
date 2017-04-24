@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-03-10 09:01:18
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/o-deus-mal-compreendido/quem-ele-realmente-e
+permalink: /bases-cristas/o-deus-mal-compreendido/quem-ele-realmente-e
 published: true
 wpcf-gn_post_autor:
   - ""

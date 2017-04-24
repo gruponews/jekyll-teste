@@ -5,8 +5,7 @@ author: eduardolucas
 post_date: 2009-12-01 21:20:12
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/das-feridas-ao-abraco-profetico
+permalink: /artigos/das-feridas-ao-abraco-profetico
 published: true
 post_autor:
   - Maurício Bronzatto

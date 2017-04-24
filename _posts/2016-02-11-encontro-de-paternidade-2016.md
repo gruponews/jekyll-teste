@@ -5,8 +5,7 @@ author: Ademir Lucas
 post_date: 2016-02-11 18:16:12
 post_excerpt: ""
 layout: post
-permalink: >
-  /geral/encontro-de-paternidade-2016
+permalink: /geral/encontro-de-paternidade-2016
 published: true
 dsq_thread_id:
   - "4571056353"

@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-05-01 12:00:13
 post_excerpt: ""
 layout: post
-permalink: >
-  /publicacoes/a-necessidade-da-igreja-como-familia-pais-de-maos-estendidas-ao-inves-de-lideres-condutores
+permalink: /publicacoes/a-necessidade-da-igreja-como-familia-pais-de-maos-estendidas-ao-inves-de-lideres-condutores
 published: true
 aktt_notify_twitter:
   - 'yes'

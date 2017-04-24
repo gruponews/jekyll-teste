@@ -5,8 +5,7 @@ author: Evandro Batista
 post_date: 2016-05-02 12:10:41
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/conferencia-internacional-2016
+permalink: /audioevideo/conferencia-internacional-2016
 published: true
 enclosure:
   - |

@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2011-01-01 01:15:19
 post_excerpt: ""
 layout: post
-permalink: >
-  /familia-materias/a-trindade-e-a-razao-de-ser-da-familia-da-igreja-e-do-reino
+permalink: /familia-materias/a-trindade-e-a-razao-de-ser-da-familia-da-igreja-e-do-reino
 published: true
 aktt_notify_twitter:
   - 'yes'

@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-08-30 16:40:05
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/igreja-nos-lares/igreja-nos-lares-nao-como-metodo-mas-como-estilo-de-vida
+permalink: /igreja/igreja-nos-lares/igreja-nos-lares-nao-como-metodo-mas-como-estilo-de-vida
 published: true
 dsq_thread_id:
   - "2975065981"

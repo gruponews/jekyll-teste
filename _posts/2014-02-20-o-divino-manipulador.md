@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-02-20 00:46:48
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/o-deus-mal-compreendido/o-divino-manipulador
+permalink: /bases-cristas/o-deus-mal-compreendido/o-divino-manipulador
 published: true
 wpcf-gn_post_autor:
   - ""

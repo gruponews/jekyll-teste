@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2013-12-03 13:31:02
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/15-encontro-preparando-soldados-para-ultimas-batalhas
+permalink: /eventos/15-encontro-preparando-soldados-para-ultimas-batalhas
 published: true
 wpcf-gn_post_autor:
   - ""

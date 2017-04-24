@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2015-02-17 12:55:47
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/vida/o-que-internet-esta-fazendo-com-nossas-mentes
+permalink: /bases-cristas/vida/o-que-internet-esta-fazendo-com-nossas-mentes
 published: true
 wpcf-gn_post_destaques:
   - destaque_novidade

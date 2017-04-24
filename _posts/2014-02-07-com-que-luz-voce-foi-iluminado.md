@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-02-07 15:54:54
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/vida/com-que-luz-voce-foi-iluminado
+permalink: /bases-cristas/vida/com-que-luz-voce-foi-iluminado
 published: true
 wpcf-gn_post_autor:
   - ""

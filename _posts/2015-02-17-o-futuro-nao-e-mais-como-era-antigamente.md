@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2015-02-17 12:55:25
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/vida/o-futuro-nao-e-mais-como-era-antigamente
+permalink: /bases-cristas/vida/o-futuro-nao-e-mais-como-era-antigamente
 published: true
 wpcf-gn_post_destaques:
   - destaque_novidade

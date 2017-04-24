@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-09-09 14:15:08
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/o-sacerdocio-de-todos-os-cristaos
+permalink: /bases-cristas/o-sacerdocio-de-todos-os-cristaos
 published: true
 wpcf-gn_post_destaques:
   - destaque_novidade

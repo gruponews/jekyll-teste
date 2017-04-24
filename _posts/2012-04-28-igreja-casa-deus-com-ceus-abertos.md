@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2012-04-28 14:30:12
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/igreja-casa-deus-com-ceus-abertos
+permalink: /artigos/igreja-casa-deus-com-ceus-abertos
 published: true
 aktt_notify_twitter:
   - 'yes'

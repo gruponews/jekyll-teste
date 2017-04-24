@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2016-07-13 11:28:26
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/despessoalizacao-de-deus
+permalink: /bases-cristas/despessoalizacao-de-deus
 published: true
 instant_articles_submission_id:
   - "300587643609755"

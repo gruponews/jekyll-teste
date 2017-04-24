@@ -5,8 +5,7 @@ author: Victor Glad
 post_date: 2010-04-10 15:27:47
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/israel-a-igreja-e-os-ultimos-dias
+permalink: /eventos/israel-a-igreja-e-os-ultimos-dias
 published: true
 aktt_notify_twitter:
   - 'yes'

@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2011-07-12 18:53:13
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/evangelistas-despertem-tragam-nos-filhos-senao-morreremos
+permalink: /artigos/evangelistas-despertem-tragam-nos-filhos-senao-morreremos
 published: true
 aktt_notify_twitter:
   - 'no'

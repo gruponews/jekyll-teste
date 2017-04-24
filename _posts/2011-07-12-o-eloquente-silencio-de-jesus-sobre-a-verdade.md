@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2011-07-12 18:49:48
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/o-eloquente-silencio-de-jesus-sobre-a-verdade
+permalink: /artigos/o-eloquente-silencio-de-jesus-sobre-a-verdade
 published: true
 aktt_notify_twitter:
   - 'no'

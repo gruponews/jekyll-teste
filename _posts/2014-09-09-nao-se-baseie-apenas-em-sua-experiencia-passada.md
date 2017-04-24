@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2014-09-09 22:54:40
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/vida/nao-se-baseie-apenas-em-sua-experiencia-passada
+permalink: /bases-cristas/vida/nao-se-baseie-apenas-em-sua-experiencia-passada
 published: true
 dsq_thread_id:
   - "3003782932"

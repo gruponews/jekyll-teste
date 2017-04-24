@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2010-07-01 17:15:06
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/muito-mais-humanos-do-que-costumamos-admitir
+permalink: /artigos/muito-mais-humanos-do-que-costumamos-admitir
 published: true
 wpcf-gn_post_autor:
   - Maurício Bronzatto

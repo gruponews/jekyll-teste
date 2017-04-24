@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2015-07-04 11:11:08
 post_excerpt: ""
 layout: post
-permalink: >
-  /noticias/transmissao-ao-vivo-do-cppi-2015
+permalink: /noticias/transmissao-ao-vivo-do-cppi-2015
 published: true
 wpcf-gn_webtv_nome_palestra:
   - dasda

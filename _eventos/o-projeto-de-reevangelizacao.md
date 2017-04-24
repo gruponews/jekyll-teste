@@ -5,8 +5,7 @@ author: Victor Glad
 post_date: 2010-06-06 17:31:14
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/o-projeto-de-reevangelizacao
+permalink: /eventos/o-projeto-de-reevangelizacao
 published: true
 aktt_notify_twitter:
   - 'a:2:{i:0;s:2:"no";i:1;s:2:"no";}'

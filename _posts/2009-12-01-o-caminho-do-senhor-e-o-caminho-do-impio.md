@@ -7,8 +7,7 @@ author: eduardolucas
 post_date: 2009-12-01 21:46:44
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/o-caminho-do-senhor-e-o-caminho-do-impio
+permalink: /artigos/o-caminho-do-senhor-e-o-caminho-do-impio
 published: true
 post_autor:
   - Offini Franco

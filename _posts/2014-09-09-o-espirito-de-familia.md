@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-09-09 14:26:11
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/vivendo-como-igreja-relacional/o-espirito-de-familia
+permalink: /igreja/vivendo-como-igreja-relacional/o-espirito-de-familia
 published: true
 dsq_thread_id:
   - "3679135007"

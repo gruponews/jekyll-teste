@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2011-12-15 00:00:20
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/relacionamentos-afetados-pelo-divorcio
+permalink: /artigos/relacionamentos-afetados-pelo-divorcio
 published: true
 aktt_notify_twitter:
   - 'yes'

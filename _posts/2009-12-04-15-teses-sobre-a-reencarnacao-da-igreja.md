@@ -7,8 +7,7 @@ author: Victor Glad
 post_date: 2009-12-04 23:40:39
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/igreja-nos-lares/15-teses-sobre-a-reencarnacao-da-igreja
+permalink: /igreja/igreja-nos-lares/15-teses-sobre-a-reencarnacao-da-igreja
 published: true
 post_autor:
   - Wolfgang Simson

@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2009-11-29 22:07:29
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/curiosidades-sobre-a-biblia
+permalink: /bases-cristas/curiosidades-sobre-a-biblia
 published: true
 post_autor:
   - Sociedade Bíblica do Brasil

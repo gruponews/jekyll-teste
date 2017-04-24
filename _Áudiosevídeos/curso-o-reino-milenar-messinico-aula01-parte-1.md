@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2012-05-25 12:57:48
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/curso-o-reino-milenar-messinico-aula01-parte-1
+permalink: /audioevideo/curso-o-reino-milenar-messinico-aula01-parte-1
 published: true
 aktt_notify_twitter:
   - 'yes'

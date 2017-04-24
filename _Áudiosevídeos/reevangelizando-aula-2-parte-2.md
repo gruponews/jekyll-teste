@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-04-16 12:00:24
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/reevangelizando-aula-2-parte-2
+permalink: /audioevideo/reevangelizando-aula-2-parte-2
 published: true
 aktt_notify_twitter:
   - 'yes'

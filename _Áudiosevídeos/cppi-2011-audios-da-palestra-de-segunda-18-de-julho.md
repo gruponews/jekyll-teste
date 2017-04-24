@@ -5,8 +5,7 @@ author: Ademir Lucas
 post_date: 2011-07-21 12:05:04
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/cppi-2011-audios-da-palestra-de-segunda-18-de-julho
+permalink: /audioevideo/cppi-2011-audios-da-palestra-de-segunda-18-de-julho
 published: true
 aktt_notify_twitter:
   - 'yes'

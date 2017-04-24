@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2013-10-19 01:22:48
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/o-deus-mal-compreendido/a-mentira-que-falamos
+permalink: /bases-cristas/o-deus-mal-compreendido/a-mentira-que-falamos
 published: true
 wpcf-gn_post_autor:
   - Darin Hufford

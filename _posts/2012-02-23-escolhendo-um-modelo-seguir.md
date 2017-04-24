@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2012-02-23 23:45:19
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/escolhendo-um-modelo-seguir
+permalink: /artigos/escolhendo-um-modelo-seguir
 published: true
 aktt_notify_twitter:
   - 'yes'

@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-08-30 15:50:56
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/em-busca-evangelho-puro
+permalink: /bases-cristas/em-busca-evangelho-puro
 published: true
 wpcf-gn_post_destaques:
   - destaque_novidade

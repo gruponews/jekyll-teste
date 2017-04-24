@@ -5,8 +5,7 @@ author: Victor Glad
 post_date: 2011-01-22 21:29:50
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/um-lugar-chamado-narnia/narnia-parte-ii
+permalink: /bases-cristas/um-lugar-chamado-narnia/narnia-parte-ii
 published: true
 aktt_notify_twitter:
   - 'yes'

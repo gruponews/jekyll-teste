@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-09-06 11:38:32
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/igreja-nos-lares/construindo-casa-senhor
+permalink: /igreja/igreja-nos-lares/construindo-casa-senhor
 published: true
 dsq_thread_id:
   - "3000728214"

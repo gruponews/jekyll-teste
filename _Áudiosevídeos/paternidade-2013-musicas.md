@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2013-03-22 08:00:04
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/paternidade-2013-musicas
+permalink: /audioevideo/paternidade-2013-musicas
 published: true
 wpcf-gn_audiovideo_data:
   - "1362787200"

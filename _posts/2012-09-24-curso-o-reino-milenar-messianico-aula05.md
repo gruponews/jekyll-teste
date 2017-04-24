@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2012-09-24 00:36:14
 post_excerpt: ""
 layout: post
-permalink: >
-  /noticias/curso-o-reino-milenar-messianico-aula05
+permalink: /noticias/curso-o-reino-milenar-messianico-aula05
 published: true
 aktt_notify_twitter:
   - 'yes'

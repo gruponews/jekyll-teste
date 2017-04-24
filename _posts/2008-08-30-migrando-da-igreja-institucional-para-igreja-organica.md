@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2008-08-30 13:37:06
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/migrando-da-igreja-institucional-para-igreja-organica
+permalink: /igreja/migrando-da-igreja-institucional-para-igreja-organica
 published: true
 dsq_thread_id:
   - "2972952253"

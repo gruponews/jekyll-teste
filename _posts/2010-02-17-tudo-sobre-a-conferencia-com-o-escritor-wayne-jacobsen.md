@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2010-02-17 00:00:08
 post_excerpt: ""
 layout: post
-permalink: >
-  /publicacoes/tudo-sobre-a-conferencia-com-o-escritor-wayne-jacobsen
+permalink: /publicacoes/tudo-sobre-a-conferencia-com-o-escritor-wayne-jacobsen
 published: true
 aktt_notify_twitter:
   - 'yes'

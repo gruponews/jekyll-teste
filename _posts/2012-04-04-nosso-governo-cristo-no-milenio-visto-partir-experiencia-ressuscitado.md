@@ -8,8 +8,7 @@ author: Fernando
 post_date: 2012-04-04 12:00:05
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/nosso-governo-cristo-no-milenio-visto-partir-experiencia-ressuscitado
+permalink: /artigos/nosso-governo-cristo-no-milenio-visto-partir-experiencia-ressuscitado
 published: true
 aktt_notify_twitter:
   - 'yes'

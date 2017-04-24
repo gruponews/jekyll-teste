@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2009-11-29 21:55:58
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/almeida-obra-de-uma-vida
+permalink: /bases-cristas/almeida-obra-de-uma-vida
 published: true
 wpcf-gn_post_destaques:
   - destaque_novidade

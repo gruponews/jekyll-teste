@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2011-07-12 18:54:18
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/a-santidade-e-a-vida-apenas-irrepreensivel-alguns-contrastes
+permalink: /artigos/a-santidade-e-a-vida-apenas-irrepreensivel-alguns-contrastes
 published: true
 aktt_notify_twitter:
   - 'no'

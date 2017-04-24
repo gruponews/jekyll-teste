@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2011-02-01 01:00:09
 post_excerpt: ""
 layout: post
-permalink: >
-  /familia-materias/preparando-a-familia-para-a-volta-de-jesus
+permalink: /familia-materias/preparando-a-familia-para-a-volta-de-jesus
 published: true
 aktt_notify_twitter:
   - 'yes'

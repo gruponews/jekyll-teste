@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2013-10-25 17:47:20
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/inscricoes-aula-visao-profetica
+permalink: /eventos/inscricoes-aula-visao-profetica
 published: true
 wpcf-gn_post_autor:
   - ""

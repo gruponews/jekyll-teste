@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-07-10 17:40:18
 post_excerpt: ""
 layout: post
-permalink: >
-  /noticias/transmissao-ao-vivo-do-cppi-2010
+permalink: /noticias/transmissao-ao-vivo-do-cppi-2010
 published: true
 aktt_notify_twitter:
   - 'yes'

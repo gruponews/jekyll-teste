@@ -5,8 +5,7 @@ author: Escritorio
 post_date: 2012-05-23 23:36:12
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/curso-reino-milenar-messianico-aula02-matutino
+permalink: /eventos/curso-reino-milenar-messianico-aula02-matutino
 published: true
 aktt_notify_twitter:
   - 'yes'

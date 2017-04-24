@@ -5,8 +5,7 @@ author: Escritorio
 post_date: 2012-04-15 21:58:48
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/inscricao-reino-milenar-messianico-aula-1-matutino-2
+permalink: /eventos/inscricao-reino-milenar-messianico-aula-1-matutino-2
 published: true
 aktt_notify_twitter:
   - 'yes'

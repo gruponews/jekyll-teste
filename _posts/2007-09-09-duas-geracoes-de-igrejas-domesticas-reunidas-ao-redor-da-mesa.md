@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2007-09-09 22:58:48
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/igreja-nos-lares/duas-geracoes-de-igrejas-domesticas-reunidas-ao-redor-da-mesa
+permalink: /igreja/igreja-nos-lares/duas-geracoes-de-igrejas-domesticas-reunidas-ao-redor-da-mesa
 published: true
 dsq_thread_id:
   - "3013023333"

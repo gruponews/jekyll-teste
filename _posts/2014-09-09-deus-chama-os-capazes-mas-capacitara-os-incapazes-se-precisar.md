@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2014-09-09 14:28:00
 post_excerpt: ""
 layout: post
-permalink: >
-  /espirito-santo/deus-chama-os-capazes-mas-capacitara-os-incapazes-se-precisar
+permalink: /espirito-santo/deus-chama-os-capazes-mas-capacitara-os-incapazes-se-precisar
 published: true
 wpcf-gn_post_destaques:
   - destaque_novidade

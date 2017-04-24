@@ -5,8 +5,7 @@ author: Escritorio
 post_date: 2012-07-25 23:59:25
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/curso-o-reino-milenar-messianico-aula04-virtual
+permalink: /eventos/curso-o-reino-milenar-messianico-aula04-virtual
 published: true
 aktt_notify_twitter:
   - 'yes'

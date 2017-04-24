@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-09-09 22:31:23
 post_excerpt: ""
 layout: post
-permalink: >
-  /familia-materias/protegendo-sementes-de-deus
+permalink: /familia-materias/protegendo-sementes-de-deus
 published: true
 dsq_thread_id:
   - "3004332915"

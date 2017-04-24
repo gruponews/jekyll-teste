@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2011-07-14 08:00:07
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/cppi-2011-segunda-feira-11-jul
+permalink: /audioevideo/cppi-2011-segunda-feira-11-jul
 published: true
 aktt_notify_twitter:
   - 'yes'

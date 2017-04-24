@@ -5,8 +5,7 @@ author: Ademir Lucas
 post_date: 2014-04-10 16:04:35
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/enc-paternidade-2014-05-e-06-de-abril-palestra-3-pedro-arruda
+permalink: /audioevideo/enc-paternidade-2014-05-e-06-de-abril-palestra-3-pedro-arruda
 published: true
 wpcf-gn_post_autor:
   - Pedro Arruda

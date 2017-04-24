@@ -5,8 +5,7 @@ author: eduardolucas
 post_date: 2009-12-01 22:26:29
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/vida-abundante-uma-vida-comprometida-com-deus
+permalink: /artigos/vida-abundante-uma-vida-comprometida-com-deus
 published: true
 post_autor:
   - Ailton Jacob de Oliveira

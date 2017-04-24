@@ -5,8 +5,7 @@ author: eduardolucas
 post_date: 2009-12-01 21:34:18
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/eu-e-minha-casa-serviremos-ao-senhor
+permalink: /artigos/eu-e-minha-casa-serviremos-ao-senhor
 published: true
 post_autor:
   - Mauricio Bronzatto

@@ -5,8 +5,7 @@ author: Ademir Lucas
 post_date: 2011-07-21 23:57:21
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/cppi-2011-audios-das-palestras-de-terca-19-de-julho
+permalink: /audioevideo/cppi-2011-audios-das-palestras-de-terca-19-de-julho
 published: true
 aktt_notify_twitter:
   - 'yes'

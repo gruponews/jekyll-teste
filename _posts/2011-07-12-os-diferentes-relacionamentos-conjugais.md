@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2011-07-12 18:52:00
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/os-diferentes-relacionamentos-conjugais
+permalink: /artigos/os-diferentes-relacionamentos-conjugais
 published: true
 aktt_notify_twitter:
   - 'no'

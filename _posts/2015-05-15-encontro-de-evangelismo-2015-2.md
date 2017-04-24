@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2015-05-15 10:40:36
 post_excerpt: ""
 layout: post
-permalink: >
-  /noticias/encontro-de-evangelismo-2015-2
+permalink: /noticias/encontro-de-evangelismo-2015-2
 published: true
 dsq_thread_id:
   - "2861238678"

@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-03-15 08:53:26
 post_excerpt: ""
 layout: post
-permalink: >
-  /espirito-santo/desenvolvendo-os-dons-profeticos/recomendacoes-praticas
+permalink: /espirito-santo/desenvolvendo-os-dons-profeticos/recomendacoes-praticas
 published: true
 wpcf-gn_post_autor:
   - ""

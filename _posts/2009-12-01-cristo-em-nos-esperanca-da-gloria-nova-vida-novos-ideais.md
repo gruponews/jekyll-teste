@@ -7,8 +7,7 @@ author: eduardolucas
 post_date: 2009-12-01 21:16:09
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/cristo-em-nos-esperanca-da-gloria-nova-vida-novos-ideais
+permalink: /artigos/cristo-em-nos-esperanca-da-gloria-nova-vida-novos-ideais
 published: true
 post_autor:
   - Rosane Faria

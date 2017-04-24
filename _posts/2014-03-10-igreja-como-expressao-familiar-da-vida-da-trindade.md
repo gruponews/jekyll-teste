@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2014-03-10 09:01:20
 post_excerpt: ""
 layout: post
-permalink: >
-  /geral/igreja-como-expressao-familiar-da-vida-da-trindade
+permalink: /geral/igreja-como-expressao-familiar-da-vida-da-trindade
 published: true
 wpcf-gn_post_autor:
   - ""

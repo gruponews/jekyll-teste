@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2016-07-13 11:29:39
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/unidade/nao-imputando-aos-homens-as-suas-transgressoes
+permalink: /igreja/unidade/nao-imputando-aos-homens-as-suas-transgressoes
 published: true
 instant_articles_submission_id:
   - "292595067757988"

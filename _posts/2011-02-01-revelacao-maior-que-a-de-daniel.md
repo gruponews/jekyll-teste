@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2011-02-01 01:30:18
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/vida/revelacao-maior-que-a-de-daniel
+permalink: /bases-cristas/vida/revelacao-maior-que-a-de-daniel
 published: true
 aktt_notify_twitter:
   - 'yes'

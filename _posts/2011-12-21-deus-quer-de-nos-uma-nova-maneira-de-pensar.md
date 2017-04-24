@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2011-12-21 22:35:24
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/deus-quer-de-nos-uma-nova-maneira-de-pensar
+permalink: /artigos/deus-quer-de-nos-uma-nova-maneira-de-pensar
 published: true
 aktt_notify_twitter:
   - 'yes'

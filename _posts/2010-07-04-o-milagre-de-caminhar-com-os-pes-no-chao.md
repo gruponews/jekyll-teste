@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2010-07-04 17:39:36
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/o-milagre-de-caminhar-com-os-pes-no-chao
+permalink: /artigos/o-milagre-de-caminhar-com-os-pes-no-chao
 published: true
 wpcf-gn_post_autor:
   - >

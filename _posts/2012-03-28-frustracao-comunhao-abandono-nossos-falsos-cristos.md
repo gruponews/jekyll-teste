@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2012-03-28 12:00:00
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/frustracao-comunhao-abandono-nossos-falsos-cristos
+permalink: /artigos/frustracao-comunhao-abandono-nossos-falsos-cristos
 published: true
 aktt_notify_twitter:
   - 'yes'

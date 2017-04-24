@@ -5,8 +5,7 @@ author: eduardolucas
 post_date: 2009-09-19 14:57:56
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/666-voce-ja-foi-assinalado
+permalink: /bases-cristas/666-voce-ja-foi-assinalado
 published: true
 post_autor:
   - Mauricio Bronzatto

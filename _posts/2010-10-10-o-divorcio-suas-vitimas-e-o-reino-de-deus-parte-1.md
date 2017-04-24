@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-10-10 16:10:20
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-1
+permalink: /artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-1
 published: true
 aktt_notify_twitter:
   - 'yes'

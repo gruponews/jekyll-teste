@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2011-07-12 18:55:52
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/quando-o-ensino-e-prejudicial-uma-enfase-exagerada-no-ministerio-da-palavra-acaba-sufocando-outros-dons
+permalink: /artigos/quando-o-ensino-e-prejudicial-uma-enfase-exagerada-no-ministerio-da-palavra-acaba-sufocando-outros-dons
 published: true
 aktt_notify_twitter:
   - 'no'

@@ -5,8 +5,7 @@ author: Ademir Lucas
 post_date: 2011-07-20 21:04:47
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/cppi-2011-audios-das-palestras-de-domingo-17-jul
+permalink: /audioevideo/cppi-2011-audios-das-palestras-de-domingo-17-jul
 published: true
 aktt_notify_twitter:
   - 'yes'

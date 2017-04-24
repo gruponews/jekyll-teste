@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2016-07-13 11:30:51
 post_excerpt: ""
 layout: post
-permalink: >
-  /espirito-santo/luz-que-esta-no-velador
+permalink: /espirito-santo/luz-que-esta-no-velador
 published: true
 dsq_thread_id:
   - "4982855872"

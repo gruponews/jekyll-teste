@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2007-07-06 11:38:25
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/o-encontro-com-wolfgang-simson-na-avaliacao-de-quem-participou
+permalink: /igreja/o-encontro-com-wolfgang-simson-na-avaliacao-de-quem-participou
 published: true
 dsq_thread_id:
   - "2999625518"

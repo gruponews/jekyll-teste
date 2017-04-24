@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-07-05 15:07:18
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/vida/a-irrelevancia-como-vocacao
+permalink: /bases-cristas/vida/a-irrelevancia-como-vocacao
 published: true
 wpcf-gn_post_autor:
   - Henri Nouwen

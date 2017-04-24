@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2012-01-07 00:00:31
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/subitamente-afastado-da-correnteza
+permalink: /artigos/subitamente-afastado-da-correnteza
 published: true
 aktt_notify_twitter:
   - 'yes'

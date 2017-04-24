@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2010-02-02 00:45:05
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/outros-aspectos-praticos-da-jornada-no-amor-do-pai
+permalink: /artigos/outros-aspectos-praticos-da-jornada-no-amor-do-pai
 published: true
 aktt_notify_twitter:
   - 'yes'

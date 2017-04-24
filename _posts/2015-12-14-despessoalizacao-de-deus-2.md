@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2015-12-14 09:16:20
 post_excerpt: ""
 layout: post
-permalink: >
-  /publicacoes/jornal/despessoalizacao-de-deus-2
+permalink: /publicacoes/jornal/despessoalizacao-de-deus-2
 published: true
 jornal_capa:
   - >

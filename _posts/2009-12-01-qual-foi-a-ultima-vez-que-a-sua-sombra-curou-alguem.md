@@ -7,8 +7,7 @@ author: eduardolucas
 post_date: 2009-12-01 22:09:23
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/qual-foi-a-ultima-vez-que-a-sua-sombra-curou-alguem
+permalink: /artigos/qual-foi-a-ultima-vez-que-a-sua-sombra-curou-alguem
 published: true
 post_autor:
   - Mauricio Bronzatto

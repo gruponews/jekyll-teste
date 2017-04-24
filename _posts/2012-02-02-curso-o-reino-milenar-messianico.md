@@ -5,8 +5,7 @@ author: Victor Glad
 post_date: 2012-02-02 11:20:38
 post_excerpt: ""
 layout: post
-permalink: >
-  /noticias/curso-o-reino-milenar-messianico
+permalink: /noticias/curso-o-reino-milenar-messianico
 published: true
 aktt_notify_twitter:
   - 'yes'

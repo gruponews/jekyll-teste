@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2013-09-22 23:16:50
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/perdao-condicionante-oracao
+permalink: /audioevideo/perdao-condicionante-oracao
 published: true
 wpcf-gn_audiovideo_data:
   - "1377388800"

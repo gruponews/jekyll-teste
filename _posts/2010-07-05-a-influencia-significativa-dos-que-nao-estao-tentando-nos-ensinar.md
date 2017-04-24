@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2010-07-05 15:12:44
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/a-influencia-significativa-dos-que-nao-estao-tentando-nos-ensinar
+permalink: /artigos/a-influencia-significativa-dos-que-nao-estao-tentando-nos-ensinar
 published: true
 wpcf-gn_post_autor:
   - Moacir Alves Faria

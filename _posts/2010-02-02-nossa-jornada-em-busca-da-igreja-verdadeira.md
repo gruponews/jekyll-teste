@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2010-02-02 00:00:11
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/nossa-jornada-em-busca-da-igreja-verdadeira
+permalink: /igreja/nossa-jornada-em-busca-da-igreja-verdadeira
 published: true
 aktt_notify_twitter:
   - 'yes'

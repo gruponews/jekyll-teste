@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2013-01-14 00:18:51
 post_excerpt: ""
 layout: post
-permalink: >
-  /espirito-santo/descobrindo-um-caminho-seguro
+permalink: /espirito-santo/descobrindo-um-caminho-seguro
 published: true
 wpcf-gn_post_autor:
   - Ezequiel Netto

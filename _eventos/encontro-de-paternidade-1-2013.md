@@ -5,8 +5,7 @@ author: Escritorio
 post_date: 2013-02-04 18:20:25
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/encontro-de-paternidade-1-2013
+permalink: /eventos/encontro-de-paternidade-1-2013
 published: true
 wpcf-gn_post_autor:
   - Equipe GrupoNews

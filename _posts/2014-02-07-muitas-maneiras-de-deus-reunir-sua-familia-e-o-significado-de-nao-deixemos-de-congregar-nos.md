@@ -8,8 +8,7 @@ author: Fernando
 post_date: 2014-02-07 15:43:17
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/vivendo-como-igreja-relacional/muitas-maneiras-de-deus-reunir-sua-familia-e-o-significado-de-nao-deixemos-de-congregar-nos
+permalink: /igreja/vivendo-como-igreja-relacional/muitas-maneiras-de-deus-reunir-sua-familia-e-o-significado-de-nao-deixemos-de-congregar-nos
 published: true
 wpcf-gn_post_autor:
   - ""

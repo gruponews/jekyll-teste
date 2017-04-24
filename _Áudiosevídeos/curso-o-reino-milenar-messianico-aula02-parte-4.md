@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2012-07-26 16:00:36
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/curso-o-reino-milenar-messianico-aula02-parte-4
+permalink: /audioevideo/curso-o-reino-milenar-messianico-aula02-parte-4
 published: true
 aktt_notify_twitter:
   - 'yes'

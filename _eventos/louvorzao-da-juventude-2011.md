@@ -7,8 +7,7 @@ author: Victor Glad
 post_date: 2011-05-22 19:49:56
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/louvorzao-da-juventude-2011
+permalink: /eventos/louvorzao-da-juventude-2011
 published: true
 aktt_notify_twitter:
   - 'yes'

@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-02-07 15:20:18
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/vida/coletivizacao-dom
+permalink: /bases-cristas/vida/coletivizacao-dom
 published: true
 wpcf-gn_post_autor:
   - ""

@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2013-01-20 19:22:52
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/que-vira-a-ser-este-menino
+permalink: /artigos/que-vira-a-ser-este-menino
 published: true
 wpcf-gn_post_autor:
   - Pedro Arruda

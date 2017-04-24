@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-03-21 00:04:32
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/celebracao-de-uma-presenca
+permalink: /bases-cristas/celebracao-de-uma-presenca
 published: true
 wpcf-gn_post_autor:
   - ""

@@ -5,8 +5,7 @@ author: eduardolucas
 post_date: 2009-12-01 22:17:07
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/servindo-a-deus-em-meio-a-dor
+permalink: /artigos/servindo-a-deus-em-meio-a-dor
 published: true
 post_autor:
   - Letícia França

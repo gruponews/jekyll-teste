@@ -5,8 +5,7 @@ author: Escritorio
 post_date: 2014-03-27 15:52:36
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/encontro-de-paternidade-2014-ib
+permalink: /eventos/encontro-de-paternidade-2014-ib
 published: true
 wpcf-gn_post_imagem_credito:
   - ""

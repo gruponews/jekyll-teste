@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2014-02-04 09:00:53
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/vida/formacao-profissional-conhecimento-tecnico-e-relacionamento
+permalink: /bases-cristas/vida/formacao-profissional-conhecimento-tecnico-e-relacionamento
 published: true
 dsq_thread_id:
   - "3486459951"

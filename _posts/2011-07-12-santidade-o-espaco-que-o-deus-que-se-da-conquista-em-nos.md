@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2011-07-12 18:57:11
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/santidade-o-espaco-que-o-deus-que-se-da-conquista-em-nos
+permalink: /artigos/santidade-o-espaco-que-o-deus-que-se-da-conquista-em-nos
 published: true
 aktt_notify_twitter:
   - 'no'

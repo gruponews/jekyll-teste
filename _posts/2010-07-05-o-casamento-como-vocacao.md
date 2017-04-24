@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-07-05 15:12:52
 post_excerpt: ""
 layout: post
-permalink: >
-  /familia-materias/o-casamento-como-vocacao
+permalink: /familia-materias/o-casamento-como-vocacao
 published: true
 wpcf-gn_post_autor:
   - Marina Venuto da Silva

@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-10-20 14:26:35
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/cristo-o-reino-e-a-igreja-conferencia-2010
+permalink: /eventos/cristo-o-reino-e-a-igreja-conferencia-2010
 published: true
 aktt_notify_twitter:
   - 'yes'

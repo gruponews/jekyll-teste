@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2015-02-17 12:56:22
 post_excerpt: ""
 layout: post
-permalink: >
-  /familia-materias/o-divorcio-suas-vitimas-e-o-reino-de-deus/como-nao-ser-vitima-divorcio
+permalink: /familia-materias/o-divorcio-suas-vitimas-e-o-reino-de-deus/como-nao-ser-vitima-divorcio
 published: true
 wpcf-gn_post_destaques:
   - destaque_novidade

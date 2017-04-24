@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2015-02-17 12:55:33
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/vida/efeitos-colaterais-das-tecnologias-digitais
+permalink: /bases-cristas/vida/efeitos-colaterais-das-tecnologias-digitais
 published: true
 dsq_thread_id:
   - "3689872462"

@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-07-04 17:40:48
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/o-dizimo-na-biblia-e-na-historia
+permalink: /artigos/o-dizimo-na-biblia-e-na-historia
 published: true
 wpcf-gn_post_autor:
   - Hugo

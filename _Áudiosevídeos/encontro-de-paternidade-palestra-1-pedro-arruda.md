@@ -5,8 +5,7 @@ author: Ademir Lucas
 post_date: 2014-04-09 17:07:58
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/encontro-de-paternidade-palestra-1-pedro-arruda
+permalink: /audioevideo/encontro-de-paternidade-palestra-1-pedro-arruda
 published: true
 wpcf-gn_post_autor:
   - Pedro Arruda

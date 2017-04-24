@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2013-05-09 00:26:25
 post_excerpt: ""
 layout: post
-permalink: >
-  /noticias/curso-de-preparacao-profetica-intensivo-2013
+permalink: /noticias/curso-de-preparacao-profetica-intensivo-2013
 published: true
 wpcf-gn_post_autor:
   - Equipe GrupoNews

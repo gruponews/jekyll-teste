@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2013-05-09 00:40:18
 post_excerpt: ""
 layout: post
-permalink: >
-  /noticias/audios-do-encontro-de-paternidade-i-2013
+permalink: /noticias/audios-do-encontro-de-paternidade-i-2013
 published: true
 wpcf-gn_post_autor:
   - Equipe GrupoNews

@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2013-11-18 16:21:03
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/conferencia-2013-palestra-9-john-noble
+permalink: /audioevideo/conferencia-2013-palestra-9-john-noble
 published: true
 wpcf-gn_audiovideo_data:
   - "1384646400"

@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-09-10 10:30:11
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/o-deus-mal-compreendido/o-divino-ciumento
+permalink: /bases-cristas/o-deus-mal-compreendido/o-divino-ciumento
 published: true
 wpcf-gn_post_destaques:
   - destaque_novidade

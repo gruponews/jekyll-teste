@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-09-09 14:09:35
 post_excerpt: ""
 layout: post
-permalink: >
-  /espirito-santo/o-avivamento-silencioso
+permalink: /espirito-santo/o-avivamento-silencioso
 published: true
 wpcf-gn_post_destaques:
   - destaque_novidade

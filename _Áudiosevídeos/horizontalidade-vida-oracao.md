@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2013-09-22 23:01:37
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/horizontalidade-vida-oracao
+permalink: /audioevideo/horizontalidade-vida-oracao
 published: true
 wpcf-gn_audiovideo_data:
   - "1377302400"

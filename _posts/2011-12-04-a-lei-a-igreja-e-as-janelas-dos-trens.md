@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2011-12-04 20:11:22
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/a-lei-a-igreja-e-as-janelas-dos-trens
+permalink: /artigos/a-lei-a-igreja-e-as-janelas-dos-trens
 published: true
 aktt_notify_twitter:
   - 'yes'

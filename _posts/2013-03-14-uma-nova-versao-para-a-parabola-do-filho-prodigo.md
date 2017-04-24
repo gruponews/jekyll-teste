@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2013-03-14 00:08:23
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/uma-nova-versao-para-a-parabola-do-filho-prodigo
+permalink: /artigos/uma-nova-versao-para-a-parabola-do-filho-prodigo
 published: true
 wpcf-gn_post_autor:
   - Renata Ribeiro Arruda

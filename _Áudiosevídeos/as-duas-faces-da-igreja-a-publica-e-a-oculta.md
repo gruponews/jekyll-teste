@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2013-03-24 00:49:48
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/as-duas-faces-da-igreja-a-publica-e-a-oculta
+permalink: /audioevideo/as-duas-faces-da-igreja-a-publica-e-a-oculta
 published: true
 wpcf-gn_audiovideo_data:
   - "1332547200"

@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2016-07-13 11:36:08
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/o-deus-mal-compreendido/deus-e-agressivo
+permalink: /bases-cristas/o-deus-mal-compreendido/deus-e-agressivo
 published: true
 wpcf-gn_post_destaques:
   - destaque_novidade

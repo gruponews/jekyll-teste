@@ -7,8 +7,7 @@ author: eduardolucas
 post_date: 2009-12-01 20:39:30
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/a-condicao-para-fazer-parte-do-reino-de-deus
+permalink: /igreja/a-condicao-para-fazer-parte-do-reino-de-deus
 published: true
 post_autor:
   - Valter Severino

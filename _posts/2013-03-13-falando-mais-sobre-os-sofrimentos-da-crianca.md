@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2013-03-13 00:00:26
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/falando-mais-sobre-os-sofrimentos-da-crianca
+permalink: /artigos/falando-mais-sobre-os-sofrimentos-da-crianca
 published: true
 wpcf-gn_post_autor:
   - Juarez Gomes e Maria de Carvalho Gomes

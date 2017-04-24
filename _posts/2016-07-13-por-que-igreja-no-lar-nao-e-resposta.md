@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2016-07-13 11:39:20
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/vivendo-como-igreja-relacional/por-que-igreja-no-lar-nao-e-resposta
+permalink: /igreja/vivendo-como-igreja-relacional/por-que-igreja-no-lar-nao-e-resposta
 published: true
 wpcf-gn_post_destaques:
   - destaque_novidade

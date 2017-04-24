@@ -7,8 +7,7 @@ author: Escritorio
 post_date: 2012-04-15 22:18:19
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/inscricao-reino-milenar-messianico-aula-1-vespertino
+permalink: /eventos/inscricao-reino-milenar-messianico-aula-1-vespertino
 published: true
 aktt_notify_twitter:
   - 'yes'

@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2009-12-05 00:22:34
 post_excerpt: ""
 layout: post
-permalink: >
-  /noticias/transmissao-ao-vivo-da-conferencia-2009
+permalink: /noticias/transmissao-ao-vivo-da-conferencia-2009
 published: true
 post_autor:
   - Equipe Comunicação

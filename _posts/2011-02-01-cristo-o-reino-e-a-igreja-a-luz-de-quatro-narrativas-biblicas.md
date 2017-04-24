@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2011-02-01 01:45:51
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/cristo-o-reino-e-a-igreja-a-luz-de-quatro-narrativas-biblicas
+permalink: /igreja/cristo-o-reino-e-a-igreja-a-luz-de-quatro-narrativas-biblicas
 published: true
 aktt_notify_twitter:
   - 'yes'

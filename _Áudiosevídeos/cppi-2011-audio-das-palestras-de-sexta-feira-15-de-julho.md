@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2011-07-16 23:55:53
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/cppi-2011-audio-das-palestras-de-sexta-feira-15-de-julho
+permalink: /audioevideo/cppi-2011-audio-das-palestras-de-sexta-feira-15-de-julho
 published: true
 aktt_notify_twitter:
   - 'yes'

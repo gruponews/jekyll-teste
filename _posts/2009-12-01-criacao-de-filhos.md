@@ -5,8 +5,7 @@ author: eduardolucas
 post_date: 2009-12-01 20:46:31
 post_excerpt: ""
 layout: post
-permalink: >
-  /familia-materias/criacao-de-filhos
+permalink: /familia-materias/criacao-de-filhos
 published: true
 post_autor:
   - Afonso e Claudia Porto

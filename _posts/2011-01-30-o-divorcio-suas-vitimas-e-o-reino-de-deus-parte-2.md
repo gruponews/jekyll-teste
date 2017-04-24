@@ -5,8 +5,7 @@ author: Victor Glad
 post_date: 2011-01-30 22:38:33
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-2
+permalink: /artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-2
 published: true
 aktt_notify_twitter:
   - 'yes'

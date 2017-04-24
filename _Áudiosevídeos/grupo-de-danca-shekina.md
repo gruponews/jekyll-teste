@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-04-01 19:44:25
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/grupo-de-danca-shekina
+permalink: /audioevideo/grupo-de-danca-shekina
 published: true
 aktt_notify_twitter:
   - 'yes'

@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2013-08-27 07:15:19
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/o-trabalho-e-o-reino-milenar
+permalink: /artigos/o-trabalho-e-o-reino-milenar
 published: true
 wpcf-gn_post_autor:
   - Ricardo Oliveira

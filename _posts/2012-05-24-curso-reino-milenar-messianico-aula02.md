@@ -5,8 +5,7 @@ author: Victor Glad
 post_date: 2012-05-24 00:00:17
 post_excerpt: ""
 layout: post
-permalink: >
-  /noticias/curso-reino-milenar-messianico-aula02
+permalink: /noticias/curso-reino-milenar-messianico-aula02
 published: true
 aktt_notify_twitter:
   - 'yes'

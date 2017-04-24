@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-02-02 00:35:49
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/a-cruz-como-cura-nao-como-castigo
+permalink: /artigos/a-cruz-como-cura-nao-como-castigo
 published: true
 aktt_notify_twitter:
   - 'yes'

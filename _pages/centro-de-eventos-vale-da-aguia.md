@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2011-03-20 16:54:08
 post_excerpt: ""
 layout: page
-permalink: >
-  /eventos/centro-de-eventos-vale-da-aguia
+permalink: /eventos/centro-de-eventos-vale-da-aguia
 published: true
 aktt_notify_twitter:
   - 'yes'

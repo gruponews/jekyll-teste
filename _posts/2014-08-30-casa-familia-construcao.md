@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-08-30 17:12:36
 post_excerpt: ""
 layout: post
-permalink: >
-  /familia-materias/casa-familia-construcao
+permalink: /familia-materias/casa-familia-construcao
 published: true
 dsq_thread_id:
   - "2973371245"

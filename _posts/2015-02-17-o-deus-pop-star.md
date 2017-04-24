@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2015-02-17 12:56:02
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/o-deus-mal-compreendido/o-deus-pop-star
+permalink: /bases-cristas/o-deus-mal-compreendido/o-deus-pop-star
 published: true
 dsq_thread_id:
   - "3689926615"

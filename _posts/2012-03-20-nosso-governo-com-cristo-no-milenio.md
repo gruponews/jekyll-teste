@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2012-03-20 00:00:45
 post_excerpt: ""
 layout: post
-permalink: >
-  /publicacoes/jornal/nosso-governo-com-cristo-no-milenio
+permalink: /publicacoes/jornal/nosso-governo-com-cristo-no-milenio
 published: true
 aktt_notify_twitter:
   - 'yes'

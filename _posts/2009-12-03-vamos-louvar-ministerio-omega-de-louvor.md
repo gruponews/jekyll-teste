@@ -5,8 +5,7 @@ author: Victor Glad
 post_date: 2009-12-03 01:30:20
 post_excerpt: ""
 layout: post
-permalink: >
-  /publicacoes/vamos-louvar-ministerio-omega-de-louvor
+permalink: /publicacoes/vamos-louvar-ministerio-omega-de-louvor
 published: true
 post_autor:
   - Equipe Comunicação

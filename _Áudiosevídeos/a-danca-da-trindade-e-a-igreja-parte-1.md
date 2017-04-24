@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2015-04-11 15:00:40
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/a-danca-da-trindade-e-a-igreja-parte-1
+permalink: /audioevideo/a-danca-da-trindade-e-a-igreja-parte-1
 published: true
 wpcf-gn_audiovideo_data:
   - "1428710400"

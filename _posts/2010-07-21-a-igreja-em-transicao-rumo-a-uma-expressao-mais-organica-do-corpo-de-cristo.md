@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-07-21 12:00:23
 post_excerpt: ""
 layout: post
-permalink: >
-  /publicacoes/a-igreja-em-transicao-rumo-a-uma-expressao-mais-organica-do-corpo-de-cristo
+permalink: /publicacoes/a-igreja-em-transicao-rumo-a-uma-expressao-mais-organica-do-corpo-de-cristo
 published: true
 aktt_notify_twitter:
   - 'yes'

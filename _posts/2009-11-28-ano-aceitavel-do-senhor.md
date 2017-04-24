@@ -5,8 +5,7 @@ author: eduardolucas
 post_date: 2009-11-28 17:50:34
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/ano-aceitavel-do-senhor
+permalink: /bases-cristas/ano-aceitavel-do-senhor
 published: true
 post_autor:
   - Cristina Juliani

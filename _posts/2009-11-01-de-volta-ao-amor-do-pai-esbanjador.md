@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2009-11-01 12:00:01
 post_excerpt: ""
 layout: post
-permalink: >
-  /publicacoes/de-volta-ao-amor-do-pai-esbanjador
+permalink: /publicacoes/de-volta-ao-amor-do-pai-esbanjador
 published: true
 jornal_linkPDF:
   - >

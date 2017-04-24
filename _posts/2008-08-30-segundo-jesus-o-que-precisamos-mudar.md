@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2008-08-30 12:12:43
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/segundo-jesus-o-que-precisamos-mudar
+permalink: /igreja/segundo-jesus-o-que-precisamos-mudar
 published: true
 dsq_thread_id:
   - "2972753257"

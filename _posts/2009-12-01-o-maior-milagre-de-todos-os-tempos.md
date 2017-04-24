@@ -5,8 +5,7 @@ author: eduardolucas
 post_date: 2009-12-01 21:49:09
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/o-maior-milagre-de-todos-os-tempos
+permalink: /artigos/o-maior-milagre-de-todos-os-tempos
 published: true
 post_autor:
   - Carlos Augusto

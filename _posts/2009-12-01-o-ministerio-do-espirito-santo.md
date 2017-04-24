@@ -5,8 +5,7 @@ author: eduardolucas
 post_date: 2009-12-01 21:52:37
 post_excerpt: ""
 layout: post
-permalink: >
-  /espirito-santo/o-ministerio-do-espirito-santo/o-ministerio-do-espirito-santo
+permalink: /espirito-santo/o-ministerio-do-espirito-santo/o-ministerio-do-espirito-santo
 published: true
 post_autor:
   - Pedro Arruda

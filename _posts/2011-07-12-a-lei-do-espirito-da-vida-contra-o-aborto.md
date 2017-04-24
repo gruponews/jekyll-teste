@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2011-07-12 19:00:40
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/a-lei-do-espirito-da-vida-contra-o-aborto
+permalink: /artigos/a-lei-do-espirito-da-vida-contra-o-aborto
 published: true
 aktt_notify_twitter:
   - 'no'

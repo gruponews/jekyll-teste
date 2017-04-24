@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2012-08-16 00:40:36
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/sofrimentos-crianca-pequena
+permalink: /artigos/sofrimentos-crianca-pequena
 published: true
 aktt_notify_twitter:
   - 'yes'

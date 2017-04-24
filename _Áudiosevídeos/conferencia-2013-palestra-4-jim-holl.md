@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2013-11-18 00:14:54
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/conferencia-2013-palestra-4-jim-holl
+permalink: /audioevideo/conferencia-2013-palestra-4-jim-holl
 published: true
 wpcf-gn_audiovideo_data:
   - "1384473600"

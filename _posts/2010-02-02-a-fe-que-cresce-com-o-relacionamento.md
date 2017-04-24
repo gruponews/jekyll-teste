@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-02-02 00:50:26
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/a-fe-que-cresce-com-o-relacionamento
+permalink: /artigos/a-fe-que-cresce-com-o-relacionamento
 published: true
 aktt_notify_twitter:
   - 'yes'

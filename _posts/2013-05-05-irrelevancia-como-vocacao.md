@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2013-05-05 00:15:25
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/vida/irrelevancia-como-vocacao
+permalink: /bases-cristas/vida/irrelevancia-como-vocacao
 published: true
 wpcf-gn_post_autor:
   - ""

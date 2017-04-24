@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-07-05 14:39:47
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/quando-o-ordinario-e-extraordinario
+permalink: /artigos/quando-o-ordinario-e-extraordinario
 published: true
 wpcf-gn_post_autor:
   - Daniel Rocha

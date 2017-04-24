@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2013-07-30 23:27:32
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/transmissao-encontro-de-paternidade-2-2013
+permalink: /eventos/transmissao-encontro-de-paternidade-2-2013
 published: true
 wpcf-gn_post_autor:
   - Equipe GrupoNews

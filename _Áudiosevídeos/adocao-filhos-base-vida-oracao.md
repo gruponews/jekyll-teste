@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2013-09-21 19:51:20
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/adocao-filhos-base-vida-oracao
+permalink: /audioevideo/adocao-filhos-base-vida-oracao
 published: true
 wpcf-gn_audiovideo_data:
   - "1377302400"

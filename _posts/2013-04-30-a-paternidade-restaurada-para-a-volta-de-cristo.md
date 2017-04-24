@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2013-04-30 08:00:20
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/a-paternidade-restaurada-para-a-volta-de-cristo
+permalink: /artigos/a-paternidade-restaurada-para-a-volta-de-cristo
 published: true
 wpcf-gn_post_autor:
   - Pedro Arruda

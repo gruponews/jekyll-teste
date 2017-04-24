@@ -7,8 +7,7 @@ author: eduardolucas
 post_date: 2009-12-01 21:31:34
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/do-verdadeiro-cristo-e-o-que-todos-nos-precisamos
+permalink: /artigos/do-verdadeiro-cristo-e-o-que-todos-nos-precisamos
 published: true
 post_autor:
   - Afonso Porto

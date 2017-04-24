@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2014-08-30 16:25:24
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/vida/em-busca-da-perfeita-varonilidade-de-cristo
+permalink: /bases-cristas/vida/em-busca-da-perfeita-varonilidade-de-cristo
 published: true
 dsq_thread_id:
   - "2973305773"

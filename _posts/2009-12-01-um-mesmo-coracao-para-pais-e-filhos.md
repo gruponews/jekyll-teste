@@ -5,8 +5,7 @@ author: eduardolucas
 post_date: 2009-12-01 22:21:53
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/um-mesmo-coracao-para-pais-e-filhos
+permalink: /artigos/um-mesmo-coracao-para-pais-e-filhos
 published: true
 post_autor:
   - Juarez Gomes

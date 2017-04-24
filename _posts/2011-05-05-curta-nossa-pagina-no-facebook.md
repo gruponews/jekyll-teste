@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2011-05-05 00:00:25
 post_excerpt: ""
 layout: post
-permalink: >
-  /noticias/curta-nossa-pagina-no-facebook
+permalink: /noticias/curta-nossa-pagina-no-facebook
 published: true
 aktt_notify_twitter:
   - 'no'

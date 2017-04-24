@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2011-12-03 20:11:36
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/mais-do-que-igreja-nas-casas-uma-mudanca-no-estilo-de-vida-e-nao-somente-de-endereco
+permalink: /artigos/mais-do-que-igreja-nas-casas-uma-mudanca-no-estilo-de-vida-e-nao-somente-de-endereco
 published: true
 aktt_notify_twitter:
   - 'yes'

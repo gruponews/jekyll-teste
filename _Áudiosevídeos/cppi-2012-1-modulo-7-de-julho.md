@@ -5,8 +5,7 @@ author: Ademir Lucas
 post_date: 2012-07-09 12:30:08
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/cppi-2012-1-modulo-7-de-julho
+permalink: /audioevideo/cppi-2012-1-modulo-7-de-julho
 published: true
 aktt_notify_twitter:
   - 'yes'

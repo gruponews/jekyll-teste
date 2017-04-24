@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2008-04-15 00:00:40
 post_excerpt: ""
 layout: post
-permalink: >
-  /publicacoes/a-centralidade-do-pai-na-espiritualidade-do-filho
+permalink: /publicacoes/a-centralidade-do-pai-na-espiritualidade-do-filho
 published: true
 aktt_notify_twitter:
   - 'no'

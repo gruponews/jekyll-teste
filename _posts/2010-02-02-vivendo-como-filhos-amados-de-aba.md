@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-02-02 00:25:11
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/vivendo-como-filhos-amados-de-aba
+permalink: /artigos/vivendo-como-filhos-amados-de-aba
 published: true
 aktt_notify_twitter:
   - 'yes'

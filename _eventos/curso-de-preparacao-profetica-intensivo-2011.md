@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2011-07-10 00:46:26
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/curso-de-preparacao-profetica-intensivo-2011
+permalink: /eventos/curso-de-preparacao-profetica-intensivo-2011
 published: true
 aktt_notify_twitter:
   - 'yes'

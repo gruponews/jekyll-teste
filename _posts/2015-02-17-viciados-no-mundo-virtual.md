@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2015-02-17 10:41:31
 post_excerpt: ""
 layout: post
-permalink: >
-  /publicacoes/jornal/viciados-no-mundo-virtual
+permalink: /publicacoes/jornal/viciados-no-mundo-virtual
 published: true
 dsq_thread_id:
   - "3690547395"

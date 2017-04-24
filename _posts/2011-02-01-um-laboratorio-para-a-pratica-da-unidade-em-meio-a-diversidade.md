@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2011-02-01 00:45:02
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/um-laboratorio-para-a-pratica-da-unidade-em-meio-a-diversidade
+permalink: /igreja/um-laboratorio-para-a-pratica-da-unidade-em-meio-a-diversidade
 published: true
 aktt_notify_twitter:
   - 'yes'

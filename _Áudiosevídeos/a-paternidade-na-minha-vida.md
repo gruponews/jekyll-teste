@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2013-03-23 08:00:52
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/a-paternidade-na-minha-vida
+permalink: /audioevideo/a-paternidade-na-minha-vida
 published: true
 wpcf-gn_audiovideo_data:
   - "1362787200"

@@ -7,8 +7,7 @@ author: Ademir Lucas
 post_date: 2011-07-26 18:00:36
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/cppi-2011-audios-da-palestra-de-quinta-21de-julho
+permalink: /audioevideo/cppi-2011-audios-da-palestra-de-quinta-21de-julho
 published: true
 aktt_notify_twitter:
   - 'yes'

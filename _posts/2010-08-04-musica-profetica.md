@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-08-04 16:05:23
 post_excerpt: ""
 layout: post
-permalink: >
-  /espirito-santo/desenvolvendo-os-dons-profeticos/musica-profetica
+permalink: /espirito-santo/desenvolvendo-os-dons-profeticos/musica-profetica
 published: true
 dsq_thread_id:
   - "3509026774"

@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-02-20 15:51:43
 post_excerpt: ""
 layout: post
-permalink: >
-  /publicacoes/jornal/dons-e-vocacao-manifestacoes-coletivas-da-luz-que-vinda-ao-mundo-ilumina-todos-os-homens
+permalink: /publicacoes/jornal/dons-e-vocacao-manifestacoes-coletivas-da-luz-que-vinda-ao-mundo-ilumina-todos-os-homens
 published: true
 dsq_thread_id:
   - "3662732307"

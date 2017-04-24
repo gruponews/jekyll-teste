@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2012-11-02 12:11:55
 post_excerpt: ""
 layout: post
-permalink: >
-  /noticias/transmissao-ao-vivo-da-conferencia-a-trindade-e-o-reino-de-deus
+permalink: /noticias/transmissao-ao-vivo-da-conferencia-a-trindade-e-o-reino-de-deus
 published: true
 wpcf-gn_post_autor:
   - Equipe GrupoNews

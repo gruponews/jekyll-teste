@@ -5,8 +5,7 @@ author: Evandro Batista
 post_date: 2016-09-25 14:02:00
 post_excerpt: ""
 layout: post
-permalink: >
-  /geral/curso-preparatorio-imersao-2017
+permalink: /geral/curso-preparatorio-imersao-2017
 published: true
 dsq_thread_id:
   - "5173041116"

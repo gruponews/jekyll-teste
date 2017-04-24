@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2011-02-03 00:20:06
 post_excerpt: ""
 layout: post
-permalink: >
-  /publicacoes/cobertura-da-conferencia-cristo-o-reino-e-a-igreja
+permalink: /publicacoes/cobertura-da-conferencia-cristo-o-reino-e-a-igreja
 published: true
 aktt_notify_twitter:
   - 'yes'

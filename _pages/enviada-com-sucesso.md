@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-09-11 19:41:30
 post_excerpt: ""
 layout: page
-permalink: >
-  /conferencia2010/inscricao/enviada-com-sucesso
+permalink: /conferencia2010/inscricao/enviada-com-sucesso
 published: true
 aktt_notify_twitter:
   - 'yes'

@@ -5,8 +5,7 @@ author: Victor Glad
 post_date: 2010-08-18 23:23:21
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/lancamento-a-comunhao-nossa-de-cada-dia
+permalink: /eventos/lancamento-a-comunhao-nossa-de-cada-dia
 published: true
 aktt_notify_twitter:
   - 'yes'

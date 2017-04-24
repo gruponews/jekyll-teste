@@ -7,8 +7,7 @@ author: eduardolucas
 post_date: 2009-12-01 21:07:58
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/as-bencaos-da-contribuicao-financeira
+permalink: /igreja/as-bencaos-da-contribuicao-financeira
 published: true
 post_autor:
   - Pedro Arruda

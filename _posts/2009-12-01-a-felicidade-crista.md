@@ -5,8 +5,7 @@ author: eduardolucas
 post_date: 2009-12-01 20:49:47
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/vida/a-felicidade-crista
+permalink: /bases-cristas/vida/a-felicidade-crista
 published: true
 post_autor:
   - Paulo Roberto da Silva

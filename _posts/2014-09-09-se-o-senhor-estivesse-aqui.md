@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-09-09 22:49:40
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/vida/se-o-senhor-estivesse-aqui
+permalink: /bases-cristas/vida/se-o-senhor-estivesse-aqui
 published: true
 dsq_thread_id:
   - "3004813236"

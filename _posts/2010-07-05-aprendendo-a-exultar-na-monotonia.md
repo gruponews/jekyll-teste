@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-07-05 15:13:07
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/aprendendo-a-exultar-na-monotonia
+permalink: /artigos/aprendendo-a-exultar-na-monotonia
 published: true
 wpcf-gn_post_autor:
   - Renata Ribeiro Arruda

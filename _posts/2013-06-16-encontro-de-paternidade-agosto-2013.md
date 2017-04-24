@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2013-06-16 12:15:34
 post_excerpt: ""
 layout: post
-permalink: >
-  /noticias/encontro-de-paternidade-agosto-2013
+permalink: /noticias/encontro-de-paternidade-agosto-2013
 published: true
 wpcf-gn_post_autor:
   - Equipe GrupoNews

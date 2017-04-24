@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2012-07-27 12:00:20
 post_excerpt: ""
 layout: post
-permalink: >
-  /noticias/encristus-encontro-de-cristaos-em-unidade-e-santidade
+permalink: /noticias/encristus-encontro-de-cristaos-em-unidade-e-santidade
 published: true
 aktt_notify_twitter:
   - 'yes'

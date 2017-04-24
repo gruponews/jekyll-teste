@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2012-08-15 12:00:18
 post_excerpt: ""
 layout: post
-permalink: >
-  /noticias/transmissao-do-encristus-2012
+permalink: /noticias/transmissao-do-encristus-2012
 published: true
 aktt_notify_twitter:
   - 'yes'

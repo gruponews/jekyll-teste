@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2009-09-01 00:00:51
 post_excerpt: ""
 layout: post
-permalink: >
-  /publicacoes/o-outro-o-lugar-onde-deus-deseja-ser-encontrado
+permalink: /publicacoes/o-outro-o-lugar-onde-deus-deseja-ser-encontrado
 published: true
 post_autor:
   - Equipe Comunicação

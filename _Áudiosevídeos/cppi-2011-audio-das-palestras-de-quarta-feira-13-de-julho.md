@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2011-07-15 12:14:20
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/cppi-2011-audio-das-palestras-de-quarta-feira-13-de-julho
+permalink: /audioevideo/cppi-2011-audio-das-palestras-de-quarta-feira-13-de-julho
 published: true
 aktt_notify_twitter:
   - 'yes'

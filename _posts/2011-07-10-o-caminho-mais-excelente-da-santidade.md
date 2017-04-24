@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2011-07-10 02:06:51
 post_excerpt: ""
 layout: post
-permalink: >
-  /artigos/o-caminho-mais-excelente-da-santidade
+permalink: /artigos/o-caminho-mais-excelente-da-santidade
 published: true
 aktt_notify_twitter:
   - 'no'

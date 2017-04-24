@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2017-01-05 16:53:08
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/encontro-de-reflexao-profetica-2017
+permalink: /eventos/encontro-de-reflexao-profetica-2017
 published: true
 wpcf-gn_post_destaques:
   - destaque_novidade

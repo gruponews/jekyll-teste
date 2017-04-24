@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-11-11 00:31:13
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/reevangelizacao-de-ovelhas-mauricio-bronzatto
+permalink: /audioevideo/reevangelizacao-de-ovelhas-mauricio-bronzatto
 published: true
 aktt_notify_twitter:
   - 'yes'

@@ -5,8 +5,7 @@ author: Escritorio
 post_date: 2012-05-23 23:40:01
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/curso-reino-milenar-messianico-aula02-vespertino
+permalink: /eventos/curso-reino-milenar-messianico-aula02-vespertino
 published: true
 aktt_notify_twitter:
   - 'yes'

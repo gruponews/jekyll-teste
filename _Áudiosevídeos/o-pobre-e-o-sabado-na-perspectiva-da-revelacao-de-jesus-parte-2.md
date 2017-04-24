@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2013-03-21 08:30:01
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/o-pobre-e-o-sabado-na-perspectiva-da-revelacao-de-jesus-parte-2
+permalink: /audioevideo/o-pobre-e-o-sabado-na-perspectiva-da-revelacao-de-jesus-parte-2
 published: true
 wpcf-gn_audiovideo_data:
   - "1362787200"

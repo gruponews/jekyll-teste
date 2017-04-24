@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2016-07-13 11:40:19
 post_excerpt: ""
 layout: post
-permalink: >
-  /familia-materias/uma-experiencia-familiar-na-area-financeira
+permalink: /familia-materias/uma-experiencia-familiar-na-area-financeira
 published: true
 wpcf-gn_post_destaques:
   - destaque_novidade

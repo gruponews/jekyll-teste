@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-09-25 23:08:32
 post_excerpt: ""
 layout: post
-permalink: >
-  /publicacoes/a-graca-do-ordinario-a-presenca-salvadora-de-cristo-na-vida-comum
+permalink: /publicacoes/a-graca-do-ordinario-a-presenca-salvadora-de-cristo-na-vida-comum
 published: true
 aktt_notify_twitter:
   - 'yes'

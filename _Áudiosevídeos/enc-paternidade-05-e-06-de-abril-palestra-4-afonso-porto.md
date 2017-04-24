@@ -5,8 +5,7 @@ author: Ademir Lucas
 post_date: 2014-04-10 16:13:48
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/enc-paternidade-05-e-06-de-abril-palestra-4-afonso-porto
+permalink: /audioevideo/enc-paternidade-05-e-06-de-abril-palestra-4-afonso-porto
 published: true
 wpcf-gn_post_autor:
   - Afonso Porto

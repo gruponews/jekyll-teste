@@ -5,8 +5,7 @@ author: Victor Glad
 post_date: 2012-05-19 00:00:58
 post_excerpt: ""
 layout: post
-permalink: >
-  /noticias/curso-reino-milenar-aula01
+permalink: /noticias/curso-reino-milenar-aula01
 published: true
 aktt_notify_twitter:
   - 'yes'

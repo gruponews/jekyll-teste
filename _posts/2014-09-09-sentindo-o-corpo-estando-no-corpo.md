@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-09-09 14:11:52
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/comunhao/sentindo-o-corpo-estando-no-corpo
+permalink: /bases-cristas/comunhao/sentindo-o-corpo-estando-no-corpo
 published: true
 wpcf-gn_post_destaques:
   - destaque_novidade

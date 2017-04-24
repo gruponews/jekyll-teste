@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2013-08-20 23:28:35
 post_excerpt: ""
 layout: post
-permalink: >
-  /noticias/transmissao-ao-vivo-do-encristus-regional-2013
+permalink: /noticias/transmissao-ao-vivo-do-encristus-regional-2013
 published: true
 wpcf-gn_post_destaques:
   - destaque_maior

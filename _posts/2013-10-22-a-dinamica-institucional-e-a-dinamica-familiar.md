@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2013-10-22 07:00:11
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/vivendo-como-igreja-relacional/a-dinamica-institucional-e-a-dinamica-familiar
+permalink: /igreja/vivendo-como-igreja-relacional/a-dinamica-institucional-e-a-dinamica-familiar
 published: true
 wpcf-gn_post_autor:
   - ""

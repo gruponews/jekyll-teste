@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2013-10-27 09:00:14
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/vida/assim-brilhe-a-vossa-luz-diante-dos-homens
+permalink: /bases-cristas/vida/assim-brilhe-a-vossa-luz-diante-dos-homens
 published: true
 wpcf-gn_post_autor:
   - Maurício Bronzatto

@@ -7,8 +7,7 @@ author: eduardolucas
 post_date: 2009-12-01 00:57:16
 post_excerpt: ""
 layout: post
-permalink: >
-  /familia-materias/a-arvore-do-bem-e-do-mal-esta-bem-dentro-de-casa
+permalink: /familia-materias/a-arvore-do-bem-e-do-mal-esta-bem-dentro-de-casa
 published: true
 post_autor:
   - Ivonete Camargo Pegnolazzo

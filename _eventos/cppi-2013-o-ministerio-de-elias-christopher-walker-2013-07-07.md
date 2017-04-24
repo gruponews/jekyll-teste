@@ -5,7 +5,6 @@ author: Fernando
 post_date: 2013-05-19 23:21:38
 post_excerpt: ""
 layout: event
-permalink: >
-  /eventos/cppi-2013-o-ministerio-de-elias-christopher-walker-2013-07-07
+permalink: /eventos/cppi-2013-o-ministerio-de-elias-christopher-walker-2013-07-07
 published: true
 ---

@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2010-04-03 12:00:49
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/conferencia-2009-chamada
+permalink: /audioevideo/conferencia-2009-chamada
 published: true
 aktt_notify_twitter:
   - 'yes'

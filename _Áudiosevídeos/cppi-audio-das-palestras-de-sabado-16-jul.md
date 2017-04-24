@@ -5,8 +5,7 @@ author: Ademir Lucas
 post_date: 2011-07-20 08:10:31
 post_excerpt: ""
 layout: audioevideo
-permalink: >
-  /audioevideo/cppi-audio-das-palestras-de-sabado-16-jul
+permalink: /audioevideo/cppi-audio-das-palestras-de-sabado-16-jul
 published: true
 aktt_notify_twitter:
   - 'yes'

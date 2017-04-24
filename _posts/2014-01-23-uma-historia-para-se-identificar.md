@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2014-01-23 00:24:37
 post_excerpt: ""
 layout: post
-permalink: >
-  /geral/uma-historia-para-se-identificar
+permalink: /geral/uma-historia-para-se-identificar
 published: true
 wpcf-gn_post_autor:
   - Renata Ribeiro Arruda

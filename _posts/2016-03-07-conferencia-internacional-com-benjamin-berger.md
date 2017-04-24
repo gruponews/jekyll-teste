@@ -7,8 +7,7 @@ author: Evandro Batista
 post_date: 2016-03-07 22:02:05
 post_excerpt: ""
 layout: post
-permalink: >
-  /geral/conferencia-internacional-com-benjamin-berger
+permalink: /geral/conferencia-internacional-com-benjamin-berger
 published: true
 dsq_thread_id:
   - "4643228900"

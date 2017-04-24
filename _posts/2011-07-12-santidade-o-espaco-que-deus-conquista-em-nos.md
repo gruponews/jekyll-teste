@@ -5,8 +5,7 @@ author: Fernando
 post_date: 2011-07-12 18:58:51
 post_excerpt: ""
 layout: post
-permalink: >
-  /publicacoes/jornal/santidade-o-espaco-que-deus-conquista-em-nos
+permalink: /publicacoes/jornal/santidade-o-espaco-que-deus-conquista-em-nos
 published: true
 aktt_notify_twitter:
   - 'yes'

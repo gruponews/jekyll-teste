@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2014-02-07 15:41:04
 post_excerpt: ""
 layout: post
-permalink: >
-  /familia-materias/o-divorcio-suas-vitimas-e-o-reino-de-deus/desordens-sociais-causadas-pelo-divorcio
+permalink: /familia-materias/o-divorcio-suas-vitimas-e-o-reino-de-deus/desordens-sociais-causadas-pelo-divorcio
 published: true
 wpcf-gn_post_autor:
   - ""

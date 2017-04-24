@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2015-02-17 12:56:28
 post_excerpt: ""
 layout: post
-permalink: >
-  /igreja/vivendo-como-igreja-relacional/o-dar-e-generosidade-na-igreja-relacional
+permalink: /igreja/vivendo-como-igreja-relacional/o-dar-e-generosidade-na-igreja-relacional
 published: true
 dsq_thread_id:
   - "3690516870"

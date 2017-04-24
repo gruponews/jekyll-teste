@@ -7,8 +7,7 @@ author: Victor Glad
 post_date: 2010-08-18 23:03:33
 post_excerpt: ""
 layout: post
-permalink: >
-  /publicacoes/a-comunhao-nossa-de-cada-dia
+permalink: /publicacoes/a-comunhao-nossa-de-cada-dia
 published: true
 aktt_notify_twitter:
   - 'yes'

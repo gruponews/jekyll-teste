@@ -7,8 +7,7 @@ author: Fernando
 post_date: 2014-08-30 16:56:25
 post_excerpt: ""
 layout: post
-permalink: >
-  /bases-cristas/comunhao/vivendo-na-luz-e-com-o-principio-ativo-de-deus
+permalink: /bases-cristas/comunhao/vivendo-na-luz-e-com-o-principio-ativo-de-deus
 published: true
 wpcf-gn_post_destaques:
   - destaque_novidade
