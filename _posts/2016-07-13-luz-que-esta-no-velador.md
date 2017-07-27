@@ -1,49 +1,36 @@
 ---
 ID: 4694
 post_title: A luz que está no velador
-author: Fernando
-post_date: 2016-07-13 11:30:51
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /espirito-santo/luz-que-esta-no-velador
+permalink: >
+  espirito-santo/luz-que-esta-no-velador.html
 published: true
-dsq_thread_id:
-  - "4982855872"
-instant_articles_submission_id:
-  - "808406395927131"
-wpcf-gn_post_destaques:
-  - nao_destaque
+categories:
+  - Espírito Santo
+tags:
+  - edicao-82
+author: ""
+post_date: 2016-07-13 11:30:51
 ---
 <p class="p1"><span class="s1">E</span><span class="s1">ntre diversas instruções que Jesus Cristo deixou aos seus discípulos quando esteve na Terra, uma das mais claras e objetivas está em Mateus 5:13-16. Ao dizer-lhes que eles eram o sal da terra e a luz do mundo, Jesus também lhes conferiu a responsabilidade de resplandecer sua luz diante dos homens, e isso de tal forma que, vendo essa luz, os homens glorificassem a Deus.</span></p>
-
 <p class="p3"><span class="s1">Jesus não está apenas entregando uma missão aos seus discípulos. Ele está ensinando a eles uma maneira de viver, mostrando-lhes como deve ser seu estilo de vida. Ser sal e luz não era uma tarefa para alguns momentos específicos de suas vidas, mas a essência do que deveriam se tornar. Jesus fez questão de reforçar sua orientação, dizendo que o sal que perde o sabor para nada serve. No mesmo sentido, não se acende a luz para colocá-la debaixo do alqueire, mas sim no velador, para que ilumine a todos os que estão na casa. É com base nessa condição que Jesus comissiona seus discípulos para irem às nações e fazerem novos discípulos (Mt 28:19-20). </span></p>
-
 <p class="p3"><span class="s1">Vejo uma estreita relação entre os dois textos de Mateus. Para que se possa ir, é preciso primeiro ser o sal que não tenha perdido o sabor e a luz que não se escondeu debaixo do alqueire. A orientação que Jesus dá aos seus discípulos muitas vezes é interpretada apenas no sentido da missão transcultural, aquela que precisa atravessar barreiras geográficas para alcançar outros povos e nações. É certo que este é o propósito de Deus, alcançar TODAS as nações; porém, também é certo que este é um chamado para todo cristão, para todo discípulo de Cristo que entende que precisa estar no lugar em que a luz precisa estar, e esse lugar é no velador.</span></p>
-
 <p class="p3"><span class="s1">O propósito de Deus é que sejam alcançadas todas as nações, e quando se fala em todas as nações, isso quer dizer que a nação de que faço parte também está inclusa nessa expressão. A palavra “ide” é o imperativo do verbo “ir”. Em todo tempo, as pessoas estão indo a algum lugar: ao trabalho, à igreja, ao cinema, à escola... É nesses lugares que os cristãos, tais como a luz no velador, são chamados a brilhar e, dessa forma, alcançar pessoas e ensiná-las a guardarem todas as coisas que Jesus ensinou. </span></p>
-
 <p class="p4"><span class="s1"><b>O Evangelho como expressão da identidade do cristão</b></span></p>
-
 <p class="p2"><span class="s1">Jesus não veio à Terra para deixar um manual de regras aos homens, muito menos para dar-lhes tarefas ou aumentar a lista de mandamentos. Jesus veio e ensinou aos homens um estilo de vida, para além das palavras, através de prática, e testemunhou como é a vida no reino de Deus: como as pessoas devem se comportar, como devem se relacionar, viver... Ele ensinou o que é ser luz e sal para esta terra no cotidiano, na simplicidade do dia a dia, no convívio diário. </span></p>
-
 <p class="p3"><span class="s1">Ele não só disse aos discípulos o que eles deveriam ser, mas ensinou-os, na prática, como ser. Dessa forma, ensinou que o evangelho é muito mais do que algo que se faz. O evangelho é uma expressão daquilo que se é. Podemos compreender isso olhando para o sal: ele não pode simplesmente tirar um dia da semana para descansar de seu sabor e se tornar açúcar, para em seguida voltar a ser sal, e isso por uma razão óbvia: o “ser salgado” está na sua essência, é aquilo que ele é, de fato.</span></p>
-
 <p class="p3"><span class="s1">A explicação para a vida do cristão é Jesus, por isso aquele jamais pode ser um sal sem sabor ou uma luz escondida. O desafio é começar com a pessoa que está ao lado, com quem convivemos, brilhando no velador com uma vida que honra o sacrifício de Jesus, demonstrando ao próximo, por meio de atitudes e não somente de palavras, todo o amor que Deus tem por ele. Andando, portanto, no novo mandamento que Ele nos deu: “que vos ameis uns aos outros; como eu vos amei a vós, que também vós uns aos outros vos ameis. Nisto todos conhecerão que sois meus discípulos, se vos amardes uns aos outros” (Jo 13:34-35).</span></p>
-
 <p class="p3"><span class="s1">“Nisto, todos conhecerão que sois meus discípulos...”, ou seja, todos verão a luz, todos sentirão o sabor do sal. Entendo que o “amar uns aos outros como eu vos amei” parece transpor uma barreira ainda maior em nós do que “amar o nosso próximo como a nós mesmos”. Por certo porque o amor de Cristo é algo maior do que aquele que nós conhecemos, um amor que não vem de nós mesmos, mas que podemos experimentar à medida que vamos mergulhando por inteiro em Sua vida.</span></p>
-
 <p class="p4"><span class="s1"><b>Se a Igreja viesse para a Terra...</b></span></p>
-
 <p class="p2"><span class="s1">Há pouco tempo assisti ao filme “Elysium”, que tem a participação do ator brasileiro Wagner Moura. Trata-se de um filme futurista, que retrata o planeta Terra devastado, tomado pela pobreza, pelas doenças e falta de recursos básicos para a sobrevivência das pessoas, com um sistema de trabalho quase que escravo. Fora da órbita da Terra, teria sido construído o planeta Elysium – perfeito, de homens ricos, lindas praias e paisagens deslumbrantes, com acesso a comida de boa qualidade, moradias luxuosas e máquinas superavançadas capazes de curar as pessoas de qualquer tipo de doença em poucos minutos, inclusive do câncer. </span></p>
-
 <p class="p3"><span class="s1">Em minha ótica, exceto a descoberta definitiva da cura do câncer e a existência de um planeta construído por homens fora da órbita da Terra, todo o resto não tinha nada de futurista. Todas aquelas cenas de pobreza e tristeza poderiam ter sido gravadas em qualquer das muitas favelas e bairros pobres espalhados pelo mundo atual. As casas do tamanho de um banheiro para abrigar uma família inteira, construídas à beira de esgotos a céu aberto, com crianças magras e subnutridas e adolescentes dormindo no chão e sem oportunidade de estudo ou trabalho, não precisariam ser criadas em estúdios. Bastaria filmar a realidade cotidiana vivida por milhares dos nossos “próximos” que aguardam ansiosos pela chegada de um velador onde se encontre uma luz radiante que lhes traga um pouco de esperança.</span></p>
-
 <p class="p3"><span class="s1">Vivemos numa prisão sem perceber, numa prisão com várias alas: cinema, viagens, estádios, shoppings, e assim por diante. É preciso tomar cuidado para que não sejamos prisioneiros desse sistema corrompido, que faz com que as pessoas se preocupem cada dia mais consigo mesmas, trabalhem como loucas em busca de segurança financeira, sucesso profissional ou apenas entretenimento.</span></p>
-
 <p class="p3"><span class="s1">Se temos trabalhado bastante e gastado nosso dinheiro, tempo e energias com coisas que satisfazem apenas a nós e aos nossos, sem nos preocuparmos com os outros; se passamos a semana trabalhando e os finais de semana passeando pelas várias alas de nossa prisão, inclusive por uma que poderíamos chamar de reunião (no caso de esse evento semanal ter se tornado em nossas vidas apenas um compromisso religioso), creio que precisamos reavaliar se, de fato, estamos vivendo o evangelho ou apenas fazendo dele algo para também nos satisfazer, à medida que concebemos um Deus que está a nosso serviço, que cuida de nós e de nossos interesses. Parece ser indigesto o que dissemos, mas, muitas vezes, é dessa forma que temos vivido, apenas não admitimos. Quais os interesses têm prevalecido em nossa vida? Os nossos ou os de Deus? Temos, de fato, nos preocupado com as pessoas que estão perdidas por aí? Tanta gente morrendo, tantos jovens entregues às drogas, tantas meninas entrando em uma vida de prostituição gratuita, tantas famílias sendo destruídas pela violência doméstica, tantas crianças morrendo de fome, sem direito sequer a ter uma infância, sendo obrigadas a trabalhar o dia todo por um prato de comida, recolhendo lixo nos lixões, mendigando o pão nos faróis, tantas adolescentes vendendo seus corpos na beira das estradas em troca de comida...<span class="Apple-converted-space">  </span>E o que tem feito a Igreja por todos esses?</span></p>
-
 <p class="p3"><span class="s1">É bom ir ao cinema, viajar com a família e fazer tantas outras coisas que nos trazem prazer. Apenas devemos sempre nos lembrar de que não estamos numa colônia de férias, de que a Igreja, que Deus chamou e constituiu como noiva de Cristo, tem uma missão nesta Terra, e essa missão precisa estar impressa em nossa mente e coração, ela precisa estar presente no nosso viver. Ela deve nortear o estilo de vida de todo o cristão, para que sua luz esteja sempre posicionada no velador, para que as pessoas vejam suas boas obras e, de fato, glorifiquem ao Pai que está nos céus.</span></p>
-
 <p class="p3"><span class="s1">Não posso contar o final do filme, senão vou estragar a expectativa de quem ainda não assistiu, mas há uma cena em especial que mexeu muito comigo: a das naves de Elysium vindo para a Terra trazer remédio e cura para as pessoas, deixando, portanto, o seu mundo perfeito e confortável para atender aqueles que estavam clamando apenas pelo básico. Uma visão de reino me veio fortemente à mente nessa hora, e pensei: “Ah Senhor, se a tua Igreja viesse para a Terra...”</span></p>
-
 <p class="p3"><span class="s1">Que não percamos a visão de reino e que não nos esqueçamos jamais de que Jesus Cristo é o remédio. Fazendo uma analogia com o filme, podemos colocar as coisas nestes termos: o remédio está nas nossas mãos, e nós precisamos decidir: vamos ficar em Elysium ou vamos levá-lo para a Terra? Que nosso querido Deus nos ajude não só a fazer a escolha certa, mas também a tomar uma postura concreta em relação a ela..</span></p>

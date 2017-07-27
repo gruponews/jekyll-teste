@@ -1,12 +1,17 @@
 ---
 ID: 3273
 post_title: Política de privacidade para GrupoNews
-author: Fernando
-post_date: 2013-05-17 12:43:53
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /?page_id=3273
+permalink: ?page_id=3273
 published: false
+categories: ""
+tags: ""
+author: ""
 ---
 Todas as suas informações pessoais recolhidas, serão usadas para o ajudar a tornar a sua visita no nosso site o mais produtiva e agradável possível. A garantia da confidencialidade dos dados pessoais dos utilizadores do nosso site é importante para o GrupoNews. Todas as informações pessoais relativas a membros, assinantes, clientes ou visitantes que usem o GrupoNews serão tratadas em concordância com a Lei da Proteção de Dados Pessoais de 26 de outubro de 1998 (Lei n.º 67/98). A informação pessoal recolhida pode incluir o seu nome, e-mail, número de telefone e/ou telemóvel, morada, data de nascimento e/ou outros. O uso do GrupoNews pressupõe a aceitação deste Acordo de privacidade. A equipa do GrupoNews reserva-se ao direito de alterar este acordo sem aviso prévio. Deste modo, recomendamos que consulte a nossa <a style="text-decoration: none;" title="Política de privacidade" href="http://politicaprivacidade.com/">política de privacidade</a> com regularidade de forma a estar sempre atualizado.
 <h2>Os anúncios</h2>

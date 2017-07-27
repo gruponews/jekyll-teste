@@ -1,26 +1,26 @@
 ---
 ID: 1919
 post_title: Os diferentes relacionamentos conjugais
-author: Fernando
-post_date: 2011-07-12 18:52:00
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/os-diferentes-relacionamentos-conjugais
+permalink: >
+  artigos/os-diferentes-relacionamentos-conjugais.html
 published: true
-aktt_notify_twitter:
-  - 'no'
-post_autor:
-  - Juarez Gomes e Maria de Carvalho Gomes
-post_destaques:
-  - Nao
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2805492391"
+categories:
+  - Artigos
+  - Família
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+tags: ""
+authors:
+  - Juarez Gomes
+  - Maria de Carvalho Gomes
+post_date: 2011-07-12 18:52:00
 ---
 <em>Este artigo faz parte de uma série que discutirá alguns aspectos complexos do divórcio, uma prática antiga que afeta atualmente a maioria das famílias.</em>
 

@@ -1,20 +1,19 @@
 ---
 ID: 1068
 post_title: Inscrição enviada com sucesso
-author: Fernando
-post_date: 2010-09-11 19:41:30
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /conferencia2010/inscricao/enviada-com-sucesso
+permalink: >
+  conferencia2010/inscricao/enviada-com-sucesso
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - ""
-post_destaques:
-  - Nao
-dsq_thread_id:
-  - "5132853158"
+categories: ""
+tags: ""
+author: ""
+post_date: 2010-09-11 19:41:30
 ---
 A sua inscrição foi enviada com sucesso. <em>Lembrando, sua inscrição só será confirmada após o pagamento á vista, ou da 1°  parcela.</em>
 

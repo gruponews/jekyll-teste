@@ -4,16 +4,21 @@ post_title: >
   Em casa, presidentes de companhias
   tecnológicas limitam acesso de seus
   filhos a eletrônicos
-author: Fernando
-post_date: 2015-02-17 12:55:56
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/vida/em-casa-presidentes-de-companhias-tecnologicas-limitam-acesso-de-seus-filhos-eletronicos
+permalink: >
+  bases-cristas/vida/em-casa-presidentes-de-companhias-tecnologicas-limitam-acesso-de-seus-filhos-eletronicos.html
 published: true
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "3709153727"
+categories:
+  - Vida
+tags:
+  - edicao-80
+author: ""
+post_date: 2015-02-17 12:55:56
 ---
 NICK BILTON
 DO "NEW YORK TIMES"

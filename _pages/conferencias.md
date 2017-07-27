@@ -1,14 +1,18 @@
 ---
 ID: 3937
 post_title: Conferências
-author: Fernando
-post_date: 2014-09-09 22:05:42
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /eventos/conferencias
+permalink: eventos/conferencias
 published: true
-dsq_thread_id:
-  - "4052095247"
+categories: ""
+tags: ""
+author: ""
+post_date: 2014-09-09 22:05:42
 ---
 Para a jornalista Eliane Brum, escutar é talvez a capacidade mais fascinante do humano, porque nos dá a possibilidade de conexão. Logo, fechar-se à escuta é condenar-se à solidão. Muitas pessoas não escutam porque escutar é se arriscar. É se abrir para a possibilidade do espanto, escancarar-se para o mundo do outro. Para a jornalista, quem só tem certezas não dialoga. Não precisa. Conversas são para quem duvida de suas certezas, para quem realmente está aberto para ouvir – e não para fingir que ouve. Diálogos honestos têm mais pontos de interrogação que pontos finais. Escutar de verdade é se entregar, reinventar-se constantemente.
 

@@ -1,18 +1,23 @@
 ---
 ID: 2724
 post_title: 'Curso “O Reino Milenar Messiânico” #aula05 &#8211; Vespertino'
-author: Escritorio
-post_date: 2012-09-23 23:45:04
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner_rmma5.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner_rmma5.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner_rmma5.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner_rmma5-720x320.jpg
 post_excerpt: ""
 layout: event
-permalink: /eventos/curso-o-reino-milenar-messianico-aula05-vespertino
+permalink: >
+  eventos/curso-o-reino-milenar-messianico-aula05-vespertino
 published: true
-aktt_notify_twitter:
-  - 'yes'
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_destaques:
-  - nao_destaque
+categories: ""
+tags: ""
+author: ""
+post_date: 2012-09-23 23:45:04
 ---
 <strong>Tema:</strong>  A presença de Jesus na Terra - 1ª e 2ª vindas + DVD - Asher Intrater - Plano Eterno de Deus de unir os Céus e a Terra (+) O Reino de Deus e Jerusalém Espiritual (parte5) – O Cordeiro de Deus morto antes da fundação do mundo. O sistema geracional para a formação da população humana. A rebeldia de Satanás seguida pelas nações. O resgate das nações. O significado da salvação e o Reino Messiânico. A implantação do reino via coração do homem até a sua efetivação objetiva.
 <strong>Palestrantes:</strong> Jalber Leite

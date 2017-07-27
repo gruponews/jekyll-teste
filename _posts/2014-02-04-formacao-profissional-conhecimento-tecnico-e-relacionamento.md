@@ -3,16 +3,27 @@ ID: 3630
 post_title: >
   Formação profissional, conhecimento
   técnico e relacionamento
-author: Fernando
-post_date: 2014-02-04 09:00:53
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2014/08/trabalho-relacionamentos-1666x1080.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2014/08/trabalho-relacionamentos-1280x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2014/08/trabalho-relacionamentos-1280x1152.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2014/08/trabalho-relacionamentos-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/vida/formacao-profissional-conhecimento-tecnico-e-relacionamento
+permalink: >
+  bases-cristas/vida/formacao-profissional-conhecimento-tecnico-e-relacionamento.html
 published: true
-dsq_thread_id:
-  - "3486459951"
-wpcf-gn_post_destaques:
-  - destaque_novidade
+categories:
+  - Vida
+tags:
+  - edicao-77
+  - profissão
+  - vida profissional
+author: ""
+post_date: 2014-02-04 09:00:53
 ---
 A formação profissional convencional se preocupa em transmitir conhecimentos técnicos que podem ser incrementados com a experiência do exercício da profissão. Contudo, pouco se atenta para o fato de que no mundo moderno as relações pessoais são cada vez mais determinantes para o êxito profissional. Houve tempo em que se propunha uma nítida separação entre as relações pessoais e as atividades profissionais. Valorizava-se quem tinha competência em saber separar as situações. Isso, hipocritamente, exigia que uma mãe ignorasse o filho que deixara com febre em casa. Essa demanda pode ser caracterizada como uma esquizofrenia profissional.
 

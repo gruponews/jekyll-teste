@@ -1,27 +1,34 @@
 ---
 ID: 88
 post_title: Ano Aceitável do Senhor
-author: eduardolucas
-post_date: 2009-11-28 17:50:34
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/ano_aceitavel_do_senhor.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/ano_aceitavel_do_senhor.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/ano_aceitavel_do_senhor.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/ano_aceitavel_do_senhor-720x650.jpg
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/ano-aceitavel-do-senhor
+permalink: >
+  bases-cristas/ano-aceitavel-do-senhor.html
 published: true
-post_autor:
-  - Cristina Juliani
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/ano_aceitavel_do_senhor.jpg
-aktt_notify_twitter:
-  - 'no'
-wpcf-gn_post_autor:
-  - Cristina Juliani
-dsq_thread_id:
-  - "2802545943"
-wpcf-gn_post_destaques:
-  - nao_destaque
+categories:
+  - Bases Cristãs
+tags:
+  - Aceitar
+  - Acreditar
+  - Desanimado
+  - Esperança
+  - Graça
+  - Misericórdia
+  - Perdão
+  - Restauração
+  - Salvação
+  - Transformação
+author: ""
+post_date: 2009-11-28 17:50:34
 ---
 O mundo vive hoje uma crise econômica, social e financeira muito grande. Como nós, cristãos, podemos viver junto a tudo isso? Certamente que não estamos isentos dos problemas que atingem o mundo atual, mas cremos que nós podemos mudar a maneira de ver esses problemas, mudando nossa expectativa, nossa esperança e os nossos valores de vida. E confiar nas pessoas, então? Como está fácil nos decepcionarmos com alguém.
 

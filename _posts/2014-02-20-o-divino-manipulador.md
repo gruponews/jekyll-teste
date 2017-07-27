@@ -1,21 +1,23 @@
 ---
 ID: 3629
 post_title: O divino manipulador?
-author: Fernando
-post_date: 2014-02-20 00:46:48
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/o-deus-mal-compreendido/o-divino-manipulador
+permalink: >
+  bases-cristas/o-deus-mal-compreendido/o-divino-manipulador.html
 published: true
-wpcf-gn_post_autor:
-  - ""
-dsq_thread_id:
-  - "2942888372"
-wpcf-gn_post_destaques:
-  - destaque_novidade
+categories:
+  - O Deus mal compreendido
+tags:
+  - edicao-77
+author: ""
+post_date: 2014-02-20 00:46:48
 ---
 <blockquote>Esta é a 4ª parte do resumo do livro “The Misunderstood God: The Lies Religion Tells About God” (O Deus mal compreendido: as mentiras que a religião conta sobre Deus), de Darin Hufford, publicado nos EUA em 2009 por Windblown Media (traduzido em 2012 para o português sob o título “Mais perto de Deus” pela Ed. Sextante).</blockquote>
-
 Fiquei chocado quando ela entrou em meu escritório. A aparência era de uma pessoa cansada, os olhos pareciam velas se apagando, como se toda expectativa por algo bom estivesse extinta. Usava uma bolsa enorme para esconder os hematomas e arranhões. Estava inquieta e nervosa, tropeçando nas palavras. Ofereci-lhe uma xícara de café para aliviar a tensão. Então ela começou a contar sua história: “Eu convivi com um cara...”. O que veio depois foi uma lista de crueldades ditas e feitas a ela por aquele “cara” nos últimos seis meses. E como se ela não tivesse dito nada do que acabara de me contar, saíram de sua boca, quase numa irreverência, as seguintes palavras: “Mas eu sei que ele me ama”.
 
 A percepção de amor daquela jovem demonstra um dos maiores erros que nossa geração comete a respeito do amor. O que mais me incomoda é ver milhares de mulheres e homens feridos com esta crença patética de que o amor não precisa ser gentil e amável para ser autêntico.
@@ -23,9 +25,7 @@ A percepção de amor daquela jovem demonstra um dos maiores erros que nossa ger
 Isso me fez lembrar as crianças famintas que aparecem na TV, reduzidas a pele e osso, de barriga inchada, os lábios feridos, com moscas voando ao redor, agachadas na rua esperando a morte. A aparência dessas crianças, sem brilho algum, é a mesma daquela jovem em meu escritório. Quão terrível a vida precisa ser para que a pessoa nem mesmo espante as moscas de sua boca? Será que a vida é tão pálida que não valha a pena gastar energia fazendo isso? A imagem dessas crianças na TV se tornou algo comum e aceitável para muitas pessoas, da mesma forma que a crueldade nos relacionamentos. Talvez isso seja como as “moscas nos lábios” para uma geração faminta do verdadeiro amor. Pode ser até irritante para a alma, ou humilhante, mas a pessoa não se acha digna de não permitir esta prática.
 
 Nós nos desviamos para tão longe do afeto que até nos esquecemos do que ele realmente é. Para cada atributo do amor, existe uma falsificação que se parece com o amor e tem até o cheiro dele, mas é exatamente o oposto. A bondade foi substituída por uma falsificação que engana até as pessoas mais experientes, tanto dentro como fora das igrejas. O maior problema em engolir esta mentira é que interpretamos o coração de Deus da mesma forma e fechamos a porta para a compreensão do que realmente está no coração do Pai.
-
 <h2>A grande falsificação da bondade é a manipulação</h2>
-
 Quando o oposto da bondade, a manipulação, está presente, a verdadeira amabilidade é anulada. Para a bondade ser autêntica, não deve haver nenhuma motivação escondida. Caso isso esteja presente, deixa de ser bondade e se torna manipulação. Como nos acostumamos com a mentira, diante de um ato bondoso as pessoas perguntam: “O que você quer de mim?” Não conseguimos entender uma atitude carinhosa livre de qualquer interesse escondido. Ficamos intimidados e confusos quando experimentamos uma verdadeira atitude de carinho.
 
 Já vi centenas de vezes em minha vida um homem dizer palavras doces para uma mulher e logo em seguida a convidar para sair. Ela fica receosa, mas convence seu coração de que as palavras que ouviu foram sinceras e verdadeiras. Ao recuperar o bom senso, desfaz o relacionamento e, em poucos meses, o fato se repete, quando um novo rapaz fala as palavras doces que seu coração gostaria de ouvir. O maior problema é que, convivendo com o afeto artificial, adaptamos nosso paladar a ele. Quando em contato com o verdadeiro, nós o rejeitamos, por ter um sabor diferente. Inevitavelmente isto afetará nosso relacionamento com Deus porque até desenvolvermos o apetite pelo amor verdadeiro, interpretamos a personalidade de Deus de acordo com nosso paladar espiritual alterado.
@@ -41,9 +41,7 @@ Por causa da nossa crença no falsificado, acreditamos que as bênçãos de Deus
 Muitas pessoas acreditam que Deus é manipulador e egocêntrico em tudo o que faz. Se tivermos maus hábitos ou estivermos fazendo algo errado, não devemos esperar nada de bom da parte dele. Se ele nos abençoa, imediatamente desejamos lhe dar algo em troca.
 
 A bondade de Deus não exige nada em troca e desafia a lógica humana. Quando alguém recebe a verdadeira generosidade, fica inseguro e parece que viu um fantasma. A sensação de humildade que a verdadeira bondade produz em nossos corações é esmagadora e nos assusta, por isso desejamos retribuir. Somente após sermos capazes de receber o verdadeiro amor é que teremos condições de conhecer o coração de Deus.
-
 <h2>O coração é o centro das atenções de Deus</h2>
-
 A bondade sempre vem do coração, e os atributos do coração são eternos. Já a falsa bondade se dirige à carne ou à mente e é algo transitório. Como as pessoas não entendem a diferença entre o coração e a mente, são enganadas facilmente com coisas que fazem sentido para a mente, mas nenhum sentido em relação à verdade que está no coração.  Por acreditarmos no falso, pensamos que Deus valoriza as coisas temporárias e a medida de seu amor por nós está relacionada com o tanto que ele beneficia nossa carne. Sob esse entendimento, as bênçãos financeiras são as maiores. Julgamos uma pessoa com lutas financeiras como alguém que não está andando corretamente diante de Deus.
 
 Qualquer pessoa pode ter uma atitude gentil. Isso não exige amor. Mas um ato bondoso sempre atinge o coração porque é conduzido pelo amor. As pessoas preferem a gentileza à bondade. A gentileza pergunta como estamos, mas só a bondade quer saber a resposta. A gentileza dá um tapinha nas costas, mas a bondade invade o coração. A gentileza nos traz um sorriso, mas a bondade pode nos fazer chorar, pois expõe coisas íntimas que estavam escondidas por toda nossa vida.

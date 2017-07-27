@@ -1,28 +1,22 @@
 ---
 ID: 1967
 post_title: A lei, a igreja e as janelas dos trens
-author: Fernando
-post_date: 2011-12-04 20:11:22
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/a-lei-a-igreja-e-as-janelas-dos-trens
+permalink: >
+  artigos/a-lei-a-igreja-e-as-janelas-dos-trens.html
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Ricardo Oliveira
-post_destaques:
-  - Nao
-aktt_tweeted:
-  - "1"
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2802546082"
+categories:
+  - Artigos
+  - Igreja
+tags:
+  - edicao-71
+author: ""
+post_date: 2011-12-04 20:11:22
 ---
 Fazer o percurso de trem entre as estações de Barueri e Barra Funda não é uma experiência agradável, mas fica ainda pior quando a viagem é realizada numa tarde ensolarada de verão. Para mim parece impossível não injuriar o engenheiro que colocou no vagão janelas tão pequenas, incapazes de prover aos cansados trabalhadores e estudantes o mínimo de oxigênio necessário para a manutenção da vida.
 

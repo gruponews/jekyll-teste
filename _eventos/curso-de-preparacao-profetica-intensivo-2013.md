@@ -3,16 +3,23 @@ ID: 2983
 post_title: >
   Curso de Preparação Profética
   Intensivo 2013
-author: Fernando
-post_date: 2013-02-04 20:34:21
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-cppi-2013.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-cppi-2013.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-cppi-2013.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-cppi-2013-720x340.jpg
 post_excerpt: ""
 layout: event
-permalink: /eventos/curso-de-preparacao-profetica-intensivo-2013
+permalink: >
+  eventos/curso-de-preparacao-profetica-intensivo-2013
 published: true
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_destaques:
-  - nao_destaque
+categories: ""
+tags: ""
+author: ""
+post_date: 2013-02-04 20:34:21
 ---
 <h2>Matérias</h2>
 <h3>Primeiro módulo</h3>
@@ -51,24 +58,24 @@ Missões – Adriel Andrade
 Lazer – Eliasaf de Assis
 <h2>Investimento</h2>
 <ul>
-    <li dir="ltr">
+	<li dir="ltr">
 <p dir="ltr">Primeiro Módulo: (6 a 9 de julho) Incluso Estadia e Alimentação: R$ 240,00</p>
 </li>
-    <li dir="ltr">
+	<li dir="ltr">
 <p dir="ltr">Segundo Módulo: (10 a 12 de julho) Incluso Estadia e Alimentação: R$ 180,00</p>
 </li>
-    <li dir="ltr">
+	<li dir="ltr">
 <p dir="ltr">Terceiro Módulo: (13 a 14 de julho) Incluso Estadia e Alimentação: R$ 120,00</p>
 </li>
-    <li dir="ltr">
+	<li dir="ltr">
 <p dir="ltr">Primeiro e Segundo Módulos (6 a 12 de julho) Incluso Estadia e Alimentação:<del>R$420,00</del> R$385,00</p>
 </li>
-    <li dir="ltr">
+	<li dir="ltr">
 <p dir="ltr">Segundo e Terceiro Módulos (10 a 14 de julho) Incluso Estadia e Alimentação:<del>R$300,00</del> R$275,00</p>
 </li>
-    <li dir="ltr">
+	<li dir="ltr">
 <p dir="ltr">TRÊS MÓDULOS (6 a 14 de julho) Incluso Estadia e Alimentação:<del> R$ 540,00</del> R$420,00!</p>
 </li>
 </ul>
 <h2>Ficha de inscrição</h2>
-<iframe src="//docs.google.com/spreadsheet/embeddedform?formkey=dHg5dkpwT1RZUjZ2U1RLX2s4c2I3TEE6MQ" height="1520" width="500" frameborder="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dHg5dkpwT1RZUjZ2U1RLX2s4c2I3TEE6MQ" height="1520" width="500" frameborder="0" marginwidth="0" marginheight="0"></iframe>

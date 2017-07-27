@@ -1,12 +1,16 @@
 ---
 ID: 4862
 post_title: Conferência
-author: Fernando
-post_date: 2017-02-20 11:20:18
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: /eventos/conferencia
+permalink: eventos/conferencia
 published: true
-wpcf-gn_post_destaques:
-  - destaque_novidade
+categories: ""
+tags: ""
+author: ""
+post_date: 2017-02-20 11:20:18
 ---

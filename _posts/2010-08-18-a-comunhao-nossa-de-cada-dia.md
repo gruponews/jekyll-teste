@@ -3,32 +3,25 @@ ID: 973
 post_title: >
   A Comunhão Nossa de Cada Dia – a
   reforma da unidade da igreja
-author: Victor Glad
-post_date: 2010-08-18 23:03:33
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/08/capa_comunhao1.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/08/capa_comunhao1-560x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/08/capa_comunhao1.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/08/capa_comunhao1-560x720.jpg
 post_excerpt: ""
 layout: post
-permalink: /publicacoes/a-comunhao-nossa-de-cada-dia
+permalink: >
+  publicacoes/a-comunhao-nossa-de-cada-dia.html
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Equipe da Comunicação
-post_destaques:
-  - Destaque2
-publicacoes_capa:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2010/08/capa_comunhao1.jpg
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2010/08/back_comunhao.jpg
-aktt_tweeted:
-  - "1"
-wpcf-gn_post_autor:
-  - Pedro Arruda
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "2802546013"
+categories:
+  - Livros
+  - Publicações
+tags: ""
+author: ""
+post_date: 2010-08-18 23:03:33
 ---
 <strong>Descubra juntamente com o autor a “pérola de maior valor”. Seu conceito e prática de comunhão vão mudar bastante depois da leitura. </strong>
 

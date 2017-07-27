@@ -3,16 +3,22 @@ ID: 4309
 post_title: >
   O futuro não é mais como era
   antigamente
-author: Fernando
-post_date: 2015-02-17 12:55:25
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/vida/o-futuro-nao-e-mais-como-era-antigamente
+permalink: >
+  bases-cristas/vida/o-futuro-nao-e-mais-como-era-antigamente.html
 published: true
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "3704419312"
+categories:
+  - Vida
+tags:
+  - edicao-80
+  - editorial
+author: ""
+post_date: 2015-02-17 12:55:25
 ---
 Alguns benefícios da tecnologia digital todos conhecemos, ainda que intuitivamente. As longas esperas em filas de banco, inclusive em terminais eletrônicos, que antes tínhamos de enfrentar para pagar contas e realizar consultas e transferências, são coisas do passado, já que hoje tudo isso pode ser feito de um dos muitos aparelhos eletrônicos que gravitam ao nosso redor. Ou seríamos nós que gravitamos ao redor deles? A possibilidade de contatar pessoas em qualquer esquina ou beco do planeta, ou de rastreá-las pelas redes sociais, e de estar permanentemente sendo alimentados com notícias transmitidas em tempo real, o tempo todo, de todos os lugares e culturas, deixa-nos a impressão nada ilusória de que, de fato, o mundo se apequenou.
 

@@ -3,16 +3,24 @@ ID: 3420
 post_title: >
   Transmissão ao vivo do Encristus
   Regional 2013
-author: Fernando
-post_date: 2013-08-20 23:28:35
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/08/banner-principal1.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/08/banner-principal1.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/08/banner-principal1.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/08/banner-principal1-720x353.jpg
 post_excerpt: ""
 layout: post
-permalink: /noticias/transmissao-ao-vivo-do-encristus-regional-2013
+permalink: >
+  noticias/transmissao-ao-vivo-do-encristus-regional-2013.html
 published: true
-wpcf-gn_post_destaques:
-  - destaque_maior
-dsq_thread_id:
-  - "2858561070"
+categories:
+  - Notícias
+tags: ""
+author: ""
+post_date: 2013-08-20 23:28:35
 ---
 Acompanhe a transmissão ao-vivo do Encristus Regional 2013, que a acontece em Sorocaba no próximo final de semana, 24 e 25 de agosto, a partir das 9h.
 

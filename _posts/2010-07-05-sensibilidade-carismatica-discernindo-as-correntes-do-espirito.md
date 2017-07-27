@@ -1,18 +1,22 @@
 ---
 ID: 3227
 post_title: 'Sensibilidade carismática &#8211; Discernindo as correntes do Espírito'
-author: Fernando
-post_date: 2010-07-05 15:13:00
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/sensibilidade-carismatica-discernindo-as-correntes-do-espirito
+permalink: >
+  artigos/sensibilidade-carismatica-discernindo-as-correntes-do-espirito.html
 published: true
-wpcf-gn_post_autor:
-  - Ezequiel Netto
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "2805029164"
+categories:
+  - Artigos
+  - Desenvolvendo os dons proféticos
+  - Espírito Santo
+tags: ""
+author: ""
+post_date: 2010-07-05 15:13:00
 ---
 <i>Este artigo é o sétimo de uma sequência sobre dons proféticos, assunto que o autor vem pesquisando desde 2002 e compartilhando em muito lugares</i>
 
@@ -50,11 +54,11 @@ Muitas vezes, em nossas orações, usamos a expressão “se for da tua vontade.
 <h3>A necessidade de treinamento</h3>
 Ninguém na igreja se opõe quando um músico precisa ensaiar ou um palestrante precisa estudar para ministrar a palavra. Mas falar que um profeta precisa de treinamento pode soar estranho para a maioria dos cristãos. O que então podemos fazer para desenvolver nossa sensibilidade carismática?
 <ul>
-    <li>Dedicar um tempo de qualidade na presença de Deus, para oração e meditação. Se toda nossa oração se resume ao estilo “me abençoe”, precisamos crescer nesta área. Deus quer revelar seus planos aos profetas, e se ficarmos apenas pedindo, pedindo, não teremos tempo para ouvir o que ele quer falar também;</li>
-    <li>“Sem santidade ninguém verá ao Senhor”, e o Espírito Santo não terá liberdade para agir através de alguém cheio de pecados;</li>
-    <li>Fortalecer nossa mente com o alimento espiritual – leitura bíblica e de bons livros, ouvir músicas que exaltem ao Senhor, manter conversas edificantes com os irmãos, “em tudo dar graças”, manter o coração alegre com o gozo do Senhor (o espírito triste seca os ossos – Pv 17.22); a pessoa que passa o dia inteiro ouvindo músicas mundanas, assistindo a noticiários sobre tragédias, programas de televisão que exploram traições e outras práticas contrárias à palavra de Deus, que conversa “borracha” e não tem tempo para orar, buscar a Deus, ler a Bíblia, como poderá querer ser útil ao Senhor?</li>
-    <li>Dedicar um espaço em nossas reuniões para o exercício dos dons proféticos: podemos fazer orações apressadas, como “cortesia pastoral”, já esperando que nada vai acontecer; e podemos também procurar discernir o coração de Deus, o que ele quer fazer naquela situação, por que ocorreu determinado fato (um desemprego, uma doença, um conflito), e orar e falar de acordo com o que ouvimos;</li>
-    <li>Manter nossas ferramentas “prontas para o uso”: nosso dom pode ser usado em qualquer lugar, e não apenas nas reuniões. Somos seres espirituais em todo tempo, e não temos uma tecla que seleciona “espiritual ou carnal”, dependendo do ambiente. Você pode estar numa fila de banco, no supermercado, no ponto de ônibus, no trabalho e orar pedindo a Deus que fale algo para quem estiver ao seu lado. Ou então pode ficar reclamando dos preços, do calor, do presidente... Tudo vai depender de estarmos ou não ligados em Deus. Lembre-se de que, como numa estação de rádio, ele está transmitindo o tempo todo. Mas só vai ouvi-lo quem estiver sintonizado.</li>
+	<li>Dedicar um tempo de qualidade na presença de Deus, para oração e meditação. Se toda nossa oração se resume ao estilo “me abençoe”, precisamos crescer nesta área. Deus quer revelar seus planos aos profetas, e se ficarmos apenas pedindo, pedindo, não teremos tempo para ouvir o que ele quer falar também;</li>
+	<li>“Sem santidade ninguém verá ao Senhor”, e o Espírito Santo não terá liberdade para agir através de alguém cheio de pecados;</li>
+	<li>Fortalecer nossa mente com o alimento espiritual – leitura bíblica e de bons livros, ouvir músicas que exaltem ao Senhor, manter conversas edificantes com os irmãos, “em tudo dar graças”, manter o coração alegre com o gozo do Senhor (o espírito triste seca os ossos – Pv 17.22); a pessoa que passa o dia inteiro ouvindo músicas mundanas, assistindo a noticiários sobre tragédias, programas de televisão que exploram traições e outras práticas contrárias à palavra de Deus, que conversa “borracha” e não tem tempo para orar, buscar a Deus, ler a Bíblia, como poderá querer ser útil ao Senhor?</li>
+	<li>Dedicar um espaço em nossas reuniões para o exercício dos dons proféticos: podemos fazer orações apressadas, como “cortesia pastoral”, já esperando que nada vai acontecer; e podemos também procurar discernir o coração de Deus, o que ele quer fazer naquela situação, por que ocorreu determinado fato (um desemprego, uma doença, um conflito), e orar e falar de acordo com o que ouvimos;</li>
+	<li>Manter nossas ferramentas “prontas para o uso”: nosso dom pode ser usado em qualquer lugar, e não apenas nas reuniões. Somos seres espirituais em todo tempo, e não temos uma tecla que seleciona “espiritual ou carnal”, dependendo do ambiente. Você pode estar numa fila de banco, no supermercado, no ponto de ônibus, no trabalho e orar pedindo a Deus que fale algo para quem estiver ao seu lado. Ou então pode ficar reclamando dos preços, do calor, do presidente... Tudo vai depender de estarmos ou não ligados em Deus. Lembre-se de que, como numa estação de rádio, ele está transmitindo o tempo todo. Mas só vai ouvi-lo quem estiver sintonizado.</li>
 </ul>
 [Esta matéria foi baseada nos artigos “Vida en alas”, de Ern Baxter, publicado na revista Vino Nuevo, e “Voar como águia”, publicado na revista Impacto. Maiores esclarecimentos poderão ser obtidos diretamente com o autor, por meio do seguinte endereço: ezequielnetto@itelefonica.com.br].
 

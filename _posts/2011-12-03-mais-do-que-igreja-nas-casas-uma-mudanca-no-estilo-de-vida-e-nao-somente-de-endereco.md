@@ -1,28 +1,22 @@
 ---
 ID: 1965
 post_title: 'Mais do que igreja nas casas: uma mudança no estilo de vida, e não somente de endereço'
-author: Fernando
-post_date: 2011-12-03 20:11:36
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/mais-do-que-igreja-nas-casas-uma-mudanca-no-estilo-de-vida-e-nao-somente-de-endereco
+permalink: >
+  artigos/mais-do-que-igreja-nas-casas-uma-mudanca-no-estilo-de-vida-e-nao-somente-de-endereco.html
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Pedro Arruda
-post_destaques:
-  - Nao
-aktt_tweeted:
-  - "1"
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2802546128"
+categories:
+  - Artigos
+  - Família
+  - Igreja nos lares
+tags: ""
+author: ""
+post_date: 2011-12-03 20:11:36
 ---
 <h3>Templo nas casas</h3>
 Fomos tão acostumados a identificar igreja com o templo que quando se propôs o modelo de igreja nas casas, o que se fez, na verdade, foi transferir para este lugar as atividades habitualmente realizadas no templo. Ou seja, <em>a cultura do templo</em> passou a ser reproduzida no ambiente doméstico. Desde então, o que se viu foi uma versão religiosa de um fenômeno cíclico que costuma atualizar a moda nos domínios das roupas, calçados, móveis ou automóveis: a tendência<em> retrô</em>, em que o velho torna-se novo, embora apenas aparentemente, pois a atualização é sempre acompanhada de um grau elevado de sofisticação. Fica-se com a impressão de que se está seguindo um estilo característico de antepassados, quando, na verdade, o que se tem é uma representação que não corresponde efetivamente ao original.

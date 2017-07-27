@@ -1,31 +1,30 @@
 ---
 ID: 601
 post_title: Reevangelizando
-author: Fernando
-post_date: 2010-03-30 22:15:01
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao-720x300.jpg
 post_excerpt: ""
 layout: post
-permalink: /noticias/reevangelizando
+permalink: noticias/reevangelizando.html
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Equipe da Comunicação
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2010/04/back_reevangelizando.jpg
-aktt_tweeted:
-  - "1"
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "2802545697"
+categories:
+  - Notícias
+tags:
+  - Curso
+  - Evangelismo
+  - ovelhas
+  - Pedro
+  - Pedro Arruda
+  - radio
+  - tv
+author: ""
+post_date: 2010-03-30 22:15:01
 ---
 O curso <em>Reevangelizando</em> tem o objetivo de atualizar nossa visão de evangelização, segundo o que a Bíblia ensina sobre o assunto. Quem, o que e como evangelizar. O curso começou no dia 22 de Março (Segunda-feira),  e acontecerá semanalmente às segundas. O horário é das 20h às 22h.
 <h3>Inscrições</h3>

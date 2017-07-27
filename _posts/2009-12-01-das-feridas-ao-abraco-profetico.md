@@ -1,27 +1,31 @@
 ---
 ID: 97
 post_title: Das Feridas ao Abraço Profético
-author: eduardolucas
-post_date: 2009-12-01 21:20:12
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/das-feridas-ao-abraco-profetico
+permalink: >
+  artigos/das-feridas-ao-abraco-profetico.html
 published: true
-post_autor:
-  - Maurício Bronzatto
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/das_feridas_ao_abraco_profetico.jpg
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "5688165367"
+categories:
+  - Artigos
+  - Família
+tags:
+  - Atitude
+  - Conviver
+  - Coragem
+  - Cura
+  - Família
+  - Ferida
+  - Restauração
+  - Situações
+  - Unidade
+  - Visão
+author: ""
+post_date: 2009-12-01 21:20:12
 ---
 Feridas são feridas sempre, mas quando abertas em família, elas têm um poder de latejamento insuportável. Se não são extirpadas até a raiz, com o tempo, elas causam infecção generalizada e comprometem seriamente o processo reversivo de cura naqueles que sofreram as machucaduras. Recuperar-se, por exemplo, de uma humilhação imposta pelo patrão ou pelo colega de trabalho é menos difícil do que desenvolver uma boa auto-estima após ser vítima da frieza dos pais ou do desprezo dos irmãos. Isso é tão verdade, que existem pessoas amarguradíssimas e incapazes de perdoarem a si mesmas porque vergam diante do peso esmagador de uma auto-cobrança que as faz se sentirem sempre aquém das expectativas, com um sentimento de que poderiam ter feito mais ou melhor. Dentro dos lares, há um sem número de pessoas culpadas, complexadas, diminuídas. Há um outro tanto carregando ódio mortal, esperando pelo dia de dar o troco. Há gente que não agüentou mais a pressão de ter que dormir no mesmo quarto, sentar à mesma mesa, assistir à mesma televisão e se mandou. Há gente que arrumou um casamento para se ver livre da atmosfera do lar. Há gente que começou a se meter em muitos caminhos escuros aqui fora para ver se chamava a atenção de alguém lá dentro. Há muita gente errando bastante dentro do lar, mas num quase desespero para ser melhor. Mas há também, e com tristeza o digo, gente que desistiu de lutar e adotou a postura da hipocrisia, do cinismo e da indiferença. E, essa última, tem sido a grande tragédia de muitas famílias.
 

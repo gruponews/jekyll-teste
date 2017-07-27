@@ -1,20 +1,18 @@
 ---
 ID: 1058
 post_title: Preletores
-author: Fernando
-post_date: 2010-09-11 18:11:49
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /conferencia2010/preletores
+permalink: conferencia2010/preletores
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - ""
-post_destaques:
-  - Nao
-dsq_thread_id:
-  - "5274504719"
+categories: ""
+tags: ""
+author: ""
+post_date: 2010-09-11 18:11:49
 ---
 <strong>Gino Iafrancesco Villegas </strong>
 

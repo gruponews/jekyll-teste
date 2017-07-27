@@ -1,18 +1,18 @@
 ---
 ID: 1103
 post_title: Local
-author: Fernando
-post_date: 2010-09-16 18:09:05
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /conferencia2010/local
+permalink: conferencia2010/local
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - ""
-post_destaques:
-  - Nao
+categories: ""
+tags: ""
+author: ""
+post_date: 2010-09-16 18:09:05
 ---
 <strong>Centro de Eventos Vale da Águia</strong>
 Rua Paulo Varchavtchik, Cx 21

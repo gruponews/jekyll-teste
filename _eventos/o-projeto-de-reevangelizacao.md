@@ -1,25 +1,26 @@
 ---
 ID: 834
 post_title: O Projeto de Reevangelização
-author: Victor Glad
-post_date: 2010-06-06 17:31:14
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao-720x300.jpg
 post_excerpt: ""
 layout: event
-permalink: /eventos/o-projeto-de-reevangelizacao
+permalink: eventos/o-projeto-de-reevangelizacao
 published: true
-aktt_notify_twitter:
-  - 'a:2:{i:0;s:2:"no";i:1;s:2:"no";}'
-post_autor:
-  - Equipe GrupoNews
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2010/06/back_reevangelizacao.jpg
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_destaques:
-  - nao_destaque
+categories:
+  - Notícias
+tags:
+  - deste
+  - Nosso
+  - volta
+author: ""
+post_date: 2010-06-06 17:31:14
 ---
 Dando continuidade ao curso <a href="http://www.gruponews.com.br/2010/03/reevangelizando.html">Reevangelizando</a>, daremos início a partir desta segunda-feira uma nova fase do projeto iniciado em março deste ano. Semanalmente, toda segunda-feira a partir das 20h, você é o nosso convidado para <strong>O PROJETO DE REEVANGELIZAÇÃO</strong> e sua divulgação.
 

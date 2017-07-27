@@ -1,26 +1,19 @@
 ---
 ID: 1885
 post_title: O milagre da visita
-author: Fernando
-post_date: 2011-07-12 18:58:01
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/o-milagre-da-visita
+permalink: artigos/o-milagre-da-visita.html
 published: true
-aktt_notify_twitter:
-  - 'no'
-post_autor:
-  - Pe. Inácio José do Vale
-post_destaques:
-  - Nao
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2840904326"
+categories:
+  - Artigos
+tags: ""
+author: ""
+post_date: 2011-07-12 18:58:01
 ---
 <em>“Bendito seja o Senhor Deus de Israel, porque visitou e redimiu o seu povo.” (Lc 1.68)</em>
 

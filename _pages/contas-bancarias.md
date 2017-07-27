@@ -1,14 +1,18 @@
 ---
 ID: 3395
 post_title: Contas bancárias
-author: Fernando
-post_date: 2013-08-06 21:45:57
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /contas-bancarias
+permalink: contas-bancarias
 published: true
-sharing_disabled:
-  - "1"
+categories: ""
+tags: ""
+author: ""
+post_date: 2013-08-06 21:45:57
 ---
 <h2>Pagamento de encontros e livros ou ofertas</h2>
 <strong>Banco:</strong> Bradesco

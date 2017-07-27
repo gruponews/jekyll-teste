@@ -1,18 +1,21 @@
 ---
 ID: 3603
 post_title: As três perguntas
-author: Fernando
-post_date: 2014-03-13 23:56:07
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/tres-perguntas
+permalink: bases-cristas/tres-perguntas.html
 published: true
-wpcf-gn_post_autor:
-  - ""
-dsq_thread_id:
-  - "2802703785"
-wpcf-gn_post_destaques:
-  - destaque_novidade
+categories:
+  - Bases Cristãs
+tags:
+  - edicao-75
+  - Vida
+author: ""
+post_date: 2014-03-13 23:56:07
 ---
 Certa vez, ocorreu a um imperador que, se soubesse responder apenas às seguintes perguntas, nada jamais o afastaria do caminho justo: Qual é o melhor momento para qualquer coisa? Quais são as pessoas mais importantes em qualquer trabalho? Qual é a coisa mais importante a fazer em qualquer momento?
 

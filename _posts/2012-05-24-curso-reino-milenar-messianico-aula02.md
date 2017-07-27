@@ -1,24 +1,24 @@
 ---
 ID: 2474
 post_title: 'Curso “O Reino Milenar Messiânico” #aula02'
-author: Victor Glad
-post_date: 2012-05-24 00:00:17
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma2.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma2.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma2.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma2-720x320.jpg
 post_excerpt: ""
 layout: post
-permalink: /noticias/curso-reino-milenar-messianico-aula02
+permalink: >
+  noticias/curso-reino-milenar-messianico-aula02.html
 published: true
-aktt_notify_twitter:
-  - 'yes'
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - nao_destaque
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "3173010636"
+categories:
+  - Notícias
+tags: ""
+author: ""
+post_date: 2012-05-24 00:00:17
 ---
 <strong>Tema:</strong> O Governo e a Vontade de Deus - O livre arbítrio e sua relação com o Reino de Deus. O "mundo perfeito" para o exercício do livre arbítrio. O homem e seus microreinos. Redescobrindo a rebelião interior. Uma mente apropriada para experimentar a vontade de Deus. O prazer de Deus e do homem na consolidação do Reino.
 <strong>Palestrantes:</strong> Ricardo Souza e Ricardo Oliveira

@@ -1,29 +1,30 @@
 ---
 ID: 50
 post_title: O Valor do Dinheiro
-author: eduardolucas
-post_date: 2009-12-01 21:54:34
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/o-valor-do-dinheiro
+permalink: artigos/o-valor-do-dinheiro.html
 published: true
-post_autor:
-  - Pedro Arruda
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/o_valor_do_dinheiro.jpg
-aktt_notify_twitter:
-  - 'no'
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2815204504"
+categories:
+  - Artigos
+  - Bases Cristãs
+tags:
+  - Contribuir
+  - Dar
+  - Dinheiro
+  - Escravidão
+  - Moeda
+  - Receber
+  - Reino
+  - Riqueza
+  - Servir
+  - Tudo
+author: ""
+post_date: 2009-12-01 21:54:34
 ---
 <h3>Deitou Tudo Quanto Possuía</h3>
 <em>Santo Anselmo (1033-1109), monge, bispo, Doutor da Igreja, Carta 112, a Hugo, o cativo (a partir da trad. De Orval)</em>

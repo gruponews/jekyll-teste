@@ -1,29 +1,35 @@
 ---
 ID: 82
 post_title: A Felicidade Cristã
-author: eduardolucas
-post_date: 2009-12-01 20:49:47
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_felicidade_crista.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_felicidade_crista.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_felicidade_crista.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_felicidade_crista-720x550.jpg
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/vida/a-felicidade-crista
+permalink: >
+  bases-cristas/vida/a-felicidade-crista.html
 published: true
-post_autor:
-  - Paulo Roberto da Silva
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_felicidade_crista.jpg
-aktt_notify_twitter:
-  - 'no'
-wpcf-gn_post_autor:
-  - Paulo Roberto da Silva
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "2802545716"
+categories:
+  - Bases Cristãs
+  - Vida
+tags:
+  - Acreditar
+  - Comparar
+  - Dificuldade
+  - Esperança
+  - Felicidade
+  - Mundo
+  - Salvação
+  - Sofrimento
+  - Trevas
+  - Vida
+author: ""
+post_date: 2009-12-01 20:49:47
 ---
 Na carta aos efésios, 2:12, lemos que quem não tem Cristo, não tem esperança e está sem Deus no mundo. Jesus é nossa única esperança, apenas nele podemos depositar a nossa vida e todas as nossas necessidades. Entretanto, na primeira epístola aos coríntios, 15:16, encontramos: “...se nós temos esperança em Cristo para esta vida, somos os mais miseráveis de todos os homens”.
 
@@ -38,6 +44,5 @@ A nossa felicidade hoje tem que se basear na esperança e não nas circunstânci
 A carta aos romanos, 8:18, nos exorta dizendo que os sofrimentos do tempo presente não têm comparação alguma com a glória futura. Deus nos exorta a estarmos vivendo diariamente este versículo de fé. A verdadeira fé é o meio para estarmos gozando da felicidade em Jesus Cristo em qualquer situação, e não apenas um recurso para modificarmos as circunstâncias e termos mais conforto físico, financeiro, emocional, etc.
 
 O cristão pode ser feliz e também passar por momentos de sofrimento. O sofrimento não é falta de fé. Mais do que nos oferecer alívio no meio do sofrimento, Jesus nos oferece esperança. A felicidade que Deus nos oferece não é para que a vivamos apenas nas circunstâncias agradáveis, a Sua felicidade ultrapassa todo o nosso entendimento.
-
 <blockquote>Ainda que a figueira não floresça, nem haja fruto na vide, ainda que o produto da oliveira falhe, e os campos não produzam mantimento, ainda que as ovelhas sejam exterminadas, e nos currais não haja gado, todavia eu me alegrarei no senhor, exultarei no Deus da minha salvação. O Senhor é minha força; torna os meu pés como os das corças, e me faz andar sobre os lugares altos.
 <em>Profeta Habacuque 3:17-19</em></blockquote>

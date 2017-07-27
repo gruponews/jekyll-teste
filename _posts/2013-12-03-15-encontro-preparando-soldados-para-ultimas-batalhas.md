@@ -3,20 +3,24 @@ ID: 3569
 post_title: >
   15º Encontro Preparando Soldados para
   as Últimas Batalhas
-author: Fernando
-post_date: 2013-12-03 13:32:56
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner-encontro-virada-1920x1080.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner-encontro-virada-1280x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner-encontro-virada-1280x1280.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/12/banner-encontro-virada-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: /noticias/15-encontro-preparando-soldados-para-ultimas-batalhas
+permalink: >
+  noticias/15-encontro-preparando-soldados-para-ultimas-batalhas.html
 published: true
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "3942352990"
+categories:
+  - Notícias
+tags: ""
+author: ""
+post_date: 2013-12-03 13:32:56
 ---
 Há mais de 10 anos a equipe do CPP (Curso de Preparação Profética), em parceria com o Ministério Impacto, tem realizado o Encontro “Preparando Soldados para as Últimas Batalhas”. No primeiro evento, que aconteceu na virada do ano de 2002 para 2003, o objetivo era reunir jovens de diversas partes do Brasil que têm uma paixão por Deus e por sua Palavra que se destaca no meio da normalidade da maioria dos jovens. Desde 2012 a liderança do Encontro tem aberto o evento não só para jovens, mas para todos aqueles (de qualquer idade, exceto crianças) que desejam experimentar mais de Deus. Muitos anos se passaram e a cada ano o evento recebeu um tema diferente. Os temas têm sido fruto daquilo que Deus tem falado durante o ano entre alunos e equipe do CPP e o objetivo é focar em uma verdade da Palavra de Deus, meditar, orar e compartilhar para que cada um possa receber edificação para enfrentar o ano por vir.
 

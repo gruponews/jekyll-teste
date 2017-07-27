@@ -3,24 +3,30 @@ ID: 1466
 post_title: >
   Nossa jornada em busca da igreja
   verdadeira
-author: Fernando
-post_date: 2010-02-02 00:00:11
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /igreja/nossa-jornada-em-busca-da-igreja-verdadeira
+permalink: >
+  igreja/nossa-jornada-em-busca-da-igreja-verdadeira.html
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - ""
-post_destaques:
-  - Nao
-wpcf-gn_post_autor:
-  - ""
-dsq_thread_id:
-  - "2802545925"
-wpcf-gn_post_destaques:
-  - destaque_novidade
+categories:
+  - Igreja
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+tags:
+  - casas
+  - Desigrejados
+  - edicao-64
+  - >
+    Por que Você Não Quer Mais Ir À
+    Igreja?
+  - sem igreja
+author: ""
+post_date: 2010-02-02 00:00:11
 ---
 Século 16 – período das grandes descobertas. No princípio, era a Igreja Católica. Mas nem ela nem o Papa estavam com Deus, segundo os protestantes que chegaram. Por outro lado, para os católicos, eram os protestantes que se haviam afastado da Santa Igreja. Esses dois grupos de cristãos estão brigando durante 500 anos pelo direito de serem considerados os detentores do cristianismo verdadeiro.
 

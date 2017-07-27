@@ -1,28 +1,27 @@
 ---
 ID: 1972
 post_title: Relacionamentos afetados pelo divórcio
-author: Fernando
-post_date: 2011-12-15 00:00:20
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/relacionamentos-afetados-pelo-divorcio
+permalink: >
+  artigos/relacionamentos-afetados-pelo-divorcio.html
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Juarez Gomes e Maria de Carvalho Gomes
-post_destaques:
-  - Nao
-aktt_tweeted:
-  - "1"
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2802546132"
+categories:
+  - Artigos
+  - Família
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+tags:
+  - edicao-71
+authors:
+  - Juarez Gomes
+  - Maria de Carvalho Gomes
+post_date: 2011-12-15 00:00:20
 ---
 <em>Este artigo é o terceiro de uma série que discutirá alguns aspectos complexos do divórcio, uma prática antiga que afeta atualmente a maioria das famílias. </em>
 

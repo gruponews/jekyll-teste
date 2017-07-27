@@ -3,30 +3,20 @@ ID: 2069
 post_title: >
   Da frustração à comunhão e ao
   abandono de nossos falsos cristos
-author: Fernando
-post_date: 2012-03-28 12:00:00
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/frustracao-comunhao-abandono-nossos-falsos-cristos
+permalink: >
+  artigos/frustracao-comunhao-abandono-nossos-falsos-cristos.html
 published: true
-aktt_notify_twitter:
-  - 'yes'
-"og:type":
-  - article
-post_autor:
-  - Maurício Bronzatto
-post_destaques:
-  - Nao
-aktt_tweeted:
-  - "1"
-wpcf-gn_post_imagem:
-  - ""
-wpcf-gn_post_autor:
-  - Maurício Bronzatto
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2802548914"
+categories:
+  - Artigos
+tags: ""
+author: ""
+post_date: 2012-03-28 12:00:00
 ---
 A frustração e a decepção são necessárias para a mudança de estágio em nossa jornada espiritual. Não há como trocar de degrau sem contar com o benefício que elas trazem, embora quase sempre só o reconheçamos depois que sua influência sobre nós perde força, e desde que não nos curvemos a uma resignação paralisante. Fazer as pazes com nossos limites é saúde para nós, mas isso não pode se dar à custa da combustão da inconformidade, que põe em movimento o processo de nos descolar da fase em que estamos para abrir nossos olhos à seguinte. O estado de satisfação não exige nada. A insatisfação, ao contrário, quer se transformar em alguma coisa e acaba fazendo a vez do motor que procurará ressignificar nossas frustrações e decepções, encontrando caminhos para os nossos limites, realidade que num primeiro momento não pudemos contornar. O reconhecimento de que algo nos falta e a decorrente busca a que tal constatação nos desafia são uma bênção em nossa vida.
 

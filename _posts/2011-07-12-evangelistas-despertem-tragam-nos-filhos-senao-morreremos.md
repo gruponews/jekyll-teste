@@ -3,26 +3,21 @@ ID: 1915
 post_title: >
   Evangelistas, despertem! Tragam-nos
   filhos, senão morreremos
-author: Fernando
-post_date: 2011-07-12 18:53:13
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/evangelistas-despertem-tragam-nos-filhos-senao-morreremos
+permalink: >
+  artigos/evangelistas-despertem-tragam-nos-filhos-senao-morreremos.html
 published: true
-aktt_notify_twitter:
-  - 'no'
-post_autor:
-  - Carlos Augusto da Silva
-post_destaques:
-  - Nao
-wpcf-gn_post_autor:
-  - ""
-dsq_thread_id:
-  - "2842833071"
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
+categories:
+  - Artigos
+  - Bases Cristãs
+tags: ""
+author: ""
+post_date: 2011-07-12 18:53:13
 ---
 Ultimamente, depois de observar algumas pessoas que apenas aparentemente fazem parte da igreja (como poderiam, se ainda não experimentaram o novo nascimento?), tenho sido despertado a falar, orar e até pregar àqueles que, embora com chamado de evangelista na casa do Senhor, não têm cumprido bem seu ministério. Esta reflexão, portanto, é dirigida a você, evangelista.
 

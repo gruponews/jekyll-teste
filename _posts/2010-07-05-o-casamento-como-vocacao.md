@@ -1,18 +1,19 @@
 ---
 ID: 3226
 post_title: O casamento como vocação
-author: Fernando
-post_date: 2010-07-05 15:12:52
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /familia-materias/o-casamento-como-vocacao
+permalink: familia/o-casamento-como-vocacao.html
 published: true
-wpcf-gn_post_autor:
-  - Marina Venuto da Silva
-dsq_thread_id:
-  - "2822774157"
-wpcf-gn_post_destaques:
-  - nao_destaque
+categories:
+  - Família
+tags: ""
+author: ""
+post_date: 2010-07-05 15:12:52
 ---
 Confesso que meus tantos olhares sobre o casamento jamais me haviam levado a pensá-lo como vocação. Na busca de uma definição, descobri que é impossível pensar na construção de uma família saudável se homem e mulher não se unirem sob a visão de que foram chamados à vocação conjugal.
 

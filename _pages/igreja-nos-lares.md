@@ -1,23 +1,19 @@
 ---
 ID: 230
 post_title: Igreja nos lares
-author: Fernando
-post_date: 2009-11-29 23:28:58
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /igreja-nos-lares
+permalink: igreja-nos-lares
 published: true
-post_autor:
-  - Equipe da Comunicação
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/11/backlight_igrejanoslares.jpg
-aktt_notify_twitter:
-  - 'yes'
-dsq_thread_id:
-  - "4031952671"
+categories:
+  - Geral
+tags: ""
+author: ""
+post_date: 2009-11-29 23:28:58
 ---
 Há quase quarenta anos realizamos reuniões nos lares como auxílio à prática da vida cristã, o mesmo costume observado nos cristãos primitivos antes dos templos instituídos pelo Imperador Constantino. Absorvidos pelo cristianismo, os templos de Constantino perpetuaram a ideia de templo como lugar obrigatório para a realização de reuniões cristãs. Porém, nossa proposta busca restaurar a diginidade da família - "célula-mãe" da sociedade -  priorizando o trabalho de formação espiritual de "homens novos para um mundo novo" encontrado em Deus.
 <h3>Breve histórico</h3>

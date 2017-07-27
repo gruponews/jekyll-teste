@@ -1,20 +1,18 @@
 ---
 ID: 1006
 post_title: A última mensagem
-author: Fernando
-post_date: 2010-09-07 11:57:36
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /conferencia2008/a-ultima-mensagem
+permalink: conferencia2008/a-ultima-mensagem
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Equipe GrupoNews
-post_destaques:
-  - Nao
-dsq_thread_id:
-  - "4485770842"
+categories: ""
+tags: ""
+author: ""
+post_date: 2010-09-07 11:57:36
 ---
 <em>“Pai de muitos filhos” é uma expressão coadjuvante à de “mãe de  muitos filhos”, epíteto com que Elza Timóteo Franco, esposa de Offini,  ficou conhecida depois de receber essa deferência do Espírito Santo,  numa palavra profética dirigida a ela em 1972, anunciando os filhos  espirituais que estavam a caminho. Mais de 36 anos são passados, e hoje  esses filhos são abundantes e incontáveis e se espalharam pelo Brasil e  pelo mundo. Naquela ocasião, como desdobramento da mesma palavra  profética, Offini Franco recebeu o encargo de abençoar e consolar o povo  prometido a Elza. Enquanto “ela” gerava – numa referência à origem  religiosa comum que mantinha com os filhos que se aproximavam –, “ele”  executava o trabalho de edificação e manutenção. Uma bela figura da  interação entre a igreja e o ministério. Para conhecer a história  profética desse casal, aconselhamos a leitura do livro “Mãe de muitos  filhos” (adquira o seu neste site). O texto a seguir é a transcrição, na  íntegra, da breve mensagem de encerramento proferida por Offini em 30  de novembro de 2008 na Conferência “A igreja de nosso tempo”. Na  madrugada seguinte, ele seria chamado pelo Senhor.</em>
 

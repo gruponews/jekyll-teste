@@ -3,27 +3,31 @@ ID: 120
 post_title: >
   O Caminho do Senhor e o caminho do
   ímpio
-author: eduardolucas
-post_date: 2009-12-01 21:46:44
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/o-caminho-do-senhor-e-o-caminho-do-impio
+permalink: >
+  artigos/o-caminho-do-senhor-e-o-caminho-do-impio.html
 published: true
-post_autor:
-  - Offini Franco
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/o_caminho_do_senhor_e_o_caminho_do_impio.jpg
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "5555300912"
+categories:
+  - Artigos
+  - Bases Cristãs
+tags:
+  - Buscar
+  - Caminho
+  - Conversão
+  - Desobedecer
+  - Estreito
+  - Exortação
+  - Ímpio
+  - Largo
+  - Testemunho
+  - Transformação
+author: ""
+post_date: 2009-12-01 21:46:44
 ---
 No livro do profeta Isaías lemos: “Buscai ao senhor enquanto se pode achar, invocai-o enquanto está perto. Deixe o ímpio os seu caminhos e o homem maligno os seus pensamentos, e se converta ao Senhor, que se compadecerá dele; torne para o nosso Deus, porque grandioso é em perdoar. Porque os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos os meus caminhos, diz o Senhor. Porque, assim como os céus são mais altos do que a terra, assim são os meus caminhos mais altos que os vossos caminhos, e os meus pensamentos mais altos do que os vossos pensamentos” (Is 55:6-9).
 

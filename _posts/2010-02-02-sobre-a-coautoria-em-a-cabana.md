@@ -1,22 +1,19 @@
 ---
 ID: 1474
 post_title: Sobre a coautoria em “A Cabana”
-author: Fernando
-post_date: 2010-02-02 00:15:52
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /geral/sobre-a-coautoria-em-a-cabana
+permalink: geral/sobre-a-coautoria-em-a-cabana.html
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-post_autor:
-  - Wayne Jacobsen
-post_destaques:
-  - Nao
-dsq_thread_id:
-  - "2802546182"
+categories:
+  - Geral
+tags: ""
+author: ""
+post_date: 2010-02-02 00:15:52
 ---
 Depois de finalizar “Por que você não quer mais ir à igreja?”, envolvi-me com o livro “A cabana”, que é uma história que um amigo escreveu para os filhos dele. Ele me entregou os originais e apenas disse: “Espero que você tenha interesse em ler”. Eu amei as percepções da natureza do Pai que aquele livro me trouxe. Perguntei a William se podia publicar. “Não vou publicar, eu escrevi para os meus filhos”, ele respondeu. Além disso, ele não estava bem certo se valia a pena. Eu o fiz acreditar que valia muito a pena.
 

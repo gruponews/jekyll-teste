@@ -1,26 +1,26 @@
 ---
 ID: 1890
 post_title: 'A santidade e a vida apenas irrepreensível: alguns contrastes'
-author: Fernando
-post_date: 2011-07-12 18:54:18
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/a-santidade-e-a-vida-apenas-irrepreensivel-alguns-contrastes
+permalink: >
+  artigos/a-santidade-e-a-vida-apenas-irrepreensivel-alguns-contrastes.html
 published: true
-aktt_notify_twitter:
-  - 'no'
-post_autor:
-  - Maurício Bronzatto
-post_destaques:
-  - Nao
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2802546271"
+categories:
+  - Artigos
+  - Bases Cristãs
+tags:
+  - contrastes
+  - irrepreensível
+  - pessoas
+  - Santidade
+  - santo
+author: ""
+post_date: 2011-07-12 18:54:18
 ---
 No artigo anterior, visitamos algumas cenas bíblicas em que pudemos perceber um contraste entre a vida apenas irrepreensível e a vida de santidade, tomando como fronteira mais evidente a presença ou a ausência da natureza de doação que um relacionamento com o Deus que se dá proporciona. Queremos agora explorar outros aspectos dessa distinção. As oposições, nem sempre muito fáceis de serem estabelecidas com nitidez neste assunto (as fronteiras, já o dissemos, são bem tênues), vão lançar luz sobre o fato de que o reino de Deus começa quando a justiça dos escribas e fariseus é excedida. A dificuldade maior é que estamos trabalhando com a diferenciação de duas posturas altamente positivas. Deixar de ser santo para ser “somente” irrepreensível é ainda continuar gozando de uma condição pra lá de favorável. E, num tempo como o nosso, em que o bem e o dever são átonos, o saldo do irrepreensível é incalculável. Insistimos, porém, no fato de que muitos fazem da vida irrepreensível um alvo (e deveriam fazer mesmo), mas não elegem o caminho da santidade para chegarem a ela. A santidade é uma conquista do Deus Santo em nós; a irrepreensibilidade, consequentemente, apenas torna manifesto e patente aos olhos aquilo que já é uma realidade em nosso interior pela via relacional da santidade.
 <h3><strong>Os contrastes </strong></h3>

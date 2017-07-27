@@ -3,33 +3,25 @@ ID: 2076
 post_title: >
   ENCRISTUS – Encontro de Cristãos em
   Unidade e Santidade
-author: Fernando
-post_date: 2012-07-27 12:00:20
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/08/anuncio-encristus-720x353.jpg
 post_excerpt: ""
 layout: post
-permalink: /noticias/encristus-encontro-de-cristaos-em-unidade-e-santidade
+permalink: >
+  noticias/encristus-encontro-de-cristaos-em-unidade-e-santidade.html
 published: true
-aktt_notify_twitter:
-  - 'yes'
-"og:type":
-  - article
-post_autor:
+categories:
+  - Notícias
+tags:
   - Pedro Arruda
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2012/02/anuncio-encristus.gif
-wpcf-gn_post_autor:
-  - Pedro Arruda
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-aktt_tweeted:
-  - "1"
-dsq_thread_id:
-  - "2802548789"
+author: ""
+post_date: 2012-07-27 12:00:20
 ---
 O termo “ecumênico” ganhou, ao longo da história, tantas cores e conotações que se faz necessário explicar o que queremos significar quando aqui o utilizamos. Ele tem sua origem no vocábulo grego <em>oikoumene</em>, derivado de <em>oikos</em>, que significa casa, lugar onde se vive, espaço onde se desenvolve a vida doméstica e as pessoas têm um mínimo de bem-estar. No Novo Testamento, esta palavra é usada em várias ocasiões – Mateus 24.14; Lucas 2.1; 4.5; 21.26; Atos 11.28; Romanos 10.18; Hebreus 1.6; 2.5; e Apocalipse 12.9 – para se referir ao “mundo inteiro”, a “toda a terra” e também ao “mundo vindouro”. Em seu significado atual e especificamente religioso, “ecumênico” diz respeito à unidade da Igreja de Cristo que vai além das diferenças entre as diversas igrejas. É restrito às igrejas cristãs e não se confunde com “Diálogo Inter-Religioso”, que inclui várias religiões e é promovido por meio das entidades religiosas a favor do interesse comum da sociedade, de maneira semelhante à que podem fazer os sindicatos, as associações, partidos políticos etc
 

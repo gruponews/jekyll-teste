@@ -3,28 +3,21 @@ ID: 1498
 post_title: >
   Outros aspectos práticos da jornada no
   amor do Pai
-author: Fernando
-post_date: 2010-02-02 00:45:05
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/outros-aspectos-praticos-da-jornada-no-amor-do-pai
+permalink: >
+  artigos/outros-aspectos-praticos-da-jornada-no-amor-do-pai.html
 published: true
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-post_autor:
-  - Wayne Jacobsen
-post_destaques:
-  - Nao
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2862758176"
+categories:
+  - Artigos
+  - Vida
+tags: ""
+author: ""
+post_date: 2010-02-02 00:45:05
 ---
 <!-- p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; font: 9.5px Georgia} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; font: 9.5px Georgia; min-height: 11.0px} span.Apple-tab-span {white-space:pre} --><strong>CONFERENCISTA: Eu gostaria que você falasse sobre a igreja relacional funcionando no ambiente de uma instituição religiosa, no ambiente de uma igreja no lar e também de forma independente como igreja relacional na cidade. </strong>
 

@@ -1,27 +1,33 @@
 ---
 ID: 55
 post_title: A Oração de Maria
-author: eduardolucas
-post_date: 2009-12-01 20:56:11
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria-960x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_oracao_de_maria-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/a-oracao-de-maria
+permalink: bases-cristas/a-oracao-de-maria.html
 published: true
-post_autor:
-  - Pedro Arruda
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_oracao_de_maria.jpg
-aktt_notify_twitter:
-  - 'yes'
-wpcf-gn_post_autor:
-  - Pedro Arruda
-dsq_thread_id:
-  - "2884333127"
-wpcf-gn_post_destaques:
-  - nao_destaque
+categories:
+  - Bases Cristãs
+tags:
+  - Assentar-se
+  - Dialogo
+  - Ensinar
+  - Escolher
+  - Falar
+  - Maria
+  - Monólogo
+  - Oração
+  - Ouvir
+  - Palavra
+author: ""
+post_date: 2009-12-01 20:56:11
 ---
 “E aconteceu que, indo eles de caminho, entrou Jesus numa aldeia; e certa mulher, por nome Marta, o recebeu em sua casa; e tinha esta uma irmã chamada Maria, a qual, assentando-se também aos pés de Jesus, ouvia a sua palavra. Marta, porém, andava distraída em muitos serviços; e, aproximando-se, disse: Senhor, não se te dá de que minha irmã me deixe servir só? Dize-lhe que me ajude. E respondendo Jesus, disse-lhe: Marta, Marta, estás ansiosa e afadigada com muitas coisas, mas uma só é necessária; e Maria escolheu a boa parte, a qual não lhe será tirada. (Lc.10:38-42)
 

@@ -1,12 +1,16 @@
 ---
 ID: 4859
 post_title: Encontro de Pré-Adolescente
-author: Fernando
-post_date: 2017-02-20 11:09:59
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: event
-permalink: /eventos/encontro-de-pre-adolescente
+permalink: eventos/encontro-de-pre-adolescente
 published: true
-wpcf-gn_post_destaques:
-  - destaque_novidade
+categories: ""
+tags: ""
+author: ""
+post_date: 2017-02-20 11:09:59
 ---

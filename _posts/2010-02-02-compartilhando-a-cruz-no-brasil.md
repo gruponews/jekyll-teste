@@ -1,28 +1,21 @@
 ---
 ID: 1506
 post_title: Compartilhando a cruz no Brasil
-author: Fernando
-post_date: 2010-02-02 15:22:31
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/compartilhando-a-cruz-no-brasil
+permalink: >
+  artigos/compartilhando-a-cruz-no-brasil.html
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Wayne Jacobsen
-post_destaques:
-  - Nao
-aktt_tweeted:
-  - "1"
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2862759141"
+categories:
+  - Artigos
+  - Vida
+tags: ""
+author: ""
+post_date: 2010-02-02 15:22:31
 ---
 <em>As impressões de Wayne Jacobsen sobre sua passagem pelo Brasil</em>
 

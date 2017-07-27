@@ -1,27 +1,26 @@
 ---
 ID: 706
 post_title: 'Conferência Impacto 2010 &#8211; Israel, a Igreja e os Últimos Dias'
-author: Victor Glad
-post_date: 2010-04-10 15:27:47
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/back_israel.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/back_israel.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/back_israel.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/04/back_israel-720x300.jpg
 post_excerpt: ""
 layout: event
-permalink: /eventos/israel-a-igreja-e-os-ultimos-dias
+permalink: >
+  eventos/israel-a-igreja-e-os-ultimos-dias
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Equipe da Comunicação
-post_destaques:
-  - Nao
-aktt_tweeted:
-  - "1"
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2010/04/back_israel.jpg
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_destaques:
-  - nao_destaque
+categories:
+  - Geral
+tags:
+  - Riqueza
+  - Testamento
+author: ""
+post_date: 2010-04-10 15:27:47
 ---
 <h3>Transmissão</h3>
 A Conferência Impacto 2010 será transmitida ao vivo, diretamente de Sorocaba pela Webtv e Rádio GrupoNews.

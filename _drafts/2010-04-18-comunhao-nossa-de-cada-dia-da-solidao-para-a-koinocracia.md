@@ -1,23 +1,22 @@
 ---
 ID: 747
 post_title: '&#8220;Comunhão nossa de cada dia&#8221; &#8211; Da solidão para a koinocracia'
-author: Fernando
-post_date: 2010-04-18 12:00:16
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /?p=747
+permalink: ?p=747
 published: false
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Pedro Arruda
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2010/04/comunhao-de-cada-dia.jpg
-aktt_tweeted:
-  - "1"
+categories:
+  - Artigos
+  - Bases Cristãs
+  - Comunhão
+tags:
+  - Comunhão
+  - Comunidade
+author: ""
 ---
 <blockquote><em>Este artigo é o terceiro de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler os anteriores. </em></blockquote>
 Deus planejou a existência de toda a população humana a partir de um casal, multiplicando-a através das gerações. Ao invés de criá-la diretamente, preferiu contar com a participação do homem em seu projeto e, paralelamente, abrir o caminho para a encarnação de Jesus.

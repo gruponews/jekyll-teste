@@ -1,27 +1,30 @@
 ---
 ID: 99
 post_title: De Volta para a Casa
-author: eduardolucas
-post_date: 2009-12-01 21:23:27
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/de-volta-para-a-casa
+permalink: artigos/de-volta-para-a-casa.html
 published: true
-post_autor:
-  - Pedro Arruda
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/de_volta_para_a_casa.jpg
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "5688164078"
+categories:
+  - Artigos
+  - Igreja
+tags:
+  - Casa
+  - Igreja
+  - Lugar
+  - Movimento
+  - Mudança
+  - Restauração
+  - Reunião
+  - Templo
+  - Visão
+  - Vontade
+author: ""
+post_date: 2009-12-01 21:23:27
 ---
 Quando Josué pronunciou “Eu e minha casa serviremos ao Senhor”, ele não tinha uma casa com sala, quartos, cozinha... No máximo, uma tenda que o abrigava com sua família. Quando se referia a sua casa, portanto, não tinha em mente um edifício físico. O mesmo podemos dizer de Abraão quando se queixava a Deus que, por não ter filhos, Eliezer, o servo damasceno, seria o herdeiro de sua casa (Gn 15:2). Quando Cornélio, que era um homem temente a Deus com toda a sua casa, pediu que Pedro o visitasse, reuniu os amigos, parentes e, possivelmente, empregados e soldados que o serviam. Tudo o que estava sob a influência do chefe da família era considerado a sua casa. Isso engloba as propriedades e as pessoas que estão em seu domínio. Como os pastores que tomavam conta do rebanho de Abraão faziam parte de sua casa, podemos dizer também que os empregados de um empresário nos dias de hoje também fazem parte de sua casa. É comum que os conselhos à conduta da família cristã inclua também o relacionamento entre servos e senhor.
 

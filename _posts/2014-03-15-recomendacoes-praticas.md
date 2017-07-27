@@ -1,18 +1,21 @@
 ---
 ID: 3602
 post_title: Recomendações práticas
-author: Fernando
-post_date: 2014-03-15 08:53:26
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /espirito-santo/desenvolvendo-os-dons-profeticos/recomendacoes-praticas
+permalink: >
+  espirito-santo/desenvolvendo-os-dons-profeticos/recomendacoes-praticas.html
 published: true
-wpcf-gn_post_autor:
-  - ""
-dsq_thread_id:
-  - "2817712615"
-wpcf-gn_post_destaques:
-  - destaque_novidade
+categories:
+  - Desenvolvendo os dons proféticos
+tags:
+  - edicao-75
+author: ""
+post_date: 2014-03-15 08:53:26
 ---
 <i>Este artigo encerra a sequência sobre dons proféticos, assunto que o autor vem pesquisando desde 2002 e compartilhando em muitos lugares.   </i>
 

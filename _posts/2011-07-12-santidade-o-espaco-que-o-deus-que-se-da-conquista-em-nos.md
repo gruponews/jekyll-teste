@@ -1,26 +1,21 @@
 ---
 ID: 1888
 post_title: 'Santidade: o espaço que o Deus que se dá conquista em nós'
-author: Fernando
-post_date: 2011-07-12 18:57:11
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/santidade-o-espaco-que-o-deus-que-se-da-conquista-em-nos
+permalink: >
+  artigos/santidade-o-espaco-que-o-deus-que-se-da-conquista-em-nos.html
 published: true
-aktt_notify_twitter:
-  - 'no'
-post_autor:
-  - Maurício Bronzatto
-post_destaques:
-  - Nao
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2804923755"
+categories:
+  - Artigos
+  - Bases Cristãs
+tags: ""
+author: ""
+post_date: 2011-07-12 18:57:11
 ---
 <h3>Conhecendo o dever</h3>
 Dou graças a Deus pela vida de minha mãe. Por meio dela, o dever moral se apresentou encarnado a mim: com voz, cheiro, toque, cuidados mil, renúncias e honestidade levada, por vezes, às últimas consequências. Sua vida escreveu leis em meu interior escavando sulcos profundos. Uma dessas leis foi “jamais tocar naquilo que é dos outros”. Lembro-me de que quando criança, instigado por alguns colegas, tentei roubar uma barra de chocolate de um supermercado. As circunstâncias da época não colocavam muitos obstáculos para o ato: não havia, ainda, câmeras de vigilância, funcionários destacados para fiscalizar as seções, detectores nas portas de entrada. Era só usar uma roupa um pouco mais larga e prender o doce ao elástico do calção. Foi o que fiz, e já me encaminhava para a saída, sem notar ao redor qualquer olhar de desconfiança por parte dos funcionários. Mas havia um fiscal dentro de mim. O regulador não estava fora; era de dentro que o alarme soava. Uma voz de timbre e inflexão conhecidos disparava estridentemente em minha mente: “Nunca mexa no que é dos outros. Não pegue nada que não seja seu, nem mesmo uma agulha ou papel de bala”. Eram os ensinamentos de minha mãe que se sobrepunham àquele desejo de pilhar o supermercado. Não deu, devolvi disfarçadamente o doce à prateleira.

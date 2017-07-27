@@ -3,18 +3,25 @@ ID: 3402
 post_title: >
   Assim brilhe a vossa luz diante dos
   homens
-author: Fernando
-post_date: 2013-10-27 09:00:14
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/vida/assim-brilhe-a-vossa-luz-diante-dos-homens
+permalink: >
+  bases-cristas/vida/assim-brilhe-a-vossa-luz-diante-dos-homens.html
 published: true
-wpcf-gn_post_autor:
-  - Maurício Bronzatto
-dsq_thread_id:
-  - "2808833757"
-wpcf-gn_post_destaques:
-  - nao_destaque
+categories:
+  - Vida
+tags:
+  - Comunhão
+  - edicao-76
+  - Luz
+  - revelação
+  - Vida
+author: ""
+post_date: 2013-10-27 09:00:14
 ---
 É relativamente grande, ao longo das Escrituras, o número de interações de Deus com o homem, estando este às voltas com as peculiaridades do mundo do emprego. Não raro observa-se um chamado, uma confrontação, um ensinamento, uma analogia carregada de verdade espiritual, que têm origem a partir das práticas do trabalho cotidiano em que o homem bíblico está inserido, prova inquestionável de que Deus não está interessado em dividir a vida em sagrada e secular, hierarquizando momentos mais ou menos propícios para a manifestação de sua glória.
 
@@ -29,5 +36,4 @@ wpcf-gn_post_destaques:
 Somos convidados a brilhar a nossa luz diante dos homens para que vejam nossas boas obras e glorifiquem o Pai que está nos céus (Mt 5.16). Não é uma questão de nos sobressairmos. Trata-se de abrir caminhos para a glória de Deus, sobretudo se levarmos em consideração o fato de que o ambiente profissional está saturado de mediocridade, mesmice. Para colaborar, a parábola dos talentos ensina que a mediocridade é sempre punida (Mt 25.14-30). E eu acrescentaria: principalmente a mediocridade dos cristãos.
 
 Assim como a boca fala do que transborda o coração (Mt 12.34) e a formosura do rosto tem a ver com as inclinações interiores do sentir (Pv 15.13), nossas manifestações exteriores, explicitadas nas obras que nossas mãos realizam, dão testemunho da condição de fé que alcançamos no conhecimento de Cristo Jesus. Tiago já nos advertiu de que “a fé, se não tiver obras, por si só está morta” (Tg 2.17). Nosso problema é que sempre espiritualizamos demais os textos bíblicos. Essas obras de que nos fala Tiago não se restringem à esfera da religião. Elas falam de todo o nosso histórico, de nossas realizações que se prestam a revelar quem de fato somos. Assim como as palavras apresentam-se como um corpo aos nossos pensamentos, de igual forma as nossas realizações perpetuam objetivamente nossa identidade mais secreta, mais subjetiva, invariavelmente. O modo como realizamos tudo quanto nos vem à mão para fazer (Ec 9.10) testemunha algo de forma eloquente ao mundo, a saber: para quem nós trabalhamos (1 Co 10.31).
-
 <p class="pebio">Texto publicado originalmente na Revista Impacto – Edição 49 – Jan/Fev 2007</p>

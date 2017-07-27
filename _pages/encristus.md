@@ -1,20 +1,18 @@
 ---
 ID: 2047
 post_title: ENCRISTUS
-author: Fernando
-post_date: 2012-01-14 00:56:50
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /encristus
+permalink: encristus
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Equipe GrupoNews
-post_destaques:
-  - Nao
-dsq_thread_id:
-  - "4032651262"
+categories: ""
+tags: ""
+author: ""
+post_date: 2012-01-14 00:56:50
 ---
 O termo “ecumênico” ganhou, ao longo da história, tantas cores e conotações que se faz necessário explicar o que queremos significar quando aqui o utilizamos. Ele tem sua origem no vocábulo grego <em>oikoumene</em>, derivado de <em>oikos</em>, que significa casa, lugar onde se vive, espaço onde se desenvolve a vida doméstica e as pessoas têm um mínimo de bem-estar. No Novo Testamento, esta palavra é usada em várias ocasiões – Mateus 24.14; Lucas 2.1; 4.5; 21.26; Atos 11.28; Romanos 10.18; Hebreus 1.6; 2.5; e Apocalipse 12.9 – para se referir ao “mundo inteiro”, a “toda a terra” e também ao “mundo vindouro”. Em seu significado atual e especificamente religioso, “ecumênico” diz respeito à unidade da Igreja de Cristo que vai além das diferenças entre as diversas igrejas. É restrito às igrejas cristãs e não se confunde com “Diálogo Inter-Religioso”, que inclui várias religiões e é promovido por meio das entidades religiosas a favor do interesse comum da sociedade, de maneira semelhante à que podem fazer os sindicatos, as associações, partidos políticos etc
 

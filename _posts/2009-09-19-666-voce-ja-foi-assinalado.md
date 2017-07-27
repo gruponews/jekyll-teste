@@ -1,27 +1,34 @@
 ---
 ID: 1
 post_title: '666: Você Já Foi Assinalado?'
-author: eduardolucas
-post_date: 2009-09-19 14:57:56
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/666_voce_ja_foi_assinalado.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/666_voce_ja_foi_assinalado.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/666_voce_ja_foi_assinalado.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/666_voce_ja_foi_assinalado-720x500.jpg
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/666-voce-ja-foi-assinalado
+permalink: >
+  bases-cristas/666-voce-ja-foi-assinalado.html
 published: true
-post_autor:
-  - Mauricio Bronzatto
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/666_voce_ja_foi_assinalado.jpg
-post_destaques:
-  - Nao
-aktt_notify_twitter:
-  - 'no'
-wpcf-gn_post_autor:
-  - Maurício Bronzatto
-dsq_thread_id:
-  - "2802545636"
-wpcf-gn_post_destaques:
-  - nao_destaque
+categories:
+  - Bases Cristãs
+tags:
+  - Anticristo
+  - Apocalipse
+  - Assinalar
+  - Decisão
+  - Dinheiro
+  - Mão
+  - Marca da besta
+  - Mentira
+  - Nome
+  - Sistema
+author: ""
+post_date: 2009-09-19 14:57:56
 ---
 “A todos, os pequenos e os grandes, os ricos e os pobres, os livres e os escravos, faz que lhes seja dada certa marca sobre a mão direita ou sobre a fronte, para que ninguém possa comprar ou vender, senão aquele que tem a marca, o nome da besta ou o número do seu nome”(Ap 13:16-17)
 

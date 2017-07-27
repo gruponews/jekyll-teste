@@ -1,14 +1,21 @@
 ---
 ID: 3956
 post_title: Deus cuida de mim!
-author: Fernando
-post_date: 2007-09-09 22:43:18
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /geral/deus-cuida-de-mim
+permalink: geral/deus-cuida-de-mim.html
 published: true
-dsq_thread_id:
-  - "3003800352"
+categories:
+  - Geral
+tags:
+  - edicao-49
+  - testemunhos
+author: ""
+post_date: 2007-09-09 22:43:18
 ---
 No dia 11.04.07, fui à casa dos meus pais, que fica próxima ao estádio de futebol do Santa Cruz, um clube aqui de Recife. No retorno para minha casa, por volta das 20:00hs, por não saber que iria acontecer o jogo entre o Santa Cruz e o Sport, um clássico de torcidas pra lá de rivais, não desviei o caminho.
 

@@ -1,10 +1,16 @@
 ---
 ID: 4150
 post_title: rubensfernando
-author: Fernando
-post_date: 2015-03-29 11:39:13
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /?p=4150
+permalink: ?p=4150
 published: false
+categories:
+  - Geral
+tags: ""
+author: ""
 ---

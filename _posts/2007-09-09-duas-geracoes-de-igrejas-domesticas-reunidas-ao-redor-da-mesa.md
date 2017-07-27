@@ -3,21 +3,27 @@ ID: 3959
 post_title: >
   Duas gerações de igrejas domésticas
   reunidas ao redor da mesa
-author: Fernando
-post_date: 2007-09-09 22:58:48
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /igreja/igreja-nos-lares/duas-geracoes-de-igrejas-domesticas-reunidas-ao-redor-da-mesa
+permalink: >
+  igreja/igreja-nos-lares/duas-geracoes-de-igrejas-domesticas-reunidas-ao-redor-da-mesa.html
 published: true
-dsq_thread_id:
-  - "3013023333"
+categories:
+  - Igreja nos lares
+tags:
+  - 'Conferência "Casas que Transformam o Mundo - Igreja nos lares"'
+  - edicao-49
+author: ""
+post_date: 2007-09-09 22:58:48
 ---
 Em visita ao casal Offini e Elza Franco, pioneiros do movimento de igrejas nas casas no Brasil, no início dos anos 70, Wolfgang pôde compartilhar um pouco do que tem visto e experimentado nos países em que tem trabalhado. Externou também o agradecimento pela contribuição que a geração anterior proporcionou à atual. Aproveitou para conferir o que tem sido anunciado pelos profetas da igreja brasileira com o que tem ouvido ao redor do mundo. Wolf sonha com uma igreja que deixe de lado o programa, o evento e se transforme em estilo de vida. Ele tem desafiado as pessoas a conhecerem essa igreja, que não pode ter outro fundamento senão o apostólico e profético. Para ele, somente a palavra apostólica pode produzir esta igreja.
 
 Tomando como figura o tempo de Davi, acredita que a igreja está na caverna de Adulão atualmente (1 Sm 22.1-5). A Davi estão sendo ajuntados os que se acham em aperto, os endividados, os amargurados de espírito. Em outras palavras, aqueles que a igreja tradicional (representada por Saul) dispensou. Está chegando o momento de deixar a caverna e assumir o reino. O processo de morte a que estiveram submetidos durante longos anos fará desses valentes pessoas especiais para dirigir a igreja nestes últimos dias. A seguir, organizamos alguns trechos das falas de Simson na conversa que manteve com os Francos, ocorrida em Barueri SP, um dia antes da conferência.
-
 <h2>Uma explosão de filhos ao redor do mundo</h2>
-
 “Quando vocês começaram, em 1972, eu tinha apenas 13 anos e não era cristão ainda. Nos anos 70, muitos tiveram, como vocês, uma visão. E quando essas pessoas falavam dessa visão nas igrejas tradicionais, eram tidas como loucas. Quando Raquel quis ter um filho, ela literalmente morreu sobre esse filho. Chamou-o <i>Benoni</i>, que quer dizer “filho de minha tristeza”. Jacó, no entanto, mudou-lhe o nome para <i>Benjamin</i>, “filho da minha mão direita”. A mesma coisa está acontecendo em espírito. Raquel é a igreja impaciente. Ela está clamando por este filho. E quando ela tem esse filho, ela o chama de causador de problemas (<i>Benoni</i>). A igreja chama vocês de causadores de problemas, extremistas, mas temos um Pai no céu que pode mudar esses filhos de causadores de problemas em filhos da Sua mão direita.
 
 Vocês têm sido como aquelas pessoas que começam novas coisas (empreendedoras). Hoje em dia, pessoas mais novas como eu podem oferecer os ombros e tomar o trabalho das mãos de vocês. Eu agradeço o trabalho que vocês realizaram. Gostaria que vocês testemunhassem que os seus filhos têm gerado muitos outros filhos. Eu gostaria que vocês soubessem que o que a geração de vocês fez como pioneira, há 30 anos, apesar de começar como um grão de mostarda, tem-se tornado uma grande e frondosa árvore.

@@ -1,34 +1,30 @@
 ---
 ID: 2265
 post_title: 'NOVIDADES &#8211; Curso &#8220;O Reino Milenar Messiânico&#8221;'
-author: Victor Glad
-post_date: 2012-04-13 20:53:04
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmm_novidades.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmm_novidades.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmm_novidades.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmm_novidades-720x320.jpg
 post_excerpt: ""
 layout: post
-permalink: /noticias/novidades-curso-rmm
+permalink: noticias/novidades-curso-rmm.html
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Equipe GrupoNews
-post_destaques:
-  - Destaque
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2012/04/banner_rmm_novidades.jpg
-aktt_tweeted:
-  - "1"
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2012/04/banner_rmm_novidades.jpg
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_maior
-dsq_thread_id:
-  - "2993516041"
+categories:
+  - Notícias
+tags:
+  - Curso
+  - Governo
+  - mil
+  - milenar
+  - Milênio
+  - reinado
+  - Reino
+author: ""
+post_date: 2012-04-13 20:53:04
 ---
 Curso "O Reino Milenar Messiânico"
 

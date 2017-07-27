@@ -3,27 +3,35 @@ ID: 125
 post_title: >
   Qual foi a última vez que a sua sombra
   curou alguém?
-author: eduardolucas
-post_date: 2009-12-01 22:09:23
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/qual_foi_a_ultima_vez_que_a_sua_sombra_curou_alguem.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/qual_foi_a_ultima_vez_que_a_sua_sombra_curou_alguem.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/qual_foi_a_ultima_vez_que_a_sua_sombra_curou_alguem.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/qual_foi_a_ultima_vez_que_a_sua_sombra_curou_alguem-720x650.jpg
 post_excerpt: ""
 layout: post
-permalink: /artigos/qual-foi-a-ultima-vez-que-a-sua-sombra-curou-alguem
+permalink: >
+  artigos/qual-foi-a-ultima-vez-que-a-sua-sombra-curou-alguem.html
 published: true
-post_autor:
-  - Mauricio Bronzatto
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/qual_foi_a_ultima_vez_que_a_sua_sombra_curou_alguem.jpg
-wpcf-gn_post_autor:
-  - Mauricio Bronzatto
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "5643529578"
+categories:
+  - Artigos
+  - Bases Cristãs
+tags:
+  - Acreditar
+  - Arvore
+  - Cura
+  - Doença
+  - Enfermo
+  - Misericórdia
+  - Oração
+  - Poder
+  - Resposta
+  - Sombra
+author: ""
+post_date: 2009-12-01 22:09:23
 ---
 “De sorte que transportavam os enfermos para as ruas, e os punham em leitos e esteiras, para que ao menos a sombra de Pedro, quando este passasse, cobrisse alguns deles.” (At 5:15).
 

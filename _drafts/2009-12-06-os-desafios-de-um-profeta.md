@@ -1,15 +1,17 @@
 ---
 ID: 383
 post_title: Os desafios de um Profeta
-author: Fernando
-post_date: 2009-12-06 19:37:06
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /?p=383
+permalink: ?p=383
 published: false
-post_autor:
-  - ""
-post_destaques:
-  - Nao
+categories:
+  - Geral
+tags: ""
+author: ""
 ---
 ...

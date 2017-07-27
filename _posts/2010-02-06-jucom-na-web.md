@@ -1,23 +1,30 @@
 ---
 ID: 543
 post_title: Jucom na Web!
-author: Victor Glad
-post_date: 2010-02-06 13:02:17
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /noticias/jucom-na-web
+permalink: noticias/jucom-na-web.html
 published: true
-aktt_notify_twitter:
-  - 'no'
-post_autor:
-  - Equipe Jucom na Web
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2010/02/back_jucomnaweb.jpg
-dsq_thread_id:
-  - "2964932275"
+categories:
+  - Notícias
+tags:
+  - adolescente
+  - Comunhão
+  - horario
+  - jovem
+  - jovens
+  - jucom
+  - juventude
+  - Musica
+  - radio
+  - tv
+  - video
+author: ""
+post_date: 2010-02-06 13:02:17
 ---
 A partir de hoje (06/02), estamos de volta, todos os sábados ao vivo na Rádio GrupoNews. Você não pode perder a super re-estréia do programa, em novo horário: a partir das 17:30h. Estamos cheios de novidades, não perca!
 

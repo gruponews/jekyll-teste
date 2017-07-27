@@ -1,28 +1,40 @@
 ---
 ID: 146
 post_title: A Igreja Doméstica
-author: eduardolucas
-post_date: 2009-12-01 20:52:45
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_igreja_domestica.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_igreja_domestica.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_igreja_domestica.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_igreja_domestica-720x550.jpg
 post_excerpt: ""
 layout: post
-permalink: /igreja/a-igreja-domestica
+permalink: igreja/a-igreja-domestica.html
 published: true
-post_autor:
-  - Pedro Arruda
-post_destaques:
-  - Destaque2
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_igreja_domestica.jpg
-post_linkPDF:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_igreja_domestica.pdf
-wpcf-gn_post_autor:
-  - Pedro Arruda
-dsq_thread_id:
-  - "5544248000"
-wpcf-gn_post_destaques:
-  - nao_destaque
+categories:
+  - Igreja
+  - Igreja nos lares
+tags:
+  - Atitude
+  - Casa
+  - Clero
+  - Denominação
+  - Doméstica
+  - Estrutura
+  - Estudos
+  - Familiar
+  - Grupos
+  - Igreja
+  - Instituições
+  - Lares
+  - Leigo
+  - Reconciliação
+  - Templo
+  - Vida
+author: ""
+post_date: 2009-12-01 20:52:45
 ---
 A intenção desta pesquisa é a busca da igreja que está no coração de Deus. Não se trata apenas de uma pesquisa acadêmica, mas também do desejo forte de viver esta proposta e encorajar outros a estarem no mesmo caminho. Aquele trilhado pelos primeiros cristãos. Essa igreja é a única viável nestes dias. Ela não pode buscar a diferença com o mundo apenas nos usos e costumes, antes de tudo, precisa pensar e ver diferente do mundo. Uma igreja não conformada com este mundo, mas com entendimento renovado para experimentar a boa, agradável e perfeita vontade de Deus.
 

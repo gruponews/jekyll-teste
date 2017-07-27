@@ -1,18 +1,22 @@
 ---
 ID: 2878
 post_title: À procura da comunhão
-author: Fernando
-post_date: 2013-03-26 07:00:16
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/a-procura-da-comunhao
+permalink: artigos/a-procura-da-comunhao.html
 published: true
-wpcf-gn_post_autor:
-  - Cléucio Macedo
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2804602202"
+categories:
+  - Artigos
+  - Igreja
+tags:
+  - paulo roberto
+  - quais
+author: ""
+post_date: 2013-03-26 07:00:16
 ---
 O que é comunhão? De forma simples, responderei que comunhão é o relacionamento entre cristãos. Um dos versículos que exemplifica tal realidade é Atos 2.46:
 

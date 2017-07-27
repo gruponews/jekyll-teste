@@ -1,18 +1,25 @@
 ---
 ID: 3595
 post_title: Quem ele realmente é
-author: Fernando
-post_date: 2014-03-10 09:01:18
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/o-deus-mal-compreendido/quem-ele-realmente-e
+permalink: >
+  bases-cristas/o-deus-mal-compreendido/quem-ele-realmente-e.html
 published: true
-wpcf-gn_post_autor:
-  - ""
-dsq_thread_id:
-  - "2802666053"
-wpcf-gn_post_destaques:
-  - destaque_novidade
+categories:
+  - O Deus mal compreendido
+tags:
+  - Amor
+  - deus
+  - edicao-75
+  - paciência
+  - perfil
+author: ""
+post_date: 2014-03-10 09:01:18
 ---
 Certa noite, em meu escritório, eu estava deprimido pelo que vi naquela conferência (<a title="A mentira que falamos" href="http://www.gruponews.com.br/2013/10/a-mentira-que-falamos.html">ver parte 1</a>). Não podia me abalar, mas a maior parte das pessoas eram de minha congregação e estavam espiritualmente miseráveis. Algo precisava ser feito, mas o quê? Eu também estava miserável e abatido como todos eles.
 
@@ -23,15 +30,11 @@ Eu conhecia a Bíblia mais que qualquer outra pessoa. Memorizei muitas passagens
 Em toda a minha vida, eu amei a mensagem do evangelho mais que qualquer coisa no mundo, mais até que as pessoas. Depois que passei a amar as pessoas, percebi que os pregadores colocam a mensagem à frente das pessoas, o que transformou a pregação em algo repulsivo e terrível, que fere em vez de ajudar. Mas quando finalmente amei mais as pessoas que a mensagem, percebi que o único caminho para conhecer o evangelho puro e sem adulteração é por meio de amar as pessoas para as quais a mensagem é destinada. Se amar as pessoas com todo o seu ser, você consegue entrar no coração delas e sente cada parte da alma delas como se fosse a sua própria alma. Quando algo é falado, você consegue ver com os olhos delas e entender na perspectiva delas. O verdadeiro amor elimina a distância e permite que seu coração fique fortemente entrelaçado com o da outra pessoa.
 
 Logo após perceber isto, lembrei-me de uma cerimônia de casamento de que participei anos atrás. A pregação foi sobre 1 Coríntios 13, o capítulo do amor:
-
 <blockquote>O amor é paciente, o amor é bondoso. Não inveja, não se vangloria, não se orgulha. Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor. O amor não se alegra com a injustiça, mas se alegra com a verdade. Tudo sofre, tudo crê, tudo espera, tudo suporta. O amor jamais acaba  (1 Co 13.4-8).</blockquote>
-
 Quando é lido num casamento, esses versos soam românticos, mas duvido que alguém no auditório acredite em uma única palavra desta passagem. Neste mesmo casamento, eu vi um cartaz que dizia “Deus é amor”. Se isto é verdade, pensei, toda a religião cristã está errada. Pelo menos tudo o que cresci ouvindo. Quase dez anos depois, estava eu de volta àquela mensagem de casamento e cartaz, e finalmente eles fizeram sentido para mim. Percebi que estávamos sendo enganados sobre Deus, e pela primeira vez em minha vida começava a compreender a verdade e como tínhamos nos desviado dela.
 
 &nbsp;
-
 <h3>O que aconteceu?</h3>
-
 Descobri que o povo instintivamente sabe que Deus é amor, e nós definimos Deus pelo entendimento que temos do amor. Infelizmente o verdadeiro significado de amor foi alterado e redefinido também o entendimento de toda uma geração sobre Deus. A passagem bíblica utilizada no casamento contém 15 afirmações sobre o amor e é uma descrição do caráter e personalidade de Deus. Alguns até substituem a palavra “amor” por “Deus” em 1 Coríntios 13. Podemos concluir que o que cremos em nossos corações sobre amor é exatamente o que cremos acerca de Deus. Mas o que cremos sobre o amor? O problema é que o mundo fala sobre amor de uma maneira totalmente oposta ao descrito nesta passagem.
 
 Ensinaram-nos que o amor não é paciente. Na verdade, achamos que quando é realmente “amor”, não precisamos ir com calma nos relacionamentos. Também não cremos que o amor é bondoso, pois está acompanhado de dor e feridas. Dizer que “o amor não é egoísta” é o oposto de tudo o que fomos levados a crer. O amor sempre fala a verdade, mas as pessoas que sempre falam a verdade são vistas como bobas e estúpidas. O amor persevera; mas e quanto à taxa tão alta de divórcios? O amor jamais acaba; mas nada dura para sempre, é o que somos levados a crer. O que quero mostrar é que o mundo nos convence que o amor é exatamente o oposto do descrito nesta passagem. Agora eu tenho uma revelação para você: não foi o amor que o feriu. O que o feriu foi o oposto do amor, mas em seu coração você pensa que foi o amor. Não se engane: o amor nunca fere você. O que o feriu foi uma definição de amor enganosa que você engoliu e na qual creu.
@@ -59,5 +62,4 @@ Imagine eu dizendo ao meu filho de nove anos que jamais dividirei minha glória 
 Venha comigo numa viagem até o coração de Deus. Quero levar você também para dentro do seu próprio coração e mostrar muitas coisas que já existem lá. Se estiver preparado, abra seu coração e continue a leitura.
 
 [Continua na próxima edição]
-
 <p class="pebio">Traduzido e adaptado por Ezequiel Netto</p>

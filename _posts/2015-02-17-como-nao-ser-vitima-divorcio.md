@@ -1,25 +1,32 @@
 ---
 ID: 4315
 post_title: Como não ser vítima do divórcio
-author: Fernando
-post_date: 2015-02-17 12:56:22
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /familia-materias/o-divorcio-suas-vitimas-e-o-reino-de-deus/como-nao-ser-vitima-divorcio
+permalink: >
+  familia/o-divorcio-suas-vitimas-e-o-reino-de-deus/como-nao-ser-vitima-divorcio.html
 published: true
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "3689968529"
+categories:
+  - >
+    O divórcio, suas vítimas e o Reino de
+    Deus
+tags:
+  - edicao-80
+authors:
+  - Juarez Gomes
+  - Maria de Carvalho Gomes
+post_date: 2015-02-17 12:56:22
 ---
 Este artigo é o último de uma série que está discutindo alguns problemas do divórcio, uma prática antiga que afeta atualmente a maioria das famílias. Clique aqui para ler os artigos anteriores
 
 Talvez o título deste artigo possa parecer ingênuo ou um tipo de ironia para pessoas dentro ou fora das religiões, inclusive cristãs. Porém, Jesus Cristo respondeu a uma questão pertinente a isso que poderia ser assim interpretada: para que a pessoa evite o divórcio, é preciso reconhecer a dureza do seu coração e querer livrar-se dela (Mt 19.3-9). Mas antes de abordar o tema, vamos a uma rápida retrospectiva e reflexões de artigos anteriores.
 
 Desde o final de 2010, temos escrito sobre as atuais desordens individuais e sociais geradas por separações conjugais oficiais ou não, principalmente quando há filhos envolvidos, independentemente da idade, embora com um grau maior de prejuízos para crianças e adolescentes. E não utilizamos apenas argumentos “religiosos”, pois recorremos, em meio a outras fontes, à única pesquisa longitudinal sobre o assunto, coordenada pela Drª. Judith Wallerstein e resumida no livro “Filhos do Divórcio”. Conforme registramos mais de uma vez, ela não é contra o divórcio, sendo uma estudiosa preocupada com a vulgarização dessa prática e atuando no apoio a famílias. Após acompanhar por mais de vinte anos a sessenta famílias divorciadas, Wallerstein confirmou o que muitos ignoram, escondem ou minimizam: separações conjugais quase sempre geram problemas de diversas ordens.
-
 <h3>Como o sistema divorcista é mantido</h3>
-
 Apesar dos muitos argumentos e provas apresentados nesse e em outros estudos, talvez o leitor ainda esteja se perguntando o motivo de o divórcio continuar “em alta” mesmo diante da realidade de ser ele uma experiência tão nociva. Uma rápida reflexão sobre outras desordens sociais também não resolvidas pode ajudar a compreender o que está por trás da manutenção da ideia de separação conjugal como algo inofensivo. Vamos a dois exemplos dentre muitos.
 
 Todo adulto conhece pelo menos parcialmente as muitas consequências do aborto provocado (assassinato de crianças em gestação: “ACG”), seja para a mulher e família envolvida ou para a sociedade, independentemente da legalização dessa prática. Agora pense na quantidade de interesses econômicos ligados à “indústria” do “ACG”, sejam as clínicas e hospitais, profissionais da “saúde”, laboratórios, os vários setores da “indústria” da pornografia, a ideologia de gênero etc.

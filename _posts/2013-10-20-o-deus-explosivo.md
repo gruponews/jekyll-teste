@@ -1,20 +1,21 @@
 ---
 ID: 3406
 post_title: O Deus explosivo?
-author: Fernando
-post_date: 2013-10-20 09:00:43
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/o-deus-explosivo
+permalink: artigos/o-deus-explosivo.html
 published: true
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2826146534"
+categories:
+  - Artigos
+  - O Deus mal compreendido
+tags:
+  - edicao-76
+author: ""
+post_date: 2013-10-20 09:00:43
 ---
 <blockquote><i>Esta seção traz a cada edição um resumo de um capítulo do livro “The Misunderstood God: The Lies Religion Tells About God” (O Deus mal compreendido: as mentiras que a religião conta sobre Deus), de Darin Hufford, publicado nos EUA em 2009 por Windblown Media (traduzido recentemente para o português sob o título “Mais perto de Deus”, Ed. Sextante, 2012).</i></blockquote>
 Eu vencia por quatro a zero quando o doutor, visivelmente frustrado, reiniciou uma nova partida do jogo Candy Land. Tinha apenas oito anos e sabia exatamente o que estava acontecendo. Meus pais me levaram ao psicólogo infantil devido aos meus ataques incontroláveis de raiva. Eu ficava altamente depressivo e tinha uma ira explosiva quando perdia no jogo para meus irmãos ou irmãs. Por esse motivo, eu ria comigo mesmo no consultório do Dr. Steel. Por uma estranha razão, eu continuava vencendo e não sei por que estava ganhando tantas partidas naquele dia. Eu não era estúpido e sabia que eles queriam me ver perder para que explodisse como um vulcão, como meus pais contaram ao doutor. O pequeno Darin facilmente perdia a paciência na vida, e o bom Dr. Steel iria ajudá-lo. Muitos dólares em educação, vários anos de pesquisa e tudo por água abaixo porque a sorte estava a meu favor, e eu continuava vencendo o simples jogo Candy Land.

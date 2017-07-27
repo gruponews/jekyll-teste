@@ -1,28 +1,21 @@
 ---
 ID: 1489
 post_title: A cruz como cura, não como castigo
-author: Fernando
-post_date: 2010-02-02 00:35:49
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/a-cruz-como-cura-nao-como-castigo
+permalink: >
+  artigos/a-cruz-como-cura-nao-como-castigo.html
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Wayne Jacobsen
-post_destaques:
-  - Nao
-aktt_tweeted:
-  - "1"
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2875557701"
+categories:
+  - Artigos
+  - Vida
+tags: ""
+author: ""
+post_date: 2010-02-02 00:35:49
 ---
 <!-- p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; font: 10.5px Georgia} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; font: 10.5px Georgia; min-height: 12.0px} p.p3 {margin: 0.0px 0.0px 0.0px 14.1px; text-align: justify; font: 10.5px Georgia} -->Eis o que tem sido ensinado sobre a cruz por toda a história do cristianismo: uma vez que os nossos pecados ofenderam sua santidade, Deus precisa necessariamente castigar alguém. Mas ele tem um grande plano: punir o seu filho em nosso lugar. Se esta é a única chance que temos para sermos amigos de Deus, o que esta solução nos diz sobre ele?
 

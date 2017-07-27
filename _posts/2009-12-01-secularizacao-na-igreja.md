@@ -1,29 +1,34 @@
 ---
 ID: 129
 post_title: Secularização na igreja
-author: eduardolucas
-post_date: 2009-12-01 22:14:57
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/secularizacao_na_igreja.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/secularizacao_na_igreja.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/secularizacao_na_igreja.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/secularizacao_na_igreja-720x550.jpg
 post_excerpt: ""
 layout: post
-permalink: /artigos/secularizacao-na-igreja
+permalink: artigos/secularizacao-na-igreja.html
 published: true
-post_autor:
-  - Wailton de Carvalho
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/secularizacao_na_igreja.jpg
-aktt_notify_twitter:
-  - 'no'
-wpcf-gn_post_autor:
-  - Wailton de Carvalho
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "5635916273"
+categories:
+  - Artigos
+  - Igreja
+tags:
+  - Aceitar
+  - Arrependimento
+  - Discernir
+  - História
+  - Igreja
+  - Mudança
+  - Religiosa
+  - Secularização
+  - Valores
+  - Vida
+author: ""
+post_date: 2009-12-01 22:14:57
 ---
 Vivemos em uma época sem precedentes na história da raça humana. A tecnologia, crescente desde o pós-guerra, tem modificado radicalmente os métodos de produção industrial, forma de comprar e vender produtos, formas de lazer, hábitos e costumes, sem falar da disponibilidade da informação à velocidade da luz. Estima-se que hoje, a cada cinco anos, é dobrado todo o conhecimento humano, provocando profundas e irreversíveis mudanças na sociedade. Neste meio, temos uma igreja com crise de identidade que não sabe tratar o novo sem violentar os princípios de Deus. Embora não seja uma unanimidade entre os que tentam definir o período em que estamos vivendo, termos como pós-modernidade ou pós-cristã estão sendo largamente aceitos, tendo seu início nos anos cinqüenta. As alterações em todas as áreas da sociedade têm sido movidas por um profundo desejo de liberdade, igualdade e paz baseadas na informação e sua materialização, gerando um conjunto de fatores que oferecem grandes riscos à Igreja de Cristo, dos quais gostaríamos de enfatizar a secularização.
 

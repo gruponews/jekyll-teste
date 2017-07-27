@@ -1,27 +1,25 @@
 ---
 ID: 983
 post_title: 'Lançamento do Livro: A Comunhão Nossa de Cada Dia – a reforma da unidade da igreja'
-author: Victor Glad
-post_date: 2010-08-18 23:23:21
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/08/back_comunhao.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/08/back_comunhao.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/08/back_comunhao.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/08/back_comunhao-720x300.jpg
 post_excerpt: ""
 layout: event
-permalink: /eventos/lancamento-a-comunhao-nossa-de-cada-dia
+permalink: >
+  eventos/lancamento-a-comunhao-nossa-de-cada-dia
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Equipe GrupoNews
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2010/08/back_comunhao.jpg
-aktt_tweeted:
-  - "1"
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_destaques:
-  - nao_destaque
+categories:
+  - Geral
+tags:
+  - Arruda
+author: ""
+post_date: 2010-08-18 23:23:21
 ---
 <strong>de Pedro Arruda. Descubra juntamente com o autor a “pérola de maior valor”. Seu conceito e prática de comunhão vão mudar bastante depois da leitura. </strong>
 <h3>Convite</h3>

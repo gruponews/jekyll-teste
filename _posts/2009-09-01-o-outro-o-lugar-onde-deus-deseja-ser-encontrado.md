@@ -1,35 +1,35 @@
 ---
 ID: 418
 post_title: 'O outro: o lugar onde Deus deseja ser encontrado'
-author: Fernando
-post_date: 2009-09-01 00:00:51
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa-960x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: /publicacoes/o-outro-o-lugar-onde-deus-deseja-ser-encontrado
+permalink: >
+  publicacoes/o-outro-o-lugar-onde-deus-deseja-ser-encontrado.html
 published: true
-post_autor:
-  - Equipe Comunicação
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_imagem.jpg
-jornal_linkPDF:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/gruponews_julhoagosto_2009_site.pdf
-aktt_notify_twitter:
-  - 'no'
-jornal_capa:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa.jpg
-jornal_data:
-  - Julho e Agosto/2009
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "2864404989"
+categories:
+  - Jornal GrupoNews
+  - Publicações
+tags:
+  - Amor
+  - ateu
+  - deus
+  - Dons
+  - Encontrar
+  - legado
+  - narnia
+  - novo
+  - o outro
+  - Proféticos
+author: ""
+post_date: 2009-09-01 00:00:51
 ---
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">- O outro como altar e como cura da esterilidade</div>
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">- Você crê que Ele te ama?</div>

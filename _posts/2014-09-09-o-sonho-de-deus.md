@@ -1,16 +1,23 @@
 ---
 ID: 3927
 post_title: O sonho de Deus
-author: Fernando
-post_date: 2014-09-09 22:41:41
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/o-sonho-de-deus
+permalink: bases-cristas/o-sonho-de-deus.html
 published: true
-dsq_thread_id:
-  - "3003769819"
-wpcf-gn_post_destaques:
-  - destaque_novidade
+categories:
+  - Bases Cristãs
+  - Comunhão
+tags:
+  - Comunhão
+  - edicao-49
+  - sonho de Deus
+author: ""
+post_date: 2014-09-09 22:41:41
 ---
 Em João 17, temos registrado um momento muito especial da comunhão de Jesus com seus discípulos. Jesus ora ao Pai para que lhe seja concedida novamente a glória de que gozava diante dele antes que houvesse mundo (v. 5) e para que também os seus discípulos fossem feitos igualmente participantes dessa glória (v. 22).
 
@@ -27,9 +34,7 @@ Tem início, então, um plano meticuloso de Deus para voltar a ter comunhão com
 Tendo diligentemente preparado um caminho, Deus pôde trazer seu Filho ao mundo. Ele veio para nos inocentar, expiar as nossas culpas e dar a Deus a possibilidade de se aproximar novamente de nós. O sonho estava prestes a se tornar realidade. Segundo o livro de Atos, aconteceu ao cumprir-se o dia de Pentecostes. O som como de um vento impetuoso que encheu toda a casa onde os discípulos estavam e as línguas de fogo repousando sobre cada um deles testemunhavam a alegria de Deus de poder sentar-se novamente com o homem.
 
 Jesus Cristo, tendo enviado ao coração dos homens o seu Espírito, que clama Aba-Pai, o Espírito do relacionamento, da intimidade, forma para si um corpo, cujos membros são todos aqueles chamados a tomarem parte na  Promessa, no sonho do Pai. Novamente Adão (o segundo) vai poder sentar-se com Deus e cantar o refrão interrompido há milênios no Éden. Dia-a-dia esse corpo vai recebendo acréscimos, pessoas vão sendo incluídas na comunhão (At 2.41,47; 4.4; 5.14-15). Jesus está vivo em sua igreja, a habitação de Deus no Espírito (Ef 2.22), e o projeto de submeter a terra toda ao Criador, com base em comunhão diária, pode ser finalmente retomado.
-
 <h2>Estaria Deus fazendo uma reforma?</h2>
-
 Uma reflexão sobre a nova pauta interativa de nossas reuniões nos levaria facilmente à conclusão de que os modelos antigos de reunião não satisfazem mais aos propósitos de Deus. Desnecessário é salientar que os modelos tiveram seu valor e sua utilidade, mas seria tolice preservá-los, pois achamos um modo melhor e muito mais valioso, e se quisermos adquirir este último, teremos de nos desfazer dos primeiros.
 
 A comunhão como atividade ordinária da vida cristã, assunto central da nova pauta, sugere a ausência de modelos, o que dificulta, para alguns, a compreensão deste momento em que estamos vivendo. As reflexões em torno da comunhão são matusalênicas, mas agora aparece, para mim pelo menos, como um tesouro a ser conquistado. Não basta mais saber sobre ela, é preciso descobrir onde está escondida e ir a sua busca, experimentá-la como fim último da vida cristã, o sonho de Deus. O grande plano de Deus é retomar a comunhão rompida.

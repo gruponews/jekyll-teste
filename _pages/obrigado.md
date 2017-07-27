@@ -1,13 +1,17 @@
 ---
 ID: 3707
 post_title: Obrigado
-author: Fernando
-post_date: 2014-06-08 18:22:12
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /obrigado
+permalink: obrigado
 published: true
-dsq_thread_id:
-  - ""
+categories: ""
+tags: ""
+author: ""
+post_date: 2014-06-08 18:22:12
 ---
 [ESPRESSO_THANK_YOU]

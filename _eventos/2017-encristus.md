@@ -1,16 +1,22 @@
 ---
 ID: 4844
 post_title: Encristus
-author: Fernando
-post_date: 2017-02-20 10:50:43
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2017/02/ENCRISTUS-BARUERI-1920x1080.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2017/02/ENCRISTUS-BARUERI-1280x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2017/02/ENCRISTUS-BARUERI-1280x1153.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2017/02/ENCRISTUS-BARUERI-720x720.jpg
 post_excerpt: ""
 layout: event
-permalink: /eventos/2017-encristus
+permalink: eventos/2017-encristus
 published: true
-slide_template:
-  - default
-wpcf-gn_post_destaques:
-  - destaque_novidade
+categories: ""
+tags: ""
+author: ""
+post_date: 2017-02-20 10:50:43
 ---
 Neste ano de 2017 a Reforma Protestante completa 500 anos. Um dos maiores fenômenos do Movimento Renascentista, trouxe inúmeros e benefícios aos avanços do desenvolvimento da sociedade em geral. Há que se lamentar, entretanto, que tenha servido de pretexto para ocasionar divisões entre os cristãos e acirramento dos ânimos desembocando em conflitos que geraram muitas mortes tanto de católicos como de protestantes.
 

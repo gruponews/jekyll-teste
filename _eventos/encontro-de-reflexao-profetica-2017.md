@@ -1,14 +1,23 @@
 ---
 ID: 4833
 post_title: Encontro de Reflexão Profética 2017
-author: Fernando
-post_date: 2017-01-05 16:53:08
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-1920x1080.png
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-1280x720.png
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-1280x1084.png
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2017/02/encontro-reflexao-profetica-2017-720x720.png
 post_excerpt: ""
 layout: event
-permalink: /eventos/encontro-de-reflexao-profetica-2017
+permalink: >
+  eventos/encontro-de-reflexao-profetica-2017
 published: true
-wpcf-gn_post_destaques:
-  - destaque_novidade
+categories: ""
+tags: ""
+author: ""
+post_date: 2017-01-05 16:53:08
 ---
 <em>Tema: Fundamentos Apostólicos para o Fim dos Tempos</em>
 
@@ -28,4 +37,4 @@ R$ 150,00 (por pessoa)
 incluso: alimentação e hospedagem
 
 <strong>RESERVE SUA VAGA!</strong>
-<a href="//www.eventbrite.com.br/e/encontro-de-reflexao-profetica-tickets-31290047374">Clique aqui</a> para fazer sua inscrição.
+<a href="https://www.eventbrite.com.br/e/encontro-de-reflexao-profetica-tickets-31290047374">Clique aqui</a> para fazer sua inscrição.

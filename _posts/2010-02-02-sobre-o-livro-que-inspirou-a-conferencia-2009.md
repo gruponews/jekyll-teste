@@ -3,20 +3,20 @@ ID: 1475
 post_title: >
   Sobre o livro que inspirou a
   Conferência 2009
-author: Fernando
-post_date: 2010-02-02 00:10:55
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /geral/sobre-o-livro-que-inspirou-a-conferencia-2009
+permalink: >
+  geral/sobre-o-livro-que-inspirou-a-conferencia-2009.html
 published: true
-aktt_notify_twitter:
-  - 'no'
-post_autor:
-  - Wayne Jacobsen
-post_destaques:
-  - Nao
-dsq_thread_id:
-  - "2802546223"
+categories:
+  - Geral
+tags: ""
+author: ""
+post_date: 2010-02-02 00:10:55
 ---
 <!-- p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; line-height: 12.0px; font: 10.5px Georgia} -->“Por que você não quer mais ir à igreja?” é um título muito esquisito para um livro de ficção que, aliás, não tínhamos a intenção de imprimir. Um amigo e eu o escrevemos para irmãos e irmãs que estavam querendo realmente saber quem era o Deus da Bíblia e que, nessa busca, ficaram perdidos em todas essas práticas religiosas daquilo que nós chamamos de igreja.
 

@@ -1,27 +1,35 @@
 ---
 ID: 131
 post_title: Servindo a Deus em meio à dor
-author: eduardolucas
-post_date: 2009-12-01 22:17:07
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/servindo_a_Deus_em_meio_a_dor.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/servindo_a_Deus_em_meio_a_dor-960x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/servindo_a_Deus_em_meio_a_dor.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/servindo_a_Deus_em_meio_a_dor-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: /artigos/servindo-a-deus-em-meio-a-dor
+permalink: >
+  artigos/servindo-a-deus-em-meio-a-dor.html
 published: true
-post_autor:
-  - Letícia França
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/servindo_a_Deus_em_meio_a_dor.jpg
-wpcf-gn_post_autor:
-  - Letícia França
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "5575106376"
+categories:
+  - Artigos
+  - Bases Cristãs
+tags:
+  - Acreditar
+  - Alegria
+  - Dor
+  - Envergonhado
+  - Obedecer
+  - Pecado
+  - Provação
+  - Servir
+  - Suportar
+  - Tristeza
+author: ""
+post_date: 2009-12-01 22:17:07
 ---
 A dor, as lutas, os problemas, as doenças, a perda nos fazem dependentes de Deus. Estas situações nos confrontam e nos obrigam a enxergarmos espiritualmente cada situação e percebermos a nossa fragilidade, a nossa necessidade de Deus e o quanto precisamos do seu perdão. Pedro, Jó e José nos trazem grandes ensinamentos através de suas lutas e vitórias:
 

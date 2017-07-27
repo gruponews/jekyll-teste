@@ -1,20 +1,21 @@
 ---
 ID: 3209
 post_title: Quando o ordinário é extraordinário
-author: Fernando
-post_date: 2010-07-05 14:39:47
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/quando-o-ordinario-e-extraordinario
+permalink: >
+  artigos/quando-o-ordinario-e-extraordinario.html
 published: true
-wpcf-gn_post_autor:
-  - Daniel Rocha
-dsq_thread_id:
-  - "2831072503"
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
+categories:
+  - Artigos
+  - Vida
+tags: ""
+author: ""
+post_date: 2010-07-05 14:39:47
 ---
 Ordinário é tudo aquilo que é habitual, comum, usual, que se faz presente a todo momento. É o oposto do extraordinário. Trabalhar todos os dias é ordinário, pegar os filhos na escola, sentar-se para almoçar e jantar, ir à igreja, participar de reuniões, ensaiar... Tudo isso é ordinário.
 

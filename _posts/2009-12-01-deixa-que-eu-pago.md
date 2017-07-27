@@ -1,25 +1,29 @@
 ---
 ID: 101
 post_title: Deixa que eu pago
-author: eduardolucas
-post_date: 2009-12-01 21:25:51
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/deixa-que-eu-pago
+permalink: bases-cristas/deixa-que-eu-pago.html
 published: true
-post_autor:
-  - Pedro Arruda
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/deixa_que_eu_pago.jpg
-wpcf-gn_post_autor:
-  - ""
-dsq_thread_id:
-  - "2816915077"
-wpcf-gn_post_destaques:
-  - destaque_novidade
+categories:
+  - Bases Cristãs
+tags:
+  - Alegria
+  - Consumo
+  - Contribuição
+  - Coração
+  - Dar
+  - Dinheiro
+  - Dízimo
+  - Finanças
+  - Regular
+  - Voluntário
+author: ""
+post_date: 2009-12-01 21:25:51
 ---
 Essa frase, ouvida após ser apresentada a conta de consumo, na maioria das vezes, é motivada mais pela educação do que pela disponibilidade financeira da pessoa. Ao contrário, a mesma frase motiva uma atitude de omissão em alguns quando a ouvem e se fazem de desentendidos, querendo crer na abundância do outro.
 

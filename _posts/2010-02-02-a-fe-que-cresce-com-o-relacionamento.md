@@ -1,28 +1,21 @@
 ---
 ID: 1504
 post_title: A fé que cresce com o relacionamento
-author: Fernando
-post_date: 2010-02-02 00:50:26
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /artigos/a-fe-que-cresce-com-o-relacionamento
+permalink: >
+  artigos/a-fe-que-cresce-com-o-relacionamento.html
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Wayne Jacobsen
-post_destaques:
-  - Nao
-aktt_tweeted:
-  - "1"
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2802546186"
+categories:
+  - Artigos
+  - Vida
+tags: ""
+author: ""
+post_date: 2010-02-02 00:50:26
 ---
 <!-- p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; font: 10.0px Georgia} -->Quando cremos que Jesus é o Cristo, entramos num relacionamento de confiança com o Pai de todos. E quando confiamos em Deus, nós não pecamos, não temos ansiedade nem medo. O medo é sinal de que estamos mais focados em nós do que nele, estamos vivendo a partir do velho homem. Então o crescimento do novo homem é um crescimento na fé em Deus, mais hoje do que ontem. É confiança que nos transforma. Se Adão e Eva soubessem quem Deus era quando o inimigo mentiu a eles, com certeza iriam rir dele. Se alguém viesse para mim nesta manhã e fizesse insinuações sobre Sara, eu não ia ficar nem um pouquinho preocupado, mas dar boas risadas. Sara não é assim. Eu confio nela completamente. Nós passamos muito de nossas noites separados por causa de minhas viagens, mas nunca temos o mínimo de medo sobre o que o outro esteja fazendo durante essas ausências. Essa é uma realidade por 34 anos de casamento. Mas não começamos nesse ponto. Fomos chegando a isso gradualmente.
 

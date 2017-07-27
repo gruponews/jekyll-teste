@@ -1,18 +1,24 @@
 ---
 ID: 3182
 post_title: A graça do ordinário
-author: Fernando
-post_date: 2010-07-04 17:39:40
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/05/pintor.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/05/pintor-1024x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/05/pintor.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/05/pintor-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: /artigos/a-graca-do-ordinario
+permalink: artigos/a-graca-do-ordinario.html
 published: true
-wpcf-gn_post_autor:
-  - Ricardo Barbosa de Sousa
-wpcf-gn_post_destaques:
-  - nao_destaque
-dsq_thread_id:
-  - "2830777630"
+categories:
+  - Artigos
+  - Igreja
+tags: ""
+author: ""
+post_date: 2010-07-04 17:39:40
 ---
 <i>“Quando aprendermos a aceitar o comum, deixarmos de cultuar nossas celebridades e olharmos mais para a Bíblia, então daremos os primeiros passos na direção do crescimento espiritual.”</i>
 

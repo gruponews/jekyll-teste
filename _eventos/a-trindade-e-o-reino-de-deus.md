@@ -1,18 +1,22 @@
 ---
 ID: 2708
 post_title: A Trindade e o Reino de Deus
-author: Fernando
-post_date: 2012-09-18 00:00:48
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner-trindade-reino.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner-trindade-reino.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner-trindade-reino.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner-trindade-reino-720x320.jpg
 post_excerpt: ""
 layout: event
-permalink: /eventos/a-trindade-e-o-reino-de-deus
+permalink: eventos/a-trindade-e-o-reino-de-deus
 published: true
-aktt_notify_twitter:
-  - 'yes'
-wpcf-gn_post_autor:
-  - Equipe GrupoNews
-wpcf-gn_post_destaques:
-  - nao_destaque
+categories: ""
+tags: ""
+author: ""
+post_date: 2012-09-18 00:00:48
 ---
 <h3>Preletores</h3>
 <strong>Eric Mumford,</strong> filho de Bob Mumford, autor do livro A Patrola de Deus, diretor do Ministério Lifechangers nos EUA, e de Father’s House, em Uganda.
@@ -44,4 +48,4 @@ Conta: 61930-2
 
 Para quem desejar <strong>hospedagem em hotel</strong>, reservas no Hotel Ibis pelo telefone (15) 2101 6300. Valor da inscrição com 20% de desconto para quem ficar hospedado em hotel, para cobrir despesas com alimentação.
 
-<iframe src="//docs.google.com/a/revistaimpacto.com.br/spreadsheet/embeddedform?formkey=dENzb0RPeC1Ha3BHMTM2em0zOFBudkE6MQ" frameborder="0" marginwidth="0" marginheight="0" width="500" height="1150"></iframe>
+<iframe src="https://docs.google.com/a/revistaimpacto.com.br/spreadsheet/embeddedform?formkey=dENzb0RPeC1Ha3BHMTM2em0zOFBudkE6MQ" frameborder="0" marginwidth="0" marginheight="0" width="500" height="1150"></iframe>

@@ -1,21 +1,19 @@
 ---
 ID: 812
 post_title: Mensagem enviada com sucesso
-author: Fernando
-post_date: 2010-05-14 13:34:59
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /contato/sucesso
+permalink: contato/sucesso
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - ""
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/11/backlight_faleconosco.jpg
+categories:
+  - Geral
+tags: ""
+author: ""
+post_date: 2010-05-14 13:34:59
 ---
 Em breve estaremos entrando em contato.
 

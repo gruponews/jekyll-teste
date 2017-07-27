@@ -3,16 +3,24 @@ ID: 2984
 post_title: >
   10º Encontro de reflexão profética
   para líderes
-author: Fernando
-post_date: 2013-02-04 20:44:02
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro.jpeg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2013/02/banner-encontro-720x340.jpeg
 post_excerpt: ""
 layout: event
-permalink: /eventos/10o-encontro-de-reflexao-profetica-para-lideres
+permalink: >
+  eventos/10o-encontro-de-reflexao-profetica-para-lideres
 published: true
-wpcf-gn_post_autor:
-  - Revista Impacto
-wpcf-gn_post_destaques:
-  - nao_destaque
+categories: ""
+tags:
+  - deus
+author: ""
+post_date: 2013-02-04 20:44:02
 ---
 <div class="notice">
 <h4>ATENÇÃO</h4>
@@ -21,10 +29,10 @@ Um evento para pastores e líderes. Não recomendado para pessoas que não estã
 </div>
 <b>Oportunidade especial </b><b>para</b><b> </b>
 <ul>
-    <li>Desenvolver relacionamentos ministeriais</li>
-    <li>Ouvir uma palavra nova do Senhor</li>
-    <li>Planejar projetos em conjunto</li>
-    <li>Engajar-se em projetos missionários já existentes</li>
+	<li>Desenvolver relacionamentos ministeriais</li>
+	<li>Ouvir uma palavra nova do Senhor</li>
+	<li>Planejar projetos em conjunto</li>
+	<li>Engajar-se em projetos missionários já existentes</li>
 </ul>
 <h3><b>Informações</b></h3>
 Início: 10h00 da manhã, 21 de fevereiro

@@ -1,18 +1,18 @@
 ---
 ID: 1042
 post_title: Como participar
-author: Fernando
-post_date: 2010-09-11 13:54:13
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /rsi/como-participar
+permalink: rsi/como-participar
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - ""
-post_destaques:
-  - Nao
+categories: ""
+tags: ""
+author: ""
+post_date: 2010-09-11 13:54:13
 ---
 <div id="texto">
 <h2>Como participar</h2>

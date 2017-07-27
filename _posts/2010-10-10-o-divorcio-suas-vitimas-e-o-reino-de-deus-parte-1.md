@@ -1,31 +1,37 @@
 ---
 ID: 1150
 post_title: 'O divórcio, suas vítimas e o Reino de Deus &#8211; parte 1'
-author: Fernando
-post_date: 2010-10-10 16:10:20
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/10/banner_divorcio.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/10/banner_divorcio.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/10/banner_divorcio.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2010/10/banner_divorcio-720x307.jpg
 post_excerpt: ""
 layout: post
-permalink: /artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-1
+permalink: >
+  artigos/o-divorcio-suas-vitimas-e-o-reino-de-deus-parte-1.html
 published: true
-aktt_notify_twitter:
-  - 'yes'
-post_autor:
-  - Juarez Gomes e Maria de Carvalho Gomes
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2010/10/banner_divorcio.jpg
-aktt_tweeted:
-  - "1"
-wpcf-gn_post_autor:
-  - ""
-wpcf-gn_post_imagem_credito:
-  - ""
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "2802545707"
+categories:
+  - Artigos
+  - Família
+tags:
+  - Desquite
+  - Divórcio
+  - Ex-cônjuges
+  - Familiares
+  - Filhos
+  - reino de Deus
+  - Separação
+  - União
+  - Vítima
+  - Vontade
+authors:
+  - Juarez Gomes
+  - Maria de Carvalho Gomes
+post_date: 2010-10-10 16:10:20
 ---
 Este artigo é o primeiro de uma série que discutirá alguns aspectos complexos do divórcio, uma prática antiga que afeta atualmente a maioria das famílias se considerarmos também as separações conjugais de “uniões estáveis”. Em cada parte da nossa discussão estabeleceremos paralelos entre aquilo que o Novo Testamento registra a respeito, e os resultados da mais importante pesquisa dos últimos quarenta anos sobre o assunto. Trata-se do trabalho coordenado durante vinte anos pela norte-americana, Dra. Judith S. Wallerstein, que apresentou os dados de suas descobertas em várias obras. Utilizaremos o livro “<em>Sonhos e realidades no divórcio</em>”, escrito em parceria com Sandra Blakeslee, e publicado no Brasil pela Saraiva em 1991.
 

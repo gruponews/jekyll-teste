@@ -1,21 +1,17 @@
 ---
 ID: 2124
 post_title: Crie uma conta
-author: Fernando
-post_date: 2012-03-04 20:33:53
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: page
-permalink: /cadastrar
+permalink: cadastrar
 published: true
-aktt_notify_twitter:
-  - 'yes'
-"og:type":
-  - article
-post_autor:
-  - ""
-post_destaques:
-  - Nao
-dsq_thread_id:
-  - "5134085323"
+categories: ""
+tags: ""
+author: ""
+post_date: 2012-03-04 20:33:53
 ---
 <strong>[wppb-register]</strong>

@@ -3,27 +3,34 @@ ID: 70
 post_title: >
   A árvore do bem e do mal está bem
   dentro de casa
-author: eduardolucas
-post_date: 2009-12-01 00:57:16
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_arvore_do_bem_e_do_mal.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_arvore_do_bem_e_do_mal.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_arvore_do_bem_e_do_mal.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_arvore_do_bem_e_do_mal-720x600.jpg
 post_excerpt: ""
 layout: post
-permalink: /familia-materias/a-arvore-do-bem-e-do-mal-esta-bem-dentro-de-casa
+permalink: >
+  familia/a-arvore-do-bem-e-do-mal-esta-bem-dentro-de-casa.html
 published: true
-post_autor:
-  - Ivonete Camargo Pegnolazzo
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_arvore_do_bem_e_do_mal.jpg
-aktt_notify_twitter:
-  - 'yes'
-wpcf-gn_post_autor:
-  - Ivonete Camargo Pegnolazzo
-dsq_thread_id:
-  - "2802545640"
-wpcf-gn_post_destaques:
-  - nao_destaque
+categories:
+  - Família
+tags:
+  - Arvore
+  - Bem
+  - Casa
+  - Conhecimento
+  - Curiosidade
+  - Filhos
+  - Internet
+  - Mal
+  - Pais
+  - Televisão
+author: ""
+post_date: 2009-12-01 00:57:16
 ---
 A Bíblia tem início com uma das mais interessantes narrativas a respeito da liberdade dada ao homem. Em Gênesis, Deus criou Adão e Eva e lhes deu liberdade de ação e de estarem diariamente se relacionando com Ele. Com o passar do tempo, Deus comprovou, na prática, que a Sua criação mais especial não tinha conseguido passar na prova de autonomia que lhe dava o privilégio de gerir seus próprios passos.
 

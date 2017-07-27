@@ -1,57 +1,41 @@
 ---
 ID: 4695
-post_title: Deus é agressivo?
-author: Fernando
-post_date: 2016-07-13 11:36:08
+post_title: Deus é agressivo ?
+image-xl: ""
+image-l: ""
+image-sq-l: ""
+image-sq-m: ""
 post_excerpt: ""
 layout: post
-permalink: /bases-cristas/o-deus-mal-compreendido/deus-e-agressivo
+permalink: >
+  bases-cristas/o-deus-mal-compreendido/deus-e-agressivo.html
 published: true
-wpcf-gn_post_destaques:
-  - destaque_novidade
-dsq_thread_id:
-  - "4985073949"
+categories:
+  - O Deus mal compreendido
+tags:
+  - edicao-82
+author: ""
+post_date: 2016-07-13 11:36:08
 ---
 <p class="p1">Esta é a 8ª parte do resumo do livro “The Misunderstood God: The Lies Religion Tells About God” (O Deus mal compreendido: as mentiras que a religião conta sobre Deus), de Darin Hufford, publicado nos EUA em 2009 por Windblown Media (traduzido em 2012 para o português sob o título “Mais perto de Deus” pela Ed. Sextante). <a href="http://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido">Clique aqui para ler os resumos anteriores.</a></p>
-
 <p class="p3"><span class="s3">E</span><span class="s1">nquanto voltava para casa, escutava um locutor no rádio, do qual eu ouvira algumas coisas controversas. Queria saber por que ele era tão amado, mas fiquei horrorizado, pois ele, em sessenta segundos, expressou uma série de grosserias. Mesmo tendo senso de humor, o que mais atraía o público era sua personalidade agressiva. Ele era respeitado por dizer as coisas “na cara” e do jeito que elas são. Ele era valorizado por ser uma figura de força e ousadia. Era rude e agressivo e dizia coisas que as pessoas tinham em mente, mas que se recusavam a expressar. Sua carreira se mantinha pelo fato de vivermos em uma sociedade rude.</span></p>
-
 <p class="p4"><span class="s1">Você pensaria que atitudes grosseiras são geralmente desprezadas, mas a aceitação desse hábito cresce a cada ano. É uma prática comum em apresentadores de talk show e lideranças em geral, e as mulheres têm grande atração pelos homens rudes, acreditando ser sinal de força e confiabilidade. Um homem com boas maneiras é coisa do passado, sendo hoje considerado fraco e vulnerável.</span></p>
-
 <p class="p4"><span class="s1">Da mesma forma, muitos cristãos pensam que Deus é rude, como demonstração de sua força e poder. Eles aprovam algo como Deus expor publicamente os pecados mais escondidos de alguém, colocando a pessoa em seu devido lugar. Conseguem detectar uma atitude não escrita e grosseira de Jesus ao falar com os fariseus, imaginando-o falando da mesma forma com aqueles de quem não gostam. De uns anos para cá, venho escutando no meio cristão alguns relatos da suposta conversa dos pregadores com Deus. O que eles falam que “Deus disse” tem sempre um tom insensível, frio e sem amor. Certa vez um evangelista disse que Deus o confrontou por causa de seu orgulho pessoal, e supostamente disse a ele: “Você me dá náuseas”. Em outra parte da história, Deus lhe respondeu: “Eu preciso soletrar ou você vai se aquietar para ouvir?” Estas coisas são contadas de forma jocosa, mas como chegariam ao coração dos mais novos? Talvez gerem uma expectativa de que Deus é assim mesmo e que fala conosco dessa forma.</span></p>
-
 <p class="p4"><span class="s1">Você já ouviu alguém falar sobre uma conversa antiga que teve com você, dizendo que sua fala tinha um tom abrasivo e que você até gritava, quando não aconteceu exatamente dessa forma? Por alguma razão, a pessoa entende que você é rude e insere palavras ásperas em seu discurso e ações. Você se lembra de como se sentiu invadido e incompreendido? Você foi rotulado com um temperamento que não expressa o seu verdadeiro “eu”. Da mesma forma Deus se sente quando fazemos isso com ele, pois essas histórias afastam o coração de seus filhos. O problema é que nós escutamos o que esperamos ouvir. Se pensamos que Deus é rude, vamos ouvi-lo sempre num tom rude. </span></p>
-
 <p class="p4"><span class="s1">Descobri que muitos cristãos nunca ouvem a Deus por estarem sintonizados numa estação de grosseria, esperando sempre uma repreensão, uma correção ou uma ordem insensível. Dentre todas as definições de aspereza, a mais comum é a de uma coisa inacabada. Um pedaço de madeira bruta é áspero e cheio de farpas. Quando é esfregado em alguém, causa sangramento. As rochas não polidas são grosseiras. Essa é a imagem que serve para descrever o desconforto que podemos sentir ao conviver com uma pessoa rude.</span></p>
-
 <p class="p4"><span class="s1">Nos tempos bíblicos, os reis usavam mensageiros para entregar sua mensagem. Estes não eram escolhidos pela habilidade de falar a mensagem, mas pela capacidade de expressar o mesmo tom no qual foram faladas. Se o rei ia guerrear contra os inimigos, o mensageiro expressava a ira e a raiva que o rei demonstrava. Se o rei estava alegre e convidava o povo para um banquete, o mensageiro deveria expressar essa alegria durante o convite. Os mensageiros de hoje não conseguem reproduzir o tom de Deus e acreditam que as palavras da Bíblia são tudo aquilo de que precisam. A única maneira de a Bíblia ser interpretada corretamente é se o mensageiro conhece e entende as batidas do coração do Autor. Quando um tom de condenação e raiva é dado a palavras de encorajamento, as palavras ganham outro significado e dilaceram o coração do ouvinte, afastando-o de Deus. Muitas vezes, leva anos para que os filhos de Deus se recuperem dessas impressões de medo.</span></p>
-
 <p class="p4"><span class="s1">É por isso que a Bíblia diz para falarmos a verdade em amor. Nós, cristãos, acreditamos que ser verdadeiro é o mesmo que ser “correto”, como um mais um é igual a dois. Mas isto não é a verdade, pois a Verdade é uma pessoa cuja personalidade é o amor. Se você tirar o amor, a verdade também sai. Já falou coisas terríveis a um cão com voz amorosa? Ele abana o rabo e lambe seu rosto, excitadamente. Mas você já falou palavras de amor com uma voz irada? O cão se encolhe e foge.</span></p>
-
 <p class="p4"><span class="s1">Muitos cristãos se escondem hoje. Palavras de amor foram ditas a eles em tom irado. Apesar de terem memorizado as palavras, guardaram também o tom no coração. Mesmo falando a cada domingo que Deus ama a sua congregação, a mensagem dos pregadores está contaminada. Não basta pregar sobre um assunto, é preciso vivê-lo em seu coração antes que possa entregá-lo de maneira adequada. </span></p>
-
 <p class="p4"><span class="s1">Os ensinos atuais sobre “respeitar o homem de Deus” demonstram uma mentalidade grosseira. Isso é usado para que as pessoas façam aquilo que o líder religioso deseja. Infelizmente, a obra de Cristo é negada com esta ideia de que uns são homens de Deus, e precisam de atenção especial, e outros não são. O Velho Testamento os chamava “servos de Deus”, e o Novo Testamento os chama “filhos e filhas de Deus”. Todos os homens e mulheres merecem igualmente nosso respeito.</span></p>
-
 <p class="p4"><span class="s1">Eu também percebo grosseria na maneira como entendemos que Deus fala conosco como se fôssemos crianças. Eu queria responder a todos os “porquês” da minha filha. Eu já tinha repetido 50 vezes que ela não deveria correr na rua, e mais uma vez ela perguntava: “Mas por quê?” Eventualmente, meu estoque de “porque estou te dizendo” acabava, e então eu passava a usar o “você não precisa saber o porquê, simplesmente faça o que eu estou mandando”. Isso pode até funcionar com crianças, mas se eu fizer com adultos, é grosseria e atenta contra a sua dignidade. Fico admirado quando vejo pessoas que pensam que Deus nos trata como crianças, sem nenhum respeito por nós. Nossa teologia é baseada num Deus rude que diz: “Faça isto, pois estou dizendo para fazer”. Fazemos isso com a Bíblia mais do que com qualquer outra coisa. Depois que um versículo é lido, se ousar perguntar os porquês, será tachado de rebelde.</span></p>
-
 <p class="p4"><span class="s1">Citar as Escrituras é o escape para milhares de pregadores atualmente. Eles se escondem atrás disso, pois os cristãos foram programados para concordar roboticamente no momento em que uma referência bíblica é citada. Cremos assim, pois o Deus que nos apresentaram é completamente rude, nunca negocia nem explica nada. A única coisa que requer de nós é obediência. Para muitos, a obediência cega é sinal de maturidade. O verdadeiro cristão é apresentado como um cavalo amansado, que vai para a esquerda ou direita, de acordo com o comando que recebe.<span class="Apple-converted-space">  </span>Se somos criados ouvindo essas coisas absurdas, não é surpresa se nos afastamos da intimidade com Deus. Quem vai querer um relacionamento com ele?</span></p>
-
 <p class="p5"><span class="s1"><b>Deus não é rude</b></span></p>
-
 <p class="p4"><span class="s1">Embora Deus seja o seu Pai do céu, é importante entender que ele respeita você. Ele não o trata como criança. Ele compreende que você é adulto e lhe dedica o respeito que um adulto merece. Fico preocupado quando falamos como se Deus estivesse nos “dando palmadas” ou nos colocando “de castigo”. Quando vamos ao shopping com nossas filhas, lembramos a elas com firmeza que não podem sair correndo pelo estacionamento. Se alguém perguntasse às minhas filhas como é meu coração, eu ficaria muito triste se elas dissessem: “Ele quer obediência”. Eu exijo obediência com o propósito de trazer segurança para elas, e não a obediência pela obediência. O mesmo serve para a relação de Deus com cada um de nós. Deus não quer se relacionar conosco como se fôssemos soldados que não pensam, seguindo as ordens do comandante. Se perguntarmos “por quê”, ele nos ajuda a entender. Se precisar de um pouco mais de tempo, ele vai esperar com paciência. A comunhão com ele é na base do diálogo e não do monólogo.</span></p>
-
 <p class="p4"><span class="s1">Deus é um verdadeiro artista quando o assunto é você. Se perguntássemos a Van Gogh o que ele via ao olhar uma tela branca, ele poderia dizer que via um turbilhão de estrelas no céu escuro sobre uma igrejinha aninhada numa montanha. Também descreveria o tom de cada cor na pintura, e o interessante é que ele realmente via aquilo. O verdadeiro artista consegue ver a obra-prima já terminada. Por essa causa, os artistas cobrem seu projeto com um tecido, escondendo-o do mundo até que tudo esteja terminado. No olhar do artista, a obra já está acabada, pois ele se baseia no que enxerga em seu íntimo. Ele cobre a tela porque quer proteger aquilo que está em seu coração até que esteja totalmente expressado.</span></p>
-
 <p class="p4"><span class="s1">O seu Pai Celestial vê uma obra-prima em você, e ela já está pronta no coração dele. E não tenha dúvida: ele nunca vai expor você ao mundo como algo inacabado. As pessoas temem que Deus exponha seus pecados, mas ele não faz isso – ele os cobre.</span></p>
-
 <p class="p4"><span class="s1">Deus expõe a beleza que há em ti, que pode ser revelada, para os outros. Ele é semelhante aos pais que pedem às crianças para recitarem o alfabeto para as visitas. Ele quer que as pessoas amem você e sintam orgulho de você, da mesma forma que ele sente. Depois que as visitas vão embora, com um brilho em seus olhos, ele pega os pincéis e continua a criar a obra-prima em você, que ele já via desde o princípio. Tudo o que é bruto e inacabado é coberto com um véu de proteção.</span></p>
-
 <p class="p4"><span class="s1">Certa vez, logo ao terminar o culto, a entrada da igreja estava lotada de gente rindo e conversando. Minhas filhas, saindo de suas classes, corriam em minha direção, quando uma delas perdeu o controle da bexiga e se molhou toda, no meio da multidão. Seu semblante era de horror e embaraço, e eu a segurei no colo e corri para o carro, sentindo meu terno e gravata molhados, e a confortava com palavras doces e amáveis. O que eu fiz foi justamente encobrir uma obra-prima que estava ainda em construção. E é isso que Deus faz conosco. Não tenha medo: Deus não vai humilhar você com o propósito de quebrantá-lo ou de lhe ensinar uma lição. Expor uma pessoa inacabada é algo rude, e Deus é especialista em guardar coisas só entre ele e você.</span></p>
-
 <p class="p4"><span class="s1">Deus faz com que todas as coisas se completem e não deixa nada inacabado. Mesmo que você esteja em obras, ele já o declarou completo! Quais foram as últimas palavras de Jesus? Ele disse que tudo estava consumado. Ele não o trata como nada menos do que isso.</span></p>
-
 <p class="p4"><span class="s1">Fico admirado com cristãos atuais que preferem um Deus rude. Mesmo Jesus dizendo que “nunca nos deixaria e não nos abandonaria”, eles não têm nenhuma segurança em Deus. Este constante estado de insegurança é o poder da religião, e todos que adotam esta teologia são forçados a um círculo vicioso de escravidão, medo e falta de paz. Deus não é rude com você por uma simples razão: ele resolveu estar a seu lado para sempre, como numa relação de casamento. Ele nunca vai abandoná-lo e, por causa disso, trata-o da mesma forma que deseja ser tratado por você. </span></p>
-
 <p class="p4"><span class="s1">Continuando nossa caminhada em direção à essência do amor, percebemos que nossa antiga percepção do coração de Deus precisa ser abandonada e demolida para sempre. E nada mais verdadeiro que o próximo capítulo, que acredito ser o mais importante de todos. [Continua na próxima edição]</span></p>
-
 <p class="p6"><span class="s1">Traduzido e adaptado por Ezequiel Netto</span></p>

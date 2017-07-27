@@ -1,27 +1,33 @@
 ---
 ID: 78
 post_title: A Estratégia Final
-author: eduardolucas
-post_date: 2009-12-01 20:42:53
+image-xl: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_estrategia_final.jpg
+image-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_estrategia_final-960x720.jpg
+image-sq-l: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_estrategia_final.jpg
+image-sq-m: >
+  https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_estrategia_final-720x720.jpg
 post_excerpt: ""
 layout: post
-permalink: /igreja/a-estrategia-final
+permalink: igreja/a-estrategia-final.html
 published: true
-post_autor:
-  - Carlos Araripe
-post_destaques:
-  - Nao
-post_imagem:
-  - >
-    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_estrategia_final.jpg
-aktt_notify_twitter:
-  - 'no'
-wpcf-gn_post_autor:
-  - Carlos Araripe
-dsq_thread_id:
-  - "2802545942"
-wpcf-gn_post_destaques:
-  - nao_destaque
+categories:
+  - Igreja
+tags:
+  - Atitude
+  - Batalha
+  - Estratégia
+  - Guerra
+  - Homem
+  - Igreja
+  - Inimigo
+  - Louvor
+  - Oração
+  - Palavra
+author: ""
+post_date: 2009-12-01 20:42:53
 ---
 Dias destes chegou-me às mãos um livro de Marketing, intitulado “Sun Tzu e a arte dos negócios”, de Mark McNeilly, que de uma forma muito original, interpreta o clássico da guerra de Sun Tzu à luz dos negócios modernos.
 
@@ -30,9 +36,7 @@ Sun Tzu escreveu seus ensinamentos a mais de 2.000 anos, sem a mínima preocupa�
 O grande feito de McNeilly é relacionar os princípios de Sun Tzu com o atual momento dos negócios que é vivido pela humanidade: uma concorrência feroz a cada instante, seja por uma parcela do mercado, ou por um ponto percentual nas estatísticas de vendas; o medo atroz de fechar as portas em meio à crise; a guerra titânica pela hegemonia do mercado desencadeada pelas grandes marcas globais, etc.
 
 Este momento na verdade, reflete o próprio espírito do mundo, o espírito do presente século, onde as coisas raramente são solucionadas sem o advento da guerra, da destruição do outro, seja física ou moral. Espírito este que está alinhado com a incrível propensão do ser humano ao confronto ou tudo aquilo que diga respeito à oposição destruidora. Em todas as áreas da vida existe uma analogia relacionada à guerra, desde o provinciano “matar um leão a cada dia” ao best seller de All Ries, “Marketing de Guerra.”  A todo momento estamos associando nossa existência com o fenômeno da guerra.
-
 <h3>Vivemos em guerra!</h3>
-
 Mas esta situação não é um privilégio de nós que vivemos nestes derradeiros dias, nem foi Sun Tzu, o grande articulador das estratégias de guerra (diga-se de passagem que Von Clausewitz também notabilizou-se no século passado por seu tratado “Der Krieg”, traduzido para o português por “Da Guerra”, e que permanece até hoje como uma referência imprescindível ao assunto), essa é uma história muito antiga que se iniciou com o primeiro inimigo de que se tem notícia, o primeiro ser belicoso da criação de Deus: Lúcifer.
 
 Certamente Deus não elaborou sua obra de forma perfeita para depois se degladiar com ela, antes, fê-la com perfeição e harmonia para seu deleite e comunhão plena. Um ato de revolta de seu mais ilustre anjo, um atentado à sua própria glória, trouxe o desequilíbrio à criação de Deus e a guerra, o bem contra o mal, Deus contra o diabo. A partir de então, Deus tem usado deste expediente para consolidar seu propósito na face da terra, de forma a ser chamado no antigo testamento de “Senhor dos exércitos” (II Rs 3:14), de “Homem de guerra” (Ex 15:3), o que não significa necessariamente que ele tenha prazer nisto, mas que não medirá esforços para levar a cabo os seus planos eternos, de guerra em guerra.
