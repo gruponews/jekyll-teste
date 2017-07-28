@@ -5,7 +5,7 @@ install:
   - sudo apt-get update
   - sudo apt-get install sshpass
   - bundle install
-script: jekyll build --lsi
+script: jekyll build
 after_success:
   - sshpass -p $ftpPassword scp -r /home/travis/build/gruponews/jekyll-teste/_site/* gruponewscombr@gruponews.com.br:jekyll.gruponews.com.br/public1
   - echo 'Teste OK'

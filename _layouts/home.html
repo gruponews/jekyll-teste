@@ -2,27 +2,264 @@
 layout: default
 ---
 
-<div class="home">
+<link rel="stylesheet" type="text/css" href="assets/css/settings.css">
+    <!-- REVOLUTION LAYERS STYLES -->
+    <style>
 
-  <ul class="post-list">
-    {% for collection in site.collections %}
-      {% capture label %}{{ collection.label }}{% endcapture %}
-      {% for post in collection.docs %}
-        {% for tag in post.tags %}
-          {% if tag == 'featured' %}
-            <li>
-              {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-              <span class="post-meta">{{ post.date | date: date_format }}</span>
+    </style>
+    <style>
+    .tp-caption.Newspaper-Button,
+    .Newspaper-Button {
+        color: rgba(255, 255, 255, 1.00);
+        font-size: 13px;
+        line-height: 17px;
+        font-weight: 700;
+        font-style: normal;
+        font-family: Roboto;
+        text-decoration: none;
+        background-color: rgba(255, 255, 255, 0);
+        border-color: rgba(255, 255, 255, 0.25);
+        border-style: solid;
+        border-width: 1px;
+        border-radius: 0px 0px 0px 0px;
+        letter-spacing: 2px
+    }
 
-              <h2>
-              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-              </h2>
-            </li>
-          {% endif %}
-        {% endfor %}
-      {% endfor %}
-    {% endfor %}
-  </ul>
+    .tp-caption.Newspaper-Button:hover,
+    .Newspaper-Button:hover {
+        color: rgba(0, 0, 0, 1.00);
+        text-decoration: none;
+        background-color: rgba(255, 255, 255, 1.00);
+        border-color: rgba(255, 255, 255, 1.00);
+        border-style: solid;
+        border-width: 1px;
+        border-radius: 0px 0px 0px 0px;
+        cursor: pointer
+    }
+
+    .tp-caption.Newspaper-Subtitle,
+    .Newspaper-Subtitle {
+        color: rgba(168, 216, 238, 1.00);
+        font-size: 15px;
+        line-height: 20px;
+        font-weight: 900;
+        font-style: normal;
+        font-family: Roboto;
+        text-decoration: none;
+        background-color: transparent;
+        border-color: transparent;
+        border-style: none;
+        border-width: 0px;
+        border-radius: 0 0 0 0px
+    }
+
+    .tp-caption.Newspaper-Title,
+    .Newspaper-Title {
+        color: rgba(255, 255, 255, 1.00);
+        font-size: 50px;
+        line-height: 55px;
+        font-weight: 400;
+        font-style: normal;
+        font-family: "Roboto Slab";
+        text-decoration: none;
+        background-color: transparent;
+        border-color: transparent;
+        border-style: none;
+        border-width: 0px;
+        border-radius: 0 0 0 0px
+    }
+    </style>
+    <style type="text/css">
+    .erinyen .tp-tab-title {
+        color: rgb(168, 216, 238);
+        font-size: 13px;
+        font-weight: 700;
+        text-transform: uppercase;
+        font-family: "Roboto Slab";
+        margin-bottom: 5px;
+        line-height: 15px
+    }
+
+    .erinyen .tp-tab-desc {
+        font-size: 18px;
+        font-weight: 400;
+        color: rgb(255, 255, 255);
+        line-height: 25px;
+        font-family: "Roboto Slab"
+    }
+    </style>
+    <!-- REVOLUTION JS FILES -->
+    <script type="text/javascript" src="assets/js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.themepunch.revolution.min.js"></script>
+    <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->
+    <script type="text/javascript" src="assets/js/extensions/revolution.extension.actions.min.js"></script>
+    <script type="text/javascript" src="assets/js/extensions/revolution.extension.carousel.min.js"></script>
+    <script type="text/javascript" src="assets/js/extensions/revolution.extension.kenburn.min.js"></script>
+    <script type="text/javascript" src="assets/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script type="text/javascript" src="assets/js/extensions/revolution.extension.migration.min.js"></script>
+    <script type="text/javascript" src="assets/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script type="text/javascript" src="assets/js/extensions/revolution.extension.parallax.min.js"></script>
+    <script type="text/javascript" src="assets/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script type="text/javascript" src="assets/js/extensions/revolution.extension.video.min.js"></script>
+    <script type="text/javascript">
+    function setREVStartSize(e) {
+        try {
+            var i = jQuery(window).width(),
+                t = 9999,
+                r = 0,
+                n = 0,
+                l = 0,
+                f = 0,
+                s = 0,
+                h = 0;
+            if (e.responsiveLevels && (jQuery.each(e.responsiveLevels, function(e, f) { f > i && (t = r = f, l = e), i > f && f > r && (r = f, n = e) }), t > r && (l = n)), f = e.gridheight[l] || e.gridheight[0] || e.gridheight, s = e.gridwidth[l] || e.gridwidth[0] || e.gridwidth, h = i / s, h = h > 1 ? 1 : h, f = Math.round(h * f), "fullscreen" == e.sliderLayout) { var u = (e.c.width(), jQuery(window).height()); if (void 0 != e.fullScreenOffsetContainer) { var c = e.fullScreenOffsetContainer.split(","); if (c) jQuery.each(c, function(e, i) { u = jQuery(i).length > 0 ? u - jQuery(i).outerHeight(!0) : u }), e.fullScreenOffset.split("%").length > 1 && void 0 != e.fullScreenOffset && e.fullScreenOffset.length > 0 ? u -= jQuery(window).height() * parseInt(e.fullScreenOffset, 0) / 100 : void 0 != e.fullScreenOffset && e.fullScreenOffset.length > 0 && (u -= parseInt(e.fullScreenOffset, 0)) } f = u } else void 0 != e.minHeight && f < e.minHeight && (f = e.minHeight);
+            e.c.closest(".rev_slider_wrapper").css({ height: f })
+        } catch (d) { console.log("Failure at Presize of Slider:" + d) }
+    };
+    </script>
+
+  <div id="rev_slider_3_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="news-gallery4" data-source="gallery" style="margin:0px auto;background:#ffffff;padding:0px;margin-top:0px;margin-bottom:0px;">
+        <!-- START REVOLUTION SLIDER 5.4.5.1 fullwidth mode -->
+        <div id="rev_slider_3_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.5.1">
+            <ul>
+              {% for collection in site.collections %}
+                {% for post in collection.docs %}
+                  {% for tag in post.tags %}
+                    {% if tag == 'featured' %}
+                       <li data-index="rs-{% increment counter %}" data-transition="parallaxvertical" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="{{post.image-xl}}" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" data-title="A STUDY ON HAPPINESS" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="{{post.title}}">
+                        <img src="{{post.image-xl}}" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+<!-- LAYER NR. 1 -->
+                    <div class="tp-caption tp-shape tp-shapewrapper   tp-resizeme" id="slide-6-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" data-width="full" data-height="full" data-whitespace="normal" data-type="shape" data-basealign="slide" data-responsive_offset="on" data-frames='[{"from":"opacity:0;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5;text-transform:left;background-color:rgba(0,0,0,0.35);"> </div>
+                    <!-- LAYER NR. 2 -->
+                    <div class="tp-caption Newspaper-Title   tp-resizeme" id="slide-6-layer-1" data-x="['left','left','left','left']" data-hoffset="['50','50','50','30']" data-y="['top','top','top','top']" data-voffset="['165','135','105','130']" data-fontsize="['50','50','50','30']" data-lineheight="['55','55','55','35']" data-width="['600','600','600','420']" data-height="none" data-whitespace="normal" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[10,10,10,10]" data-paddingleft="[0,0,0,0]" style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;text-transform:left;">{{post.title}} </div>
+                    <!-- LAYER NR. 3 -->
+                    <div class="tp-caption Newspaper-Subtitle   tp-resizeme" id="slide-6-layer-2" data-x="['left','left','left','left']" data-hoffset="['50','50','50','30']" data-y="['top','top','top','top']" data-voffset="['140','110','80','100']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-responsive_offset="on" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap;text-transform:left;"></div>
+                    <!-- LAYER NR. 4 -->
+                    <div class="tp-caption Newspaper-Button rev-btn " id="slide-6-layer-5" data-x="['left','left','left','left']" data-hoffset="['53','53','53','30']" data-y="['top','top','top','top']" data-voffset="['361','331','301','245']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="button" data-responsive_offset="on" data-responsive="off" data-frames='[{"from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;","speed":1500,"to":"o:1;","delay":1000,"ease":"Power3.easeInOut"},{"delay":"wait","speed":1000,"to":"auto:auto;","mask":"x:0;y:0;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0,0,0,1);bg:rgba(255,255,255,1);bc:rgba(255,255,255,1);bw:1px 1px 1px 1px;"}]' data-textAlign="['left','left','left','left']" data-paddingtop="[12,12,12,12]" data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]" style="z-index: 8; white-space: nowrap;text-transform:left;border-color:rgba(255,255,255,0.25);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">READ MORE </div>
+                      </li>
+                    {% endif %}
+                  {% endfor %}
+                {% endfor %}
+              {% endfor %}
+            </ul>
+            <div class="tp-bannertimer tp-bottom" style="height: 5px; background: rgba(166,216,236,1);"></div>
+        </div>
+    </div>
+    <!-- END REVOLUTION SLIDER -->
+    <script type="text/javascript">
+    var revapi3,
+        tpj = jQuery;
+
+    tpj(document).ready(function() {
+        if (tpj("#rev_slider_3_1").revolution == undefined) {
+            revslider_showDoubleJqueryError("#rev_slider_3_1");
+        } else {
+            revapi3 = tpj("#rev_slider_3_1").show().revolution({
+                sliderType: "standard",
+                jsFileLocation: "//www.gruponews.com.br/wp-content/plugins/revslider/public/assets/js/",
+                sliderLayout: "fullwidth",
+                dottedOverlay: "none",
+                delay: 9000,
+                navigation: {
+                    keyboardNavigation: "on",
+                    keyboard_direction: "horizontal",
+                    mouseScrollNavigation: "off",
+                    mouseScrollReverse: "default",
+                    onHoverStop: "on",
+                    touch: {
+                        touchenabled: "on",
+                        touchOnDesktop: "off",
+                        swipe_threshold: 75,
+                        swipe_min_touches: 1,
+                        swipe_direction: "horizontal",
+                        drag_block_vertical: false
+                    },
+                    arrows: {
+                        style: "gyges",
+                        enable: true,
+                        hide_onmobile: false,
+                        hide_over: 778,
+                        hide_onleave: false,
+                        tmp: '',
+                        left: {
+                            h_align: "right",
+                            v_align: "bottom",
+                            h_offset: 40,
+                            v_offset: 0
+                        },
+                        right: {
+                            h_align: "right",
+                            v_align: "bottom",
+                            h_offset: 0,
+                            v_offset: 0
+                        }
+                    },
+                    tabs: {
+                        style: "erinyen",
+                        enable: true,
+                        width: 250,
+                        height: 100,
+                        min_width: 250,
+                        wrapper_padding: 0,
+                        wrapper_color: "transparent",
+                        tmp: '<div class="tp-tab-title">{{title}}</div><div class="tp-tab-desc">{{description}}</div>',
+                        visibleAmount: 3,
+                        hide_onmobile: true,
+                        hide_under: 778,
+                        hide_onleave: false,
+                        hide_delay: 200,
+                        direction: "vertical",
+                        span: false,
+                        position: "inner",
+                        space: 10,
+                        h_align: "right",
+                        v_align: "center",
+                        h_offset: 30,
+                        v_offset: 0
+                    }
+                },
+                viewPort: {
+                    enable: true,
+                    outof: "pause",
+                    visible_area: "80%",
+                    presize: false
+                },
+                responsiveLevels: [1240, 1024, 778, 480],
+                visibilityLevels: [1240, 1024, 778, 480],
+                gridwidth: [1240, 1024, 778, 480],
+                gridheight: [500, 450, 400, 350],
+                lazyType: "none",
+                parallax: {
+                    type: "scroll",
+                    origo: "enterpoint",
+                    speed: 400,
+                    speedbg: 0,
+                    speedls: 0,
+                    levels: [5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 46, 47, 48, 49, 50, 55],
+                },
+                shadow: 0,
+                spinner: "off",
+                stopLoop: "off",
+                stopAfterLoops: -1,
+                stopAtSlide: -1,
+                shuffle: "off",
+                autoHeight: "off",
+                hideThumbsOnMobile: "off",
+                hideSliderAtLimit: 0,
+                hideCaptionAtLimit: 0,
+                hideAllCaptionAtLilmit: 0,
+                debugMode: false,
+                fallbacks: {
+                    simplifyAll: "off",
+                    nextSlideOnWindowFocus: "off",
+                    disableFocusListener: false,
+                }
+            });
+        }
+
+    }); /*ready*/
+    </script>
+  <div class="home">
  <hr>
   <ul class="post-list">
     {% for post in site.posts limit:10%}
