@@ -11,7 +11,7 @@ image-sq-m: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/11/q1rncn_gqbk-cody-aulidge-720x720.jpg
 post_excerpt: ""
 layout: page
-permalink: eventos
+permalink: eventos/index.html
 published: true
 categories:
   - Geral
@@ -19,4 +19,13 @@ tags: ""
 author: ""
 post_date: 2009-11-23 16:17:05
 ---
-Os eventos podem sofrer alterações sem aviso prévio
+<p class="small">Os eventos podem sofrer alterações sem aviso prévio</p>
+
+<div>
+{% for evento in site.eventos %}
+  <div class="event">
+    <h3>{{evento.title}}</h3>
+  </div>
+{% endfor %}
+</div>  
+

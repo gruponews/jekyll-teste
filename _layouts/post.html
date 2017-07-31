@@ -3,13 +3,51 @@ layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
+    <main class="content" role="main">
+      <article class="post">
+        {% if page.image-xl %}
+        <div class="article-image">
+          <div class="post-image-image" style="background-image: url({% if page.image-xl %}{{ page.image-xl | prepend: site.baseurl }}{% endif %})">
+            Article Image
+          </div>
+          <div class="post-image-image2" style="background-image: url({% if page.image-xl2 %}{{ page.image-xl2 | prepend: site.baseurl }}{% endif %})">
+            Article Image
+          </div>
+          <div class="post-meta">
+            <h1 class="post-title">{{ page.title }}</h1>
+            <div class="cf post-meta-text">
+              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
+            </div>
+            <div style="text-align:center">
+              <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
+            </div>
+          </div>
+        </div>
+        {% else %}
+        <div class="noarticleimage">
+          <div class="post-meta">
+            <h1 class="post-title">{{ page.title }}</h1>
+            <div class="cf post-meta-text">
+              <div class="author-image" style="background-image: url({{ site.author_image | prepend: site.baseurl }})">Blog Logo</div>
+              <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person"></h4>
+              on
+              <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
+            </div>
+          </div>
+        </div>
+        <br>
+        <br>
+        <br>
+        {% endif %}
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
+      {% comment %}
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         {{ page.date | date: date_format }}
       </time>
+      {% endcomment %}
       {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
       {% endif %}</p>

@@ -1,93 +1,6 @@
 ---
 layout: default
 ---
-
-<link rel="stylesheet" type="text/css" href="assets/css/settings.css">
-    <!-- REVOLUTION LAYERS STYLES -->
-    <style>
-
-    </style>
-    <style>
-    .tp-caption.Newspaper-Button,
-    .Newspaper-Button {
-        color: rgba(255, 255, 255, 1.00);
-        font-size: 13px;
-        line-height: 17px;
-        font-weight: 700;
-        font-style: normal;
-        font-family: Roboto;
-        text-decoration: none;
-        background-color: rgba(255, 255, 255, 0);
-        border-color: rgba(255, 255, 255, 0.25);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 0px 0px 0px 0px;
-        letter-spacing: 2px
-    }
-
-    .tp-caption.Newspaper-Button:hover,
-    .Newspaper-Button:hover {
-        color: rgba(0, 0, 0, 1.00);
-        text-decoration: none;
-        background-color: rgba(255, 255, 255, 1.00);
-        border-color: rgba(255, 255, 255, 1.00);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 0px 0px 0px 0px;
-        cursor: pointer
-    }
-
-    .tp-caption.Newspaper-Subtitle,
-    .Newspaper-Subtitle {
-        color: rgba(168, 216, 238, 1.00);
-        font-size: 15px;
-        line-height: 20px;
-        font-weight: 900;
-        font-style: normal;
-        font-family: Roboto;
-        text-decoration: none;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px
-    }
-
-    .tp-caption.Newspaper-Title,
-    .Newspaper-Title {
-        color: rgba(255, 255, 255, 1.00);
-        font-size: 50px;
-        line-height: 55px;
-        font-weight: 400;
-        font-style: normal;
-        font-family: "Roboto Slab";
-        text-decoration: none;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px
-    }
-    </style>
-    <style type="text/css">
-    .erinyen .tp-tab-title {
-        color: rgb(168, 216, 238);
-        font-size: 13px;
-        font-weight: 700;
-        text-transform: uppercase;
-        font-family: "Roboto Slab";
-        margin-bottom: 5px;
-        line-height: 15px
-    }
-
-    .erinyen .tp-tab-desc {
-        font-size: 18px;
-        font-weight: 400;
-        color: rgb(255, 255, 255);
-        line-height: 25px;
-        font-family: "Roboto Slab"
-    }
-    </style>
     <!-- REVOLUTION JS FILES -->
     <script type="text/javascript" src="assets/js/jquery.themepunch.tools.min.js"></script>
     <script type="text/javascript" src="assets/js/jquery.themepunch.revolution.min.js"></script>
@@ -113,7 +26,7 @@ layout: default
                 s = 0,
                 h = 0;
             if (e.responsiveLevels && (jQuery.each(e.responsiveLevels, function(e, f) { f > i && (t = r = f, l = e), i > f && f > r && (r = f, n = e) }), t > r && (l = n)), f = e.gridheight[l] || e.gridheight[0] || e.gridheight, s = e.gridwidth[l] || e.gridwidth[0] || e.gridwidth, h = i / s, h = h > 1 ? 1 : h, f = Math.round(h * f), "fullscreen" == e.sliderLayout) { var u = (e.c.width(), jQuery(window).height()); if (void 0 != e.fullScreenOffsetContainer) { var c = e.fullScreenOffsetContainer.split(","); if (c) jQuery.each(c, function(e, i) { u = jQuery(i).length > 0 ? u - jQuery(i).outerHeight(!0) : u }), e.fullScreenOffset.split("%").length > 1 && void 0 != e.fullScreenOffset && e.fullScreenOffset.length > 0 ? u -= jQuery(window).height() * parseInt(e.fullScreenOffset, 0) / 100 : void 0 != e.fullScreenOffset && e.fullScreenOffset.length > 0 && (u -= parseInt(e.fullScreenOffset, 0)) } f = u } else void 0 != e.minHeight && f < e.minHeight && (f = e.minHeight);
-            e.c.closest(".rev_slider_wrapper").css({ height: f })
+            e.c.closest(".rev_slider_wrapper").css({ height: '50vh' })
         } catch (d) { console.log("Failure at Presize of Slider:" + d) }
     };
     </script>
@@ -142,7 +55,7 @@ layout: default
                 {% endfor %}
               {% endfor %}
             </ul>
-            <div class="tp-bannertimer tp-bottom" style="height: 5px; background: rgba(166,216,236,1);"></div>
+            <div class="tp-bannertimer tp-bottom" style="height: 5px;"></div>
         </div>
     </div>
     <!-- END REVOLUTION SLIDER -->
@@ -259,21 +172,20 @@ layout: default
 
     }); /*ready*/
     </script>
-  <div class="home">
- <hr>
-  <ul class="post-list">
+  <main class="home">
+    <div class="container">
     {% for post in site.posts limit:10%}
-          <li>
-            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+          <article class="post">
+            {% assign date_format = site.minima.date_format | default: "%-d.%b.%Y" %}
             <span class="post-meta">{{ post.date | date: date_format }}</span>
 
             <h2>
               <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
             </h2>
-          </li>
+          </article>
     {% endfor %}
-  </ul>
+  </div>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
-</div>
+</main>

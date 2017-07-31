@@ -1,0 +1,83 @@
+/*
+
+Project      : Assan admin - Clean and simple admin template
+Version      : v1.0
+Author       : Design_mylife (Rakesh Sharma)
+Support email: mylifedesign143@gmail.com
+*/
+/**************************************
+
+
+/***** Google fonts import ************/
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700italic,700,600italic,600,400italic,300italic,900);
+
+
+//shortcodes style
+@import "admin/_variables.scss";
+@import "admin/_mixins.scss";
+@import "admin/_base.scss";
+@import "admin/_buttons.scss";
+@import "admin/_topbar.scss";
+@import "admin/_dropdown.scss";
+@import "admin/_tabs.scss";
+@import "admin/_side-navbar.scss";
+@import "admin/_widget-boxes.scss";
+@import "admin/_panel.scss";
+@import "admin/_pace.scss";
+@import "admin/_form-elements.scss";
+@import "admin/_pagination.scss";
+@import "admin/_tables.scss";
+@import "admin/_calendar.scss";
+@import "admin/_user-profile.scss";
+@import "admin/_gallery.scss";
+@import "admin/_mail_pages.scss";
+@import "admin/_charts.scss";
+@import "admin/_footer.scss";
+
+
+
+
+
+/*****===========================================
+
+RESPONSIVE style
+
+===========================================********************/
+
+@media(max-width:767px){
+    .mail-header {
+        text-align: center;
+        h3{
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .pull-right{
+        float: none!important;
+    }
+    }
+
+    .tooltip-show{
+        margin-top: 15px;
+    }
+    .hoe-right-header ul.dropdown-menu{
+        right: 0;
+        left: auto;
+    }
+    .hoe-right-header ul.dropdown-menu.lg-dropdown{
+        width: 285px;
+        min-width: 285px;
+        left: 0;
+        right: auto;
+    }
+    .notifications.dropdown-menu p a{
+        font-size: 9px;
+        line-height: 18px;
+    }
+    .tabs-bordered li a{
+        padding: 8px 8px;
+        font-size: 11px;
+    }
+    .hoe-sidebar-toggle a:after,#hoeapp-wrapper[hoe-device-type="phone"] .hoe-left-header .hoe-sidebar-toggle a::after{
+        color: #fff;
+    }
+}

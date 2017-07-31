@@ -1,3 +1,6 @@
+require 'breakpoint'
+# require 'breakpoint-slicer'
+
 Jekyll::Hooks.register :site, :post_read do |site|
   site.posts.docs.each do |x|
     # Jekyll.logger.info(x)

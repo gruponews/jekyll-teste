@@ -14,6 +14,8 @@ gem 'classifier-reborn'
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
+gem 'breakpoint'
+gem 'breakpoint-slicer'
 
 gem "travis-custom-deploy", "~> 0.0.6"
 
@@ -26,4 +28,5 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem "jekyll-seo-tag"
    # gem 'octopress-minify-html'
+   gem "jekyll-assets"
 end

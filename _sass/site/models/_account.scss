@@ -1,0 +1,55 @@
+fieldset {
+	margin-bottom: 2em;
+}
+
+legend {
+	font-size: 1.2em;
+	font-weight: 500;
+}
+
+.help-block {
+	font-size: small;
+}
+
+.profile {
+	&-hero {
+		margin-top: 2rem;
+		padding-top: 2rem;
+		background-image: url(../images/background-blur-profile.jpg);
+		background-position: bottom center;
+		background-size: cover;
+		border-top-left-radius: 5px;
+		border-top-right-radius: 5px;
+
+		h2 {
+			color: white;
+		}
+		// nav
+		.nav-tabs {
+			border: 1px solid transparent;
+			a.nav-link {
+				color: white;
+				opacity: .7;
+				&.active {
+					color: black;
+					opacity: 1;
+				}
+			}
+			.nav-link {
+				&:focus, &:hover {
+					border: 1px solid transparent;
+					opacity: 1;
+				}
+			}
+		}
+	}
+	&-content {
+		border: $nav-tabs-border-width solid $nav-tabs-border-color;
+		border-top: none;
+		border-bottom-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+		padding-top: 1.5em;
+		padding-bottom: 1.5em;
+	}
+
+}

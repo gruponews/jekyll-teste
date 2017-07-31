@@ -1,0 +1,36 @@
+.breadcrumb {
+  &-wrap {
+    padding: 60px 0;
+    //background:url(../images/background-blur.jpg) no-repeat center center;
+    background: $color-primary;
+    /* fallback for old browsers */
+    background: linear-gradient(to left, $color-primary, $color-secondary);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: cover;
+    h4 {
+      margin: 0px;
+      font-size: 16px;
+      color: #fff;
+      font-weight: 700;
+      letter-spacing: 8px;
+      text-transform: uppercase;
+      font-family: $secondary-font;
+    }
+  }
+}
+
+ol.breadcrumb {
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: #fff;
+  li {
+    font-weight: 400;
+    font-size: 14px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    a {
+      color: #fff;
+    }
+  }
+}

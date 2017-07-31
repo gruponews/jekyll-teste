@@ -1,0 +1,67 @@
+.navbar {
+	&-main {
+		box-shadow: 0 1px #ececec;
+		margin-bottom: 0;
+	}
+	&-header {
+		@include to(2) {
+			display: inline-block;
+		}
+	}
+ &-brand {
+	 height: 65px;
+	  @include to(2) {
+			height: 60px;
+		}
+	 img {
+		 //height: 50px;
+		 width: auto;
+		 display: inline-block;
+		 @include to(2) {
+			 //height: 30px;
+		 }
+	 }
+	 .section-name {
+		 color: $color-primary;
+		 line-height: 1;
+		 vertical-align: bottom;
+		 font-size: 32px;
+		 font-weight: 400;
+		 padding-bottom: 1px;
+		 @include to(2) {
+			 height: 30px;
+			 font-size: 20px;
+		 }
+	 }
+ }
+	.icon-bar {
+		background-color: $color-primary;
+	}
+	&-nav > li > a {
+		height: 65px;
+		padding: 24px 15px;
+		&.btn {
+			height: 25px;
+			font-size:16px;
+			padding: 0.2rem 16px;
+		}
+	}
+	.has-form {
+		//height: 48px;
+    //line-height: 48px;
+		//padding-top: 20px;
+    padding-left: 16px;
+    padding-right: 16px;
+		@include to(2) {
+			padding-top: 20px;
+			display: inline-block;
+			float: left;
+		}
+	}
+}
+
+.nav > li > a {
+  &:focus, &:hover {
+    background: none;
+  }
+}
