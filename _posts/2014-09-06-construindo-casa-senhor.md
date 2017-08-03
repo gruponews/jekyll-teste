@@ -14,7 +14,10 @@ categories:
   - Igreja nos lares
 tags:
   - 'Conferência "Casas que Transformam o Mundo - Igreja nos lares"'
-author: ""
+author:
+  - Rosane Faria
+dsq_thread_id:
+  - "3000728214"
 post_date: 2014-09-06 11:38:32
 ---
 <b>“Se o Senhor não edificar a casa, em vão trabalham os que a edificam” (Sl 127:1)</b>

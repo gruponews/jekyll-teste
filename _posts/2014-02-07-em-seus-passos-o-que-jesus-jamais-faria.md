@@ -21,7 +21,14 @@ tags:
   - errado
   - Jesus
   - passos
-author: ""
+author:
+  - Pablo Massolar
+wpcf-gn_post_autor:
+  - ""
+dsq_thread_id:
+  - "3736854546"
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2014-02-07 15:39:40
 ---
 “Em seus passos o que faria Jesus?” é o título de um livro escrito por Charles Sheldon e publicado originalmente em 1896, nos Estados Unidos, com o título “In His Steps”.

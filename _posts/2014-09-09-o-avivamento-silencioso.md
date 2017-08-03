@@ -17,7 +17,12 @@ tags:
   - edicao-79
   - editorial
   - pentecostal
-author: ""
+author:
+  - Pedro Arruda
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "3669097088"
 post_date: 2014-09-09 14:09:35
 ---
 Jesus contou uma parábola (Mt 13.47-50) comparando o reino dos céus com uma rede que, lançada ao mar, apanha uma grande quantidade de peixes de toda espécie. Em seguida, os pescadores sentam na praia e separam os peixes, colocando os bons no cesto e atirando fora os ruins.

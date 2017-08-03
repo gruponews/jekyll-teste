@@ -37,7 +37,7 @@ collections:
   eventos:
     output: true
     permalink: /eventos/:path/
-  audiosevideos:
+  audios-e-videos:
     output: true
     permalink: /audiosevideos/:path/
   pages:

@@ -16,7 +16,14 @@ categories:
   - Unidade
 tags:
   - edicao-82
-author: ""
+author:
+  - José Carlos Marion
+instant_articles_submission_id:
+  - "292595067757988"
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "5049839898"
 post_date: 2016-07-13 11:29:39
 ---
 <p class="p1"><span class="s1">"Em verdade também vos digo que, se dois dentre vós, sobre a terra, concordarem a respeito de qualquer coisa que, porventura, pedirem, ser-lhes-á concedida por meu Pai, que está nos céus." (Mt18:19)</span></p>

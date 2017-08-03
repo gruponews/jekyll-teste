@@ -17,7 +17,10 @@ categories:
 tags:
   - 'Conferência "Casas que Transformam o Mundo - Igreja nos lares"'
   - edicao-49
-author: ""
+author:
+  - Maurício Bronzatto
+dsq_thread_id:
+  - "3013023333"
 post_date: 2007-09-09 22:58:48
 ---
 Em visita ao casal Offini e Elza Franco, pioneiros do movimento de igrejas nas casas no Brasil, no início dos anos 70, Wolfgang pôde compartilhar um pouco do que tem visto e experimentado nos países em que tem trabalhado. Externou também o agradecimento pela contribuição que a geração anterior proporcionou à atual. Aproveitou para conferir o que tem sido anunciado pelos profetas da igreja brasileira com o que tem ouvido ao redor do mundo. Wolf sonha com uma igreja que deixe de lado o programa, o evento e se transforme em estilo de vida. Ele tem desafiado as pessoas a conhecerem essa igreja, que não pode ter outro fundamento senão o apostólico e profético. Para ele, somente a palavra apostólica pode produzir esta igreja.

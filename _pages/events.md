@@ -12,6 +12,10 @@ published: true
 categories: ""
 tags: ""
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+sharing_disabled:
+  - "1"
 post_date: 2011-03-19 16:31:03
 ---
 <span style="color: #444444;">[ESPRESSO_EVENTS]</span>

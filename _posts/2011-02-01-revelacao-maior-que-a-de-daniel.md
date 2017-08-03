@@ -28,7 +28,25 @@ tags:
   - Livro de Daniel
   - o Reino e a Igreja"
   - Reino
-author: ""
+author:
+  - Harold Walker
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Harold Walker
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/02/harold.jpg
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_autor:
+  - Harold Walker
+dsq_thread_id:
+  - "2802546207"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2011-02-01 01:30:18
 ---
 Uma leitura atenta de Daniel 11.32-35 e 12.3-13 deixa em evidência alguns adjetivos com que o texto bíblico, apesar de partir das referências que a tradição da velha aliança e o momento histórico lhe permitiam, caracteriza, de maneira singular, o povo de Deus dos últimos dias: “conhecedores”, “sábios”, “entendidos”. A pouca ocorrência desses termos em outros livros parece apontar para um aspecto muito importante, e ao que tudo indica, reservado para assumir grande relevo no tempo presente. Vejamos.

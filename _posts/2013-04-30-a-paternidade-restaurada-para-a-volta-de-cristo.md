@@ -18,7 +18,14 @@ categories:
 tags:
   - edicao-73
   - paternidade
-author: ""
+author:
+  - Pedro Arruda
+wpcf-gn_post_autor:
+  - Pedro Arruda
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "2803242985"
 post_date: 2013-04-30 08:00:20
 ---
 No capítulo 2 do livro de Atos, entre os versículos 17 e 21, o apóstolo Pedro faz menção da profecia de Joel para explicar à multidão reunida em Jerusalém o que estava acontecendo:

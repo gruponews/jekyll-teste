@@ -29,7 +29,23 @@ tags:
   - Mal
   - Pais
   - Televisão
-author: ""
+author:
+  - Ivonete Camargo Pegnolazzo
+post_autor:
+  - Ivonete Camargo Pegnolazzo
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_arvore_do_bem_e_do_mal.jpg
+aktt_notify_twitter:
+  - 'yes'
+wpcf-gn_post_autor:
+  - Ivonete Camargo Pegnolazzo
+dsq_thread_id:
+  - "2802545640"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2009-12-01 00:57:16
 ---
 A Bíblia tem início com uma das mais interessantes narrativas a respeito da liberdade dada ao homem. Em Gênesis, Deus criou Adão e Eva e lhes deu liberdade de ação e de estarem diariamente se relacionando com Ele. Com o passar do tempo, Deus comprovou, na prática, que a Sua criação mais especial não tinha conseguido passar na prova de autonomia que lhe dava o privilégio de gerir seus próprios passos.

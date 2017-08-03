@@ -14,7 +14,16 @@ categories:
   - O Deus mal compreendido
 tags:
   - edicao-76
-author: ""
+author:
+  - Darin Hufford
+wpcf-gn_post_autor:
+  - ""
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "2826146534"
 post_date: 2013-10-20 09:00:43
 ---
 <blockquote><i>Esta seção traz a cada edição um resumo de um capítulo do livro “The Misunderstood God: The Lies Religion Tells About God” (O Deus mal compreendido: as mentiras que a religião conta sobre Deus), de Darin Hufford, publicado nos EUA em 2009 por Windblown Media (traduzido recentemente para o português sob o título “Mais perto de Deus”, Ed. Sextante, 2012).</i></blockquote>

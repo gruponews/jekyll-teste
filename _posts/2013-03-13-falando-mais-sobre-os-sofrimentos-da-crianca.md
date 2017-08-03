@@ -22,6 +22,14 @@ tags: ""
 authors:
   - Juarez Gomes
   - Maria de Carvalho Gomes
+wpcf-gn_post_autor:
+  - Juarez Gomes e Maria de Carvalho Gomes
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "3070948822"
 post_date: 2013-03-13 00:00:26
 ---
 <i>Este artigo é o quinto de uma série que discute alguns aspectos complexos do divórcio, uma prática antiga que afeta atualmente a maioria das famílias. </i>

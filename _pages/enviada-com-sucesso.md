@@ -13,6 +13,14 @@ published: true
 categories: ""
 tags: ""
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - ""
+post_destaques:
+  - Nao
+dsq_thread_id:
+  - "5132853158"
 post_date: 2010-09-11 19:41:30
 ---
 A sua inscrição foi enviada com sucesso. <em>Lembrando, sua inscrição só será confirmada após o pagamento á vista, ou da 1°  parcela.</em>

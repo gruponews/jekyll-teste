@@ -32,7 +32,26 @@ tags:
   - Regular
   - Sobra
   - Sustentar
-author: ""
+author:
+  - Pedro Arruda
+post_autor:
+  - Pedro Arruda
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/as_bencaos_da_contribuicao_financeira.jpg
+post_linkPDF:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/contribuicao_site.pdf
+aktt_notify_twitter:
+  - 'no'
+wpcf-gn_post_autor:
+  - Pedro Arruda
+dsq_thread_id:
+  - "5603030102"
+wpcf-gn_post_destaques:
+  - nao_destaque
+amazonS3_cache:
+  - 'a:1:{s:71:"//www.gruponews.com.br/wp-content/uploads/2009/12/contribuicao_site.pdf";i:382;}'
 post_date: 2009-12-01 21:07:58
 ---
 <h3>A contribuição e a natureza de Deus</h3>

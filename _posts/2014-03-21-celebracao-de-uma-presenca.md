@@ -18,7 +18,14 @@ tags:
   - experiência
   - Milagre
   - presença
-author: ""
+author:
+  - Pr. Rui Luis Rodrigues
+wpcf-gn_post_autor:
+  - ""
+dsq_thread_id:
+  - "2817530308"
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2014-03-21 00:04:32
 ---
 Dois homens estão a caminho de uma aldeia chamada Emaús. Carregam no peito uma tristeza muito nossa conhecida: a tristeza da desilusão, dos sonhos desfeitos, das esperanças destroçadas.

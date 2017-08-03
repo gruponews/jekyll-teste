@@ -18,6 +18,10 @@ categories:
 tags:
   - edicao-80
 author: ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "3709153727"
 post_date: 2015-02-17 12:55:56
 ---
 NICK BILTON

@@ -16,7 +16,12 @@ categories:
   - Comunhão
 tags:
   - Conferência "A igreja do nosso tempo"
-author: ""
+author:
+  - Paulo Manzini
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "2975275771"
 post_date: 2014-08-30 16:56:25
 ---
 Meu nome é Paulo Manzini, moro em Jundiaí. Eu sou professor universitário na área da Administração e tenho militado nas questões referentes às empresas e à igreja, que também está querendo ser empresa. Estou há 50 anos em Jundiaí.

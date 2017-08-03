@@ -28,7 +28,25 @@ tags:
   - escrituras
   - Igreja
   - Reino
-author: ""
+author:
+  - Padre Marcial Maçaneiro
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Padre Marcial Maçaneiro
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/02/marcial.jpg
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_autor:
+  - Padre Marcial Maçaneiro
+dsq_thread_id:
+  - "2843782055"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2011-02-01 01:45:51
 ---
 <!-- p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; line-height: 12.0px; font: 10.5px Georgia} p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: justify; text-indent: 14.1px; line-height: 12.0px; font: 10.5px Georgia; min-height: 12.0px} p.p3 {margin: 2.8px 0.0px 0.0px 14.1px; text-align: justify; line-height: 12.0px; font: 10.5px Georgia} p.p4 {margin: 0.0px 0.0px 0.0px 14.1px; text-align: justify; line-height: 12.0px; font: 9.0px Helvetica} -->A agenda com que Deus sonhou para nós no seu reino é muito ousada. Eu gostaria de refletir sobre isso a partir de quatro narrativas propostas por Jesus em que se poderão observar correspondentemente quatro emblemas: o ano da graça do Senhor, conforme descrito em Lucas 4 e Levítico 25; a experiência do samaritano, que ensina a igreja a ser casa de misericórdia; a comensalidade, ou seja, as experiências em que Jesus está à mesa conosco, das quais nasce a ceia como seu memorial e presença pascal na igreja; e, finalmente, o jardim, narrativa recorrente ao longo das Escrituras, que mostra o tipo de relação que o homem tem com Deus quando mora neste lugar aprazível.

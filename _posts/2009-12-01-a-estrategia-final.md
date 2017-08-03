@@ -26,7 +26,23 @@ tags:
   - Louvor
   - Oração
   - Palavra
-author: ""
+author:
+  - Carlos Araripe
+post_autor:
+  - Carlos Araripe
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_estrategia_final.jpg
+aktt_notify_twitter:
+  - 'no'
+wpcf-gn_post_autor:
+  - Carlos Araripe
+dsq_thread_id:
+  - "2802545942"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2009-12-01 20:42:53
 ---
 Dias destes chegou-me às mãos um livro de Marketing, intitulado “Sun Tzu e a arte dos negócios”, de Mark McNeilly, que de uma forma muito original, interpreta o clássico da guerra de Sun Tzu à luz dos negócios modernos.

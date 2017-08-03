@@ -16,6 +16,10 @@ tags:
   - Curiosidades
   - João Ferreira de Almeida
 author: ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "3070734839"
 post_date: 2009-11-29 21:55:58
 ---
 João Ferreira de Almeida é conhecido pela autoria de uma das mais lidas traduções da Bíblia em português, ele teve uma vida movimentada e morreu sem terminar a tarefa que abraçou ainda muito jovem.

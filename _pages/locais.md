@@ -12,6 +12,10 @@ published: true
 categories: ""
 tags: ""
 author: ""
+aktt_notify_twitter:
+  - 'no'
+dsq_thread_id:
+  - "4679448870"
 post_date: 2012-04-08 00:29:04
 ---
 CONTENTS

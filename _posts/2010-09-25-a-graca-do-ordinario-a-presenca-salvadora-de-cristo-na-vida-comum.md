@@ -19,6 +19,29 @@ categories:
   - Publicações
 tags: ""
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+jornal_linkPDF:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/09/gruponews_julho-agosto_2010-final-site.pdf
+post_autor:
+  - Equipe GrupoNews
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/09/banner_jornalagosto.jpg
+aktt_tweeted:
+  - "1"
+dsq_thread_id:
+  - "2802546243"
+jornal_capa:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/09/gruponews_julho-agosto_2010-capa.jpg
+jornal_data:
+  - Julho / Agosto de 2010
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2010-09-25 23:08:32
 ---
 - <a href="http://www.gruponews.com.br/2010/07/muito-mais-humanos-do-que-costumamos-admitir.html">Muito mais humanos do que costumamos admitir</a>

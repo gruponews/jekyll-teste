@@ -15,7 +15,14 @@ categories:
 tags:
   - autom
   - Mentira
-author: ""
+author:
+  - Darin Hufford
+wpcf-gn_post_autor:
+  - Darin Hufford
+dsq_thread_id:
+  - "2808841027"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2013-10-19 01:22:48
 ---
 <blockquote><i>Esta seção, ora inaugurada, trará a cada edição um resumo de um capítulo do livro “The Misunderstood God: The Lies Religion Tells About God” (O Deus mal compreendido: as mentiras que a religião conta sobre Deus), de Darin Hufford, publicado nos EUA em 2009 por Windblown Media (sem tradução ainda no Brasil). <a title="O Deus mal compreendido" href="http://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido">Clique aqui para os outros resumos</a>.

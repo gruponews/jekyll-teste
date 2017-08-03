@@ -15,6 +15,8 @@ published: true
 categories: ""
 tags: ""
 author: ""
+dsq_thread_id:
+  - "4030698046"
 post_date: 2014-10-16 00:18:44
 ---
 Assista e ouça as ministrações

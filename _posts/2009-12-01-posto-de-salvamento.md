@@ -27,7 +27,23 @@ tags:
   - Socorro
   - Tripulação
   - Vida
-author: ""
+author:
+  - Paulo Roberto Silva
+post_autor:
+  - Paulo Roberto Silva
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/posto_de_salvamento.jpg
+wpcf-gn_post_autor:
+  - Paulo Roberto Silva
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "5553757250"
 post_date: 2009-12-01 22:05:55
 ---
 Evangelismo é ou não a nossa vocação? Será que com o passar dos anos nós “terceirizamos” este trabalho? Ou será que estamos tão ocupados em realizar nosso trabalho na Igreja que não temos tempo para falar de Jesus a outras vidas? Hoje não é incomum nos depararmos com uma pessoa que não conhece a Jesus e falarmos: Para conhecer a Jesus você tem que ir a um Encontro de Evangelismo. Não que esses eventos não sejam abençoados e cheios da presença de Deus, mas e a nossa participação? Qual tem sido sua participação quando o tema é evangelizar vidas? Abaixo, um texto para sua reflexão.

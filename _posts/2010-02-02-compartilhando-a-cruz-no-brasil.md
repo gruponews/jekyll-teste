@@ -14,7 +14,24 @@ categories:
   - Artigos
   - Vida
 tags: ""
-author: ""
+author:
+  - Wayne Jacobsen
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Wayne Jacobsen
+post_destaques:
+  - Nao
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_autor:
+  - ""
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "2862759141"
 post_date: 2010-02-02 15:22:31
 ---
 <em>As impressões de Wayne Jacobsen sobre sua passagem pelo Brasil</em>

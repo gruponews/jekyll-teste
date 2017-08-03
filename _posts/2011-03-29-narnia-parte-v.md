@@ -26,7 +26,25 @@ tags:
   - narnia
   - peregrino
   - viagem
-author: ""
+author:
+  - Renata Ribeiro Arruda
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Renata Ribeiro Arruda
+post_destaques:
+  - Nao
+aktt_tweeted:
+  - "1"
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/03/banner_narnia_parte5.jpg
+wpcf-gn_post_autor:
+  - Renata Ribeiro Arruda
+dsq_thread_id:
+  - "3036618929"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2011-03-29 22:18:18
 ---
 <h3>O dragão que há em nós</h3>

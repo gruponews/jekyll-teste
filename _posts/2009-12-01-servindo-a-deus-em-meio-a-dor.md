@@ -28,7 +28,23 @@ tags:
   - Servir
   - Suportar
   - Tristeza
-author: ""
+author:
+  - Letícia França
+post_autor:
+  - Letícia França
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/servindo_a_Deus_em_meio_a_dor.jpg
+wpcf-gn_post_autor:
+  - Letícia França
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "5575106376"
 post_date: 2009-12-01 22:17:07
 ---
 A dor, as lutas, os problemas, as doenças, a perda nos fazem dependentes de Deus. Estas situações nos confrontam e nos obrigam a enxergarmos espiritualmente cada situação e percebermos a nossa fragilidade, a nossa necessidade de Deus e o quanto precisamos do seu perdão. Pedro, Jó e José nos trazem grandes ensinamentos através de suas lutas e vitórias:

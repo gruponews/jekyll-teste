@@ -13,5 +13,9 @@ categories:
   - Geral
 tags: ""
 author: ""
+post_autor:
+  - ""
+post_destaques:
+  - Nao
 ---
 ...

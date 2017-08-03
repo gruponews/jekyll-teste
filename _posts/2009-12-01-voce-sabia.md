@@ -26,7 +26,21 @@ tags:
   - Personagem
   - Testamento
   - Versículo
-author: ""
+author:
+  - Equipe GrupoNews
+post_autor:
+  - Equipe Comunicação
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/voce_sabia.jpg
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+dsq_thread_id:
+  - "6031852958"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2009-12-01 22:31:45
 ---
 ...que dos 3.779 versículos dos 4 Evangelhos, mais de 50% foram proferidos por Jesus, ou seja, um total de 1.934 versículos?

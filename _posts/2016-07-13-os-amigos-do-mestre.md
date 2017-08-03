@@ -13,7 +13,14 @@ categories:
   - Bases Cristãs
 tags:
   - edicao-82
-author: ""
+author:
+  - Pedro Arruda
+dsq_thread_id:
+  - "4985074795"
+instant_articles_submission_id:
+  - "1272407749443881"
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2016-07-13 11:27:09
 ---
 <p class="p1"><span class="s1">Dentre os seus discípulos, Jesus escolheu os doze apóstolos e, por fim, os chamou de amigos.</span></p>

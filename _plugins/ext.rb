@@ -1,5 +1,4 @@
 require 'breakpoint'
-# require 'breakpoint-slicer'
 
 Jekyll::Hooks.register :site, :post_read do |site|
   site.posts.docs.each do |x|
@@ -16,7 +15,7 @@ Jekyll::Hooks.register :site, :post_read do |site|
     end
   end
 
-  site.collections['audiosevideos'].each do |x|
+  site.collections['audios-e-videos'].each do |x|
     # Jekyll.logger.info(x)
   	if x.data['permalink']
      x.data['permalink'] = x.data['permalink'].strip
@@ -26,7 +25,6 @@ Jekyll::Hooks.register :site, :post_read do |site|
 				if url.include? 'http://www.gruponews.com.br/wp-content/'
 					url = url.gsub! 'http://www.gruponews.com.br/wp-content', '//assets.gruponews.com.br/gruponews'
 				end
-				Jekyll.logger.info(url)
   		end
   	end
   end

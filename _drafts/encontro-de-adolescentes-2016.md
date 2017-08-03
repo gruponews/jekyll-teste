@@ -9,10 +9,15 @@ post_excerpt: ""
 layout: event
 permalink: '?post_type=event&p=4583'
 published: false
+event: null
 categories:
   - Geral
 tags: ""
 author: ""
+dsq_thread_id:
+  - "4674584260"
+wpcf-gn_post_destaques:
+  - destaque_novidade
 ---
 <strong>Próxima Reunião do encontro de Adolescentes:</strong>
 Data: 08/05 as 15h30

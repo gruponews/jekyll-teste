@@ -13,7 +13,14 @@ categories:
   - Geral
 tags:
   - edicao-82
-author: ""
+author:
+  - Marina Venuto Silva
+instant_articles_submission_id:
+  - "300505663618290"
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "5003710625"
 post_date: 2016-07-13 11:32:32
 ---
 <p class="p1"><span class="s1">C</span><span class="s1">oisa rara hoje em dia é conhecer quem pregue com tamanha paixão sobre a Verdade. Lembro-me bem do meu espanto quando ouvi pela primeira vez Ariadna de Oliveira falar sobre a compaixão pelos perdidos. Havia algo diferente em seu discurso, era um pouco da essência dEle ali... Aquilo foi divinamente cativante para mim...</span></p>

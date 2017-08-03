@@ -15,7 +15,22 @@ published: true
 categories:
   - Artigos
 tags: ""
-author: ""
+author:
+  - Nuno Tovar de Lemos
+aktt_notify_twitter:
+  - 'yes'
+"og:type":
+  - article
+post_autor:
+  - ""
+post_destaques:
+  - Nao
+wpcf-gn_post_autor:
+  - Nuno Tovar de Lemos
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "2802424898"
 post_date: 2012-12-04 23:47:16
 ---
 Há tempos alguém me perguntou (seguindo a sugestão de um filme que tinha visto) se Deus não seria um ser sádico que nos criou para se divertir conosco e assim calar a sua solidão. Como responder? Não adiantará muito, talvez, contra-argumentar que Deus é bom. Essa pessoa encontrará vários exemplos para insistir que Deus é sádico.

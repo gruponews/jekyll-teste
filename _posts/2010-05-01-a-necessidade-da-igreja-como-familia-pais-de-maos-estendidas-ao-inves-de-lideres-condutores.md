@@ -27,7 +27,33 @@ tags:
   - paternidade
   - profético
   - Salvação
-author: ""
+author:
+  - Equipe GrupoNews
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Equipe da Comunicação
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/04/jornal-marco-abril-2010.jpg
+jornal_linkPDF:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/05/jornal-marco-abril-2010.pdf
+aktt_tweeted:
+  - "1"
+jornal_capa:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/04/jornal-marco-abril-2010-capa.jpg
+jornal_data:
+  - 'Março / Abril - 2010'
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "2830693781"
 post_date: 2010-05-01 12:00:13
 ---
 A necessidade da igreja como família: Pais de mãos estendidas ao invés de líderes condutores

@@ -20,7 +20,14 @@ tags:
   - depender
   - edicao-76
   - Testemunho
-author: ""
+author:
+  - Marina Venuto Silva
+wpcf-gn_post_autor:
+  - ""
+dsq_thread_id:
+  - "2822777902"
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2014-01-25 00:29:01
 ---
 Havia acabado de lavar o rosto, quando alguém avisou que precisavam falar comigo. Estávamos na manhã do segundo dia de um encontro de adolescentes em Sorocaba. Abri a porta do dormitório e dei de cara com dois irmãos que também ajudavam na organização do evento. Contaram que meu sogro estava hospitalizado porque havia passado muito mal naquela madrugada. Meu marido já estava com ele e preferiu que me avisassem somente de manhã. A notícia foi um choque.

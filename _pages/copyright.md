@@ -12,6 +12,12 @@ published: true
 categories: ""
 tags: ""
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - ""
+post_destaques:
+  - Nao
 post_date: 2011-11-13 17:40:27
 ---
 Copyright

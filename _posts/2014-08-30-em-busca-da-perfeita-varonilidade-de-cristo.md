@@ -17,7 +17,12 @@ categories:
   - Vida
 tags:
   - Conferência "A igreja do nosso tempo"
-author: ""
+author:
+  - Ismael de Oliveira
+dsq_thread_id:
+  - "2973305773"
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2014-08-30 16:25:24
 ---
 Eu gostaria de ler alguns versículos com os irmãos. Se vocês quiserem acompanhar, eles estão em Efésios 4. Os versículos 3 e 4, de Efésios 4, dizem assim: “esforçando-vos diligentemente por preservar a unidade do Espírito no vínculo da paz; há somente um corpo e um Espírito, como também fostes chamados numa só esperança da vossa vocação; há um só Senhor, uma só fé, um só batismo, um só Deus e Pai de todos, o qual é sobre todos, age por meio de todos e está em todos”. Agora os versículos 13 até o 16: “até que todos cheguemos à unidade da fé e do pleno conhecimento do Filho de Deus, à perfeita varonilidade, à medida da estatura da plenitude de Cristo, para que não mais sejamos como meninos, agitados de um lado para outro e levados ao redor por todo vento de doutrina, pela artimanha dos homens, pela astúcia com que induzem ao erro. Mas, seguindo a verdade em amor, cresçamos em tudo naquele que é a cabeça, Cristo, de quem todo o corpo, bem ajustado e consolidado pelo auxílio de toda junta, segundo a justa cooperação de cada parte, efetua o seu próprio aumento para a edificação de si mesmo em amor”.

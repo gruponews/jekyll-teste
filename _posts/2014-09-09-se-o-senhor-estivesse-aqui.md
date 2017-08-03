@@ -14,7 +14,10 @@ categories:
   - Vida
 tags:
   - edicao-49
-author: ""
+author:
+  - Paulo Roberto da Silva
+dsq_thread_id:
+  - "3004813236"
 post_date: 2014-09-09 22:49:40
 ---
 Num artigo anterior (“Procura-se um traidor” – Gruponews Jan/Fev-07), comentei que na época dos apóstolos havia uma vaga de traidor em aberto, a qual veio a ser a vaga número 1 depois da derrota de Satanás no deserto. Os apóstolos eram apertados por todos os lados para se “candidatarem” à vaga. O mundo evoluiu, novas posições surgiram, e a vaga de traidor perdeu um pouco sua importância. Hoje em dia a maior oferta de vagas está no segmento de apóstatas. É uma posição em franco crescimento, e cada dia que passa, os requisitos para concorrer a uma vaga são menores. O termo apóstata se aplica ao cristão que se esfriou, que se desviou da fé. A palavra apostasia significa ainda separação do corpo constituído (Corpo de Cristo) ao qual o indivíduo pertencia.

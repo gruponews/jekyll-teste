@@ -14,7 +14,7 @@ layout: default
             Article Image
           </div>
           <div class="post-meta">
-            <h1 class="post-title">{{ page.title }}</h1>
+            <h1 class="post-title">{{ page.post_title }}</h1>
             <div class="cf post-meta-text">
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
             </div>
@@ -26,7 +26,7 @@ layout: default
         {% else %}
         <div class="noarticleimage">
           <div class="post-meta">
-            <h1 class="post-title">{{ page.title }}</h1>
+            <h1 class="post-title">{{ post.post_title }}</h1>
             <div class="cf post-meta-text">
               <div class="author-image" style="background-image: url({{ site.author_image | prepend: site.baseurl }})">Blog Logo</div>
               <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person"></h4>
@@ -40,7 +40,7 @@ layout: default
         <br>
         {% endif %}
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <h1 class="post-title" itemprop="name headline">{{ page.post_title }}</h1>
     <p class="post-meta">
       {% comment %}
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">

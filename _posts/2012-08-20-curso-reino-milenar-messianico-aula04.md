@@ -17,7 +17,20 @@ published: true
 categories:
   - Notícias
 tags: ""
-author: ""
+author:
+  - Marina Venuto Silva
+aktt_notify_twitter:
+  - 'yes'
+wpcf-gn_post_autor:
+  - Marina Venuto
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - nao_destaque
+aktt_tweeted:
+  - "1"
+dsq_thread_id:
+  - "2994823819"
 post_date: 2012-08-20 21:29:58
 ---
 <strong>Tema:</strong> Igreja, antecipação microcósmica do Reino Milenar Messiânico universal – O sistema econômico do reino praticado em Jerusalém. A igreja como embaixada do reino futuro. O evangelho profético do reino de Deus. O evangelho histórico que pregamos. A bíblia como testemunha dos cristãos. Os cristãos como testemunho da Bíblia. O afastamento dos judeus e a perda da concepção de reino na Igreja.

@@ -26,7 +26,25 @@ tags:
   - Mentira
   - Olhar
   - Salvação
-author: ""
+author:
+  - Afonso Porto
+post_autor:
+  - Afonso Porto
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/do_verdadeiro_cristo_e_o_que_todos_nos_precisamos.jpg
+aktt_notify_twitter:
+  - 'no'
+wpcf-gn_post_autor:
+  - ""
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "2839908586"
 post_date: 2009-12-01 21:31:34
 ---
 “<em>Pois surgirão falsos cristos e falsos profetas, e farão tão grandes sinais e prodígios que, se possível fora, enganariam até os escolhidos</em>” (Mt 24:24).

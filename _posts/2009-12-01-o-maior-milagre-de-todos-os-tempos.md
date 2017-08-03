@@ -24,7 +24,23 @@ tags:
   - Restauração
   - Salvação
   - Vida
-author: ""
+author:
+  - Carlos Augusto
+post_autor:
+  - Carlos Augusto
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/O_maior_milagre_de_todos_os_tempos.jpg
+wpcf-gn_post_autor:
+  - ""
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "5735526756"
 post_date: 2009-12-01 21:49:09
 ---
 Normalmente, entende-se por milagre algo sobrenatural que vai além da capacidade de ação do homem. Vamos então refletir sobre isso para, através da comparação dos milagres que conhecemos, tentar saber qual deles é o maior de todos os tempos. Na Bíblia, temos muitas citações de sinais e milagres que até hoje continuam acontecendo, mas qual seria o maior?

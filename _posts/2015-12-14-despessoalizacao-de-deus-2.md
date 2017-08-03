@@ -19,6 +19,13 @@ categories:
 tags:
   - edicao-82
 author: ""
+jornal_capa:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2016/07/diagramacao-gruponews-dezembro-grafica-final-1.jpg
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "4999838368"
 post_date: 2015-12-14 09:16:20
 ---
 Quando as informações sobre Deus substituem um relacionamento de amizade com Ele

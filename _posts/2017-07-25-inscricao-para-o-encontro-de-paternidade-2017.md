@@ -20,6 +20,12 @@ categories:
   - Geral
 tags: ""
 author: ""
+slide_template:
+  - default
+dsq_thread_id:
+  - "6016015499"
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2017-07-25 20:29:59
 ---
 Queridos irmãos amigos

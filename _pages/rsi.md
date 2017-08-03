@@ -12,6 +12,14 @@ published: true
 categories: ""
 tags: ""
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - ""
+post_destaques:
+  - Nao
+dsq_thread_id:
+  - "5934129830"
 post_date: 2010-09-11 13:52:44
 ---
 <h3>O Propósito</h3>

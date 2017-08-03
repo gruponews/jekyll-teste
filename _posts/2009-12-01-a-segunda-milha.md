@@ -22,7 +22,23 @@ tags:
   - Perder
   - Praticar
   - Relacionamento
-author: ""
+author:
+  - Pedro Arruda
+post_autor:
+  - Pedro Arruda
+post_destaques:
+  - Destaque
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_segunda_milha.jpg
+aktt_notify_twitter:
+  - 'no'
+wpcf-gn_post_autor:
+  - Pedro Arruda
+dsq_thread_id:
+  - "5705992393"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2009-12-01 20:58:59
 ---
 “<em>E, se qualquer te obrigar a caminhar uma milha, vai com ele duas</em>.” (Mateus 5:41)

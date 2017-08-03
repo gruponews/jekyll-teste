@@ -16,7 +16,22 @@ categories:
   - Artigos
   - Vida
 tags: ""
-author: ""
+author:
+  - Pedro Arruda
+aktt_notify_twitter:
+  - 'no'
+post_autor:
+  - Pedro Arruda
+post_destaques:
+  - Nao
+wpcf-gn_post_autor:
+  - ""
+dsq_thread_id:
+  - "2833228438"
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2011-07-12 18:49:48
 ---
 Pilatos fez a Jesus uma pergunta que, aos mais desavisados, parece ter deixado Jesus sem resposta: “Que é a verdade?” (Jo 18.38). Neste caso, o silêncio de Jesus fazia parte da resposta, pois “como cordeiro foi levado ao matadouro; e, como ovelha muda perante os seus tosquiadores, ele não abriu a boca” (Is 53.7).

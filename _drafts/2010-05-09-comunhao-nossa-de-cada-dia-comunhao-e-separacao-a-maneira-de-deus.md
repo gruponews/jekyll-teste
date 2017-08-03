@@ -18,6 +18,15 @@ tags:
   - paternidade
   - reino de Deus
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Pedro Arruda
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/04/comunhao-de-cada-dia.jpg
 ---
 <blockquote><em>Este artigo é o sexto de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler os anteriores</em></blockquote>
 Deus planejou um sistema contínuo e multiplicador de separação para garantir a preservação da comunhão e servir de vacina e antídoto contra a divisão. Já desde o primeiro casamento, a separação foi colocada como critério de sucessão geracional, pois, para constituir-se casal, o homem e a mulher precisam deixar seus pais, os quais, por sua vez, devem preparar a si mesmos e aos filhos de forma consciente para que não haja ruptura, mas continuidade e ampliação da comunhão (Genesis 2.24). Mesmo que não seja precisamente para o casamento que o filho saia de casa, faz parte da educação recebida que, assumidas as condições de adulto, ele se desvincule da dependência paterna e siga sua vocação. Isso não representa afronta aos pais, mas, pelo contrário, produz uma sensação de missão cumprida.

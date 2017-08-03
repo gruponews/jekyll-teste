@@ -17,6 +17,17 @@ published: true
 categories:
   - Notícias
 tags: ""
-author: ""
+author:
+  - Equipe GrupoNews
+wpcf-gn_webtv_nome_palestra:
+  - dasda
+wpcf-gn_webtv_sistema:
+  - reserva
+wpcf-gn_webtv_url_youtube:
+  - asdas
+dsq_thread_id:
+  - "3904594262"
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2015-07-04 11:11:08
 ---

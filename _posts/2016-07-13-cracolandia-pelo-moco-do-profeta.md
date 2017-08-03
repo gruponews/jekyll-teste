@@ -14,7 +14,12 @@ categories:
   - Bases Cristãs
 tags:
   - edicao-82
-author: ""
+author:
+  - Carlos Eduardo Pereira (“Casé”)
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "4985139234"
 post_date: 2016-07-13 11:37:10
 ---
 <p class="p1"><span class="s1">“E o servo do homem de Deus se levantou muito cedo e saiu, e eis que um exército tinha cercado a cidade com cavalos e carros; então o seu servo lhe disse: Ai, meu senhor! Que faremos?” (2 Rs 6:15)</span></p>

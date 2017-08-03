@@ -15,7 +15,14 @@ categories:
 tags:
   - paulo roberto
   - quais
-author: ""
+author:
+  - Cléucio Macedo
+wpcf-gn_post_autor:
+  - Cléucio Macedo
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "2804602202"
 post_date: 2013-03-26 07:00:16
 ---
 O que é comunhão? De forma simples, responderei que comunhão é o relacionamento entre cristãos. Um dos versículos que exemplifica tal realidade é Atos 2.46:

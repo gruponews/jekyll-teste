@@ -13,6 +13,14 @@ categories:
   - Geral
 tags: ""
 author: ""
+post_autor:
+  - ""
+post_destaques:
+  - Nao
+aktt_notify_twitter:
+  - 'yes'
+dsq_thread_id:
+  - "4663230938"
 post_date: 2009-11-23 16:16:12
 ---
 Alterar inscrição

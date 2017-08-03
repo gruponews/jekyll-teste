@@ -18,6 +18,14 @@ categories:
   - Notícias
 tags: ""
 author: ""
+wpcf-gn_post_autor:
+  - ""
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_maior
+dsq_thread_id:
+  - "3141236754"
 post_date: 2013-10-23 00:38:53
 ---
 <h2>Preletores<b><br clear="all" /></b></h2>

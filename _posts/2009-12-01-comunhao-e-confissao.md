@@ -23,7 +23,23 @@ tags:
   - Luz
   - Perdão
   - Segredo
-author: ""
+author:
+  - Pedro Arruda
+post_autor:
+  - Pedro Arruda
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/comunhao_e_confissao.jpg
+aktt_notify_twitter:
+  - 'no'
+wpcf-gn_post_autor:
+  - Pedro Arruda
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "5917523135"
 post_date: 2009-12-01 21:14:20
 ---
 <em>Comunhão, nossa de cada dia - Confissão, a força de nossa fraqueza à comunhão</em>

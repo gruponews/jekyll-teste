@@ -15,7 +15,28 @@ categories:
   - Desenvolvendo os dons proféticos
 tags:
   - edicao-71
-author: ""
+author:
+  - Ezequiel Netto
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Ezequiel Netto
+post_destaques:
+  - Nao
+aktt_tweeted:
+  - "1"
+"og:type":
+  - article
+wpcf-gn_post_autor:
+  - Ezequiel Netto
+wpcf-gn_post_imagem:
+  - ""
+dsq_thread_id:
+  - "2816273391"
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2011-12-28 00:00:22
 ---
 <em>Este artigo é o décimo de uma sequência sobre dons proféticos, assunto que o autor vem pesquisando desde 2002 e compartilhando em muitos lugares.   </em>

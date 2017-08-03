@@ -14,7 +14,22 @@ categories:
   - Artigos
   - Bases Cristãs
 tags: ""
-author: ""
+author:
+  - Maurício Bronzatto
+aktt_notify_twitter:
+  - 'no'
+post_autor:
+  - Maurício Bronzatto
+post_destaques:
+  - Nao
+wpcf-gn_post_autor:
+  - ""
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "2804923755"
 post_date: 2011-07-12 18:57:11
 ---
 <h3>Conhecendo o dever</h3>

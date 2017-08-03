@@ -27,7 +27,25 @@ tags:
   - Mentira
   - Nome
   - Sistema
-author: ""
+author:
+  - Maurício Bronzatto
+post_autor:
+  - Mauricio Bronzatto
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/666_voce_ja_foi_assinalado.jpg
+post_destaques:
+  - Nao
+aktt_notify_twitter:
+  - 'no'
+wpcf-gn_post_autor:
+  - Maurício Bronzatto
+dsq_thread_id:
+  - "5871816595"
+slide_template:
+  - default
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2009-09-19 14:57:56
 ---
 “A todos, os pequenos e os grandes, os ricos e os pobres, os livres e os escravos, faz que lhes seja dada certa marca sobre a mão direita ou sobre a fronte, para que ninguém possa comprar ou vender, senão aquele que tem a marca, o nome da besta ou o número do seu nome”(Ap 13:16-17)

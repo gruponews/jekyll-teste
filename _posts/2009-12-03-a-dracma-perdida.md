@@ -27,7 +27,23 @@ tags:
   - Perdida
   - Procurar
   - Reino
-author: ""
+author:
+  - Maurício Bronzatto
+post_autor:
+  - Mauricio Bronzatto
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_dracma_perdida.jpg
+aktt_notify_twitter:
+  - 'no'
+wpcf-gn_post_autor:
+  - Mauricio Bronzatto
+dsq_thread_id:
+  - "2802545781"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2009-12-03 22:40:13
 ---
 Em Lucas 15, encontramos um conjunto de parábolas afins, que tratam do mesmo assunto: de coisas que perdemos e da busca que precisamos empreender para encontrá-las.

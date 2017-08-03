@@ -12,6 +12,14 @@ published: true
 categories: ""
 tags: ""
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - ""
+post_destaques:
+  - Nao
+dsq_thread_id:
+  - "4264719638"
 post_date: 2010-11-14 19:34:34
 ---
 [html_sitemap]

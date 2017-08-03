@@ -13,7 +13,14 @@ published: true
 categories:
   - Vida
 tags: ""
-author: ""
+author:
+  - Henri Nouwen
+wpcf-gn_post_autor:
+  - ""
+dsq_thread_id:
+  - "2873569020"
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2013-05-05 00:15:25
 ---
 <h2>O caminho descendente</h2>

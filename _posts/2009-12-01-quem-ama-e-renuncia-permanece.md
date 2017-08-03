@@ -28,7 +28,23 @@ tags:
   - Perdida
   - Resgate
   - Salvação
-author: ""
+author:
+  - Maurício Bronzatto
+post_autor:
+  - Maurício Bronzatto
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/quem_ama_e_renuncia_permanece.jpg
+wpcf-gn_post_autor:
+  - Maurício Bronzatto
+dsq_thread_id:
+  - "2815472373"
+slide_template:
+  - default
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2009-12-01 22:11:40
 ---
 DEUS está à caça das ovelhas desgarradas. Ele procura, diligentemente, uma de cada vez, e quando as encontra, põe-nas nos ombros, cheio de alegria e vai para casa. E então, segue-se o banquete celestial. Não faltam anjos para a celebração. Há, portanto, nos céus, maior alegria por um só pecador que se arrependa do que por noventa e nove justos que “não necessitam de arrependimento”. Essas últimas palavras de Jesus “não necessitam de arrependimento”, soam mais como uma alfinetada no comportamento meramente religioso dos fariseus que não poupavam críticas ao fato de Jesus se sentar com os cobradores de impostos e publicanos. Ainda sobre a alegria contagiante de Deus ao receber de volta as ovelhas desgarradas, Lc 15:20 nos diz “...quando ainda estava longe, viu-o seu pai, e se moveu de íntima compaixão e, correndo, lançou-se-lhe ao pescoço e o beijou”. Jesus nos ensina que tão logo Deus percebe seus filhos dando meia-volta no sentido de voltar para o lar, Ele sai em desabalada carreira para tomá-los nos braços e celebrar o retorno.

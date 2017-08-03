@@ -24,7 +24,21 @@ tags:
   - Unidade
   - Visão
   - Vontade
-author: ""
+author:
+  - Maurício Bronzatto
+post_autor:
+  - Mauricio Bronzatto
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/eu_e_minha_casa_serviremos_a_Deus.jpg
+dsq_thread_id:
+  - "5853353866"
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2009-12-01 21:34:18
 ---
 A família é o alvo principal de Deus. Antes mesmo que surgisse a primeira família na face da terra, a Trindade já existia como família. Ao dizer: “Façamos o homem à nossa imagem e semelhança”, a Trindade conferenciava sobre criar uma família à semelhança da celestial a fim de ensiná-la sobre os princípios que regem a família eterna: o da comunhão e do amor. As famílias precisam existir sobre esses dois fundamentos que são a essência do relacionamento entre Deus, o Pai, Deus, o Filho e Deus, o Espírito Santo.

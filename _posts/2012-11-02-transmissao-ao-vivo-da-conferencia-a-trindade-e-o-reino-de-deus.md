@@ -18,5 +18,13 @@ categories:
   - Notícias
 tags: ""
 author: ""
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "3061903350"
 post_date: 2012-11-02 12:11:55
 ---

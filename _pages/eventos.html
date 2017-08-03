@@ -22,7 +22,8 @@ post_date: 2009-11-23 16:17:05
 <p class="small">Os eventos podem sofrer alterações sem aviso prévio</p>
 
 <div>
-{% for evento in site.eventos %}
+{{ site | inspect }}
+{% for evento in site.data.upcomingEvents %}
   <div class="event">
     <h3>{{evento.title}}</h3>
   </div>

@@ -15,7 +15,14 @@ categories:
   - Desenvolvendo os dons proféticos
   - Espírito Santo
 tags: ""
-author: ""
+author:
+  - Ezequiel Netto
+wpcf-gn_post_autor:
+  - Ezequiel Netto
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "2805029164"
 post_date: 2010-07-05 15:13:00
 ---
 <i>Este artigo é o sétimo de uma sequência sobre dons proféticos, assunto que o autor vem pesquisando desde 2002 e compartilhando em muito lugares</i>

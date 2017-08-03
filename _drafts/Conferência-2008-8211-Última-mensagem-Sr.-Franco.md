@@ -15,4 +15,8 @@ tags:
   - Franco
   - mensagem
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+video_player:
+  - '<embed src="http://blip.tv/play/grIcgbylVwI%2Em4v" type="application/x-shockwave-flash" width="630" height="384" allowscriptaccess="always" allowfullscreen="true"></embed>'
 ---

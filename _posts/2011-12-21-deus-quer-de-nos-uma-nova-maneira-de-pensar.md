@@ -18,7 +18,28 @@ categories:
 tags:
   - edicao-71
   - pensar
-author: ""
+author:
+  - Ezequiel Netto
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Ezequiel Netto
+post_destaques:
+  - Nao
+aktt_tweeted:
+  - "1"
+"og:type":
+  - article
+wpcf-gn_post_imagem:
+  - ""
+wpcf-gn_post_autor:
+  - Ezequiel Netto
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "2802546022"
 post_date: 2011-12-21 22:35:24
 ---
 <h3><span class="Apple-style-span" style="font-size: 15px;">A pregação do evangelho</span></h3>

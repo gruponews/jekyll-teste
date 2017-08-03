@@ -13,6 +13,19 @@ categories:
   - Geral
 tags: ""
 author: ""
+post_autor:
+  - ""
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2012/04/backlight_contato.jpg
+post_destaques:
+  - Nao
+aktt_notify_twitter:
+  - 'yes'
+"og:type":
+  - article
+dsq_thread_id:
+  - "4029990748"
 post_date: 2009-09-19 17:06:30
 ---
 <h3>Endereço para correspondência:</h3>

@@ -18,7 +18,15 @@ categories:
   - Jornal GrupoNews
 tags:
   - Dons
-author: ""
+author:
+  - Maurício Bronzatto
+dsq_thread_id:
+  - "3662732307"
+jornal_capa:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2015/04/capa-gruponews-fevereiro-2014.jpg
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2014-02-20 15:51:43
 ---
 Veja os artigos dessa edição:

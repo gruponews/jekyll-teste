@@ -12,6 +12,12 @@ published: true
 categories: ""
 tags: ""
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - ""
+post_destaques:
+  - Nao
 post_date: 2010-09-16 18:09:05
 ---
 <strong>Centro de Eventos Vale da Águia</strong>

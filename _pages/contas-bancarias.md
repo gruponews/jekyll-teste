@@ -12,6 +12,8 @@ published: true
 categories: ""
 tags: ""
 author: ""
+sharing_disabled:
+  - "1"
 post_date: 2013-08-06 21:45:57
 ---
 <h2>Pagamento de encontros e livros ou ofertas</h2>

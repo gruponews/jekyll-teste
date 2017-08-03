@@ -13,6 +13,17 @@ categories:
   - Geral
 tags: ""
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Equipe GrupoNews
+post_destaques:
+  - Destaque
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/11/back_aulas.jpg
+aktt_tweeted:
+  - "1"
 post_date: 2010-11-01 00:00:10
 ---
 Toda segunda-feira a partir das 20h tem aula ao vivo aqui na Webtv! Fique por dentro e participe, as aulas são transmitidas diretamente do Espaço GrupoNews.

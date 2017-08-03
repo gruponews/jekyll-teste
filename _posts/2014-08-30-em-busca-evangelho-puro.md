@@ -15,7 +15,12 @@ categories:
 tags:
   - Conferência "A igreja do nosso tempo"
   - Evangelho
-author: ""
+author:
+  - Harold Walker
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "2973302051"
 post_date: 2014-08-30 15:50:56
 ---
 Como é bom a gente ter a oportunidade de ouvir vários irmãos diferentes e meditar, refletir... Graças a Deus por este dia! Vamos guardando no coração. Parece que isso estava numa música hoje de manhã: “guardei a tua palavra no coração para não pecar contra ti”. Eu estava lendo um pedaço do Salmo 119 hoje de manhã – porque eu levantei cedo, mas não tão cedo para ler todo o salmo – e tinha visto esta parte e achei interessante: “Guardei a tua palavra no coração pra não pecar contra ti”. A palavra de Deus é rica, tremenda, maravilhosa. Eu fico sempre com a lembrança de minha mãe, vários anos antes de morrer, quando ela pensava que ia morrer e não morreu. Aliás, quando morreu, ela não estava tão debilitada e tão fraca como nessa época, uns 5 ou 6 anos antes. Perto de sua cama, na parede, ela tinha textos bíblicos escritos à mão, que decorava. Passando mal, fraca de tudo e decorando os textos, decorando a palavra de Deus. Então eu guardo com bastante carinho esta valorização da palavra de Deus.

@@ -15,7 +15,24 @@ categories:
   - Família
   - Igreja nos lares
 tags: ""
-author: ""
+author:
+  - Pedro Arruda
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Pedro Arruda
+post_destaques:
+  - Nao
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_autor:
+  - ""
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "2802546128"
 post_date: 2011-12-03 20:11:36
 ---
 <h3>Templo nas casas</h3>

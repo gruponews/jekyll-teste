@@ -18,7 +18,12 @@ tags:
   - Melquisedeque
   - sacerdócio
   - serviço
-author: ""
+author:
+  - Pedro Arruda
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "3671464759"
 post_date: 2014-09-09 14:15:08
 ---
 Há uma grande discussão em torno do diálogo entre Pedro e Jesus registrado no Evangelho segundo São Mateus (16.13-20), no qual Pedro afirma ser Jesus o Cristo de Deus, recebendo como resposta que ele, Pedro, é uma pedra sobre a qual Jesus edificaria a igreja. O segmento católico se apropriou desse texto para fundamentar que Pedro foi o primeiro de uma sucessão de papas, legitimando, assim, este sistema. Isso provocou no segmento protestante uma interpretação diferente, que passou a concorrer com aquela disseminada pela teologia católica.

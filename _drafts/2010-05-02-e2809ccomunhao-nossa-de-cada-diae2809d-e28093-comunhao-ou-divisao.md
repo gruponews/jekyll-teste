@@ -19,6 +19,15 @@ tags:
   - Comunhão
   - Unidade
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Pedro Arruda
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/04/comunhao-de-cada-dia.jpg
 ---
 <blockquote><em>Este artigo é o quinto de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler os anteriores.</em></blockquote>
 Comunhão e divisão são tão antagônicas quanto luz e trevas – desde quando as intenções de Lúcifer divergiram das de Deus. A partir daí, nosso adversário passou a usar – com muito êxito – a natureza da divisão como arma estratégica para enganar a humanidade. Começando com a primitiva Eva, usou sua sutileza para separá-la de Deus, caminho que seu marido também tomou logo a seguir. Como conseqüência imediata, cada um perdeu a própria integralidade devido à morte do espírito. A alma e o corpo, como partes sobreviventes desprovidas do espírito integralizador, remanesceram em conflito.

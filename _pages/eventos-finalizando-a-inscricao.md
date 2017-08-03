@@ -12,6 +12,8 @@ published: true
 categories: ""
 tags: ""
 author: ""
+dsq_thread_id:
+  - ""
 post_date: 2014-06-08 18:22:10
 ---
 [ESPRESSO_CHECKOUT]

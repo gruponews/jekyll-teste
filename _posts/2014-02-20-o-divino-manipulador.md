@@ -14,7 +14,14 @@ categories:
   - O Deus mal compreendido
 tags:
   - edicao-77
-author: ""
+author:
+  - Darin Hufford
+wpcf-gn_post_autor:
+  - ""
+dsq_thread_id:
+  - "2942888372"
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2014-02-20 00:46:48
 ---
 <blockquote>Esta é a 4ª parte do resumo do livro “The Misunderstood God: The Lies Religion Tells About God” (O Deus mal compreendido: as mentiras que a religião conta sobre Deus), de Darin Hufford, publicado nos EUA em 2009 por Windblown Media (traduzido em 2012 para o português sob o título “Mais perto de Deus” pela Ed. Sextante).</blockquote>

@@ -33,7 +33,28 @@ tags:
   - Relacionamento
   - Templo
   - Transformação
-author: ""
+author:
+  - Pedro Arruda
+post_autor:
+  - Pedro Arruda
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/o_ministerio_do_espirito_santo.jpg
+post_linkPDF:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/o_ministerio_do_espirito_santo.pdf
+aktt_notify_twitter:
+  - 'no'
+wpcf-gn_post_autor:
+  - Pedro Arruda
+dsq_thread_id:
+  - "2802545880"
+wpcf-gn_post_destaques:
+  - nao_destaque
+amazonS3_cache:
+  - 'a:1:{s:84:"//www.gruponews.com.br/wp-content/uploads/2009/12/o_ministerio_do_espirito_santo.pdf";i:404;}'
 post_date: 2009-12-01 21:52:37
 ---
 “<em>Que o amor do Pai, a graça de Jesus Cristo e a comunhão do Espírito Santo, estejam com todos vós</em>” (2 Co. 13:13)

@@ -15,7 +15,24 @@ categories:
   - Igreja
 tags:
   - edicao-71
-author: ""
+author:
+  - Ricardo Oliveira
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Ricardo Oliveira
+post_destaques:
+  - Nao
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_autor:
+  - ""
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "2802546082"
 post_date: 2011-12-04 20:11:22
 ---
 Fazer o percurso de trem entre as estações de Barueri e Barra Funda não é uma experiência agradável, mas fica ainda pior quando a viagem é realizada numa tarde ensolarada de verão. Para mim parece impossível não injuriar o engenheiro que colocou no vagão janelas tão pequenas, incapazes de prover aos cansados trabalhadores e estudantes o mínimo de oxigênio necessário para a manutenção da vida.

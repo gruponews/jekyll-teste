@@ -27,7 +27,25 @@ tags:
   - menino
   - narnia
   - O cavalo e seu menino
-author: ""
+author:
+  - Renata Ribeiro Arruda
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Renata Ribeiro Arruda
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/02/banner_narnia_parte3.jpg
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_autor:
+  - Renata Ribeiro Arruda
+dsq_thread_id:
+  - "2890227116"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2011-02-05 22:08:21
 ---
 <h3>De Calormânia a Nárnia: o caminho para a verdadeira identidade</h3>

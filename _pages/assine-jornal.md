@@ -12,6 +12,8 @@ published: true
 categories: ""
 tags: ""
 author: ""
+dsq_thread_id:
+  - "4502331196"
 post_date: 2015-04-11 12:43:56
 ---
 O jornal GrupoNews mudou!

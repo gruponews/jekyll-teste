@@ -24,6 +24,28 @@ tags:
   - reinado
   - Reino
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Equipe GrupoNews
+post_destaques:
+  - Destaque
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2012/04/banner_rmm_novidades.jpg
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+wpcf-gn_post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2012/04/banner_rmm_novidades.jpg
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_maior
+dsq_thread_id:
+  - "2993516041"
 post_date: 2012-04-13 20:53:04
 ---
 Curso "O Reino Milenar Messiânico"

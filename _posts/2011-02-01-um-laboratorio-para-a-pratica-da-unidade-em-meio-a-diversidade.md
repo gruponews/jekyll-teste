@@ -30,6 +30,23 @@ tags:
 authors:
   - Equipe GrupoNews
   - Equipe organizadora
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Equipe organizadora
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/02/editorial.jpg
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_autor:
+  - Equipe organizadora
+dsq_thread_id:
+  - "2833345460"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2011-02-01 00:45:02
 ---
 A ideia de fazer conferências surgiu em 2007 e foi orientada pelo propósito de favorecer um ambiente de escuta coletiva em que os presentes pudessem ouvir, de Deus e uns dos outros, o que o Espírito está falando neste tempo à Sua igreja, além de permitir a reunião, num mesmo local, da riqueza da diversidade do corpo de Cristo, enquanto a Palavra é compartilhada.

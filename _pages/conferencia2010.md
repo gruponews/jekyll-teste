@@ -12,6 +12,14 @@ published: true
 categories: ""
 tags: ""
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Equipe GrupoNews
+post_destaques:
+  - Nao
+dsq_thread_id:
+  - "5625738928"
 post_date: 2010-09-11 18:06:50
 ---
 Depois de recebermos Wolfgang Simson, em 2007, e refletirmos sobre as “casas que transformam o mundo”, e Wayne Jacobsen, em 2009, para o compartilhamento da experiência numa “jornada diária na presença e no amor do Pai”, neste ano de 2010, a fim de nos debruçarmos sobre o tema “Cristo, o Reino e a Igreja”, retornamos ao formato da Conferência de 2008, ocasião em que vários preletores expuseram suas inquietações e expectativas sobre “a Igreja de nosso tempo” (<a href="http://www.gruponews.com.br/conferencia2008/" target="_blank">clique aqui</a> para saber mais).

@@ -20,7 +20,14 @@ tags:
   - Luz
   - revelação
   - Vida
-author: ""
+author:
+  - Maurício Bronzatto
+wpcf-gn_post_autor:
+  - Maurício Bronzatto
+dsq_thread_id:
+  - "2808833757"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2013-10-27 09:00:14
 ---
 É relativamente grande, ao longo das Escrituras, o número de interações de Deus com o homem, estando este às voltas com as peculiaridades do mundo do emprego. Não raro observa-se um chamado, uma confrontação, um ensinamento, uma analogia carregada de verdade espiritual, que têm origem a partir das práticas do trabalho cotidiano em que o homem bíblico está inserido, prova inquestionável de que Deus não está interessado em dividir a vida em sagrada e secular, hierarquizando momentos mais ou menos propícios para a manifestação de sua glória.

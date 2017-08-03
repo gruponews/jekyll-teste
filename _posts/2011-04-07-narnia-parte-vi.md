@@ -25,7 +25,25 @@ tags:
   - Livro
   - narnia
   - prata
-author: ""
+author:
+  - Renata Ribeiro Arruda
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Renata Ribeiro Arruda
+post_destaques:
+  - Destaque2
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/04/banner_narnia_parte6.jpg
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_autor:
+  - Renata Ribeiro Arruda
+dsq_thread_id:
+  - "2802546300"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2011-04-07 23:29:26
 ---
 <h3>A realidade do mundo superior</h3>

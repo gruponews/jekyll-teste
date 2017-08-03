@@ -23,7 +23,12 @@ tags:
   - igreja institucional
   - igreja organica
   - restauração da palavra
-author: ""
+author:
+  - Gerson Lima
+dsq_thread_id:
+  - "2972952253"
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2008-08-30 13:37:06
 ---
 Eu estava pensando sobre quebrantamento enquanto vinha pra Conferência, então errei o caminho e cheguei aqui bem humilhado. Deus tem umas maneiras engraçadas de fazer a gente andar com o coração no céu e os pés na terra.

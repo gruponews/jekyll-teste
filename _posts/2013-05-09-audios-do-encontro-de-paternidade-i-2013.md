@@ -19,6 +19,13 @@ published: true
 categories:
   - Notícias
 tags: ""
-author: ""
+author:
+  - Equipe GrupoNews
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "3777985400"
 post_date: 2013-05-09 00:40:18
 ---

@@ -19,6 +19,8 @@ tags:
   - edicao-49
   - testemunhos
 author: ""
+dsq_thread_id:
+  - "2999625518"
 post_date: 2007-07-06 11:38:25
 ---
 <h2>Costurando as redes de comunhão em amor</h2>

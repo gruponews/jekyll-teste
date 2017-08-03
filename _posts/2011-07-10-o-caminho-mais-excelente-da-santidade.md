@@ -18,7 +18,27 @@ categories:
   - Artigos
   - Bases Cristãs
 tags: ""
-author: ""
+author:
+  - Maurício Bronzatto
+aktt_notify_twitter:
+  - 'no'
+aktt_tweeted:
+  - "1"
+post_autor:
+  - Maurício Bronzatto
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/07/editorial-copy.jpg
+wpcf-gn_post_autor:
+  - Maurício Bronzatto
+dsq_thread_id:
+  - "2869596748"
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2011-07-10 02:06:51
 ---
 Não há como não reconhecer: vivemos uma crise de excelência na sociedade contemporânea. Não na esfera das coisas. Estas vão muito bem, obrigado. Refiro-me ao que é da ordem do humano. Os relacionamentos quase nunca vão além do mínimo, atitudes magnânimas são como diamantes encontrados no lixo, dedicações apaixonadas a alguém ou a alguma causa constituem-se como artigo do passado, exemplos inspiradores de um tempo assumido como melhor. Alguns estudiosos aludem a um crepúsculo do dever, à agonia da moral, a um decréscimo da virtude. Paradoxalmente, nunca se falou tanto em ética, o que poderia pressupor uma realidade efetivamente orientada por sua influência.

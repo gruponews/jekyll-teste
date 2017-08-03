@@ -30,7 +30,23 @@ tags:
   - Reino
   - reino de Deus
   - Resolver
-author: ""
+author:
+  - Valter Severino
+post_autor:
+  - Valter Severino
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/a_condicao_para_fazer_parte_do_reino_de_Deus.jpg
+aktt_notify_twitter:
+  - 'yes'
+wpcf-gn_post_autor:
+  - Valter Severino
+dsq_thread_id:
+  - "5855995010"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2009-12-01 20:39:30
 ---
 Recentemente a Revista Veja realizou uma pesquisa em que constatou que 99% dos entrevistados disseram acreditar em Deus. Destes,  83% acreditam na vida eterna e no paraíso, e 55%  acreditam no inferno ou punição eterna, porém nenhum sequer admitiu a possibilidade de ir para o inferno. Num  primeiro momento, os dados dessa pesquisa nos causam uma impressão positiva, se considerarmos que a esmagadora maioria acredita em Deus. Entretanto, como sabemos não basta somente crer, até porque os próprios demônios também crêem, e estremecem (Tiago 2:19). Portanto, mais do que crer é preciso se envolver com o reino de Deus e viver segundo as regras e preceitos deste reino. Desta forma, se analisarmos de outro prisma o resultado da pesquisa aqui apontada, infelizmente teremos que nos curvar diante da sua dura e crua realidade, ou seja, a grande maioria daqueles que dizem crer em Deus, vivem enganados, iludidos e seduzidos pelo diabo no tocante ao reino de Deus.

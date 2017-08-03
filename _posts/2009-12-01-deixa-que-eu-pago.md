@@ -22,7 +22,21 @@ tags:
   - Finanças
   - Regular
   - Voluntário
-author: ""
+author:
+  - Pedro Arruda
+post_autor:
+  - Pedro Arruda
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/deixa_que_eu_pago.jpg
+wpcf-gn_post_autor:
+  - ""
+dsq_thread_id:
+  - "5900689353"
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2009-12-01 21:25:51
 ---
 Essa frase, ouvida após ser apresentada a conta de consumo, na maioria das vezes, é motivada mais pela educação do que pela disponibilidade financeira da pessoa. Ao contrário, a mesma frase motiva uma atitude de omissão em alguns quando a ouvem e se fazem de desentendidos, querendo crer na abundância do outro.

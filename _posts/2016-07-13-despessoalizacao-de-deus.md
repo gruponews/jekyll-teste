@@ -14,7 +14,14 @@ categories:
   - Bases Cristãs
 tags:
   - edicao-82
-author: ""
+author:
+  - Pedro Arruda
+instant_articles_submission_id:
+  - "300587643609755"
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "4982680431"
 post_date: 2016-07-13 11:28:26
 ---
 <p class="p1"><span class="s1">Você já teve um encontro pessoal com Jesus?</span></p>

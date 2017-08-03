@@ -19,7 +19,12 @@ published: true
 categories:
   - Notícias
 tags: ""
-author: ""
+author:
+  - Equipe GrupoNews
+wpcf-gn_post_destaques:
+  - destaque_maior
+dsq_thread_id:
+  - "2858561070"
 post_date: 2013-08-20 23:28:35
 ---
 Acompanhe a transmissão ao-vivo do Encristus Regional 2013, que a acontece em Sorocaba no próximo final de semana, 24 e 25 de agosto, a partir das 9h.

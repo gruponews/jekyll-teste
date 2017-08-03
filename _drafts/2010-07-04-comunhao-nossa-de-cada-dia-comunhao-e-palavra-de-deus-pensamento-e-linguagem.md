@@ -19,6 +19,17 @@ tags:
   - Jesus
   - Palavra
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Pedro Arruda
+post_destaques:
+  - Destaque2
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/04/comunhao-de-cada-dia.jpg
+aktt_tweeted:
+  - "1"
 ---
 <blockquote><em>Este artigo é o décimo de uma série sobre o tema da comunhão. A partir de sua experiência de vários anos, procurando redescobrir a prática da comunhão em pequenos grupos nas casas, e de uma reflexão mais intensa sobre o assunto nos últimos meses, Pedro Arruda compartilha suas ponderações e descobertas sobre esse que é o verdadeiro aspecto central da vida cristã. Não deixe de ler os anteriores. </em></blockquote>
 De modo geral, a <em>palavra</em> é o elemento fundamental da comunicação. É um signo universal que engloba conceitos, ideias e tudo o que é necessário até mesmo para o <em>pensamento</em>, que é um estágio anterior e pré-requisito à comunicação. Assim, podemos localizar dois momentos bem distintos da <em>palavra</em>: <em>pensamento</em> e <em>linguagem</em>.

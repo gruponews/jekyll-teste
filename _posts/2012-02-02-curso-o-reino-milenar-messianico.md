@@ -24,6 +24,28 @@ tags:
   - online
   - Reino
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+"og:type":
+  - article
+post_autor:
+  - Equipe GrupoNews
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2012/04/banner_rmm.jpg
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2012/02/banner_rmm.jpg
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "2802548771"
 post_date: 2012-02-02 11:20:38
 ---
 O período da Igreja, no qual vivemos, deve ser entendido como um tempo de preparação para o Reino Milenar Messiânico, que terá início com a volta de Jesus a esta Terra. Neste Reino, o próprio Jesus irá implantar pessoalmente sobre todos – ressuscitados, transformados e também não-crentes que sobreviverão à grande tribulação detalhada em Apocalipse – seu governo de amor e justiça. Sendo assim, é necessário que aqueles que acreditam na segunda vinda de Jesus alinhem-se com a boa, perfeita e agradável vontade do Pai, expressa por meio da vida de Cristo, e se apressem em viver desde já dentro do sistema desse Reino sonhado por Deus desde a fundação do mundo.

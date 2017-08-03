@@ -46,7 +46,33 @@ tags:
   - pessoa
   - ser
   - tanque
-author: ""
+author:
+  - Equipe GrupoNews
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Equipe GrupoNews
+post_destaques:
+  - Destaque
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/07/banner_jornal-junho-2010.jpg
+jornal_linkPDF:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/07/jornal-maio-junho-2010.pdf
+aktt_tweeted:
+  - "1"
+jornal_capa:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/07/jornal-maio-junho-2010-capa.jpg
+jornal_data:
+  - 'Maio / Junho - 2010'
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "2802545777"
 post_date: 2010-07-21 12:00:23
 ---
 - A comunidade do perdão e do confronto

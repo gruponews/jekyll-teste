@@ -16,6 +16,8 @@ published: true
 categories: ""
 tags: ""
 author: ""
+dsq_thread_id:
+  - "4029456306"
 post_date: 2015-08-06 00:11:20
 ---
 [contact-form-7 id="4436" title="Inscrição Encontro 2015"]

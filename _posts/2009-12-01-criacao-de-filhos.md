@@ -35,6 +35,24 @@ tags:
 authors:
   - Afonso Porto
   - Claudia Porto
+post_autor:
+  - Afonso e Claudia Porto
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/criacao_de_filhos.jpg
+post_linkPDF:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/apostilaCriacao_2009.pdf
+wpcf-gn_post_autor:
+  - Afonso Porto e Claudia Porto
+dsq_thread_id:
+  - "2802546138"
+wpcf-gn_post_destaques:
+  - nao_destaque
+amazonS3_cache:
+  - 'a:1:{s:74:"//www.gruponews.com.br/wp-content/uploads/2009/12/apostilaCriacao_2009.pdf";i:258;}'
 post_date: 2009-12-01 20:46:31
 ---
 É essencial que o casal seja unânime na forma como vai educar os filhos. Sem unidade, não pode haver respeito dos filhos à autoridade dos pais. Mesmo pequenino, o filho percebe na hora se o pai e a mãe não estão concordando entre si e aproveita a brecha para não obedecer. O casal precisa conversar sobre a necessidade de se ter unidade nos assuntos que apresentam discordância para que a família não venha a ser destruída.

@@ -28,7 +28,23 @@ tags:
   - Testamento
   - Tradução
   - Versículos
-author: ""
+author:
+  - Sociedade Bíblica do Brasil
+post_autor:
+  - Sociedade Bíblica do Brasil
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/curiosidades_sobre_a_biblia.jpg
+aktt_notify_twitter:
+  - 'yes'
+wpcf-gn_post_autor:
+  - Sociedade Bíblica do Brasil
+dsq_thread_id:
+  - "5975841450"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2009-11-29 22:07:29
 ---
 <ol>

@@ -15,7 +15,12 @@ categories:
 tags:
   - edicao-79
   - Testemunho
-author: ""
+author:
+  - Cátia Marquezino Lopes
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "3671458329"
 post_date: 2014-09-09 14:11:52
 ---
 Às vezes somos ensinados a viver em meio à tempestade. A imagem que me vem é a de um mar bem agitado. Talvez para o leitor seja a de qualquer outro fenômeno da natureza que possa igualmente ilustrar esses momentos difíceis por que passamos.

@@ -12,6 +12,14 @@ published: true
 categories: ""
 tags: ""
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - ""
+post_destaques:
+  - Nao
+dsq_thread_id:
+  - "5274504719"
 post_date: 2010-09-11 18:11:49
 ---
 <strong>Gino Iafrancesco Villegas </strong>

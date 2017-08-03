@@ -26,6 +26,28 @@ tags:
   - retorno
   - volta
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+"og:type":
+  - article
+post_autor:
+  - Pedro Arruda
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2012/02/pescador.jpg
+wpcf-gn_post_autor:
+  - Pedro Arruda
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2012/02/pescador.jpg
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "2802548920"
 post_date: 2012-04-04 12:00:05
 ---
 <blockquote>As três últimas fases da história são: Israel, Igreja e Reino Milenar Messiânico, vindo depois a eternidade. Assim como os judeus não compreendiam o período da igreja e por isso queriam pular diretamente para o reino messiânico, os cristãos não estão compreendendo o reino milenar messiânico e, de maneira geral, imaginam saltar da ressurreição diretamente para a eternidade. É extensa a abordagem que a bíblia faz do reino milenar messiânico. Talvez a melhor e mais imediata maneira de compreendê-lo seja através do período precursor de quarenta dias que Jesus conviveu na condição de ressuscitado entre os seus discípulos. (Mt 17.1-9; 28; Mc 16; Lc 24; At 1.1-14; Jo 20; 21; At 9.1-16; 1 Co 15.3-58; Ap 20.1-6)</blockquote>

@@ -27,7 +27,25 @@ tags:
   - Preconceito
   - Transformação
   - Vida
-author: ""
+author:
+  - Paulo Silva
+post_autor:
+  - Paulo Silva
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/removendo_barreiras.jpg
+aktt_notify_twitter:
+  - 'yes'
+wpcf-gn_post_autor:
+  - Paulo Silva
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "3235039152"
 post_date: 2009-12-01 22:13:30
 ---
 Nestes dias, a meditação sobre evangelismo tem me levado a Jo 11, à ressurreição de Lázaro. Este texto é marcado por uma seqüência de episódios necessários para geração de vida, regada por uma dose maravilhosa de amor bilateral. Começamos com o versículo 3 – “ ... aquele a quem tu amas esta doente”. As irmãs de Lázaro, preocupadas com a saúde de seu irmão, enviam a mensagem a Jesus com dois objetivos explícitos: informar que o amado de Jesus estava doente e esperar dele a cura do mal de seu irmão, o qual elas amavam. O mundo ao qual Deus ama (Jo 3: 16) está enfermo com doença de morte. Prostituição, violência, drogas, fome e falsos ensinamentos, estão levando milhares de pessoas ao distanciamento cada vez maior de Deus. Muitas vezes assistimos a tudo isso como espectadores de filme cujo  final não pode ser mudado.

@@ -17,7 +17,31 @@ published: true
 categories:
   - Artigos
 tags: ""
-author: ""
+author:
+  - Ezequiel Netto
+aktt_notify_twitter:
+  - 'yes'
+"og:type":
+  - article
+post_autor:
+  - Ezequiel Netto
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2012/02/jaco.jpg
+wpcf-gn_post_imagem:
+  - ""
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_autor:
+  - Ezequiel Netto
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "2802548929"
 post_date: 2012-04-28 14:30:12
 ---
 <h3>O que é a casa de Deus?</h3>

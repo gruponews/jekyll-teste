@@ -12,6 +12,12 @@ published: true
 categories: ""
 tags: ""
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - ""
+post_destaques:
+  - Nao
 post_date: 2010-09-11 18:12:39
 ---
 O encontro terá o custo de R$ 100,00. No valor, já estão inclusas a estadia e a alimentação. Desconto especial de 10% para casais.

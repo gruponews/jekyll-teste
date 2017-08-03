@@ -13,7 +13,16 @@ categories:
   - Artigos
 tags:
   - edicao-73
-author: ""
+author:
+  - Pedro Arruda
+wpcf-gn_post_autor:
+  - Pedro Arruda
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "2836936422"
 post_date: 2013-01-20 19:22:52
 ---
 Os acontecimentos que cercaram o nascimento de João Batista produziram, onde quer que foram divulgados, um misto de temor e expectativa no coração dos ouvintes. Estes, admirados, perguntavam: “Que virá a ser, pois, este menino?” (Lc 1.66). O sacerdote Zacarias, pai de João, tinha a resposta. Tendo ficado mudo durante os nove meses de gestação do filho em razão de uma ação sobrenatural de Deus, pôde refletir bastante sobre o significado da promessa que recebera por meio do anjo Gabriel quando, ao cumprir o ofício sacerdotal, queimava incenso ao Senhor.

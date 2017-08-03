@@ -13,7 +13,10 @@ categories:
   - Família
 tags:
   - edicao-49
-author: ""
+author:
+  - Ezequiel Netto
+dsq_thread_id:
+  - "3004332915"
 post_date: 2014-09-09 22:31:23
 ---
 <i>“Vejo que Deus tem uma grande obra para você e sua família”</i>. Alegramo-nos no momento, mas o tempo passa, passa, passa e nada acontece. <i>“Deus está trazendo muita alegria sobre sua vida”</i>. O tempo vai passando, e vivemos três longos anos de tristezas e decepções pela frente. Quem nunca viveu uma experiência assim? Por algum tempo venho tentando entender esse processo de frustração profética, e tenho meditado ultimamente na estratégia de Satanás em roubar ou causar danos às sementes plantadas por Deus. As parábolas do joio (Mt 13.24-30,37-40) e do semeador (Lc 8.4-15) ilustram bem esse fato, em que a semente de Deus (que pode ser uma palavra profética, os filhos do reino, um ministério, toda uma congregação etc.) é pisada, roubada, ressecada pelo sol e falta de umidade, sufocada (deixo para os pregadores trazerem uma mensagem sobre o significado de cada agressão dessas em nossas vidas, pois não caberia nesse artigo).

@@ -16,7 +16,12 @@ categories:
   - Vida
 tags:
   - edicao-80
-author: ""
+author:
+  - Nicholas Carr
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "3690517123"
 post_date: 2015-02-17 12:55:47
 ---
 Se o surgimento do computador, no século XX, inaugurou uma nova revolução intelectual, o fato de poder conectá-lo a uma rede mundial, interligada a milhões de outros computadores, exponenciou suas capacidades e potencialidades e lançou a humanidade em uma revolução intelectual (e tecnológica) ainda mais radical.

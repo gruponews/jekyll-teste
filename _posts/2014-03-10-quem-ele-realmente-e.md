@@ -18,7 +18,14 @@ tags:
   - edicao-75
   - paciência
   - perfil
-author: ""
+author:
+  - Darin Hufford
+wpcf-gn_post_autor:
+  - ""
+dsq_thread_id:
+  - "2802666053"
+wpcf-gn_post_destaques:
+  - destaque_novidade
 post_date: 2014-03-10 09:01:18
 ---
 Certa noite, em meu escritório, eu estava deprimido pelo que vi naquela conferência (<a title="A mentira que falamos" href="http://www.gruponews.com.br/2013/10/a-mentira-que-falamos.html">ver parte 1</a>). Não podia me abalar, mas a maior parte das pessoas eram de minha congregação e estavam espiritualmente miseráveis. Algo precisava ser feito, mas o quê? Eu também estava miserável e abatido como todos eles.

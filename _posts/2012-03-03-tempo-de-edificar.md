@@ -16,7 +16,27 @@ published: true
 categories:
   - Artigos
 tags: ""
-author: ""
+author:
+  - Willian Diego Pereira
+aktt_notify_twitter:
+  - 'yes'
+"og:type":
+  - article
+post_autor:
+  - Willian Diego Pereira
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2012/02/multidao.jpg
+wpcf-gn_post_autor:
+  - Willian Diego Pereira
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "2826192927"
 post_date: 2012-03-03 15:50:10
 ---
 Como é prazeroso quando somos surpreendidos pela Palavra de Deus, seja da maneira mais convencional – por meio da leitura bíblica – ou quando ela nos é revelada através dos irmãos em uma conversa, um gesto de amor, uma poesia, uma música, um filme, uma manifestação singela da natureza... Enfim, das mais diversas maneiras, inclusive as mais inesperadas, afinal de contas o Deus a quem pertencemos tem uma criatividade ilimitada e uma imensa capacidade de nos surpreender a cada instante. A nós cabe apenas estarmos atentos e abrirmos o coração para percebê-lo em nosso “caminho”.

@@ -28,7 +28,31 @@ tags:
   - novo
   - o outro
   - Proféticos
-author: ""
+author:
+  - Equipe GrupoNews
+post_autor:
+  - Equipe Comunicação
+post_destaques:
+  - Nao
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_imagem.jpg
+jornal_linkPDF:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/gruponews_julhoagosto_2009_site.pdf
+aktt_notify_twitter:
+  - 'no'
+jornal_capa:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2009/12/gruponews_julho_agosto_2009_versao_final_capa.jpg
+jornal_data:
+  - Julho e Agosto/2009
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+wpcf-gn_post_destaques:
+  - nao_destaque
+dsq_thread_id:
+  - "5832400712"
 post_date: 2009-09-01 00:00:51
 ---
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">- O outro como altar e como cura da esterilidade</div>

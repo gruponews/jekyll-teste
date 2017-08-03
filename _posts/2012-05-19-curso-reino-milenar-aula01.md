@@ -23,6 +23,32 @@ tags:
   - online
   - Reino
 author: ""
+aktt_notify_twitter:
+  - 'yes'
+"og:type":
+  - article
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+wpcf-gn_post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2012/04/banner_rmma1.jpg
+wpcf-gn_post_destaques:
+  - nao_destaque
+post_autor:
+  - Equipe GrupoNews
+post_destaques:
+  - Destaque
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2012/04/banner_rmma1.jpg
+wpcf-gn_post_imagem_credito:
+  - ""
+aktt_tweeted:
+  - "1"
+dsq_thread_id:
+  - "2802548938"
+amazonS3_cache:
+  - 'a:2:{s:71:"//www.gruponews.com.br/wp-content/uploads/2012/05/Introducao_ao_RMM.pdf";i:2426;s:86:"//www.gruponews.com.br/wp-content/uploads/2012/05/O-REINO-E-A-IGREJA-STEPHEN-KAUNG.pdf";i:2427;}'
 post_date: 2012-05-19 00:00:58
 ---
 <strong>Tema:</strong> O Reino no Plano Geral de Deus - Visão geral de Gênesis a Apocalipse, de uma eternidade a outra, possibilitando uma compreensão histórica e profética da localização do Reino Milenar Messiânico e a posição da atual geração diante dele.

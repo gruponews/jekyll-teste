@@ -14,7 +14,28 @@ categories:
   - Artigos
 tags:
   - edicao-71
-author: ""
+author:
+  - Paulo Roberto da Silva
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Paulo Roberto da Silva
+post_destaques:
+  - Nao
+aktt_tweeted:
+  - "1"
+"og:type":
+  - article
+wpcf-gn_post_imagem:
+  - ""
+wpcf-gn_post_autor:
+  - Paulo Roberto da Silva
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "2802548655"
 post_date: 2012-01-07 00:00:31
 ---
 Eu, Neide e as crianças, nós todos, juntos, estávamos descendo rio abaixo, levados pela correnteza. Éramos pequenos pedaços de madeira num rio bem largo e vigoroso. Eu e a Neide, pedaços um pouco maiores; as crianças, pedaços menores. Alternávamo-nos nas posições: às vezes eu ficava à frente, outras vezes era a Neide. Mesmo as crianças, em algum momento, tomavam a dianteira. Entretanto sempre estávamos juntos e próximos uns dos outros, conforme a força da correnteza que nos levava.

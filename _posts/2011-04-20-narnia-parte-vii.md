@@ -25,7 +25,30 @@ tags:
   - Livro
   - narnia
   - ultima
-author: ""
+author:
+  - Renata Ribeiro Arruda
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Renata Ribeiro Arruda
+post_destaques:
+  - Destaque2
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/04/banner_narnia_parte7.jpg
+aktt_tweeted:
+  - "1"
+"og:type":
+  - article
+wpcf-gn_post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2011/04/banner_narnia_parte7.jpg
+wpcf-gn_post_autor:
+  - Renata Ribeiro Arruda
+dsq_thread_id:
+  - "2802546068"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2011-04-20 22:51:26
 ---
 <h2>No fim, todos encontram o que realmente procuram</h2>

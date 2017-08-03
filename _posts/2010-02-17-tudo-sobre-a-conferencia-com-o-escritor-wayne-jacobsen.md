@@ -46,7 +46,33 @@ tags:
   - Vida
   - Wayne
   - Wayne Jacobsen
-author: ""
+author:
+  - Equipe GrupoNews
+aktt_notify_twitter:
+  - 'yes'
+post_autor:
+  - Equipe da Comunicação
+post_destaques:
+  - Nao
+jornal_linkPDF:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/02/jornal-gruponews-novembro-fevereiro-2010.pdf
+post_imagem:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/02/jornal-gruponews-novembro-fevereiro-2010-imagem.jpg
+aktt_tweeted:
+  - "1"
+wpcf-gn_post_autor:
+  - Equipe GrupoNews
+dsq_thread_id:
+  - "2802545883"
+jornal_capa:
+  - >
+    http://www.gruponews.com.br/wp-content/uploads/2010/02/jornal-gruponews-novembro-fevereiro-2010-capa.jpg
+jornal_data:
+  - Novembro de 2009 a Fevereiro de 2010
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2010-02-17 00:00:08
 ---
 <ul>

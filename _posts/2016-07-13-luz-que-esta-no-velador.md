@@ -14,7 +14,14 @@ categories:
   - Espírito Santo
 tags:
   - edicao-82
-author: ""
+author:
+  - Rosana Coelho Correa de Oliveira
+dsq_thread_id:
+  - "4982855872"
+instant_articles_submission_id:
+  - "808406395927131"
+wpcf-gn_post_destaques:
+  - nao_destaque
 post_date: 2016-07-13 11:30:51
 ---
 <p class="p1"><span class="s1">E</span><span class="s1">ntre diversas instruções que Jesus Cristo deixou aos seus discípulos quando esteve na Terra, uma das mais claras e objetivas está em Mateus 5:13-16. Ao dizer-lhes que eles eram o sal da terra e a luz do mundo, Jesus também lhes conferiu a responsabilidade de resplandecer sua luz diante dos homens, e isso de tal forma que, vendo essa luz, os homens glorificassem a Deus.</span></p>

@@ -15,7 +15,14 @@ categories:
 tags:
   - edicao-77
   - editorial
-author: ""
+author:
+  - Maurício Bronzatto
+wpcf-gn_post_autor:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "3714646261"
 post_date: 2014-02-07 15:54:54
 ---
 Na última edição (Grupo News nº 76, julho de 2013), refletimos sobre a necessidade de uma nova relação com o trabalho, levando em consideração a possibilidade de que nossas atividades profissionais terão continuidade e se integrarão à realidade do Reino Milenar. Vimos que o tempo presente é o momento de aprendermos muitas qualidades e valores que serão exercidos em plenitude no tempo vindouro. Essa maneira de enxergar o Milênio, sem uma descontinuidade em relação ao que nos foi confiado antes disso, aumenta nossa responsabilidade em discernir aquilo para que fomos criados. A propósito, você saberia dizer para que sem lançar mão de conhecidos chavões como “para a glória de Deus”?

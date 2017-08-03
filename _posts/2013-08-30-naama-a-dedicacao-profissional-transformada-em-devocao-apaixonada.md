@@ -14,7 +14,16 @@ categories:
   - Artigos
 tags:
   - edicao-76
-author: ""
+author:
+  - Maurício Bronzatto
+wpcf-gn_post_autor:
+  - ""
+wpcf-gn_post_imagem_credito:
+  - ""
+wpcf-gn_post_destaques:
+  - destaque_novidade
+dsq_thread_id:
+  - "2804889586"
 post_date: 2013-08-30 08:06:27
 ---
 A história do comandante do exército do rei da Síria, Naamã, é bastante singular e lança muita luz sobre o tema desta edição, principalmente quanto à necessidade de reconsiderarmos nossa relação com o trabalho. O texto de 2 Reis 5.1-19 nos mostra que ele “era grande homem diante de seu senhor e de muito conceito, porque por ele o Senhor dera vitória à Síria; era ele herói de guerra…” (v.1). Naamã era um militar exemplar, idôneo, respeitado, sensato no cumprimento de suas atribuições. Tudo isso não passou despercebido aos olhos de seu soberano. Sua fama era irrepreensível. Seu zelo e excelência no serviço que dedicava ao seu país e ao seu rei estavam muito acima da linha da mediocridade. Estamos diante de um homem sincero, abnegado, objeto, inclusive, da benevolência de seu senhor, pois, não obstante seu caráter irretocável, trazia no corpo as marcas de uma condenação: era leproso.

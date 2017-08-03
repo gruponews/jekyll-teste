@@ -26,6 +26,12 @@ tags:
 authors:
   - Juarez Gomes
   - Maria de Carvalho Gomes
+wpcf-gn_post_autor:
+  - ""
+dsq_thread_id:
+  - "3670198791"
+wpcf-gn_post_destaques:
+  - destaque_medio
 post_date: 2014-02-07 15:41:04
 ---
 <blockquote>Este artigo é o oitavo de uma série que está discutindo alguns problemas do divórcio, uma prática antiga que afeta atualmente a maioria das famílias.</blockquote>
