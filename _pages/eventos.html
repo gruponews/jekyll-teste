@@ -1,6 +1,6 @@
 ---
 ID: 38
-post_title: Eventos
+title: Eventos
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/11/q1rncn_gqbk-cody-aulidge-1920x1080.jpg
 image-l: >
@@ -21,12 +21,10 @@ post_date: 2009-11-23 16:17:05
 ---
 <p class="small">Os eventos podem sofrer alterações sem aviso prévio</p>
 
-<div>
-{{ site | inspect }}
+<div class="events">
 {% for evento in site.data.upcomingEvents %}
   <div class="event">
     <h3>{{evento.title}}</h3>
   </div>
 {% endfor %}
-</div>  
-
+</div>
