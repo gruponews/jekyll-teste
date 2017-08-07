@@ -11,14 +11,19 @@
       <div class="col-md-4 col-sm-6">
         <h3>Próximos eventos</h3>
         <ul class="list-unstyled footer-events">
+          {% for evento in site.data.upcomingEvents | limit: 2 %} {% assign date_format = site.date_format | default: "%-d.%m.%Y" %}
           <li itemscope itemtype="http://schema.org/Event">
-            <a href="#" itemprop="url"><h4 itemprop="name">Evento teste #1</h4><span class="kicker" itemprop="startDate">10 e 11.jun.2017</span></a>
+            <a href="{{evento.url}}" itemprop="url"><h4 itemprop="name">{{evento.title}}</h4>
+              {% if evento.event.event_start_date == evento.event.event_end_date %}
+                <p class="kicker"><span itemprop="startDate" content="{{evento.event.event_start_date}}T{{evento.event.event_start_time}}">{{evento.event.event_start_date | date: date_format }}</span></p>
+              {% else %}
+                <p class="kicker"><span itemprop="startDate" content="{{evento.event.event_start_date}}T{{evento.event.event_start_time}}">{{evento.event.event_start_date | date: date_format }}</span> à <span itemprop="endDate" content="{{evento.event.event_end_date}}T{{evento.event.event_end_time}}">{{evento.event.event_end_date | date: date_format }}</span></p>
+              {% endif %}
+            </a>
           </li>
-          <li itemscope itemtype="http://schema.org/Event">
-            <a href="#" itemprop="url"><h4 itemprop="name">Evento teste #1</h4><span class="kicker" itemprop="startDate">10 e 11.jun.2017</span></a>
-          </li>
+          {% endfor %}
           <li>
-            <a href="#">Outros eventos</a>
+            <a href="/eventos/">Outros eventos</a>
           </li>
         </ul>
       </div>

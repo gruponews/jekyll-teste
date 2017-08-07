@@ -16,6 +16,7 @@ gem 'classifier-reborn'
 gem "minima", "~> 2.0"
 gem 'breakpoint'
 gem 'breakpoint-slicer'
+gem 'i18n'
 
 gem "travis-custom-deploy", "~> 0.0.6"
 

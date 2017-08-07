@@ -1,25 +1,37 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        {{ page.date | date: date_format }}
-      </time>
-      {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {% endif %}</p>
+<article class="event">
+  <header class="event-header">
+    {% if page.image-xl %}
+    <div class="article-image">
+      <div class="event-image-image" style="background-image: url({% if page.image-xl %}{{ page.image-xl | prepend: site.baseurl }}{% endif %})">
+      </div>
+      <div class="event-meta">
+        <div class="container">
+          <h1 class="event-title">{{ page.title }}</h1>
+        </div>
+        <div class="cf event-meta-text">
+          <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
+        </div>
+        <div style="text-align:center">
+          <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
+        </div>
+      </div>
+    </div>
+    {% else %}
+    <div class="noarticleimage">
+      <div class="event-meta">
+        <h1 class="event-title">{{ page.title }}</h1>
+        <div class="cf event-meta-text">
+          <div class="author-image" style="background-image: url({{ site.author_image | prepend: site.baseurl }})">Blog Logo</div>
+          <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person"></h4> on
+        </div>
+      </div>
+    </div>
+  {% endif %}
   </header>
-
-  <div class="post-content" itemprop="articleBody">
+  <div class="event-content container">
     {{ content }}
   </div>
-
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
 </article>

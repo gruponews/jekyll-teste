@@ -22,6 +22,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 lang: 'pt-BR'
+locale: 'pt-BR'
 
 # Build settings
 markdown: kramdown
