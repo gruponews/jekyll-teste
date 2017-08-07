@@ -21,17 +21,26 @@ post_date: 2009-11-23 16:17:05
 ---
 <p class="small">Os eventos podem sofrer alterações sem aviso prévio</p>
 
-<div class="events">
+<div class="events row">
 {% for evento in site.data.upcomingEvents %}
-  <div class="event"  itemscope itemtype="http://schema.org/Event">
+  <div class="event col col-md-4"  itemscope itemtype="http://schema.org/Event">
     {% assign date_format = site.date_format | default: "%-d.%m.%Y" %}
-    {% if evento.event.event_start_date == evento.event.event_end_date %}
+    <header class="event__header">
+      <img src="{{evento.image-sq-m}}" class="img-fluid" alt="">
+    </header><!-- /header -->
+    <div class="event__body">
+      <h2>{{evento.title}}</h2>
+      {% if evento.event.event_start_date == evento.event.event_end_date %}
     <span itemprop="startDate" content="{{evento.event.event_start_date}}T{{evento.event.event_start_time}}">{{evento.event.event_start_date | date: date_format }}</span>
     {% else %}
     <span><span itemprop="startDate" content="{{evento.event.event_start_date}}T{{evento.event.event_start_time}}">{{evento.event.event_start_date | date: date_format }}</span> à <span itemprop="endDate" content="{{evento.event.event_end_date}}T{{evento.event.event_end_time}}">{{evento.event.event_end_date | date: date_format }}</span></span>
     {% endif %}
-    <h2>{{evento.title}}</h2>
-    <a itemprop="url" href="{{evento.url}}">Veja mais</a>
+    </div>
+    
+    <footer class="event__footer">
+      <a itemprop="url" href="{{evento.url}}" class="btn btn-primary">Veja mais</a> 
+    </footer>
+    
   </div>
 {% endfor %}
 </div>

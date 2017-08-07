@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    {% if page.image-xl %}
+    <div class="article-image">
+      <div class="post-image-image" style="background-image: url({% if page.image-xl %}{{ page.image-xl | prepend: site.baseurl }}{% endif %})">
+      </div>
+      <div class="post-meta">
+        <div class="container">
+          <h1 class="post-title">{{ page.title }}</h1>
+        </div>
+        <div class="cf post-meta-text">
+          <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
+        </div>
+        <div style="text-align:center">
+          <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
+        </div>
+      </div>
+    </div>
+    {% else %}
+    <div class="noarticleimage">
+      <div class="post-meta">
+        <h1 class="post-title">{{ page.title }}</h1>
+        <div class="cf post-meta-text">
+          <div class="author-image" style="background-image: url({{ site.author_image | prepend: site.baseurl }})">Blog Logo</div>
+          <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person"></h4> on
+        </div>
+      </div>
+    </div>
+  {% endif %}
+  </header>
+  <div class="post-content container">
+    {% for post in site.categories[page.tag] %}
+        <article class="post">
+            {% assign date_format = site.minima.date_format | default: "%-d.%b.%Y" %}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <h2>
+              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h2>
+          </article>
+    {% endfor %}
+  </div>
+</article>
