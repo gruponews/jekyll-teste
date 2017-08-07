@@ -1,6 +1,6 @@
 ---
 ID: 230
-post_title: Igreja nos lares
+title: Igreja nos lares
 image-xl: ""
 image-l: ""
 image-sq-l: ""

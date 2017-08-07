@@ -1,6 +1,6 @@
 ---
 ID: 120
-post_title: >
+title: >
   O Caminho do Senhor e o caminho do
   ímpio
 image-xl: ""

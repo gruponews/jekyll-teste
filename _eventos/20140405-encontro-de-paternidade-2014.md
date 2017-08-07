@@ -1,6 +1,6 @@
 ---
 ID: 3615
-post_title: 'Encontro de Paternidade 2014 &#8211; 1 A'
+title: 'Encontro de Paternidade 2014 &#8211; 1 A'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

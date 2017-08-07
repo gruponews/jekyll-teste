@@ -1,6 +1,6 @@
 ---
 ID: 169
-post_title: Posto de Salvamento
+title: Posto de Salvamento
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/posto_de_salvamento.jpg
 image-l: >

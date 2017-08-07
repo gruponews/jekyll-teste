@@ -1,6 +1,6 @@
 ---
 ID: 3356
-post_title: >
+title: >
   Inscrições para a aula As Sete
   Alianças
 image-xl: >

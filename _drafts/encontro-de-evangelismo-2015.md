@@ -1,6 +1,6 @@
 ---
 ID: 4394
-post_title: Encontro de Evangelismo 2015
+title: Encontro de Evangelismo 2015
 image-xl: ""
 image-l: ""
 image-sq-l: ""

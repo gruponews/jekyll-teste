@@ -1,6 +1,6 @@
 ---
 ID: 990
-post_title: Conferência 2008
+title: Conferência 2008
 image-xl: ""
 image-l: ""
 image-sq-l: ""

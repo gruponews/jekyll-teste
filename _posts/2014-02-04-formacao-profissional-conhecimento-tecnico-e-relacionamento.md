@@ -1,6 +1,6 @@
 ---
 ID: 3630
-post_title: >
+title: >
   Formação profissional, conhecimento
   técnico e relacionamento
 image-xl: >

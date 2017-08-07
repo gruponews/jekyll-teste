@@ -1,6 +1,6 @@
 ---
 ID: 4312
-post_title: >
+title: >
   Em casa, presidentes de companhias
   tecnológicas limitam acesso de seus
   filhos a eletrônicos

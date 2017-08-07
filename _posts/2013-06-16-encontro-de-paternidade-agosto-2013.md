@@ -1,6 +1,6 @@
 ---
 ID: 3306
-post_title: >
+title: >
   Faça já sua inscrição para o
   Encontro de Paternidade de agosto 2013
 image-xl: >

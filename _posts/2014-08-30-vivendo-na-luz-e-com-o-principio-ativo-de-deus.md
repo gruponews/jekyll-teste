@@ -1,6 +1,6 @@
 ---
 ID: 3898
-post_title: >
+title: >
   Vivendo na luz e com o princípio ativo
   de Deus
 image-xl: ""

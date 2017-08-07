@@ -1,6 +1,6 @@
 ---
 ID: 519
-post_title: >
+title: >
   Tudo sobre a conferência com o escritor
   Wayne Jacobsen
 image-xl: >

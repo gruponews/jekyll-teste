@@ -1,6 +1,6 @@
 ---
 ID: 1055
-post_title: Conferência 2010
+title: Conferência 2010
 image-xl: ""
 image-l: ""
 image-sq-l: ""

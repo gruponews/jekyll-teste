@@ -1,6 +1,6 @@
 ---
 ID: 3408
-post_title: Os sofrimentos dos filhos jovens
+title: Os sofrimentos dos filhos jovens
 image-xl: ""
 image-l: ""
 image-sq-l: ""

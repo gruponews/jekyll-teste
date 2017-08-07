@@ -1,6 +1,6 @@
 ---
 ID: 993
-post_title: Ministrações
+title: Ministrações
 image-xl: ""
 image-l: ""
 image-sq-l: ""

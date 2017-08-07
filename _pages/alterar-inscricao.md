@@ -1,6 +1,6 @@
 ---
 ID: 36
-post_title: Alterar inscrição
+title: Alterar inscrição
 image-xl: ""
 image-l: ""
 image-sq-l: ""

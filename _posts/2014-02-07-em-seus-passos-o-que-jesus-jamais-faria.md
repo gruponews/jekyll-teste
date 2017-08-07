@@ -1,6 +1,6 @@
 ---
 ID: 3633
-post_title: Em seus passos o que Jesus jamais faria?
+title: Em seus passos o que Jesus jamais faria?
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2014/05/passos-jesus-jamais-faria.jpg
 image-l: >

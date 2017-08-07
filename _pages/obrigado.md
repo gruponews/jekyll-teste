@@ -1,6 +1,6 @@
 ---
 ID: 3707
-post_title: Obrigado
+title: Obrigado
 image-xl: ""
 image-l: ""
 image-sq-l: ""

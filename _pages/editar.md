@@ -1,6 +1,6 @@
 ---
 ID: 2119
-post_title: Editar
+title: Editar
 image-xl: ""
 image-l: ""
 image-sq-l: ""

@@ -1,6 +1,6 @@
 ---
 ID: 3422
-post_title: A horizontalidade da vida de oração
+title: A horizontalidade da vida de oração
 image-xl: ""
 image-l: ""
 image-sq-l: ""

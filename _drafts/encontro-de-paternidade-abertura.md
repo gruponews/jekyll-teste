@@ -1,6 +1,6 @@
 ---
 ID: 3032
-post_title: 'Encontro de Paternidade &#8211; Abertura'
+title: 'Encontro de Paternidade &#8211; Abertura'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/03/ailton.jpg
 image-l: >

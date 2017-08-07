@@ -1,6 +1,6 @@
 ---
 ID: 3632
-post_title: >
+title: >
   As muitas maneiras de Deus reunir sua
   família e o significado de “não
   deixemos de congregar-nos”

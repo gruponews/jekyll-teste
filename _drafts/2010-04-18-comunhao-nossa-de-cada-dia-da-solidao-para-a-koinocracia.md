@@ -1,6 +1,6 @@
 ---
 ID: 747
-post_title: '&#8220;Comunhão nossa de cada dia&#8221; &#8211; Da solidão para a koinocracia'
+title: '&#8220;Comunhão nossa de cada dia&#8221; &#8211; Da solidão para a koinocracia'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

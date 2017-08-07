@@ -1,6 +1,6 @@
 ---
 ID: 701
-post_title: A necessidade da igreja como família
+title: A necessidade da igreja como família
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/04/jornal-marco-abril-2010-capa.jpg
 image-l: >

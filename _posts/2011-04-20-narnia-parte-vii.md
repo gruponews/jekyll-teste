@@ -1,6 +1,6 @@
 ---
 ID: 1539
-post_title: 'Parte VII &#8211; No fim, todos encontram o que realmente procuram'
+title: 'Parte VII &#8211; No fim, todos encontram o que realmente procuram'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/04/banner_narnia_parte7.jpg
 image-l: >

@@ -1,6 +1,6 @@
 ---
 ID: 1976
-post_title: Subitamente afastado da correnteza
+title: Subitamente afastado da correnteza
 image-xl: ""
 image-l: ""
 image-sq-l: ""

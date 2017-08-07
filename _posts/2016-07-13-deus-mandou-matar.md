@@ -1,6 +1,6 @@
 ---
 ID: 4699
-post_title: '&#8220;Deus&#8221; mandou matar'
+title: '&#8220;Deus&#8221; mandou matar'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

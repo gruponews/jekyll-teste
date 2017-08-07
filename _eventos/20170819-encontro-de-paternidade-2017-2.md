@@ -1,6 +1,6 @@
 ---
 ID: 4854
-post_title: 'Encontro de Paternidade 2017 &#8211; 2'
+title: 'Encontro de Paternidade 2017 &#8211; 2'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

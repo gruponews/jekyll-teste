@@ -1,6 +1,6 @@
 ---
 ID: 50
-post_title: O Valor do Dinheiro
+title: O Valor do Dinheiro
 image-xl: ""
 image-l: ""
 image-sq-l: ""

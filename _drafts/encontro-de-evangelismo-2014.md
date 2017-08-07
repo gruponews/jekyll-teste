@@ -1,6 +1,6 @@
 ---
 ID: 3913
-post_title: Encontro de Evangelismo 2014
+title: Encontro de Evangelismo 2014
 image-xl: ""
 image-l: ""
 image-sq-l: ""

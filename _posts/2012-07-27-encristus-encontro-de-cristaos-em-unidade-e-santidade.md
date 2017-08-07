@@ -1,6 +1,6 @@
 ---
 ID: 2076
-post_title: >
+title: >
   ENCRISTUS – Encontro de Cristãos em
   Unidade e Santidade
 image-xl: >

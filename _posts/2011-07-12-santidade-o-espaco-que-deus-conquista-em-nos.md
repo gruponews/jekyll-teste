@@ -1,6 +1,6 @@
 ---
 ID: 1924
-post_title: 'Santidade: o espaço que Deus conquista em nós'
+title: 'Santidade: o espaço que Deus conquista em nós'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/07/final-1.jpg
 image-l: >

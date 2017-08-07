@@ -1,6 +1,6 @@
 ---
 ID: 4255
-post_title: O sacerdócio de todos os cristãos
+title: O sacerdócio de todos os cristãos
 image-xl: ""
 image-l: ""
 image-sq-l: ""

@@ -1,6 +1,6 @@
 ---
 ID: 3168
-post_title: >
+title: >
   Muito mais humanos do que costumamos
   admitir
 image-xl: ""

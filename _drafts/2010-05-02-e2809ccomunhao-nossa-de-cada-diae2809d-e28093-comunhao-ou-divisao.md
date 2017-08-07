@@ -1,6 +1,6 @@
 ---
 ID: 799
-post_title: >
+title: >
   “Comunhão nossa de cada dia” –
   Comunhão ou divisão?
 image-xl: ""

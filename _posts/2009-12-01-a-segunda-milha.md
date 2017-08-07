@@ -1,6 +1,6 @@
 ---
 ID: 86
-post_title: A Segunda Milha
+title: A Segunda Milha
 image-xl: ""
 image-l: ""
 image-sq-l: ""

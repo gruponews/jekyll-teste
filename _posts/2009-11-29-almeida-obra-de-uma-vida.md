@@ -1,6 +1,6 @@
 ---
 ID: 3972
-post_title: 'Almeida: a obra de uma vida'
+title: 'Almeida: a obra de uma vida'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

@@ -1,6 +1,6 @@
 ---
 ID: 1816
-post_title: 'CPPI 2011 &#8211; Áudios das palestras de terça 19 de Julho'
+title: 'CPPI 2011 &#8211; Áudios das palestras de terça 19 de Julho'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-19.jpg
 image-l: >

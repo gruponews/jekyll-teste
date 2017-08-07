@@ -1,6 +1,6 @@
 ---
 ID: 1969
-post_title: >
+title: >
   Deus quer de nós uma nova maneira de
   pensar
 image-xl: ""

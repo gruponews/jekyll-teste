@@ -1,6 +1,6 @@
 ---
 ID: 762
-post_title: >
+title: >
   “Comunhão nossa de cada dia” – De
   solitário a solidário
 image-xl: ""

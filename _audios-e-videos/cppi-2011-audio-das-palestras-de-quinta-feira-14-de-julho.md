@@ -1,6 +1,6 @@
 ---
 ID: 1679
-post_title: 'CPPI 2011 &#8211; Áudio das palestras de quinta-feira 14 de julho'
+title: 'CPPI 2011 &#8211; Áudio das palestras de quinta-feira 14 de julho'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-14.jpg
 image-l: >

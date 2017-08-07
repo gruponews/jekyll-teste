@@ -1,6 +1,6 @@
 ---
 ID: 601
-post_title: Reevangelizando
+title: Reevangelizando
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/06/back_reevangelizacao.jpg
 image-l: >

@@ -1,6 +1,6 @@
 ---
 ID: 4693
-post_title: >
+title: >
   Não imputando aos homens as suas
   transgressões
 image-xl: ""

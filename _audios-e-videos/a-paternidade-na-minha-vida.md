@@ -1,6 +1,6 @@
 ---
 ID: 3036
-post_title: A Paternidade na minha vida
+title: A Paternidade na minha vida
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/03/junior.jpg
 image-l: >

@@ -1,6 +1,6 @@
 ---
 ID: 3708
-post_title: Inscrição cancelada
+title: Inscrição cancelada
 image-xl: ""
 image-l: ""
 image-sq-l: ""

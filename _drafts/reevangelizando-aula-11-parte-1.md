@@ -1,6 +1,6 @@
 ---
 ID: 1210
-post_title: 'Reevangelizando – Aula 11 &#8211; Parte 1'
+title: 'Reevangelizando – Aula 11 &#8211; Parte 1'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

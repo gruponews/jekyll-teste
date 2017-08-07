@@ -1,6 +1,6 @@
 ---
 ID: 3410
-post_title: 'Naamã: a dedicação profissional transformada em devoção apaixonada'
+title: 'Naamã: a dedicação profissional transformada em devoção apaixonada'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

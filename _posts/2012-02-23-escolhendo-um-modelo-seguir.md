@@ -1,6 +1,6 @@
 ---
 ID: 2104
-post_title: Escolhendo um modelo seguir
+title: Escolhendo um modelo seguir
 image-xl: ""
 image-l: ""
 image-sq-l: ""

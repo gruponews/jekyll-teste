@@ -1,6 +1,6 @@
 ---
 ID: 3406
-post_title: O Deus explosivo?
+title: O Deus explosivo?
 image-xl: ""
 image-l: ""
 image-sq-l: ""

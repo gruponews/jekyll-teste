@@ -1,6 +1,6 @@
 ---
 ID: 78
-post_title: A Estratégia Final
+title: A Estratégia Final
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/a_estrategia_final.jpg
 image-l: >

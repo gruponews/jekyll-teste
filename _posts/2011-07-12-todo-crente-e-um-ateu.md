@@ -1,6 +1,6 @@
 ---
 ID: 1947
-post_title: Todo crente é um ateu
+title: Todo crente é um ateu
 image-xl: ""
 image-l: ""
 image-sq-l: ""

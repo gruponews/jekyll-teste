@@ -1,6 +1,6 @@
 ---
 ID: 664
-post_title: >
+title: >
   “Comunhão nossa de cada dia” –
   Origem e morte da comunhão
 image-xl: ""

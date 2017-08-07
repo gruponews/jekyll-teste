@@ -1,6 +1,6 @@
 ---
 ID: 380
-post_title: Lavados, mas não Limpos
+title: Lavados, mas não Limpos
 image-xl: ""
 image-l: ""
 image-sq-l: ""

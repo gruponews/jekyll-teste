@@ -1,6 +1,6 @@
 ---
 ID: 1849
-post_title: >
+title: >
   CPPI 2011 – Áudios das palestras de
   Quarta 20 de Julho
 image-xl: >

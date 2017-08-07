@@ -1,6 +1,6 @@
 ---
 ID: 131
-post_title: Servindo a Deus em meio à dor
+title: Servindo a Deus em meio à dor
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/servindo_a_Deus_em_meio_a_dor.jpg
 image-l: >

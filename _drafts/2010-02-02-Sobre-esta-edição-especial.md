@@ -1,6 +1,6 @@
 ---
 ID: 1472
-post_title: Sobre esta edição especial
+title: Sobre esta edição especial
 image-xl: ""
 image-l: ""
 image-sq-l: ""

@@ -1,6 +1,6 @@
 ---
 ID: 101
-post_title: Deixa que eu pago
+title: Deixa que eu pago
 image-xl: ""
 image-l: ""
 image-sq-l: ""

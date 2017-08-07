@@ -1,6 +1,6 @@
 ---
 ID: 1006
-post_title: A última mensagem
+title: A última mensagem
 image-xl: ""
 image-l: ""
 image-sq-l: ""

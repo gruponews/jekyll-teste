@@ -1,6 +1,6 @@
 ---
 ID: 1758
-post_title: 'CPPI 2011- Áudio das Palestras de sábado 16 julho'
+title: 'CPPI 2011- Áudio das Palestras de sábado 16 julho'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-16.jpg
 image-l: >

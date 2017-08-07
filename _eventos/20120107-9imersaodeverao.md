@@ -1,6 +1,6 @@
 ---
 ID: 2004
-post_title: '9º Imersão de Verão &#8211; 07 a 15 de Janeiro de 2012'
+title: '9º Imersão de Verão &#8211; 07 a 15 de Janeiro de 2012'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/12/banner_imersao2012.jpg
 image-l: >

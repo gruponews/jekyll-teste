@@ -1,6 +1,6 @@
 ---
 ID: 4316
-post_title: >
+title: >
   O dar e a generosidade na igreja
   relacional
 image-xl: ""

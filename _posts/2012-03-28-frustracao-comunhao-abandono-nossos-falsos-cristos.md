@@ -1,6 +1,6 @@
 ---
 ID: 2069
-post_title: >
+title: >
   Da frustração à comunhão e ao
   abandono de nossos falsos cristos
 image-xl: ""

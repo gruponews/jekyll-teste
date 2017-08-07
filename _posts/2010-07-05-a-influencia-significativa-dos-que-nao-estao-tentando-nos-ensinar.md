@@ -1,6 +1,6 @@
 ---
 ID: 3225
-post_title: >
+title: >
   A influência significativa dos que não
   estão tentando nos ensinar
 image-xl: ""

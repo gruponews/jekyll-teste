@@ -1,6 +1,6 @@
 ---
 ID: 1369
-post_title: >
+title: >
   Preparando a família para a volta de
   Jesus
 image-xl: >

@@ -1,6 +1,6 @@
 ---
 ID: 1745
-post_title: 'Compreendendo a Apostasia da Igreja &#8211; Christopher Walker &#8211; 11.jul'
+title: 'Compreendendo a Apostasia da Igreja &#8211; Christopher Walker &#8211; 11.jul'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

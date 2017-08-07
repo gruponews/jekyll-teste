@@ -1,6 +1,6 @@
 ---
 ID: 4696
-post_title: >
+title: >
   Uma experiência familiar na área
   financeira
 image-xl: ""

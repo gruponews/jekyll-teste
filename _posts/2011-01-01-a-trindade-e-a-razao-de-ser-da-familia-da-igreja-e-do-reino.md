@@ -1,6 +1,6 @@
 ---
 ID: 1374
-post_title: >
+title: >
   A Trindade e a razão de ser da
   família, da igreja e do reino
 image-xl: >

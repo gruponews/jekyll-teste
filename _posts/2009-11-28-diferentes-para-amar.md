@@ -1,6 +1,6 @@
 ---
 ID: 104
-post_title: Diferentes para Amar
+title: Diferentes para Amar
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/diferentes_para_amar.jpg
 image-l: >

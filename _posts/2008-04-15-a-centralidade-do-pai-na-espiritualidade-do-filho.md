@@ -1,6 +1,6 @@
 ---
 ID: 568
-post_title: >
+title: >
   A centralidade do Pai na espiritualidade
   do Filho
 image-xl: >

@@ -1,6 +1,6 @@
 ---
 ID: 3631
-post_title: >
+title: >
   Desordens sociais causadas pelo
   divórcio
 image-xl: >

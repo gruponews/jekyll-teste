@@ -1,6 +1,6 @@
 ---
 ID: 1379
-post_title: Revelação maior que a de Daniel
+title: Revelação maior que a de Daniel
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/02/harold.jpg
 image-l: >

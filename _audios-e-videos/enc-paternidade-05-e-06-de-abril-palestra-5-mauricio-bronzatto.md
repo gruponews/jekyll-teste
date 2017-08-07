@@ -1,6 +1,6 @@
 ---
 ID: 3664
-post_title: 'Enc.Paternidade 05 e 06 de Abril &#8211; Palestra 5 &#8211; Maurício Bronzatto'
+title: 'Enc.Paternidade 05 e 06 de Abril &#8211; Palestra 5 &#8211; Maurício Bronzatto'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2014/05/banner-2014-1-audios.jpg
 image-l: >

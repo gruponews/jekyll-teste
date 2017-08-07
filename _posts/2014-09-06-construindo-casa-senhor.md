@@ -1,6 +1,6 @@
 ---
 ID: 3917
-post_title: Construindo a casa do Senhor
+title: Construindo a casa do Senhor
 image-xl: ""
 image-l: ""
 image-sq-l: ""

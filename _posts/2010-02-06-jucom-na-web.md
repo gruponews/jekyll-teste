@@ -1,6 +1,6 @@
 ---
 ID: 543
-post_title: Jucom na Web!
+title: Jucom na Web!
 image-xl: ""
 image-l: ""
 image-sq-l: ""

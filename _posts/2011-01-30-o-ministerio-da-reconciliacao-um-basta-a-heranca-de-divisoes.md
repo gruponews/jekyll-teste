@@ -1,6 +1,6 @@
 ---
 ID: 1287
-post_title: 'O Ministério da Reconciliação: um basta à herança de divisões'
+title: 'O Ministério da Reconciliação: um basta à herança de divisões'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/01/gruponews-setembro-outubro_2010_site_Page_01.jpg
 image-l: >

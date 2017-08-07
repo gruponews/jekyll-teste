@@ -1,6 +1,6 @@
 ---
 ID: 1042
-post_title: Como participar
+title: Como participar
 image-xl: ""
 image-l: ""
 image-sq-l: ""

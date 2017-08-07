@@ -1,6 +1,6 @@
 ---
 ID: 1027
-post_title: A Conferência 2009
+title: A Conferência 2009
 image-xl: ""
 image-l: ""
 image-sq-l: ""

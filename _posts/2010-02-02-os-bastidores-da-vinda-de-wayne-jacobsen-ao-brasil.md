@@ -1,6 +1,6 @@
 ---
 ID: 1481
-post_title: >
+title: >
   Os bastidores da vinda de Wayne Jacobsen
   ao Brasil
 image-xl: ""

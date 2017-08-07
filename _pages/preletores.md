@@ -1,6 +1,6 @@
 ---
 ID: 1058
-post_title: Preletores
+title: Preletores
 image-xl: ""
 image-l: ""
 image-sq-l: ""

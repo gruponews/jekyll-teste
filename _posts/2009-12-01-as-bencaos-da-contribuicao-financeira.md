@@ -1,6 +1,6 @@
 ---
 ID: 141
-post_title: >
+title: >
   As Bênçãos da Contribuição
   Financeira
 image-xl: >

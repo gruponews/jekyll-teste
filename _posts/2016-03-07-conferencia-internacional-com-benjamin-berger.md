@@ -1,6 +1,6 @@
 ---
 ID: 4561
-post_title: >
+title: >
   Conferência Internacional com Benjamin
   Berger
 image-xl: >

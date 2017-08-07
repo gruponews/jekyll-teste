@@ -1,6 +1,6 @@
 ---
 ID: 135
-post_title: Um mesmo coração para pais e filhos
+title: Um mesmo coração para pais e filhos
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/um_mesmo_coracao_para_pais_e_filhos.jpg
 image-l: >

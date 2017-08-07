@@ -1,6 +1,6 @@
 ---
 ID: 3514
-post_title: 'A Vida Orgânica da Igreja – Conferência Internacional Impacto &#8211; GrupoNews'
+title: 'A Vida Orgânica da Igreja – Conferência Internacional Impacto &#8211; GrupoNews'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/10/banner-conferencia-2013.jpg
 image-l: >

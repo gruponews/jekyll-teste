@@ -1,6 +1,6 @@
 ---
 ID: 706
-post_title: 'Conferência Impacto 2010 &#8211; Israel, a Igreja e os Últimos Dias'
+title: 'Conferência Impacto 2010 &#8211; Israel, a Igreja e os Últimos Dias'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/04/back_israel.jpg
 image-l: >

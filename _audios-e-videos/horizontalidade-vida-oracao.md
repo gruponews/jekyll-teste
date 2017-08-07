@@ -1,6 +1,6 @@
 ---
 ID: 3458
-post_title: 'Encristus 2013 &#8211; A horizontalidade da vida de oração'
+title: 'Encristus 2013 &#8211; A horizontalidade da vida de oração'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

@@ -1,6 +1,6 @@
 ---
 ID: 4571
-post_title: Paternidade 1
+title: Paternidade 1
 image-xl: ""
 image-l: ""
 image-sq-l: ""

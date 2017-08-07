@@ -1,6 +1,6 @@
 ---
 ID: 1341
-post_title: 'Parte IV &#8211; Nosso tamanho é proporcional ao de Aslam'
+title: 'Parte IV &#8211; Nosso tamanho é proporcional ao de Aslam'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/02/banner_narnia_parte4.jpg
 image-l: >

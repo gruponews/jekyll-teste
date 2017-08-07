@@ -1,6 +1,6 @@
 ---
 ID: 2312
-post_title: >
+title: >
   Curso “O Reino Milenar Messiânico”
   Aula 1 – Vespertino
 image-xl: >

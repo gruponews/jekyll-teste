@@ -1,6 +1,6 @@
 ---
 ID: 88
-post_title: Ano Aceitável do Senhor
+title: Ano Aceitável do Senhor
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/ano_aceitavel_do_senhor.jpg
 image-l: >

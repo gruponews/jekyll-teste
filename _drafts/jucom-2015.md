@@ -1,6 +1,6 @@
 ---
 ID: 4406
-post_title: Jucom 2015
+title: Jucom 2015
 image-xl: ""
 image-l: ""
 image-sq-l: ""

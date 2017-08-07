@@ -1,6 +1,6 @@
 ---
 ID: 1972
-post_title: Relacionamentos afetados pelo divórcio
+title: Relacionamentos afetados pelo divórcio
 image-xl: ""
 image-l: ""
 image-sq-l: ""

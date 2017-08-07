@@ -1,6 +1,6 @@
 ---
 ID: 1587
-post_title: >
+title: >
   Curso de Preparação Profética
   Intensivo 2011
 image-xl: >

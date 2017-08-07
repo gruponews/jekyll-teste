@@ -1,6 +1,6 @@
 ---
 ID: 3402
-post_title: >
+title: >
   Assim brilhe a vossa luz diante dos
   homens
 image-xl: ""

@@ -1,6 +1,6 @@
 ---
 ID: 3646
-post_title: 'Encontro de Paternidade 2014 &#8211; 1 B'
+title: 'Encontro de Paternidade 2014 &#8211; 1 B'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

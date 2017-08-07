@@ -1,6 +1,6 @@
 ---
 ID: 1565
-post_title: Encontro Temático 2011
+title: Encontro Temático 2011
 image-xl: ""
 image-l: ""
 image-sq-l: ""

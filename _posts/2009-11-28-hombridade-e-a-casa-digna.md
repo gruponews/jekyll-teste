@@ -1,6 +1,6 @@
 ---
 ID: 44
-post_title: Hombridade e a Casa Digna
+title: Hombridade e a Casa Digna
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/hombridade_e_a_casa_digna.jpg
 image-l: >

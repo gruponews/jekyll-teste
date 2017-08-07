@@ -1,6 +1,6 @@
 ---
 ID: 869
-post_title: >
+title: >
   “Comunhão nossa de cada dia” –
   Comunhão e oração como resposta à
   vontade de Deus

@@ -1,6 +1,6 @@
 ---
 ID: 4675
-post_title: >
+title: >
   Inscrição para o Encontro de Mulheres
   2016
 image-xl: >

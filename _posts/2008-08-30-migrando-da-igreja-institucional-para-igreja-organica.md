@@ -1,6 +1,6 @@
 ---
 ID: 3876
-post_title: >
+title: >
   Migrando da igreja institucional para a
   igreja orgânica
 image-xl: >

@@ -1,6 +1,6 @@
 ---
 ID: 2265
-post_title: 'NOVIDADES &#8211; Curso &#8220;O Reino Milenar Messiânico&#8221;'
+title: 'NOVIDADES &#8211; Curso &#8220;O Reino Milenar Messiânico&#8221;'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmm_novidades.jpg
 image-l: >

@@ -1,6 +1,6 @@
 ---
 ID: 4355
-post_title: '&#8220;A Dança da Trindade e a Igreja&#8221; &#8211; Parte 2'
+title: '&#8220;A Dança da Trindade e a Igreja&#8221; &#8211; Parte 2'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2015/04/thumb-videos-ministrac--a--o-palestras-2.jpg
 image-l: >

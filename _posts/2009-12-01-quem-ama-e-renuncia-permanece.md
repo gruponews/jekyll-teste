@@ -1,6 +1,6 @@
 ---
 ID: 127
-post_title: “Quem ama e renuncia, permanece”
+title: “Quem ama e renuncia, permanece”
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/quem_ama_e_renuncia_permanece.jpg
 image-l: >

@@ -1,6 +1,6 @@
 ---
 ID: 3415
-post_title: Quando depender é a única saída
+title: Quando depender é a única saída
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/08/marina.jpg
 image-l: >

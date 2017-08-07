@@ -1,6 +1,6 @@
 ---
 ID: 1466
-post_title: >
+title: >
   Nossa jornada em busca da igreja
   verdadeira
 image-xl: ""

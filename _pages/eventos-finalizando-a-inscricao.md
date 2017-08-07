@@ -1,6 +1,6 @@
 ---
 ID: 3706
-post_title: Finalizando a inscrição
+title: Finalizando a inscrição
 image-xl: ""
 image-l: ""
 image-sq-l: ""

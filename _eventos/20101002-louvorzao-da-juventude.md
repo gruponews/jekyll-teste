@@ -1,6 +1,6 @@
 ---
 ID: 1131
-post_title: Louvorzão da Juventude
+title: Louvorzão da Juventude
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/09/fuca.jpg
 image-l: >

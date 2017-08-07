@@ -1,6 +1,6 @@
 ---
 ID: 2618
-post_title: 'Curso “O Reino Milenar Messiânico” #aula03 &#8211; Virtual'
+title: 'Curso “O Reino Milenar Messiânico” #aula03 &#8211; Virtual'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2012/07/banner_rmma4.jpg
 image-l: >

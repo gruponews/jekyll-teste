@@ -1,6 +1,6 @@
 ---
 ID: 2876
-post_title: O rei e o mendigo
+title: O rei e o mendigo
 image-xl: ""
 image-l: ""
 image-sq-l: ""

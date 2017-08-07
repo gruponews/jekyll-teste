@@ -1,6 +1,6 @@
 ---
 ID: 3675
-post_title: 'Palestra Educacional: Como ser um “Pai Mau”'
+title: 'Palestra Educacional: Como ser um “Pai Mau”'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2014/04/143175968.jpg
 image-l: >

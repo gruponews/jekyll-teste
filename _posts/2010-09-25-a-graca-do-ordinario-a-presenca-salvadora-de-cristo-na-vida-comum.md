@@ -1,6 +1,6 @@
 ---
 ID: 1122
-post_title: 'A graça do ordinário: a presença salvadora de Cristo na vida comum'
+title: 'A graça do ordinário: a presença salvadora de Cristo na vida comum'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/09/gruponews_julho-agosto_2010-capa.jpg
 image-l: >

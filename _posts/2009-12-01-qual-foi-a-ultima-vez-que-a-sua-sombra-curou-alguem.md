@@ -1,6 +1,6 @@
 ---
 ID: 125
-post_title: >
+title: >
   Qual foi a última vez que a sua sombra
   curou alguém?
 image-xl: >

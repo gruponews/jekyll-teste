@@ -1,6 +1,6 @@
 ---
 ID: 3336
-post_title: >
+title: >
   Inscrições para a aula Espaço para
   Deus
 image-xl: >

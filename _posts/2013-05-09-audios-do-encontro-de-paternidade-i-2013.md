@@ -1,6 +1,6 @@
 ---
 ID: 3257
-post_title: >
+title: >
   Áudios do Encontro de Paternidade I
   2013
 image-xl: >

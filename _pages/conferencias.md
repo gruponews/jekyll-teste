@@ -1,6 +1,6 @@
 ---
 ID: 3937
-post_title: Conferências
+title: Conferências
 image-xl: ""
 image-l: ""
 image-sq-l: ""

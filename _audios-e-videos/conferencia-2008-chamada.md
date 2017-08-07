@@ -1,6 +1,6 @@
 ---
 ID: 639
-post_title: 'Conferência 2008 &#8211; A Igreja do nosso tempo &#8211; Chamada'
+title: 'Conferência 2008 &#8211; A Igreja do nosso tempo &#8211; Chamada'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-CONF2008Chamada682-434.jpg
 image-l: >

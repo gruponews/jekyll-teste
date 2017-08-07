@@ -1,6 +1,6 @@
 ---
 ID: 1490
-post_title: >
+title: >
   Sobre a mensagem “Vivendo como filhos
   amados de Aba”
 image-xl: ""

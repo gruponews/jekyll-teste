@@ -1,6 +1,6 @@
 ---
 ID: 2047
-post_title: ENCRISTUS
+title: ENCRISTUS
 image-xl: ""
 image-l: ""
 image-sq-l: ""

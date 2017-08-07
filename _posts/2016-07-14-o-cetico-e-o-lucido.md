@@ -1,6 +1,6 @@
 ---
 ID: 4700
-post_title: O cético e o lúcido
+title: O cético e o lúcido
 image-xl: ""
 image-l: ""
 image-sq-l: ""

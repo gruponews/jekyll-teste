@@ -1,6 +1,6 @@
 ---
 ID: 1864
-post_title: >
+title: >
   CPPI 2011 – Áudios da palestra de
   Sexta 22 de Julho
 image-xl: >

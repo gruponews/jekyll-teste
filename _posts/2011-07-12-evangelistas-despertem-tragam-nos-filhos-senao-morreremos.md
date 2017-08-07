@@ -1,6 +1,6 @@
 ---
 ID: 1915
-post_title: >
+title: >
   Evangelistas, despertem! Tragam-nos
   filhos, senão morreremos
 image-xl: ""

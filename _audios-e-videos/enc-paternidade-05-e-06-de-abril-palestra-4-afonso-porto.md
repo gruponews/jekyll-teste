@@ -1,6 +1,6 @@
 ---
 ID: 3663
-post_title: 'Enc.Paternidade 05 e 06 de Abril &#8211; Palestra 4 &#8211; Afonso Porto'
+title: 'Enc.Paternidade 05 e 06 de Abril &#8211; Palestra 4 &#8211; Afonso Porto'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2014/05/banner-2014-1-audios.jpg
 image-l: >

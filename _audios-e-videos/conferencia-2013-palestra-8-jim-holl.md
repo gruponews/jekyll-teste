@@ -1,6 +1,6 @@
 ---
 ID: 3557
-post_title: 'Conferência 2013 &#8211; Palestra 8 &#8211; Jim Holl'
+title: 'Conferência 2013 &#8211; Palestra 8 &#8211; Jim Holl'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/11/banner-audios-conferencia-2013-jim-holl.jpg
 image-l: >

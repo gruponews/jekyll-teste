@@ -1,6 +1,6 @@
 ---
 ID: 1546
-post_title: >
+title: >
   2º Louvorzão da Juventude –
   Pré-Encontro
 image-xl: >

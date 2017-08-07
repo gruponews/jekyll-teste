@@ -1,6 +1,6 @@
 ---
 ID: 875
-post_title: '“Comunhão nossa de cada dia” – Comunhão e Palavra de Deus: pensamento e linguagem'
+title: '“Comunhão nossa de cada dia” – Comunhão e Palavra de Deus: pensamento e linguagem'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

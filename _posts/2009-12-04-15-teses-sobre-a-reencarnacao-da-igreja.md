@@ -1,6 +1,6 @@
 ---
 ID: 413
-post_title: >
+title: >
   15 teses sobre a reencarnação da
   igreja
 image-xl: >

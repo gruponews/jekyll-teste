@@ -1,6 +1,6 @@
 ---
 ID: 4437
-post_title: Inscrições para os eventos
+title: Inscrições para os eventos
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2015/09/banner-site-imersao-2015-2-1920x1080.png
 image-l: >

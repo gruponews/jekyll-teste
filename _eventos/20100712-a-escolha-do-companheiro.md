@@ -1,6 +1,6 @@
 ---
 ID: 903
-post_title: A escolha do companheiro
+title: A escolha do companheiro
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/07/banner_materia-escolha.jpg
 image-l: >

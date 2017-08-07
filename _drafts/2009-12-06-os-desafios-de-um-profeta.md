@@ -1,6 +1,6 @@
 ---
 ID: 383
-post_title: Os desafios de um Profeta
+title: Os desafios de um Profeta
 image-xl: ""
 image-l: ""
 image-sq-l: ""

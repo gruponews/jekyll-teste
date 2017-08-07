@@ -1,6 +1,6 @@
 ---
 ID: 4907
-post_title: >
+title: >
   Inscrição para o Encontro de
   Paternidade 2017
 image-xl: >

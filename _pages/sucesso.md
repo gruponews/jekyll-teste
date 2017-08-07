@@ -1,6 +1,6 @@
 ---
 ID: 812
-post_title: Mensagem enviada com sucesso
+title: Mensagem enviada com sucesso
 image-xl: ""
 image-l: ""
 image-sq-l: ""

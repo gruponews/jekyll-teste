@@ -1,6 +1,6 @@
 ---
 ID: 2658
-post_title: >
+title: >
   Acompanhe a transmissão online do
   ENCRISTUS aqui no site GrupoNews
 image-xl: >

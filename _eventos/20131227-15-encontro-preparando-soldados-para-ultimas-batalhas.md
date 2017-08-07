@@ -1,6 +1,6 @@
 ---
 ID: 3567
-post_title: >
+title: >
   15º Encontro Preparando Soldados para
   as Últimas Batalhas
 image-xl: >

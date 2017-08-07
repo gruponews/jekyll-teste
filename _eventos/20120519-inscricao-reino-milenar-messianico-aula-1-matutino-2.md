@@ -1,6 +1,6 @@
 ---
 ID: 2310
-post_title: 'Curso “O Reino Milenar Messiânico” Aula 1 &#8211; Matutino'
+title: 'Curso “O Reino Milenar Messiânico” Aula 1 &#8211; Matutino'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2012/04/banner_rmma1.jpg
 image-l: >

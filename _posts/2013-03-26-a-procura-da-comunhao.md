@@ -1,6 +1,6 @@
 ---
 ID: 2878
-post_title: À procura da comunhão
+title: À procura da comunhão
 image-xl: ""
 image-l: ""
 image-sq-l: ""

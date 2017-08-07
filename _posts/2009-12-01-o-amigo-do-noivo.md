@@ -1,6 +1,6 @@
 ---
 ID: 116
-post_title: O Amigo do Noivo
+title: O Amigo do Noivo
 image-xl: ""
 image-l: ""
 image-sq-l: ""

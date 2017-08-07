@@ -1,6 +1,6 @@
 ---
 ID: 2708
-post_title: A Trindade e o Reino de Deus
+title: A Trindade e o Reino de Deus
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2012/09/banner-trindade-reino.jpg
 image-l: >

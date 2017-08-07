@@ -1,6 +1,6 @@
 ---
 ID: 3893
-post_title: >
+title: >
   Em busca da perfeita varonilidade de
   Cristo
 image-xl: ""

@@ -1,6 +1,6 @@
 ---
 ID: 4891
-post_title: ESCOLA MINISTÉRIO IMPACTO | CPPI 2017
+title: ESCOLA MINISTÉRIO IMPACTO | CPPI 2017
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2017/05/cppi-2017-2.png
 image-l: >

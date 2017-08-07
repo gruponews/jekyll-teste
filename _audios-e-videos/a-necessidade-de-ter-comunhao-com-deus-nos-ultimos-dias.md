@@ -1,6 +1,6 @@
 ---
 ID: 3038
-post_title: >
+title: >
   A necessidade de ter comunhão com Deus
   nos últimos dias
 image-xl: >

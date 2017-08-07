@@ -1,6 +1,6 @@
 ---
 ID: 1965
-post_title: 'Mais do que igreja nas casas: uma mudança no estilo de vida, e não somente de endereço'
+title: 'Mais do que igreja nas casas: uma mudança no estilo de vida, e não somente de endereço'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

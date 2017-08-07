@@ -1,6 +1,6 @@
 ---
 ID: 163
-post_title: 'Você sabia&#8230;'
+title: 'Você sabia&#8230;'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/voce_sabia.jpg
 image-l: >

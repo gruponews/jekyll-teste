@@ -1,6 +1,6 @@
 ---
 ID: 2208
-post_title: Event Categorias
+title: Event Categorias
 image-xl: ""
 image-l: ""
 image-sq-l: ""

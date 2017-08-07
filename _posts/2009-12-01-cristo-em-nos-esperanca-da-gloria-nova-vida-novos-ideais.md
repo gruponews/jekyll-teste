@@ -1,6 +1,6 @@
 ---
 ID: 95
-post_title: >
+title: >
   Cristo em Nós, Esperança da Glória
   (Nova Vida, Novos Ideais)
 image-xl: ""

@@ -1,6 +1,6 @@
 ---
 ID: 4719
-post_title: 'Encontro de Mulheres &#8211; 22 e 23 de Outubro'
+title: 'Encontro de Mulheres &#8211; 22 e 23 de Outubro'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2016/08/Foto-de-Evandro-Batista.jpg
 image-l: >

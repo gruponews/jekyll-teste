@@ -1,6 +1,6 @@
 ---
 ID: 2865
-post_title: >
+title: >
   Uma nova versão para a parábola do
   filho pródigo
 image-xl: ""

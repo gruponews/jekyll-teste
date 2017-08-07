@@ -1,6 +1,6 @@
 ---
 ID: 598
-post_title: 'Grupo de Osasco &#8211; Coral'
+title: 'Grupo de Osasco &#8211; Coral'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/04/Gruponews-FestinArt2000CoralOsasco844-42.jpg
 image-l: >

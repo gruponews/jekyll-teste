@@ -1,6 +1,6 @@
 ---
 ID: 1382
-post_title: >
+title: >
   Cristo, o reino e a igreja à luz de
   quatro narrativas bíblicas
 image-xl: >

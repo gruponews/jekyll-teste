@@ -1,6 +1,6 @@
 ---
 ID: 3959
-post_title: >
+title: >
   Duas gerações de igrejas domésticas
   reunidas ao redor da mesa
 image-xl: ""

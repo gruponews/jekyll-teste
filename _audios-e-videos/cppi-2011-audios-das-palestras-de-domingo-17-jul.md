@@ -1,6 +1,6 @@
 ---
 ID: 1773
-post_title: 'CPPI 2011- Áudios das palestras de domingo 17 julho'
+title: 'CPPI 2011- Áudios das palestras de domingo 17 julho'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/07/banner_CPPI_audios-17.jpg
 image-l: >

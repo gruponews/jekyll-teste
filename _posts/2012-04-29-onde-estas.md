@@ -1,6 +1,6 @@
 ---
 ID: 2374
-post_title: >
+title: >
   Onde estás? Os problemas em fugir de um
   problema
 image-xl: >

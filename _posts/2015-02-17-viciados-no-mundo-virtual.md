@@ -1,6 +1,6 @@
 ---
 ID: 4337
-post_title: Viciados no mundo virtual
+title: Viciados no mundo virtual
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2015/04/gruponews-fevereiro-2015-1-1920x1080.jpg
 image-l: >

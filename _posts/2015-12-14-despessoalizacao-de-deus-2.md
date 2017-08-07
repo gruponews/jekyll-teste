@@ -1,6 +1,6 @@
 ---
 ID: 4713
-post_title: A despessoalização de Deus
+title: A despessoalização de Deus
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2016/07/diagramacao-gruponews-dezembro-grafica-final-1-1920x1080.jpg
 image-l: >

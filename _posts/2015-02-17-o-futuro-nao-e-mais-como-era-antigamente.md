@@ -1,6 +1,6 @@
 ---
 ID: 4309
-post_title: >
+title: >
   O futuro não é mais como era
   antigamente
 image-xl: ""

@@ -1,6 +1,6 @@
 ---
 ID: 3182
-post_title: A graça do ordinário
+title: A graça do ordinário
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/05/pintor.jpg
 image-l: >

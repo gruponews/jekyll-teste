@@ -1,6 +1,6 @@
 ---
 ID: 4776
-post_title: 'Curso Preparatório &#8211; Imersão 2017'
+title: 'Curso Preparatório &#8211; Imersão 2017'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

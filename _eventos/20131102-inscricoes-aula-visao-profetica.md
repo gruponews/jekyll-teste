@@ -1,6 +1,6 @@
 ---
 ID: 3519
-post_title: >
+title: >
   Inscrições para a aula Visão
   Profética
 image-xl: >

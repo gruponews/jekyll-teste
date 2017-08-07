@@ -1,6 +1,6 @@
 ---
 ID: 1064
-post_title: Inscrição
+title: Inscrição
 image-xl: ""
 image-l: ""
 image-sq-l: ""

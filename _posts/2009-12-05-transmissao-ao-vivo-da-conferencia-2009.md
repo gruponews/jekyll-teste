@@ -1,6 +1,6 @@
 ---
 ID: 441
-post_title: 'Conferência 2009 &#8211; Transmissão AO VIVO'
+title: 'Conferência 2009 &#8211; Transmissão AO VIVO'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

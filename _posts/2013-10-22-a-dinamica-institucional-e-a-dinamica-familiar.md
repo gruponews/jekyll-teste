@@ -1,6 +1,6 @@
 ---
 ID: 3413
-post_title: >
+title: >
   A dinâmica institucional e a dinâmica
   familiar
 image-xl: ""

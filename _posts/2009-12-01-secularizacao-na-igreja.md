@@ -1,6 +1,6 @@
 ---
 ID: 129
-post_title: Secularização na igreja
+title: Secularização na igreja
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/secularizacao_na_igreja.jpg
 image-l: >

@@ -1,6 +1,6 @@
 ---
 ID: 1366
-post_title: >
+title: >
   Um laboratório para a prática da
   unidade em meio à diversidade
 image-xl: >

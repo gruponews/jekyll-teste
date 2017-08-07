@@ -1,6 +1,6 @@
 ---
 ID: 3420
-post_title: >
+title: >
   Transmissão ao vivo do Encristus
   Regional 2013
 image-xl: >

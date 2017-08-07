@@ -1,6 +1,6 @@
 ---
 ID: 1489
-post_title: A cruz como cura, não como castigo
+title: A cruz como cura, não como castigo
 image-xl: ""
 image-l: ""
 image-sq-l: ""

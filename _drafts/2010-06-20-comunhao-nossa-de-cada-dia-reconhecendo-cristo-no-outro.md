@@ -1,6 +1,6 @@
 ---
 ID: 864
-post_title: >
+title: >
   “Comunhão nossa de cada dia” –
   Reconhecendo Cristo no Outro
 image-xl: ""

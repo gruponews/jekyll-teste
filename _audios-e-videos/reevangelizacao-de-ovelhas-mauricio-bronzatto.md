@@ -1,6 +1,6 @@
 ---
 ID: 1201
-post_title: 'Reevangelização de Ovelhas &#8211; Maurício Bronzatto'
+title: 'Reevangelização de Ovelhas &#8211; Maurício Bronzatto'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-MauricioBronzatto_0811566-868.jpg
 image-l: >

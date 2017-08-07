@@ -1,6 +1,6 @@
 ---
 ID: 2984
-post_title: >
+title: >
   10º Encontro de reflexão profética
   para líderes
 image-xl: >

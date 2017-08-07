@@ -1,6 +1,6 @@
 ---
 ID: 156
-post_title: Curiosidades sobre a Bíblia
+title: Curiosidades sobre a Bíblia
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/curiosidades_sobre_a_biblia.jpg
 image-l: >

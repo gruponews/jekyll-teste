@@ -1,6 +1,6 @@
 ---
 ID: 2981
-post_title: 'Encontro de Paternidade II &#8211; Edição 2013'
+title: 'Encontro de Paternidade II &#8211; Edição 2013'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/06/encontro-paternidade-2013.jpg
 image-l: >

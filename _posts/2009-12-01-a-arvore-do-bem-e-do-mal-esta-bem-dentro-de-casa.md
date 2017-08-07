@@ -1,6 +1,6 @@
 ---
 ID: 70
-post_title: >
+title: >
   A árvore do bem e do mal está bem
   dentro de casa
 image-xl: >

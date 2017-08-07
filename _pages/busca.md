@@ -1,6 +1,6 @@
 ---
 ID: 2099
-post_title: Resultado da Busca
+title: Resultado da Busca
 image-xl: ""
 image-l: ""
 image-sq-l: ""

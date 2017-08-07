@@ -1,6 +1,6 @@
 ---
 ID: 4691
-post_title: Os amigos do mestre
+title: Os amigos do mestre
 image-xl: ""
 image-l: ""
 image-sq-l: ""

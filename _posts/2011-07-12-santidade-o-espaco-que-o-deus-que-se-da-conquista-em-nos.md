@@ -1,6 +1,6 @@
 ---
 ID: 1888
-post_title: 'Santidade: o espaço que o Deus que se dá conquista em nós'
+title: 'Santidade: o espaço que o Deus que se dá conquista em nós'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

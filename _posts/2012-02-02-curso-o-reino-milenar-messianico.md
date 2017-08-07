@@ -1,6 +1,6 @@
 ---
 ID: 2059
-post_title: Curso “O Reino Milenar Messiânico”
+title: Curso “O Reino Milenar Messiânico”
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2012/02/banner_rmm.jpg
 image-l: >

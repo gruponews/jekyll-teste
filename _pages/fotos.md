@@ -1,6 +1,6 @@
 ---
 ID: 12
-post_title: Fotos
+title: Fotos
 image-xl: ""
 image-l: ""
 image-sq-l: ""

@@ -1,6 +1,6 @@
 ---
 ID: 2505
-post_title: 'Vídeo da #aula01 &#8211; Parte 2 do Curso “O Reino Milenar Messiânico”'
+title: 'Vídeo da #aula01 &#8211; Parte 2 do Curso “O Reino Milenar Messiânico”'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2012/05/banner_rmma1-prt2.jpg
 image-l: >

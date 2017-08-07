@@ -1,6 +1,6 @@
 ---
 ID: 2571
-post_title: 'CPPI 2012 &#8211; Áudios das palestras do 1º módulo, dia 8 de julho'
+title: 'CPPI 2012 &#8211; Áudios das palestras do 1º módulo, dia 8 de julho'
 image-xl: ""
 image-l: ""
 image-sq-l: ""
@@ -58,7 +58,7 @@ enclosure:
 dsq_thread_id:
   - "5297332158"
 amazonS3_cache:
-  - 'a:4:{s:94:"//www.gruponews.com.br/wp-content/uploads/2012/07/01_christopher-walker_domingo-8-de-julho.mp3";a:1:{s:9:"timestamp";i:1501758772;}s:88:"//www.gruponews.com.br/wp-content/uploads/2012/07/02_eliza-walker_domingo-8-de-julho.mp3";a:1:{s:9:"timestamp";i:1501758772;}s:88:"//www.gruponews.com.br/wp-content/uploads/2012/07/03_pedro-arruda_domingo-8-de-julho.mp3";a:1:{s:9:"timestamp";i:1501758772;}s:89:"//www.gruponews.com.br/wp-content/uploads/2012/07/04_eliana-walker_domingo-8-de-julho.mp3";a:1:{s:9:"timestamp";i:1501758772;}}'
+  - 'a:4:{s:94:"//www.gruponews.com.br/wp-content/uploads/2012/07/01_christopher-walker_domingo-8-de-julho.mp3";a:1:{s:9:"timestamp";i:1501788874;}s:88:"//www.gruponews.com.br/wp-content/uploads/2012/07/02_eliza-walker_domingo-8-de-julho.mp3";a:1:{s:9:"timestamp";i:1501788874;}s:88:"//www.gruponews.com.br/wp-content/uploads/2012/07/03_pedro-arruda_domingo-8-de-julho.mp3";a:1:{s:9:"timestamp";i:1501788874;}s:89:"//www.gruponews.com.br/wp-content/uploads/2012/07/04_eliana-walker_domingo-8-de-julho.mp3";a:1:{s:9:"timestamp";i:1501788874;}}'
 post_date: 2012-07-11 18:21:17
 ---
 Confira os áudio das palestras do dia 7 de julho,  1º módulo do Curso de Preparação Profética Intensivo 2012, que acontece até o dia 15 de julho em Sorocaba-SP.

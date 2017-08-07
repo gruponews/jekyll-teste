@@ -1,6 +1,6 @@
 ---
 ID: 1248
-post_title: 'Parte I &#8211; Um adorável passeio pelo mundo de Nárnia'
+title: 'Parte I &#8211; Um adorável passeio pelo mundo de Nárnia'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/01/banner_narnia_parte1.jpg
 image-l: >

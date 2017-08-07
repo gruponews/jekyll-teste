@@ -1,6 +1,6 @@
 ---
 ID: 8
-post_title: Mural de Recados
+title: Mural de Recados
 image-xl: ""
 image-l: ""
 image-sq-l: ""

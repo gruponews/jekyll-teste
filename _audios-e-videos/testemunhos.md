@@ -1,6 +1,6 @@
 ---
 ID: 3460
-post_title: 'Encristus 2013 &#8211; Testemunhos'
+title: 'Encristus 2013 &#8211; Testemunhos'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

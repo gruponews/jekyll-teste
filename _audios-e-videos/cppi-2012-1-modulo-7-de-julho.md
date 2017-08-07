@@ -1,6 +1,6 @@
 ---
 ID: 2548
-post_title: 'CPPI 2012 &#8211; Áudios das palestras do 1º módulo, dia 7 de julho'
+title: 'CPPI 2012 &#8211; Áudios das palestras do 1º módulo, dia 7 de julho'
 image-xl: ""
 image-l: ""
 image-sq-l: ""
@@ -49,7 +49,7 @@ enclosure:
 dsq_thread_id:
   - "2802548804"
 amazonS3_cache:
-  - 'a:3:{s:92:"//www.gruponews.com.br/wp-content/uploads/2012/07/01_harold-walker_sabado-dia-7-de-julho.mp3";a:1:{s:9:"timestamp";i:1501763331;}s:97:"//www.gruponews.com.br/wp-content/uploads/2012/07/02_Christopher-walker_sabado-dia-7-de-julho.mp3";a:1:{s:9:"timestamp";i:1501763331;}s:93:"//www.gruponews.com.br/wp-content/uploads/2012/07/03_abnerio-cabral_sabado-dia-7-de-julho.mp3";a:1:{s:9:"timestamp";i:1501763331;}}'
+  - 'a:3:{s:92:"//www.gruponews.com.br/wp-content/uploads/2012/07/01_harold-walker_sabado-dia-7-de-julho.mp3";a:1:{s:9:"timestamp";i:1501787040;}s:97:"//www.gruponews.com.br/wp-content/uploads/2012/07/02_Christopher-walker_sabado-dia-7-de-julho.mp3";a:1:{s:9:"timestamp";i:1501787040;}s:93:"//www.gruponews.com.br/wp-content/uploads/2012/07/03_abnerio-cabral_sabado-dia-7-de-julho.mp3";a:1:{s:9:"timestamp";i:1501787040;}}'
 post_date: 2012-07-09 12:30:08
 ---
 Confira os áudio das palestras do dia 7 de julho,  1º módulo do Curso de Preparação Profética Intensivo 2012, que acontece até o dia 15 de julho em Sorocaba-SP.

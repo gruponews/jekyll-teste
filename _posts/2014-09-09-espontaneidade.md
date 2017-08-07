@@ -1,6 +1,6 @@
 ---
 ID: 3949
-post_title: Espontaneidade
+title: Espontaneidade
 image-xl: ""
 image-l: ""
 image-sq-l: ""

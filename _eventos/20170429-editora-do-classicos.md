@@ -1,6 +1,6 @@
 ---
 ID: 4848
-post_title: Editora do Clássicos
+title: Editora do Clássicos
 image-xl: ""
 image-l: ""
 image-sq-l: ""

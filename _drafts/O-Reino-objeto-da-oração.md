@@ -1,6 +1,6 @@
 ---
 ID: 3425
-post_title: O Reino, objeto da oração
+title: O Reino, objeto da oração
 image-xl: ""
 image-l: ""
 image-sq-l: ""

@@ -1,6 +1,6 @@
 ---
 ID: 97
-post_title: Das Feridas ao Abraço Profético
+title: Das Feridas ao Abraço Profético
 image-xl: ""
 image-l: ""
 image-sq-l: ""

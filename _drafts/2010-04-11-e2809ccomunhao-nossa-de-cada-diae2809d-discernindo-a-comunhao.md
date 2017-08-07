@@ -1,6 +1,6 @@
 ---
 ID: 723
-post_title: '“Comunhão nossa de cada dia” &#8211; Discernindo a comunhão'
+title: '“Comunhão nossa de cada dia” &#8211; Discernindo a comunhão'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

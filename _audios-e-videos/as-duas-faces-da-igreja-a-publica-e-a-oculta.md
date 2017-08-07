@@ -1,6 +1,6 @@
 ---
 ID: 3264
-post_title: 'As duas Faces da Igreja: a pública e a oculta'
+title: 'As duas Faces da Igreja: a pública e a oculta'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/03/pedro-3.jpg
 image-l: >

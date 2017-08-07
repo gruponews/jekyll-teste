@@ -1,6 +1,6 @@
 ---
 ID: 3039
-post_title: Músicas
+title: Músicas
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2013/03/musicas.jpg
 image-l: >

@@ -1,6 +1,6 @@
 ---
 ID: 3602
-post_title: Recomendações práticas
+title: Recomendações práticas
 image-xl: ""
 image-l: ""
 image-sq-l: ""

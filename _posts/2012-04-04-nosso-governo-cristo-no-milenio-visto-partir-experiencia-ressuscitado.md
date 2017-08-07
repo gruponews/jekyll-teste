@@ -1,6 +1,6 @@
 ---
 ID: 2072
-post_title: >
+title: >
   Nosso governo com Cristo no Milênio
   visto a partir da experiência do
   Ressuscitado

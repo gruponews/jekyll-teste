@@ -1,6 +1,6 @@
 ---
 ID: 2086
-post_title: Sofrimentos da criança pequena
+title: Sofrimentos da criança pequena
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2012/02/crianca.jpg
 image-l: >

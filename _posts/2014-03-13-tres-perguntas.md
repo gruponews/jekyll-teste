@@ -1,6 +1,6 @@
 ---
 ID: 3603
-post_title: As três perguntas
+title: As três perguntas
 image-xl: ""
 image-l: ""
 image-sq-l: ""

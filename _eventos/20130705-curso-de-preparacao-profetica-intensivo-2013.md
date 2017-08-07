@@ -1,6 +1,6 @@
 ---
 ID: 2983
-post_title: >
+title: >
   Curso de Preparação Profética
   Intensivo 2013
 image-xl: >

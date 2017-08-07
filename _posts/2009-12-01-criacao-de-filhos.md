@@ -1,6 +1,6 @@
 ---
 ID: 60
-post_title: Criação de Filhos
+title: Criação de Filhos
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2009/12/criacao_de_filhos.jpg
 image-l: >

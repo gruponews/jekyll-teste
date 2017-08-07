@@ -1,6 +1,6 @@
 ---
 ID: 3601
-post_title: À sombra do Cristo
+title: À sombra do Cristo
 image-xl: ""
 image-l: ""
 image-sq-l: ""

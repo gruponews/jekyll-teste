@@ -1,6 +1,6 @@
 ---
 ID: 1297
-post_title: 'O divórcio, suas vítimas e o Reino de Deus &#8211; parte 2'
+title: 'O divórcio, suas vítimas e o Reino de Deus &#8211; parte 2'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2011/03/banner_divorcio_parte2.jpg
 image-l: >

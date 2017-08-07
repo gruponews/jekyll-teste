@@ -1,6 +1,6 @@
 ---
 ID: 1919
-post_title: Os diferentes relacionamentos conjugais
+title: Os diferentes relacionamentos conjugais
 image-xl: ""
 image-l: ""
 image-sq-l: ""

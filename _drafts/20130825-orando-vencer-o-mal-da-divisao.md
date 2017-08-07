@@ -1,6 +1,6 @@
 ---
 ID: 3428
-post_title: Orando, vencer o mal da divisão
+title: Orando, vencer o mal da divisão
 image-xl: ""
 image-l: ""
 image-sq-l: ""

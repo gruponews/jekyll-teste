@@ -1,6 +1,6 @@
 ---
 ID: 4497
-post_title: 'Johannes Fichtenbauer &#8211; Parte 2'
+title: 'Johannes Fichtenbauer &#8211; Parte 2'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2015/09/thumb-videos-ministra----o-palestras-2.jpg
 image-l: >

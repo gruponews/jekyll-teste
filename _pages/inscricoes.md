@@ -1,6 +1,6 @@
 ---
 ID: 2209
-post_title: Minhas Inscrições
+title: Minhas Inscrições
 image-xl: ""
 image-l: ""
 image-sq-l: ""

@@ -1,6 +1,6 @@
 ---
 ID: 2872
-post_title: >
+title: >
   Falando mais sobre os sofrimentos da
   criança
 image-xl: ""

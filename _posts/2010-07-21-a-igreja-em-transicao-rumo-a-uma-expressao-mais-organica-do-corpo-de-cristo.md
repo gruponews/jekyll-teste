@@ -1,6 +1,6 @@
 ---
 ID: 932
-post_title: 'A igreja em transição: rumo a uma expressão mais orgânica do corpo de Cristo'
+title: 'A igreja em transição: rumo a uma expressão mais orgânica do corpo de Cristo'
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/07/jornal-maio-junho-2010-capa.jpg
 image-l: >

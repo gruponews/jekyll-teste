@@ -1,6 +1,6 @@
 ---
 ID: 841
-post_title: Inscrição enviada com sucesso
+title: Inscrição enviada com sucesso
 image-xl: ""
 image-l: ""
 image-sq-l: ""

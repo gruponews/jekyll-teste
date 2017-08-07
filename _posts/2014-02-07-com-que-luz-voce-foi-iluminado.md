@@ -1,6 +1,6 @@
 ---
 ID: 3626
-post_title: Com que luz você foi iluminado?
+title: Com que luz você foi iluminado?
 image-xl: ""
 image-l: ""
 image-sq-l: ""

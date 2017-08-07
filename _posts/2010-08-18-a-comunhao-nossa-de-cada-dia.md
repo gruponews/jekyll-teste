@@ -1,6 +1,6 @@
 ---
 ID: 973
-post_title: >
+title: >
   A Comunhão Nossa de Cada Dia – a
   reforma da unidade da igreja
 image-xl: >

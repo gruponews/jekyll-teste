@@ -1,6 +1,6 @@
 ---
 ID: 1040
-post_title: RSI
+title: RSI
 image-xl: ""
 image-l: ""
 image-sq-l: ""

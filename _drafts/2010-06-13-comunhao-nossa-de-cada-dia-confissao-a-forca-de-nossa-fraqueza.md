@@ -1,6 +1,6 @@
 ---
 ID: 857
-post_title: >
+title: >
   “Comunhão nossa de cada dia” –
   Confissão, a força de nossa fraqueza
 image-xl: ""

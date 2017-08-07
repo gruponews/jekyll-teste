@@ -1,6 +1,6 @@
 ---
 ID: 3628
-post_title: Lidando com o próprio veneno
+title: Lidando com o próprio veneno
 image-xl: ""
 image-l: ""
 image-sq-l: ""

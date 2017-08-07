@@ -1,6 +1,6 @@
 ---
 ID: 4311
-post_title: >
+title: >
   O que a internet está fazendo com as
   nossas mentes
 image-xl: ""

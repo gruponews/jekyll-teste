@@ -1,6 +1,6 @@
 ---
 ID: 72
-post_title: >
+title: >
   A condição para fazer parte do Reino
   de Deus
 image-xl: >

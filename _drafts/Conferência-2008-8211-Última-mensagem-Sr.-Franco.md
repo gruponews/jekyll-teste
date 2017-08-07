@@ -1,6 +1,6 @@
 ---
 ID: 592
-post_title: 'Conferência 2008 &#8211; Última mensagem Sr. Franco'
+title: 'Conferência 2008 &#8211; Última mensagem Sr. Franco'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

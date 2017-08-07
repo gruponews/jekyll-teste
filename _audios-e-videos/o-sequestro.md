@@ -1,6 +1,6 @@
 ---
 ID: 1225
-post_title: O sequestro
+title: O sequestro
 image-xl: >
   https://assets.gruponews.com.br/gruponews/uploads/2010/11/Gruponews-GruponewsTeatro_Fuca692363-350.jpg
 image-l: >

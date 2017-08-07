@@ -1,6 +1,6 @@
 ---
 ID: 805
-post_title: '“Comunhão nossa de cada dia” &#8211; Comunhão e separação à maneira de Deus'
+title: '“Comunhão nossa de cada dia” &#8211; Comunhão e separação à maneira de Deus'
 image-xl: ""
 image-l: ""
 image-sq-l: ""

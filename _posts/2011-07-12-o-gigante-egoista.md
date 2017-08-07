@@ -1,6 +1,6 @@
 ---
 ID: 1883
-post_title: O gigante egoísta
+title: O gigante egoísta
 image-xl: ""
 image-l: ""
 image-sq-l: ""
