@@ -12,7 +12,7 @@ published: true
 categories:
   - Família
 tags: ""
-author:
+authors:
   - Marina Venuto Silva
 wpcf-gn_post_autor:
   - Marina Venuto da Silva

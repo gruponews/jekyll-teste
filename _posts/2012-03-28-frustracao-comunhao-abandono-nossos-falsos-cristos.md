@@ -15,7 +15,7 @@ published: true
 categories:
   - Artigos
 tags: ""
-author:
+authors:
   - Maurício Bronzatto
 aktt_notify_twitter:
   - 'yes'

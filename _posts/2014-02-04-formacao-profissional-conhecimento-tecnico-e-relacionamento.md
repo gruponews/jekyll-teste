@@ -22,7 +22,7 @@ tags:
   - edicao-77
   - profissão
   - vida profissional
-author:
+authors:
   - Pedro Arruda
 dsq_thread_id:
   - "3486459951"

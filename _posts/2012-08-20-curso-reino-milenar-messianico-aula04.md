@@ -17,7 +17,7 @@ published: true
 categories:
   - Notícias
 tags: ""
-author:
+authors:
   - Marina Venuto Silva
 aktt_notify_twitter:
   - 'yes'

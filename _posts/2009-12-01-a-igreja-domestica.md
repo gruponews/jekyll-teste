@@ -33,7 +33,7 @@ tags:
   - Reconciliação
   - Templo
   - Vida
-author:
+authors:
   - Pedro Arruda
 post_autor:
   - Pedro Arruda

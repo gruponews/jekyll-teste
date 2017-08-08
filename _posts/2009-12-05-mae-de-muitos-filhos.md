@@ -27,7 +27,7 @@ tags:
   - Mae
   - principio
   - Senhor
-author:
+authors:
   - Maurício Bronzatto
 post_autor:
   - Equipe da Comunicação

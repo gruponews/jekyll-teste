@@ -15,7 +15,7 @@ categories:
 tags:
   - paulo roberto
   - quais
-author:
+authors:
   - Cléucio Macedo
 wpcf-gn_post_autor:
   - Cléucio Macedo

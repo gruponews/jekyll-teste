@@ -30,7 +30,7 @@ tags:
   - Reino
   - reino de Deus
   - Resolver
-author:
+authors:
   - Valter Severino
 post_autor:
   - Valter Severino

@@ -15,7 +15,7 @@ categories:
 tags:
   - edicao-77
   - editorial
-author:
+authors:
   - Maurício Bronzatto
 wpcf-gn_post_autor:
   - ""

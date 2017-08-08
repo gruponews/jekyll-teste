@@ -15,7 +15,7 @@ categories:
   - Igreja
 tags:
   - edicao-71
-author:
+authors:
   - Ricardo Oliveira
 aktt_notify_twitter:
   - 'yes'

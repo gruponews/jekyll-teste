@@ -19,7 +19,7 @@ categories:
 tags:
   - espirito santo
   - trindade
-author:
+authors:
   - Christopher Walker
 wpcf-gn_audiovideo_data:
   - "1428710400"

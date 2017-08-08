@@ -23,7 +23,7 @@ tags:
   - Riqueza
   - Servir
   - Tudo
-author:
+authors:
   - Pedro Arruda
 post_autor:
   - Pedro Arruda

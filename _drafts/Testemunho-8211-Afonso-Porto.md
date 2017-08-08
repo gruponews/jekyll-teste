@@ -12,7 +12,7 @@ published: false
 categories: ""
 tags:
   - Testemunho
-author:
+authors:
   - Afonso Porto
 wpcf-gn_audiovideo_data:
   - "1428710400"

@@ -20,7 +20,7 @@ tags:
   - liderança
   - orgânica
   - Vida
-author:
+authors:
   - John Noble
 wpcf-gn_audiovideo_data:
   - "1384646400"

@@ -59,7 +59,7 @@ wpcf-gn_post_imagem_credito:
 wpcf-gn_post_destaques:
   - nao_destaque
 amazonS3_cache:
-  - 'a:4:{s:114:"//www.gruponews.com.br/wp-content/uploads/2011/07/08PedroArruda20072011Manha.mp3|titles=08PedroArruda20072011Manha";a:1:{s:9:"timestamp";i:1501755246;}s:108:"//www.gruponews.com.br/wp-content/uploads/2011/07/11JameNobre20072011Manha.mp3|titles=JameNobre20072011Manha";a:1:{s:9:"timestamp";i:1501755246;}s:108:"//www.gruponews.com.br/wp-content/uploads/2011/07/16ClesioPena2072011Tarde.mp3|titles=ClesioPena2072011Tarde";a:1:{s:9:"timestamp";i:1501755246;}s:110:"//www.gruponews.com.br/wp-content/uploads/2011/07/18GersonLima20072011Noite.mp3|titles=GersonLima20072011Noite";a:1:{s:9:"timestamp";i:1501755246;}}'
+  - 'a:4:{s:114:"//www.gruponews.com.br/wp-content/uploads/2011/07/08PedroArruda20072011Manha.mp3|titles=08PedroArruda20072011Manha";a:1:{s:9:"timestamp";i:1502112213;}s:108:"//www.gruponews.com.br/wp-content/uploads/2011/07/11JameNobre20072011Manha.mp3|titles=JameNobre20072011Manha";a:1:{s:9:"timestamp";i:1502112213;}s:108:"//www.gruponews.com.br/wp-content/uploads/2011/07/16ClesioPena2072011Tarde.mp3|titles=ClesioPena2072011Tarde";a:1:{s:9:"timestamp";i:1502112213;}s:110:"//www.gruponews.com.br/wp-content/uploads/2011/07/18GersonLima20072011Noite.mp3|titles=GersonLima20072011Noite";a:1:{s:9:"timestamp";i:1502112213;}}'
 dsq_thread_id:
   - "5475761267"
 post_date: 2011-07-25 19:35:36

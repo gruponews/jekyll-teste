@@ -17,7 +17,7 @@ published: true
 categories:
   - Publicações
 tags: ""
-author:
+authors:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'
@@ -58,7 +58,7 @@ wpcf-gn_post_destaques:
 dsq_thread_id:
   - "2802546066"
 amazonS3_cache:
-  - 'a:4:{s:95:"//www.gruponews.com.br/wp-content/uploads/2011/07/HaroldoWalker14072011manha.mp3|titles=Haroldo";a:1:{s:9:"timestamp";i:1501618654;}s:114:"//www.gruponews.com.br/wp-content/uploads/2011/07/RobertoWalker14072011manha.mp3|titles=RobertoWalker14072011manha";a:1:{s:9:"timestamp";i:1501618654;}s:116:"//www.gruponews.com.br/wp-content/uploads/2011/07/EliasafdeAssis14072011tarde.mp3|titles=EliasafdeAssis14072011tarde";a:1:{s:9:"timestamp";i:1501618654;}s:118:"//www.gruponews.com.br/wp-content/uploads/2011/07/AriadnaOliveira14072011noite.mp3|titles=AriadnaOliveira14072011noite";a:1:{s:9:"timestamp";i:1501618654;}}'
+  - 'a:4:{s:95:"//www.gruponews.com.br/wp-content/uploads/2011/07/HaroldoWalker14072011manha.mp3|titles=Haroldo";a:1:{s:9:"timestamp";i:1501942387;}s:114:"//www.gruponews.com.br/wp-content/uploads/2011/07/RobertoWalker14072011manha.mp3|titles=RobertoWalker14072011manha";a:1:{s:9:"timestamp";i:1501942387;}s:116:"//www.gruponews.com.br/wp-content/uploads/2011/07/EliasafdeAssis14072011tarde.mp3|titles=EliasafdeAssis14072011tarde";a:1:{s:9:"timestamp";i:1501942387;}s:118:"//www.gruponews.com.br/wp-content/uploads/2011/07/AriadnaOliveira14072011noite.mp3|titles=AriadnaOliveira14072011noite";a:1:{s:9:"timestamp";i:1501942387;}}'
 post_date: 2011-07-16 12:00:40
 ---
 Confira as palestras ministradas no dia 14 de julho no Curso de Preparação Profética Intensivo 2011, que acontece até o dia 22 de julho em Sorocaba-SP.

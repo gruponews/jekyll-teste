@@ -23,7 +23,7 @@ tags:
   - Pedro Arruda
   - radio
   - tv
-author:
+authors:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

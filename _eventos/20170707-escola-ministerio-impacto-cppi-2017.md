@@ -21,7 +21,7 @@ event:
   event_status: "1"
   event_name: ESCOLA MINISTÉRIO IMPACTO | CPPI 2017
   event_start_time: 00:00:00
-  event_end_time: 00:00:00
+  event_end_time: 23:59:59
   event_start_date: 2017-07-07
   event_end_date: 2017-07-16
   post_content: |
@@ -45,9 +45,9 @@ event:
   location_id: "4"
   recurrence_id: null
   event_category_id: null
-  event_attributes: 'a:1:{s:22:"wpcf-gn_post_destaques";s:12:"nao_destaque";}'
+  event_attributes: 'a:2:{s:14:"slide_template";s:7:"default";s:22:"wpcf-gn_post_destaques";s:12:"nao_destaque";}'
   event_date_created: 2017-05-06 20:22:45
-  event_date_modified: 2017-05-06 20:39:02
+  event_date_modified: 2017-08-08 01:18:25
   recurrence: "0"
   recurrence_interval: null
   recurrence_freq: null
@@ -64,9 +64,8 @@ event:
   event_rsvp_spaces: null
   recurrence_rsvp_days: null
 categories: ""
-tags:
-  - featured
-author:
+tags: ""
+authors:
   - Equipe GrupoNews
 slide_template:
   - default

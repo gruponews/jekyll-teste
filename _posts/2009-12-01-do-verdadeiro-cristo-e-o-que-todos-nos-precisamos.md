@@ -26,7 +26,7 @@ tags:
   - Mentira
   - Olhar
   - Salvação
-author:
+authors:
   - Afonso Porto
 post_autor:
   - Afonso Porto

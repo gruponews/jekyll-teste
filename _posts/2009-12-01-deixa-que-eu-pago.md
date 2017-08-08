@@ -22,7 +22,7 @@ tags:
   - Finanças
   - Regular
   - Voluntário
-author:
+authors:
   - Pedro Arruda
 post_autor:
   - Pedro Arruda

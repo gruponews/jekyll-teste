@@ -27,7 +27,7 @@ tags:
   - Secularização
   - Valores
   - Vida
-author:
+authors:
   - Wailton de Carvalho
 post_autor:
   - Wailton de Carvalho

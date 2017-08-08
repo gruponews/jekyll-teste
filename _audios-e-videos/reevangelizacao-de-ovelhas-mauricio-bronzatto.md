@@ -22,7 +22,7 @@ tags:
   - Jesus
   - orar
   - sabiam
-author:
+authors:
   - Maurício Bronzatto
 aktt_notify_twitter:
   - 'yes'

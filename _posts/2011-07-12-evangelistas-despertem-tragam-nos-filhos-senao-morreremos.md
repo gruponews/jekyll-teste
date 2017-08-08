@@ -16,7 +16,7 @@ categories:
   - Artigos
   - Bases Cristãs
 tags: ""
-author:
+authors:
   - Carlos Augusto
 aktt_notify_twitter:
   - 'no'

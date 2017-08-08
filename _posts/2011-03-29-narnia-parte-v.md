@@ -26,7 +26,7 @@ tags:
   - narnia
   - peregrino
   - viagem
-author:
+authors:
   - Renata Ribeiro Arruda
 aktt_notify_twitter:
   - 'yes'
@@ -48,6 +48,7 @@ wpcf-gn_post_destaques:
 post_date: 2011-03-29 22:18:18
 ---
 <h3>O dragão que há em nós</h3>
+
 <em>Este artigo é o quinto de uma sequência de sete sobre “As Crônicas de Nárnia”, criação do escritor irlandês C.S.Lewis, que teve, recentemente, três episódios da série adaptados para o cinema: “O leão, a feiticeira e o guarda-roupa”, “Príncipe Caspian” e “A Viagem do Peregrino da Alvorada”.</em>
 
 Um rato falante. Um príncipe recém-coroado. Dois irmãos em férias escolares. Um menino resmungão metido a adulto. Um capitão. E o Peregrino da Alvorada. Os personagens são impressionantes, alguns até já conhecidos. A partir deles, C. S. Lewis descreve mais uma aventura nas terras longínquas de Nárnia.
@@ -75,7 +76,9 @@ Entretanto esta narração mostra bem o contrário, o cuidado de Deus. Somos em 
 Ao perceber a mutação que havia sofrido, olhando sua terrível aparência no reflexo das águas do rio, Eustáquio se deu conta de que talvez não fosse tão bonzinho quanto pensava. Vou poupar os detalhes de como ele viveu alguns dias como dragão, partindo para o brilhante desfecho.
 
 Por graça, Eustáquio voltou a ser humano, mas seu caminho foi doloroso, uma vez que havia se tornado uma pessoa quase insuportável. Aconteceu que o próprio Aslam foi encontrá-lo, e ele nem ao menos sabia de quem se tratava, mas teve respeito. Aslam olhou para Eustáquio, e este de alguma maneira captou a mensagem: deveria tirar a roupa. Mas pensou que dragões não se vestem. Entendeu então que deveria arrancar sua pele, uma espécie de escama, como as de cobra, que os dragões possuem. Ele nem desconfiava, porém, que possuía muitas destas peles. Estando Eustáquio na terceira camada, o Leão falou: “eu tiro sua pele”:
+
 <blockquote>A primeira unhada que me deu foi tão funda que julguei ter atingido o coração. A única coisa que me fazia aguentar era o prazer de sentir que me tirava a pele. É como quem tira um espinho de um lugar dolorido. Dói pra valer, mas é bom ver o espinho sair.</blockquote>
+
 Depois disso, Eustáquio sofreu uma mudança notável. Às vezes tinha alguma recaída, mas a cura em seu caráter, provocada pela ação de Aslam, havia começado.
 
 Quando li esta história pela primeira vez, me identifiquei muito. Pensei no quanto eu precisava me despir das cascas do pecado e do mal. Por outro lado, pensei que isso só é possível quando, após olhar nosso reflexo, descobrimos o dragão que há em nós. E, por fim, que qualquer tentativa de arrancar nossa própria casca é vã. Jesus, ele mesmo, trata de vir nos transformar. Seu “tratamento” talvez lembre as unhas de Aslam entrando fundo em nosso coração. Mas a sensação de limpeza e liberdade valem qualquer dor. E para nós, pecadores de nascença, essa é a melhor solução possível, queira crer!

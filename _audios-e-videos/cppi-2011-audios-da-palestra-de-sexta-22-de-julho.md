@@ -72,7 +72,7 @@ wpcf-gn_post_imagem_credito:
 wpcf-gn_post_destaques:
   - nao_destaque
 amazonS3_cache:
-  - 'a:3:{s:106:"//www.gruponews.com.br/wp-content/uploads/2011/07/08PedroArrudaSexta22_07.mp3|titles=PedroArrudaSexta22_07";a:1:{s:9:"timestamp";i:1501596832;}s:90:"//www.gruponews.com.br/wp-content/uploads/2011/07/11Joao-Paulo-Sexta-22_07.mp3|titles=Joao";a:1:{s:9:"timestamp";i:1501596832;}s:87:"//www.gruponews.com.br/wp-content/uploads/2011/07/15Gerson-Lima-22_07.mp3|titles=Gerson";a:1:{s:9:"timestamp";i:1501596832;}}'
+  - 'a:3:{s:106:"//www.gruponews.com.br/wp-content/uploads/2011/07/08PedroArrudaSexta22_07.mp3|titles=PedroArrudaSexta22_07";a:1:{s:9:"timestamp";i:1502130592;}s:90:"//www.gruponews.com.br/wp-content/uploads/2011/07/11Joao-Paulo-Sexta-22_07.mp3|titles=Joao";a:1:{s:9:"timestamp";i:1502130592;}s:87:"//www.gruponews.com.br/wp-content/uploads/2011/07/15Gerson-Lima-22_07.mp3|titles=Gerson";a:1:{s:9:"timestamp";i:1502130592;}}'
 post_date: 2011-07-26 18:04:42
 ---
 Confira as palestras ministradas no último dia do Curso de Preparação Profética Intensivo 2011!

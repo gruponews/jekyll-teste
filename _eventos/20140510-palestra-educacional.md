@@ -54,7 +54,7 @@ event:
   recurrence_rsvp_days: null
 categories: ""
 tags: ""
-author:
+authors:
   - Afonso Porto
 wpcf-gn_post_imagem_credito:
   - ""

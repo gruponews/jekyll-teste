@@ -11,7 +11,7 @@ permalink: audioevideo/reino-objeto-oracao
 published: true
 categories: ""
 tags: ""
-author:
+authors:
   - Pe. Douglas Pinheiro
 wpcf-gn_audiovideo_data:
   - "1377302400"

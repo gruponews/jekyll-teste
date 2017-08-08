@@ -16,7 +16,7 @@ permalink: >
 published: true
 categories: ""
 tags: ""
-author:
+authors:
   - Pedro Arruda
 wpcf-gn_post_autor:
   - ""

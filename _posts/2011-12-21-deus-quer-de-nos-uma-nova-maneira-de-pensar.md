@@ -18,7 +18,7 @@ categories:
 tags:
   - edicao-71
   - pensar
-author:
+authors:
   - Ezequiel Netto
 aktt_notify_twitter:
   - 'yes'

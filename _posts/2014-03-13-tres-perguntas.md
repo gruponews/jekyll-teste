@@ -14,7 +14,7 @@ categories:
 tags:
   - edicao-75
   - Vida
-author:
+authors:
   - Leon Tolstói
 wpcf-gn_post_autor:
   - ""

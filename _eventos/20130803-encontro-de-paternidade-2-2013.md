@@ -49,7 +49,7 @@ event:
   recurrence_rsvp_days: null
 categories: ""
 tags: ""
-author:
+authors:
   - Equipe GrupoNews
 wpcf-gn_post_autor:
   - Equipe GrupoNews

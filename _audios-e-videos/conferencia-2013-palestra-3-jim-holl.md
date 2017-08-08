@@ -16,7 +16,7 @@ permalink: >
 published: true
 categories: ""
 tags: ""
-author:
+authors:
   - Jim Holl
 wpcf-gn_audiovideo_data:
   - "1384473600"

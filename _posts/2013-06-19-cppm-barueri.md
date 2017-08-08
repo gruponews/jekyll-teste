@@ -25,7 +25,7 @@ tags:
   - Evangelho
   - profecia
   - profético
-author:
+authors:
   - Equipe GrupoNews
 wpcf-gn_post_autor:
   - Equipe GrupoNews

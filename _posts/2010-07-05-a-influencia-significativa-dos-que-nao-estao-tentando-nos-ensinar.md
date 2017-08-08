@@ -16,7 +16,7 @@ categories:
   - Artigos
   - Bases Cristãs
 tags: ""
-author:
+authors:
   - Moacir Alves Faria
 wpcf-gn_post_autor:
   - Moacir Alves Faria

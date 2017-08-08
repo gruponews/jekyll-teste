@@ -81,7 +81,7 @@ tags:
   - retorno
   - Villegas
   - volta
-author:
+authors:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

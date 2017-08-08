@@ -67,7 +67,7 @@ categories:
 tags:
   - Nosso
   - temperamento
-author:
+authors:
   - Ezequiel Netto
 aktt_notify_twitter:
   - 'a:2:{i:0;s:3:"yes";i:1;s:3:"yes";}'

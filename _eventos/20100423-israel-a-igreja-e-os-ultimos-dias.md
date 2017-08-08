@@ -77,7 +77,7 @@ categories:
 tags:
   - Riqueza
   - Testamento
-author:
+authors:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

@@ -18,7 +18,7 @@ categories:
 tags:
   - edicao-73
   - paternidade
-author:
+authors:
   - Pedro Arruda
 wpcf-gn_post_autor:
   - Pedro Arruda

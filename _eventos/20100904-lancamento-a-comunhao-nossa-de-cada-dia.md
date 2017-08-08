@@ -75,7 +75,7 @@ categories:
   - Geral
 tags:
   - Arruda
-author:
+authors:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

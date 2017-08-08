@@ -17,7 +17,7 @@ published: true
 categories:
   - Notícias
 tags: ""
-author:
+authors:
   - Equipe GrupoNews
 wpcf-gn_webtv_nome_palestra:
   - dasda

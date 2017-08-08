@@ -19,7 +19,7 @@ tags:
   - pessoas
   - Santidade
   - santo
-author:
+authors:
   - Maurício Bronzatto
 aktt_notify_twitter:
   - 'no'

@@ -27,7 +27,7 @@ tags:
   - Televisão
   - Tempo
   - Vida
-author:
+authors:
   - Ricardo Camargo
 post_autor:
   - Ricardo Camargo

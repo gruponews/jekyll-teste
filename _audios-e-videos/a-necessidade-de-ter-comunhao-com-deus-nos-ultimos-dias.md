@@ -18,7 +18,7 @@ permalink: >
 published: true
 categories: ""
 tags: ""
-author:
+authors:
   - Ricardo Correia
 wpcf-gn_audiovideo_data:
   - "1362873600"

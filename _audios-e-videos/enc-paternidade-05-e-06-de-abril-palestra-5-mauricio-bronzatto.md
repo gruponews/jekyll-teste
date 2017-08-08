@@ -16,7 +16,7 @@ permalink: >
 published: true
 categories: ""
 tags: ""
-author:
+authors:
   - Maurício Bronzatto
 wpcf-gn_post_autor:
   - Maurício Bronzatto

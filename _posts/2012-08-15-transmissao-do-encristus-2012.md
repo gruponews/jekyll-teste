@@ -19,7 +19,7 @@ published: true
 categories:
   - Notícias
 tags: ""
-author:
+authors:
   - Renata Ribeiro Arruda
 aktt_notify_twitter:
   - 'yes'

@@ -14,7 +14,7 @@ categories:
   - O Deus mal compreendido
 tags:
   - edicao-80
-author:
+authors:
   - Darin Hufford
 dsq_thread_id:
   - "3689926615"
@@ -23,7 +23,9 @@ wpcf-gn_post_destaques:
 post_date: 2015-02-17 12:56:02
 ---
 <div class="small">Esta é a 6ª parte do resumo do livro “The Misunderstood God: The Lies Religion Tells About God” (O Deus mal compreendido: as mentiras que a religião conta sobre Deus), de Darin Hufford, publicado nos EUA em 2009 por Windblown Media (traduzido em 2012 para o português sob o título “Mais perto de Deus” pela Ed. Sextante). <a href="http://www.gruponews.com.br/bases-cristas/o-deus-mal-compreendido">Clique aqui para ler os resumos anteriores.</a></div>
+
 <div class="small"></div>
+
 Quando eu tinha oito anos, minha mãe se casou novamente e fomos morar em Phoenix, Arizona. Todo verão eu e meu irmão Kevin nos revezávamos e viajávamos para ficar por duas semanas com meu pai biológico em Houston, Texas. Eu passava todo o período escolar ansiando por este momento e, chegando a hora, a excitação era tão grande que eu nem podia suportar.
 
 Eu me lembro de quando Kevin chegou do Texas, o que significava que só faltava um mês para eu visitar meu pai. Notei algo diferente em sua personalidade. Eu me senti insignificante. Ele mostrava as roupas que papai havia comprado e tinha uma voz convencida, um novo corte de cabelos, mascava chicletes. Tudo cheirava a convencimento. Nos próximos dias, ele se gabou acerca de tudo o que ele e papai fizeram juntos. Mencionou pessoas e lugares que eu não conhecia, falou de experiências completamente estranhas para mim. Havia algo nele que queria deixar claro para mim que eu jamais teria um relacionamento tão próximo, íntimo e divertido com nosso pai. E naqueles dias, minha percepção sobre como seria com meu pai foi de glorioso e excitante para sem esperança e terrível. Ao entrar no avião no mês seguinte, senti-me vazio e sem valor. O que eu sonhara por muito tempo agora parecia sem graça, e eu estava sem motivação alguma por causa da vanglória de meu irmão.

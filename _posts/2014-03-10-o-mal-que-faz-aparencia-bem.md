@@ -18,7 +18,7 @@ tags:
   - inocência
   - intergridade
   - paternidade
-author:
+authors:
   - Maurício Bronzatto
 wpcf-gn_post_autor:
   - ""

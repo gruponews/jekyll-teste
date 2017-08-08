@@ -13,7 +13,7 @@ categories:
   - Artigos
   - Vida
 tags: ""
-author:
+authors:
   - Max Lucado
 wpcf-gn_post_autor:
   - Max Lucado

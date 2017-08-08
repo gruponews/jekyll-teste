@@ -19,7 +19,7 @@ published: true
 categories:
   - Geral
 tags: ""
-author:
+authors:
   - Equipe GrupoNews
 dsq_thread_id:
   - "4643228900"

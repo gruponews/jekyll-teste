@@ -68,7 +68,7 @@ tags:
   - deste
   - Nosso
   - volta
-author:
+authors:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'a:2:{i:0;s:2:"no";i:1;s:2:"no";}'

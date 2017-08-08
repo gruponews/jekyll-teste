@@ -16,7 +16,7 @@ categories:
   - Unidade
 tags:
   - edicao-82
-author:
+authors:
   - José Carlos Marion
 instant_articles_submission_id:
   - "292595067757988"
@@ -27,55 +27,106 @@ dsq_thread_id:
 post_date: 2016-07-13 11:29:39
 ---
 <p class="p1"><span class="s1">"Em verdade também vos digo que, se dois dentre vós, sobre a terra, concordarem a respeito de qualquer coisa que, porventura, pedirem, ser-lhes-á concedida por meu Pai, que está nos céus." (Mt18:19)</span></p>
+
 <p class="p3"><span class="s1">D</span><span class="s1">eus faz coisas extraordinárias em nosso meio quando buscamos caminhar em unidade. Se usufruímos dessa realidade dentro de nossas denominações, imagine o que Deus fará quando estivermos juntos entre várias denominações; que eficácia terá uma oração se estivermos unidos! </span></p>
+
 <p class="p1"><span class="s1">"Não imputando pecado aos homens" (2 Co 5:19). Sabemos que Deus <i>decidiu</i> olhar para Jesus e Seu perdão na cruz e não olhar para nós, para os nossos pecados. Entretanto, nós mesmos acabamos imputando aos homens as suas transgressões. Com toda certeza, a igreja não estaria tão dividida hoje se não julgássemos ou condenássemos uns aos outros. </span></p>
+
 <p class="p1"><span class="s1">Estatisticamente, a realidade do mundo é muito triste. Somos sete bilhões de habitantes, dos quais somente pouco mais de dois bilhões são cristãos, juntando todas as denominações cristãs. Isso significa que temos cinco bilhões de pessoas que não conhecem a Cristo. Pregamos sobre a segunda vinda de Cristo, mas essas pessoas não sabem sequer que Cristo já veio uma vez, que ele se manifestou em carne para morrer pelos nossos pecados. Isso é muito preocupante.</span></p>
+
 <p class="p1"><span class="s1">Cremos que a razão de ser tão representativa essa quantidade de não cristãos no mundo está ligada ao estado da igreja hoje. Será que animamos, por aquilo que somos, essas pessoas a se aproximarem da cruz? Segundo uma pesquisa feita alguns anos atrás pelo bispo anglicano Tony Palmer, temos no mundo em torno de 33.000 denominações cristãs. Então, em quem uma pessoa que não conhece a Cristo poderá se espelhar? Como poderemos criar nela uma admiração por nós? Como ela poderá olhar para a igreja, se entusiasmar e desejar conhecer a Cristo?</span></p>
+
 <p class="p5"><span class="s1"><b>O último sinal</b></span></p>
+
 <p class="p4">Todos nós temos essa grande responsabilidade e devemos nos perguntar: "Senhor, qual a 'fórmula' que temos para que uma grande parte dessas pessoas possa ao menos conhecer a Ti?" Creio que no livro de João temos essa resposta. Se olharmos para os evangelhos de Mateus, Marcos e Lucas, veremos que eles enfatizam muito o "ide e fazei discípulos". João, entretanto, dá uma visão diferente de evangelismo, mas que, no fundo, acaba chegando ao mesmo ponto.</p>
+
 <p class="p1"><span class="s1">João ensina que Jesus fazia sinais e, por meio deles, as pessoas criam. Ele relata o primeiro milagre em Caná da Galileia, onde Jesus transformou água em vinho, dizendo que, por esta causa, "os seus discípulos creram nele" (Jo 2:11). Até o capítulo 11, observamos que as pessoas criam em Jesus pelos sinais que ele fazia. Também, após o mais impactante milagre de Jesus, a ressurreição de Lázaro, o texto diz que "muitos creram nele" (Jo 11:45). Mas sabemos que aquele "muitos" era um número pequeno diante da realidade atual.</span></p>
+
 <p class="p1"><span class="s1">Entretanto é interessante notar que, apesar de Jesus operar por muitos sinais e maravilhas,<i> ele deixou o último sinal para o corpo dele, a igreja</i>, praticar na terra e fazer com que muitos creiam. Em João 17, Jesus orou cinco vezes para que sejamos um, assim como ele e o Pai são um, para que o mundo creia que ele foi enviado. Então, parece que a "fórmula" de evangelismo do evangelho de João é um pouco diferente dos outros evangelhos, no sentido de que o mundo inteiro pode vir a crer. Ou seja, esses sete bilhões de habitantes hoje podem crer em Jesus se nós formos um! </span></p>
+
 <p class="p1"><span class="s1">Assim, eu entendo que esse último sinal é para o corpo de Cristo realizar. Mas só podemos fazer isso se sentirmos peso pelo mundo. É muito gostoso quando nos reunimos e estamos juntos, mas devemos imaginar que existe uma imensa multidão que nunca teve uma experiência de comunhão desse tipo, ou a tiveram de uma forma ilícita, tal como diversões com álcool, drogas, sexo etc., que sabemos que não é a comunhão verdadeira. Dessa forma, precisamos estar conscientes de que está em nossas mãos dizer ao Pai: "Seja feita em mim a Tua vontade; gera em mim essa vontade de ser um com meus irmãos, de amar ao outro, para que o mundo creia que Jesus foi enviado". Logicamente que não temos o poder de fazer cumprir essa oração, mas temos o poder de dizer "sim", de tomar iniciativa. Não é somente dizer "eu te amo Jesus", mas também viver, praticar esse amor.</span></p>
+
 <p class="p5"><span class="s1"><b>A reconciliação vertical e a reconciliação horizontal</b></span></p>
+
 <p class="p4">Normalmente, olhamos para a cruz somente como um instrumento de reconciliação entre o homem e Deus, mas a missão de Cristo foi também reconciliar o homem com o homem, e muitas vezes não valorizamos a eficácia da cruz nesse sentido.</p>
+
 <p class="p1"><span class="s1">Vejamos João 11:49-52:</span></p>
+
 <p class="p6"><span class="s1">“Caifás, porém, um dentre eles, sumo-sacerdote naquele ano, advertiu-os, dizendo: Vós nada sabeis, nem considerais que vos convém que<i> morra um só homem pelo povo </i>e que não venha a perecer toda a nação. Ora, ele não disse isto de si mesmo; mas, sendo sumo-sacerdote naquele ano, profetizou que <i>Jesus estava para morrer pela nação e não somente pela nação, mas também para reunir em um só corpo os filhos de Deus, que andam dispersos.</i>"</span></p>
+
 <p class="p1"><span class="s1">O verso 50 diz que Jesus veio dar a vida pelos homens, reconciliar a todos com Deus. Entretanto o verso 52 diz que ele veio também "para reunir em um só corpo os filhos de Deus...". Assim, existe um foco duplo na morte de Jesus: nos reconciliar na vertical (com Deus) e na horizontal (uns com os outros). A cruz, assim como destruiu os nossos pecados e nos reconciliou com Deus, também desfez ou destruiu as inimizades entre os homens, principalmente na igreja de Cristo (Ef 2:16). Não reconhecer isso é o mesmo que não reconhecer a eficácia do sangue de Jesus para perdoar pecados. Assim, o mesmo sangue que purifica nossos pecados também nos aproxima uns dos outros. </span></p>
+
 <p class="p1"><span class="s1">Quando Jesus morreu e ressuscitou, muitos sinais aconteceram: houve trevas e terremotos, as rochas se fenderam, os sepulcros se abriram, e muitos ressuscitaram. Mas Mateus (27:51) diz que "o véu do templo se rasgou de alto a baixo", ou seja, aquele véu que era intransponível, aquele lugar onde apenas o sumo-sacerdote podia entrar uma vez ao ano e onde simbolicamente Deus estava, agora foi aberto e todos podemos ter acesso ao Pai "pelo novo e vivo caminho que ele nos consagrou pelo véu, isto é, pela sua carne..." (Hb 10:20). Agora não precisamos mais de intermediários, pois temos acesso direto a Deus.</span></p>
+
 <p class="p1"><span class="s1">Mas existe um outro sinal que os evangelistas não narram e do qual Paulo fala em Efésios 2. Existia um muro no pátio do templo que separava os judeus dos gentios. Os gentios não podiam atravessar ou sequer olhar por cima daquele muro, pois seriam literalmente mortos. Entretanto, no exato momento em que Jesus morreu na cruz levando em sua carne toda inimizade, esse muro caiu. Não sei se isso aconteceu no sentido literal ou apenas simbólico, mas para nós não faz diferença, pois para Deus esse muro caiu. A partir daquele momento, os dois povos se tornaram um só corpo (Ef 2:14-16) e, assim, fomos aproximados uns dos outros.</span></p>
+
 <p class="p1"><span class="s1">Nós, que outrora estávamos "sem Cristo, separados da comunidade de Israel e estranhos às alianças da promessa, não tendo esperança e sem Deus no mundo" (v.12), ao sermos perdoados por Jesus passamos a ser um com outras comunidades, à semelhança dos gentios com Israel. Trazendo para a realidade atual, não podem mais existir muros, paredes divisórias entre as muitas denominações cristãs porque oficialmente o muro foi derrubado na cruz do calvário. </span></p>
+
 <p class="p1"><span class="s1">Quando desconsideramos isso e criticamos ou brigamos uns com os outros, estamos tirando a credibilidade da eficácia da cruz de Cristo, e isso é muito grave. Se pela sua carne Jesus destruiu a inimizade, então não existem mais julgamentos, somos um com os outros irmãos a despeito de as doutrinas e algumas práticas serem um pouco diferentes das nossas. </span></p>
+
 <p class="p5"><span class="s1"><b>O caminho incontornável do perdão</b></span></p>
+
 <p class="p4">Deus opera em todas as denominações, apesar das divisões. Cada denominação tem revelações diferentes, e na unidade todas essas revelações se tornam mais fortes, maiores, poderosas e completas em nossas vidas; passamos a buscar juntos o que Deus tem revelado aos outros irmãos.</p>
+
 <p class="p1"><span class="s1">Quando falamos em unidade, pensamos em dar passos concretos, pois Jesus morreu para unificar os seus filhos. A igreja é UNA e em hipótese alguma pode estar dividida. </span></p>
+
 <p class="p1"><span class="s1">Isaías mostrou as duas faces do sacrifício de Jesus na cruz:</span></p>
+
 <p class="p6"><span class="s1">"Mas ele foi traspassado pelas nossas transgressões e moído pelas nossas iniquidades; o castigo que nos traz a paz estava sobre ele, e pelas suas pisaduras fomos sarados. Todos nós andávamos desgarrados como ovelhas; cada um se desviava pelo caminho, mas o SENHOR fez cair sobre ele a iniquidade de nós todos." (Is 53:5-6)</span></p>
+
 <p class="p1"><span class="s1">Deus fez cair sobre Jesus a iniquidade de todos nós porque cada um andava pelo seu próprio caminho, e isso é iniquidade. </span></p>
+
 <p class="p1"><span class="s1">Como podemos, então, reverter o quadro atual da igreja? Eu creio que existe uma saída para nós e, pessoalmente, tenho experimentado isso dentro do ENCRISTUS (www.encristus.com.br) e de outras situações em que Deus tem me colocado. A mesma Bíblia que diz que Deus nos perdoa por meio de Jesus, também diz que se não perdoarmos aos nossos irmãos, não seremos perdoados por Deus. Entretanto, parece que não estamos considerando ou valorizando muito isso. </span></p>
+
 <p class="p1"><span class="s1">Quando oramos a oração do Pai-nosso, pedimos a Deus que perdoe "... as nossas ofensas, assim como perdoamos a quem nos tem ofendido" (Mt 6:12). O "assim como" é que é relevante nesse processo. E, ao final dessa oração, Jesus diz que se "... não perdoardes aos homens as suas ofensas, tampouco vosso Pai vos perdoará as vossas ofensas". Ele está dizendo que a graça e o perdão são maravilhosos, que são para todos, mas que existe uma condição para isso, que é o perdão aos outros.</span></p>
+
 <p class="p1"><span class="s1">Em Mateus 18:24-35, Jesus conta a história de um rei que perdoou a dívida impagável de um de seus servos e este, por sua vez, não perdoou uma dívida insignificante de um conservo seu. Quando o rei ficou sabendo, chamou-o e lhe disse:</span></p>
+
 <p class="p6"><span class="s1">"Servo malvado, perdoei-te aquela dívida toda porque me suplicaste; não devias tu, igualmente, compadecer-te do teu conservo, como também eu me compadeci de ti? E, indignando-se, o seu senhor o entregou aos verdugos, até que lhe pagasse toda a dívida. Assim também meu Pai celeste vos fará, se do íntimo não perdoardes cada um a seu irmão."</span></p>
+
 <p class="p1"><span class="s1"> `</span></p>
+
 <p class="p1"><span class="s1">O rei retirou o perdão que havia dado àquele servo, e isso, diz o texto, é o que o Pai pode fazer conosco se não perdoarmos aos nossos irmãos. O texto mostra que Deus fica irado com essa atitude, chamando de "servo malvado" quem não pratica o perdão.</span></p>
+
 <p class="p5"><span class="s1"><b>Os frutos da reconciliação horizontal</b></span></p>
+
 <p class="p4">Deus nos tem dado muitas experiências nessa área do perdão, e temos observado inúmeros frutos disso. Em 1986, houve um problema com uma denominação cristã em Jundiaí, uma igreja de influência nacional devido ao dom profético e à palavra diferenciada que lá existiam. Pessoas de outros estados e até nações se dirigiam para estar em suas reuniões. Mas depois de um tempo, ela sofreu uma divisão, deixando muitas pessoas feridas e produzindo em todos uma grande tristeza.</p>
+
 <p class="p1"><span class="s1">Em 2001, houve um encontro dos líderes que estavam naquela época nesta comunidade. Eles decidiram fazer uma reunião para acertar o que havia acontecido no passado, para tirar as raízes de amargura que foram criadas, para restaurar a parte do corpo de Cristo que estava envolvida naquela cidade e, consequentemente, abrir caminho para restaurar novamente a autoridade de Deus em Jundiaí. Quando nos dividimos, é como se tirássemos a autoridade de Deus. </span></p>
+
 <p class="p1"><span class="s1">Eu não tinha participado desse processo, mas, para minha alegria e edificação, essa reunião aconteceu em minha casa. Um dos pastores, já idoso, leu os primeiros versos de Efésios 4 e confessou que não havia praticado pelo menos dois itens: o amor uns aos outros e o manter a unidade do Espírito. Ele disse que a unidade do Espírito havia sido quebrada por ele, que não era possível pregar a Palavra e dividir, que havia diferença entre agir no Espírito e agir na alma, e trouxe também alguns ensinamentos a partir do que havia acontecido. Houve, então, um pedido mútuo de perdão e um forte quebrantamento, como que quebrando as comportas de uma represa. Foi um momento maravilhoso. Mediante aquela liberação de perdão e arrependimento, inúmeros fatos têm acontecido desde então.</span></p>
+
 <p class="p1"><span class="s1">Naquela época, nós dirigíamos um grupo que se reunia a 8 km de Jundiaí. Como tinha muita gente que se deslocava de Jundiaí até lá, decidimos nos mudar para a cidade e começamos a procurar prédios, mas sem resultados. Então perguntamos ao Senhor por que as portas não estavam se abrindo, já que estávamos querendo fazer uma coisa tão boa. Deus nos respondeu de forma coletiva, aos nossos pastores, que Ele estava nos dirigindo a fazer uma parceria com um irmão, líder de uma comunidade em Jundiaí, que tinha um prédio muito ocioso.</span></p>
+
 <p class="p1"><span class="s1">Na mesma ocasião, eu havia lido uma pesquisa da ONU que dizia que os prédios mais ociosos do mundo eram os templos evangélicos. Templos imensos sendo usados, às vezes, somente algumas horas por semana. Dessa forma, o propósito de Deus era que procurássemos aqueles irmãos e iniciássemos uma parceria. Após o ocorrido naquela reunião de perdão, meu coração já estava mais aberto para esse tipo de situação, acreditando ser possível fazer isso, ou seja, duas comunidades congregarem no mesmo prédio. Começamos, então, a congregar em horários diferentes. Mas o projeto de Deus era maior, e Ele foi nos levando a projetos comuns, a reuniões dos pastores e também a exercitar o perdão, pois, em função daquela parceria, algumas pessoas que não gostaram daquela unidade saíram da igreja. Então, eu e outro pastor começamos a procurar aquelas pessoas e a falar com elas, pedindo-lhes perdão por as termos desapontado. </span></p>
+
 <p class="p1"><span class="s1">Desde aquela época até hoje, passamos a ter uma prática de nos reunirmos, como líderes, em volta de uma mesa. O pastor italiano Giovanni Traettino diz que existe um princípio bíblico segundo o qual "antes da mesa, é preciso lavar os pés". Assim, no início, literalmente lavamos os pés uns dos outros para podermos sentar juntos à mesa, e nossas reuniões atraíram mais duas comunidades. </span></p>
+
 <p class="p1"><span class="s1">Dez anos depois, em fevereiro de 2011, aquelas quatro comunidades foram reunidas em uma só, e assim permanecem até hoje. Não temos um nome, ainda não sabemos exatamente aonde o Senhor nos levará, mas somos vários pastores de diferentes origens, culturas e visões reunidos à mesa e vendo como Deus está sempre operando. Quando alguma reunião está mais confusa, paramos e ceamos, comemos juntos e vemos como o Espírito nos tranquiliza, lembrando que a inimizade já foi destruída por Jesus na cruz.</span></p>
+
 <p class="p1"><span class="s1">Há pouco tempo, um desses líderes que participava daquela comunidade em 1986 (praticamente todos estão juntos até hoje nesse ministério) encontrou-se com um irmão que a frequentava naquela época e que havia tomado conhecimento da reconciliação ocorrida entre os líderes. E ele questionou: "Mas e nós, que ficamos machucados?" Então, tomamos uma decisão de fazer uma reunião e convidar todas as pessoas que foram machucadas naquela ocasião.</span></p>
+
 <p class="p1"><span class="s1">Fizemos uma lista e começamos a procurar as pessoas que estavam afastadas da igreja devido àquele fato e, em 3/12/2013, fizemos uma reunião à qual demos o nome de "Dia do Perdão" e lotamos nossa comunidade com essas pessoas. Alguns não puderam ir, mas sabiam da intenção e mandaram cartas e e-mails, dizendo que haviam perdoado, que estava tudo bem. Nesse dia, dois pastores que eram líderes naquela época foram à frente, se humilharam diante de todos, reconhecendo o erro e pedindo perdão por tudo o que havia acontecido no passado. Ao final, preparamos uma mesa enorme, e todos puderam cear juntos. Isso nos trouxe uma grande alegria. O Espírito Santo começou a falar de forma diferente, mais sólida a todos nós. </span></p>
+
 <p class="p5"><span class="s1"><b>O poder da unidade</b></span></p>
+
 <p class="p4">Após aquela reunião em 2001, recebemos um convite (feito ao Pr. Jamê Nobre) para participar dos primeiros passos daquilo que, depois, se converteria no ENCRISTUS. Pensei: existem milhares de pastores; por que o Jamê foi convidado? Entendi que era porque ele estava vivendo essa realidade do perdão, e para participarmos dessa empreitada, é necessário que sejamos purificados desse histórico de divisões. O padre Marcial disse que somos uma geração curada, e eu creio nisso. Mas tivemos pais espirituais que dividiram e, assim como Daniel (Dn 9), temos de pedir perdão por esse passado.</p>
+
 <p class="p1"><span class="s1">Logo que as primeiras reuniões do ENCRISTUS começaram, o Jamê me convidou para participar de uma reunião de trabalho. Quando lá cheguei (havia apenas umas 6 pessoas), fui tomado pelo Espírito Santo de tal maneira que não conseguia sequer abrir minha boca e, se o fizesse, cairia em um choro profundo. O Espírito Santo sempre nos leva às lágrimas quando experimentamos a unidade nesses nossos encontros. O Espírito vê os 5 bilhões de pessoas que não conhecem a Cristo e precisa dessa nossa unidade para poder alcançá-las. Mesmo mantendo fidelidade às nossas denominações, precisamos estar unidos de coração. </span></p>
+
 <p class="p1"><span class="s1">Então, nessa reunião, comecei a entender o propósito daquele perdão inicial liberado em 2001: foi um terreno fértil que agora estava produzindo frutos. Talvez tenha sido algo pequeno e irrelevante para o grande contingente cristão no mundo, mas vimos como Deus levou tão a sério aquele momento, como Ele produziu temor em nossos corações.</span></p>
+
 <p class="p1"><span class="s1">Após esta reunião, eu e minha esposa decidimos começar um grupo ecumênico em nossa casa e convidamos diversos irmãos evangélicos e católicos para participar. Veio um pastor que estava um tanto desgastado com uma série de problemas e relatou-nos que estava se aproximando de um líder de uma comunidade católica carismática (esse contato teve ocasião pelo fato de as filhas desses líderes estudarem juntas). Comecei, então, a trabalhar com ele a importância daquilo que estava acontecendo, do propósito de Deus para todos nós naquele momento. Na reunião seguinte, o irmão católico e sua esposa também estavam presentes. </span></p>
+
 <p class="p1"><span class="s1">Dias depois passamos a nos reunir: eu, o pastor e o líder católico. Decidimos que seria possível começar uma reunião entre eles, pois ambos tinham seus grupos. Comecei a ajudá-los e demos ao grupo o nome de ACOLHER. Hoje eles contam com nove pequenos grupos espalhados em Jundiaí e região, reunindo católicos e evangélicos de denominações diferentes. Da mesma forma, entendi que esse fato ocorreu devido àquela semente de perdão em 2001. Ficamos férteis, disponíveis para Deus operar em nossas vidas.</span></p>
+
 <p class="p1"><span class="s1">Recentemente aconteceu outro fato extraordinário. Católicos e evangélicos estavam em conflito para resolver quem seria responsável pela capelania de um hospital em nossa cidade. O bispo católico nos procurou para tentarmos fazer um acordo a esse respeito, sugerindo que passássemos a nos reunir, conversar e orar juntos para buscar a direção de Deus para a situação.</span></p>
+
 <p class="p1"><span class="s1">Na primeira reunião, havia em torno de vinte líderes, entre padres e pastores. Um falava, outro orava, e começamos a sentir o Espírito Santo nos visitando. Na reunião seguinte, fizemos um almoço conjunto, prática que continuou nas próximas reuniões e até hoje se mantém.</span></p>
+
 <p class="p1"><span class="s1">Neste ano de 2014, realizamos em Jundiaí uma conferência com a presença de dois irmãos americanos que vivem uma realidade de comunidade ecumênica já há quarenta anos. Eles puderam testemunhar o quanto Deus está agindo no meio deles. Nessa oportunidade, também participaram conosco o bispo e vários padres. Eu pensei que o bispo fosse apenas dar uma saudação, mas ele chegou mais cedo do que todos e foi o último a sair. Tivemos um momento de oração uns pelos outros, e os irmãos dos EUA sentiram que era um momento profético para nossa cidade.</span></p>
+
 <p class="p1"><span class="s1">Às vezes pensamos que não existem problemas de divisões entre nós, mas julgamos, fazemos comentários, criticamos outros irmãos. Entretanto eu entendo que tudo isso que está acontecendo em nosso meio, todos esses milagres de unidade, é porque anos atrás o perdão foi liberado. Quando nos unimos, o Espírito Santo opera milagres e muda por completo toda a realidade atual. </span></p>
+
 <p class="p7"><span class="s1">Palestra proferida no “Encristus 2014”, realizado na Comunidade Canção Nova, em Cachoeira Paulista/SP, nos dias 14 a 16 de março.
 Transcrição, adaptação e montagem de texto: Luiz Roberto Cascaldi </span></p>

@@ -14,7 +14,7 @@ categories:
   - Desenvolvendo os dons proféticos
 tags:
   - edicao-75
-author:
+authors:
   - Ezequiel Netto
 wpcf-gn_post_autor:
   - ""

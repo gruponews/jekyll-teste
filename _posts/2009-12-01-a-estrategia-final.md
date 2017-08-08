@@ -26,7 +26,7 @@ tags:
   - Louvor
   - Oração
   - Palavra
-author:
+authors:
   - Carlos Araripe
 post_autor:
   - Carlos Araripe
@@ -52,7 +52,9 @@ Sun Tzu escreveu seus ensinamentos a mais de 2.000 anos, sem a mínima preocupa�
 O grande feito de McNeilly é relacionar os princípios de Sun Tzu com o atual momento dos negócios que é vivido pela humanidade: uma concorrência feroz a cada instante, seja por uma parcela do mercado, ou por um ponto percentual nas estatísticas de vendas; o medo atroz de fechar as portas em meio à crise; a guerra titânica pela hegemonia do mercado desencadeada pelas grandes marcas globais, etc.
 
 Este momento na verdade, reflete o próprio espírito do mundo, o espírito do presente século, onde as coisas raramente são solucionadas sem o advento da guerra, da destruição do outro, seja física ou moral. Espírito este que está alinhado com a incrível propensão do ser humano ao confronto ou tudo aquilo que diga respeito à oposição destruidora. Em todas as áreas da vida existe uma analogia relacionada à guerra, desde o provinciano “matar um leão a cada dia” ao best seller de All Ries, “Marketing de Guerra.”  A todo momento estamos associando nossa existência com o fenômeno da guerra.
+
 <h3>Vivemos em guerra!</h3>
+
 Mas esta situação não é um privilégio de nós que vivemos nestes derradeiros dias, nem foi Sun Tzu, o grande articulador das estratégias de guerra (diga-se de passagem que Von Clausewitz também notabilizou-se no século passado por seu tratado “Der Krieg”, traduzido para o português por “Da Guerra”, e que permanece até hoje como uma referência imprescindível ao assunto), essa é uma história muito antiga que se iniciou com o primeiro inimigo de que se tem notícia, o primeiro ser belicoso da criação de Deus: Lúcifer.
 
 Certamente Deus não elaborou sua obra de forma perfeita para depois se degladiar com ela, antes, fê-la com perfeição e harmonia para seu deleite e comunhão plena. Um ato de revolta de seu mais ilustre anjo, um atentado à sua própria glória, trouxe o desequilíbrio à criação de Deus e a guerra, o bem contra o mal, Deus contra o diabo. A partir de então, Deus tem usado deste expediente para consolidar seu propósito na face da terra, de forma a ser chamado no antigo testamento de “Senhor dos exércitos” (II Rs 3:14), de “Homem de guerra” (Ex 15:3), o que não significa necessariamente que ele tenha prazer nisto, mas que não medirá esforços para levar a cabo os seus planos eternos, de guerra em guerra.

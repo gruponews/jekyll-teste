@@ -18,7 +18,7 @@ categories:
   - Geral
 tags:
   - Arruda
-author:
+authors:
   - Pedro Arruda
 aktt_notify_twitter:
   - 'yes'

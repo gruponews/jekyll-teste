@@ -14,7 +14,7 @@ categories:
 tags:
   - edicao-71
   - Igreja
-author:
+authors:
   - Maurício Bronzatto
 aktt_notify_twitter:
   - 'yes'

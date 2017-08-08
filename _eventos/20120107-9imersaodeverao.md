@@ -65,7 +65,7 @@ categories:
   - Geral
 tags:
   - Louvor
-author:
+authors:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

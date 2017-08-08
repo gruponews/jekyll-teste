@@ -28,7 +28,7 @@ tags:
   - Sofrimento
   - Trevas
   - Vida
-author:
+authors:
   - Paulo Roberto da Silva
 post_autor:
   - Paulo Roberto da Silva
@@ -62,5 +62,6 @@ A nossa felicidade hoje tem que se basear na esperança e não nas circunstânci
 A carta aos romanos, 8:18, nos exorta dizendo que os sofrimentos do tempo presente não têm comparação alguma com a glória futura. Deus nos exorta a estarmos vivendo diariamente este versículo de fé. A verdadeira fé é o meio para estarmos gozando da felicidade em Jesus Cristo em qualquer situação, e não apenas um recurso para modificarmos as circunstâncias e termos mais conforto físico, financeiro, emocional, etc.
 
 O cristão pode ser feliz e também passar por momentos de sofrimento. O sofrimento não é falta de fé. Mais do que nos oferecer alívio no meio do sofrimento, Jesus nos oferece esperança. A felicidade que Deus nos oferece não é para que a vivamos apenas nas circunstâncias agradáveis, a Sua felicidade ultrapassa todo o nosso entendimento.
+
 <blockquote>Ainda que a figueira não floresça, nem haja fruto na vide, ainda que o produto da oliveira falhe, e os campos não produzam mantimento, ainda que as ovelhas sejam exterminadas, e nos currais não haja gado, todavia eu me alegrarei no senhor, exultarei no Deus da minha salvação. O Senhor é minha força; torna os meu pés como os das corças, e me faz andar sobre os lugares altos.
 <em>Profeta Habacuque 3:17-19</em></blockquote>

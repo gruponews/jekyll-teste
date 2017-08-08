@@ -15,7 +15,7 @@ categories:
   - Bases Cristãs
   - Vida
 tags: ""
-author:
+authors:
   - Wayne Jacobsen
 aktt_notify_twitter:
   - 'yes'

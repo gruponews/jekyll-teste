@@ -11,7 +11,7 @@ permalink: audioevideo/orando-vencer-divisao
 published: true
 categories: ""
 tags: ""
-author:
+authors:
   - Rui Luis Rodrigues
 wpcf-gn_audiovideo_data:
   - "1377388800"

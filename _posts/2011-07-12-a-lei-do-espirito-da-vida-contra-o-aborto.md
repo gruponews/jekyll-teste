@@ -15,7 +15,7 @@ published: true
 categories:
   - Artigos
 tags: ""
-author:
+authors:
   - Mauricio Pontello
 aktt_notify_twitter:
   - 'no'

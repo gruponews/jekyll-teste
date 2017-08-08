@@ -28,7 +28,7 @@ tags:
   - Vazio
   - Vida
   - Voz
-author:
+authors:
   - Ailton Jacob de Oliveira
 post_autor:
   - Ailton Jacob de Oliveira

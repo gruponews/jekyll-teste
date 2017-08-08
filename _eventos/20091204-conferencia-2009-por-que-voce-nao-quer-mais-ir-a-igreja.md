@@ -88,7 +88,7 @@ categories:
   - Geral
 tags:
   - Wayne Jacobsen
-author:
+authors:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'no'

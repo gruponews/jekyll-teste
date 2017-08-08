@@ -23,7 +23,7 @@ tags:
   - Templo
   - Visão
   - Vontade
-author:
+authors:
   - Pedro Arruda
 post_autor:
   - Pedro Arruda

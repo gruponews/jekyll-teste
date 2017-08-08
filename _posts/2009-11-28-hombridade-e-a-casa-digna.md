@@ -26,7 +26,7 @@ tags:
   - Influência
   - Pastoreio
   - Prestígio
-author:
+authors:
   - Pedro Arruda
 post_autor:
   - Pedro Arruda

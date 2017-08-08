@@ -17,7 +17,7 @@ published: true
 categories:
   - Artigos
 tags: ""
-author:
+authors:
   - Ezequiel Netto
 aktt_notify_twitter:
   - 'yes'

@@ -19,7 +19,7 @@ categories:
   - Igreja
 tags:
   - Hugo
-author:
+authors:
   - Hugo
 wpcf-gn_post_autor:
   - Hugo

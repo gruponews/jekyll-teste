@@ -28,7 +28,7 @@ tags:
   - Servir
   - Suportar
   - Tristeza
-author:
+authors:
   - Letícia França
 post_autor:
   - Letícia França

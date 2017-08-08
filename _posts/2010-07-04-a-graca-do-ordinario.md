@@ -17,7 +17,7 @@ categories:
   - Artigos
   - Igreja
 tags: ""
-author:
+authors:
   - Ricardo Barbosa de Sousa
 wpcf-gn_post_autor:
   - Ricardo Barbosa de Sousa

@@ -17,7 +17,7 @@ published: true
 categories:
   - Notícias
 tags: ""
-author:
+authors:
   - Equipe GrupoNews
 dsq_thread_id:
   - "2861238678"
@@ -32,11 +32,13 @@ Com a correria do dia-a-dia, como fazer isso nos tempos atuais?
 Por que não separar um tempo específico para isso, num ambiente propício e agradável?
 
 O Encontro de evangelismo tem este intuito. Num final de semana no CEVA – Centro de Eventos Vale da Águia, deixamos todas as preocupações de lado e nos voltamos ao que Deus quer comunicar com suas boas novas.Pessoas encontram-se com o criador de todas as coisas, um Deus sedento em amá-las.
+
 <blockquote>O evangelho é que desvenda os nossos olhos
 E desamarra todo nó que já se fez
 Porém, ninguém será liberto, sem que clame
 Arrependido aos pés de Cristo, o Rei dos reis.
 – Música “O Evangelho” do Grupo Logos</blockquote>
+
 Venha participar, traga os amigos!
 
 22 e 23 de agosto 2015

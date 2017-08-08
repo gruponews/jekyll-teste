@@ -12,7 +12,7 @@ published: false
 categories: ""
 tags:
   - Testemunho
-author:
+authors:
   - Claudia Porto
 wpcf-gn_audiovideo_data:
   - "1428710400"

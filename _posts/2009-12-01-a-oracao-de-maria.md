@@ -26,7 +26,7 @@ tags:
   - Oração
   - Ouvir
   - Palavra
-author:
+authors:
   - Pedro Arruda
 post_autor:
   - Pedro Arruda

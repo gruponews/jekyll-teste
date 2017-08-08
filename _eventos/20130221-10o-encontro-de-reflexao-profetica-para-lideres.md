@@ -80,7 +80,7 @@ event:
 categories: ""
 tags:
   - deus
-author:
+authors:
   - Revista Impacto
 wpcf-gn_post_autor:
   - Revista Impacto

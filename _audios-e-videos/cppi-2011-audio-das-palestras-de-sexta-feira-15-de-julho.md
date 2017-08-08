@@ -17,7 +17,7 @@ published: true
 categories:
   - Publicações
 tags: ""
-author:
+authors:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'
@@ -56,7 +56,7 @@ wpcf-gn_post_autor:
 wpcf-gn_post_destaques:
   - nao_destaque
 amazonS3_cache:
-  - 'a:4:{s:116:"//www.gruponews.com.br/wp-content/uploads/2011/07/HaroldoWalker15072011manhaa.mp3|titles=HaroldoWalker15072011manhaa";a:1:{s:9:"timestamp";i:1501618654;}s:116:"//www.gruponews.com.br/wp-content/uploads/2011/07/RobertoWalker15072011manhaa.mp3|titles=RobertoWalker15072011manhaa";a:1:{s:9:"timestamp";i:1501618654;}s:99:"//www.gruponews.com.br/wp-content/uploads/2011/07/Eliasafde-assis15072011tarde.mp3|titles=Eliasafde";a:1:{s:9:"timestamp";i:1501618654;}s:118:"//www.gruponews.com.br/wp-content/uploads/2011/07/AriadnaOliveira15072011Noite.mp3|titles=AriadnaOliveira15072011Noite";a:1:{s:9:"timestamp";i:1501618654;}}'
+  - 'a:4:{s:116:"//www.gruponews.com.br/wp-content/uploads/2011/07/HaroldoWalker15072011manhaa.mp3|titles=HaroldoWalker15072011manhaa";a:1:{s:9:"timestamp";i:1501942387;}s:116:"//www.gruponews.com.br/wp-content/uploads/2011/07/RobertoWalker15072011manhaa.mp3|titles=RobertoWalker15072011manhaa";a:1:{s:9:"timestamp";i:1501942387;}s:99:"//www.gruponews.com.br/wp-content/uploads/2011/07/Eliasafde-assis15072011tarde.mp3|titles=Eliasafde";a:1:{s:9:"timestamp";i:1501942387;}s:118:"//www.gruponews.com.br/wp-content/uploads/2011/07/AriadnaOliveira15072011Noite.mp3|titles=AriadnaOliveira15072011Noite";a:1:{s:9:"timestamp";i:1501942387;}}'
 dsq_thread_id:
   - "5943156670"
 post_date: 2011-07-16 23:55:53

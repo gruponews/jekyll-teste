@@ -12,7 +12,7 @@ published: true
 categories:
   - Artigos
 tags: ""
-author:
+authors:
   - Pe. Inácio José do Vale
 aktt_notify_twitter:
   - 'no'

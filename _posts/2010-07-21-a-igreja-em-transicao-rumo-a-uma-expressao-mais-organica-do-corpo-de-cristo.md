@@ -46,7 +46,7 @@ tags:
   - pessoa
   - ser
   - tanque
-author:
+authors:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

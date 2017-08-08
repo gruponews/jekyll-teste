@@ -61,7 +61,7 @@ event:
   recurrence_rsvp_days: null
 categories: ""
 tags: ""
-author:
+authors:
   - Equipe CPP Modular
 wpcf-gn_post_autor:
   - ""

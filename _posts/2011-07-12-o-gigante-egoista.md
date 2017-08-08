@@ -12,7 +12,7 @@ published: true
 categories:
   - Artigos
 tags: ""
-author:
+authors:
   - Oscar Wilde
 aktt_notify_twitter:
   - 'no'

@@ -16,7 +16,7 @@ permalink: >
 published: true
 categories: ""
 tags: ""
-author:
+authors:
   - Pedro Arruda
 aktt_notify_twitter:
   - 'yes'

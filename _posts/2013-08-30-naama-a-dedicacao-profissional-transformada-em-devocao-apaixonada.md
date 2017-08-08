@@ -14,7 +14,7 @@ categories:
   - Artigos
 tags:
   - edicao-76
-author:
+authors:
   - Maurício Bronzatto
 wpcf-gn_post_autor:
   - ""

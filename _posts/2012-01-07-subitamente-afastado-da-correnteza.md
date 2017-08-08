@@ -14,7 +14,7 @@ categories:
   - Artigos
 tags:
   - edicao-71
-author:
+authors:
   - Paulo Roberto da Silva
 aktt_notify_twitter:
   - 'yes'

@@ -16,7 +16,7 @@ categories:
   - Artigos
   - Vida
 tags: ""
-author:
+authors:
   - Maurício Bronzatto
 wpcf-gn_post_autor:
   - Maurício Bronzatto

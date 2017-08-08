@@ -13,7 +13,7 @@ categories:
   - Família
 tags:
   - edicao-49
-author:
+authors:
   - Ezequiel Netto
 dsq_thread_id:
   - "3004332915"
@@ -24,7 +24,9 @@ post_date: 2014-09-09 22:31:23
 Na realidade, Deus vai semeando a boa semente, e o inimigo semeando sementes ruins, ou tentando destruir as boas sementes de Deus. Isso desde a fundação do mundo. No ambiente cristão, não fique admirado do fato de muitos líderes estarem mais alinhados com essas estratégias do inimigo em destruir as sementes e matar os sonhos que Deus nos dá do que em atuar regando, adubando e retirando ervas daninhas para que o propósito de Deus se cumpra em sua vida, com toda plenitude.
 
 Como o ser humano, tanto individualmente (Sl 8.2) como em família (Ml 4.6), tem um papel crucial na vitória de Deus sobre o reino das trevas, não é de admirar que exista um ataque maciço do inimigo em destruir essas armas que Deus tem contra ele.
+
 <h2>“Macho e fêmea os criou”</h2>
+
 Deus criou o ser humano, Adão e Eva, com diferenças sexuais em todas as esferas, como parte de suas estratégias em cumprir seus planos na terra. O homem e a mulher tinham funções complementares nos propósitos de Deus. Existem diferenças psíquicas determinadas pela sexualidade, no modo de cada qual se relacionar socialmente, em suas atitudes e também nas disposições naturais. Não existe um sexo que seja mais inteligente que outro, nem que seja mais capaz, mais digno ou de maior valor que o outro. As diferenças são de ordem psicológica e comportamental, fazendo com que um sexo seja mais adequado para uma atividade do que outro.
 
 O homem, ao tomar atitudes e decisões, tem a característica de compartimentalizar suas emoções, separando-as de seu intelecto ou corpo, considerando ou anulando uma dessas partes. Ora ele age só emocionalmente, ora só racionalmente. A mulher já funciona em unidade de personalidade, entrelaçando seu coração, intelecto e seu corpo, desenvolvendo suas capacidades de forma mais harmoniosa. Ao tomar uma decisão, julga e reage como essa afetaria a todo o seu ser, sendo também mais sensível para situações concretas.
@@ -34,7 +36,9 @@ O homem é mais abstrato, visionário e empreendedor, orientando-se para o estab
 Apenas gerando confusões nesta área de diferenciação sexual, o inimigo consegue causar grandes estragos na sociedade e família. Quando os papéis de cada um são confundidos ou debilitados, a família vai perdendo a unidade, sua ordem e estabilidade. O homem tem suas habilidades e emoções distorcidas, o que influencia seus relacionamentos sociais; a mulher vai-se ocupando cada vez mais em atividades fora de casa, passando a assumir responsabilidades masculinas, chegando até mesmo a competir com o homem, que já não atua mais como cabeça da família.
 
 O sinergismo proporcionado pela união correta do marido e da mulher se transforma em uma competição entre os dois, que passam a disputar entre si, enfraquecendo-se e esquecendo-se que o verdadeiro inimigo não é o cônjuge, e sim o diabo. Desde a nossa infância, com as tradicionais disputas entre meninos e meninas, somos introduzidos nesta famosa “guerra dos sexos” – eterna competição entre aqueles que deveriam, juntos, combater o inimigo comum, mas que se distraem por seis mil anos pelejando entre si. Enquanto disputamos entre si, o inimigo fica livre para atuar onde quiser.
+
 <h2>Influências da sociedade tecnológica sobre a família</h2>
+
 Desde a criação, a raça humana veio-se estruturando nos modelos da sociedade primitiva e, logo depois, no que chamamos de sociedade tradicional familiar, sem grandes alterações por milhares de anos, até o séc. XVII. A estrutura era relacional, tendo a família como unidade social básica. A pessoa era aceita pelo que era, e não pelo que poderia produzir. Quando alguém não tinha aptidão para uma atividade, passava para uma outra, visando conservar o relacionamento. Dessa forma, amava-se a pessoa, que era insubstituível, pois fazia parte de um compromisso que incluía todos os aspectos de sua vida. Tanto o Velho como o Novo Testamento se desenvolveram nesse modelo social.
 
 A partir da Revolução Industrial, as bases da sociedade mudaram por completo. As metas e os projetos passaram a ser valorizados no lugar do indivíduo. Cada pessoa passa a valer pelo que pode produzir ou contribuir para alcançar as metas. Os relacionamentos passam a se estruturar para o desenvolvimento de determinados projetos, e terminam quando a tarefa acaba. Antes, amavam-se as pessoas e usavam-se as coisas. A partir daí, as coisas passaram a ser amadas e as pessoas, usadas.
@@ -44,7 +48,9 @@ A família segue ainda sendo a unidade básica da vida social, mas sua dinâmica
 Os vínculos entre os pais e filhos ficam cada vez mais debilitados. Os pais influenciam cada vez menos a vida dos filhos. A esposa, cada vez mais distante das atividades do lar, cumpre um papel cada vez menos importante na vida de sua família. Tem menos filhos e, para não ficar muito dependente emocional e financeiramente de seu marido (que pode abandoná-la ou falecer), não tem outra alternativa a não ser preparar-se para se defender sozinha na vida.
 
 Nos relacionamentos, o padrão tecnológico de vida tem causado muitos transtornos sociais, emocionais e psicológicos. Existe uma grande carência de amor e vida comunitária. São comuns as histórias de pessoas curadas emocionalmente por receberem um simples abraço. As pessoas estão cada vez mais solitárias e incompreendidas. Cresce a insegurança pessoal, e os vínculos e compromissos estão menos estáveis; as amizades baseadas em gostos pessoais (em torno de preferências musicais, um hobby, um esporte) são superficiais e de pouca duração. Há uma crescente falta de disciplina. Hoje existem muitas maneiras e cursos para nos capacitar a desenvolver certas tarefas, mas não para nos ensinar a viver melhor.
+
 <h2>O que caberia à igreja fazer, diante de tamanho caos?</h2>
+
 Como os escritos do Velho e Novo Testamento consideram um contexto onde a estrutura social é relacional, torna-se impossível contemplar as instruções de Jesus sob o prisma de uma mente tecnológica. O sermão do monte, orientações sobre divórcio, disciplina de filhos, perdão perdem totalmente o sentido neste novo modelo social. Precisamos compreender que, para a igreja ser autêntica, é imperativo que nossas relações não tenham como base o funcional (evangelismo, louvor, seminários etc.). O amor fraternal precisa ser a base para desenvolvermos relacionamentos e qualquer atividade na igreja.
 
 A igreja e as atividades paraeclesiásticas de apoio (missões, evangelismo, obras sociais etc.) não podem ser vistas com um olhar empresarial. O lar deve ser o centro de onde surgirão os ministérios, serviços, cuidados e demais atividades. Todo ensinamento deve ser transmitido dentro de uma relação de convivência entre pessoas e famílias. A igreja deve apoiar a família e não competir com ela pela lealdade de seus membros. Famílias bem relacionadas entre si representam a força e proporcionam a coesão da comunidade cristã.
@@ -52,7 +58,9 @@ A igreja e as atividades paraeclesiásticas de apoio (missões, evangelismo, obr
 A família é a base da comunidade, e outros grupos devem atuar no sentido de completar e fortalecer a própria família (grupo de homens, de mulheres, de casais, que acabam fortalecendo as funções de ambos). Uma igreja é forte se composta por famílias fortes. Por esse motivo a família é tão atacada pelo diabo.
 
 Os conceitos de liderança e ministérios também precisam ser revistos e ampliados. Além dos pastores e dos que ensinam, deve haver espaço para outros dons e ministérios, que desempenharão tarefas de curta ou longa duração, líderes carismáticos (com ministérios específicos) e também líderes de relacionamentos, que são aqueles com habilidade em unir pessoas, consolar, animar, infundir confiança (têm “dom de gente”). Dessa forma, as pessoas podem ser valorizadas e têm espaço para expressar seus dons, na medida de sua fé.
+
 <h2>Protegendo a concepção dos dons</h2>
+
 É muito comum observarmos muitos dons sufocados ou até mesmo totalmente extintos por não estarem em sintonia com o estilo ou linha doutrinária desta ou aquela denominação. Não podemos esquecer que o motivo principal da nação de Israel ser levada ao cativeiro foram os sacrifícios de inocentes praticados pelo rei Manassés (2 Rs 21). E hoje não estamos longe do transbordar do cálice da ira de Deus sobre sua própria igreja, devido aos ministérios e dons sacrificados ou abortados antes mesmo de seu nascimento. Essa é uma tática eficaz do diabo, pois é muito mais fácil e tranqüilo matar um apóstolo, um profeta, um evangelista quando jovem, do que esperar derrotá-lo após o amadurecimento. Não seria mais fácil matar o menino Jesus do que, após trinta anos, convencê-lo a adorar ao diabo? É hora de acabarmos com os abortos clandestinos em nossas igrejas.
 
 As mulheres precisam ser honradas, e os valores femininos, fortalecidos. Assim como na família, a igreja também precisa dos critérios e sensibilidades do ministério feminino. Podem ser estabelecidas tarefas e atividades de acordo com o sexo, reduzindo o espírito competitivo e fortalecendo a imagem e valor de uns e outros.
@@ -62,11 +70,13 @@ Devemos desenvolver atividades de conduta social e comportamental (noivado, vest
 No ambiente familiar, as mães e filhas podem aprender e desenvolver tarefas e trabalhos em conjunto, e os maridos têm o papel de incentivá-las e elogiar. Os pais também podem desenvolver atividades de manutenção e reparos com os meninos, podendo ensinar suas habilidades ao próprio filho, ou outro varão ensinaria a um grupo de jovens na igreja. Para Deus, não existe o que aceitamos naturalmente como “conflito de gerações”. As visitas de cunho estritamente espiritual podem ser feitas pelo pai com o filho, a mãe com a filha, ou pelo casal. O amor ao próximo e bons hábitos cristãos podem e devem ser ensinados no ambiente familiar.
 
 Na comunidade, podemos estabelecer grupos musicais, de expressão corporal, teatrais e de outras manifestações artísticas, femininos e masculinos, utilizando vários estilos e criatividades. Podemos realizar acampamentos só de pais e filhos, ou de mães e filhas. Realizar churrascos e outros encontros entre duas ou mais famílias. Desenvolver ministérios que aproveitem as habilidades próprias das mulheres, como com mães solteiras e separadas, crianças pobres, órfãos, visitas a hospitais e asilos (Tg 1.27). Outras atividades também podem ser desenvolvidas com os jovens e homens. Muitas pessoas têm sido despertadas para um ministério com prostitutas e homossexuais. Alguns irmãos podem oferecer debates e conferências acerca das carreiras profissionais, e também de outros assuntos de interesse comum.
+
 <h2>Considerações finais</h2>
+
 Porém, para se evitar o perigo de um espírito legalista, toda prática nova precisa passar por um processo de conscientização na alma do povo, para que se proporcionem mudanças significativas tanto de ordem moral quanto espiritual. Devemos estabelecer um tempo experimental, após o qual precisaremos de alguns ajustes na nova atividade. Qualquer tipo de imposição arbitrária, de cima para baixo, sem diálogo, comprometeria todo o processo transformador.
 
 Peter Wagner suspeita que a igreja não consegue sobreviver, do jeito que está, por mais dez anos. Precisamos nos modernizar, não em adotar os costumes mundanos da atualidade, mas nos preparando para melhor cumprirmos nosso papel diante dos novos problemas da humanidade.
 
----
+<hr />
 
 Steve Thompson, do ministério <a href="http://www.morningstarministries.org/">Morning Star</a> teve uma visão sobre o Brasil, em que Deus lhe falava que algumas pessoas eram como árvores plantadas em solo muito fértil, crescendo com todo vigor. Mas uma grande quantidade de pessoas eram como aquelas plantinhas que nascem na rachadura de uma pedra, sem água, sem adubo, mas que deveriam buscar seus nutrientes diretamente de Deus (alimentar-se do maná que desce diretamente dos céus), e não entregar os pontos jamais, deixando-se morrer, mas mantendo-se firmes e com vigor. Provavelmente você se encontra nesse grupo. Não se renda jamais. Lute por sua família. Busque a Deus em favor da igreja. Deus conta contigo.

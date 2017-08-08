@@ -25,7 +25,7 @@ tags:
     Por que Você Não Quer Mais Ir À
     Igreja?
   - sem igreja
-author:
+authors:
   - Ezequiel Netto
 aktt_notify_twitter:
   - 'yes'

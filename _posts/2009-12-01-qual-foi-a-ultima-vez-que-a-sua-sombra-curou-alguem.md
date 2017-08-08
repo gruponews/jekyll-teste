@@ -30,7 +30,7 @@ tags:
   - Poder
   - Resposta
   - Sombra
-author:
+authors:
   - Maurício Bronzatto
 post_autor:
   - Mauricio Bronzatto

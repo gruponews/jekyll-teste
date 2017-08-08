@@ -11,7 +11,7 @@ permalink: audioevideo/perdao-condicionante-oracao
 published: true
 categories: ""
 tags: ""
-author:
+authors:
   - Harold Walker
 wpcf-gn_audiovideo_data:
   - "1377388800"

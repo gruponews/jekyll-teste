@@ -29,7 +29,7 @@ tags:
   - presença
   - Seguro
   - Vamos
-author:
+authors:
   - Ministério Ômega de Louvor
 post_autor:
   - Equipe Comunicação

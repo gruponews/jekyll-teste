@@ -17,7 +17,7 @@ published: true
 categories:
   - Publicações
 tags: ""
-author:
+authors:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'
@@ -58,7 +58,7 @@ wpcf-gn_post_destaques:
 dsq_thread_id:
   - "2802546048"
 amazonS3_cache:
-  - 'a:4:{s:116:"//www.gruponews.com.br/wp-content/uploads/2011/07/08AbnerioCabral19072011Manha.mp3|titles=AbnerioCabral19072011Manha";a:1:{s:9:"timestamp";i:1501671360;}s:108:"//www.gruponews.com.br/wp-content/uploads/2011/07/11JameNobre19072011Manha.mp3|titles=JameNobre19072011Manha";a:1:{s:9:"timestamp";i:1501671360;}s:115:"//www.gruponews.com.br/wp-content/uploads/2011/07/16RomiltonBatista19072011.mp3|titles=RomiltonBatista19072011Tarde";a:1:{s:9:"timestamp";i:1501671360;}s:116:"//www.gruponews.com.br/wp-content/uploads/2011/07/18JonatasWalker19072011Noite.mp3|titles=JonatasWalker19072011Noite";a:1:{s:9:"timestamp";i:1501671360;}}'
+  - 'a:4:{s:116:"//www.gruponews.com.br/wp-content/uploads/2011/07/08AbnerioCabral19072011Manha.mp3|titles=AbnerioCabral19072011Manha";a:1:{s:9:"timestamp";i:1502112213;}s:108:"//www.gruponews.com.br/wp-content/uploads/2011/07/11JameNobre19072011Manha.mp3|titles=JameNobre19072011Manha";a:1:{s:9:"timestamp";i:1502112213;}s:115:"//www.gruponews.com.br/wp-content/uploads/2011/07/16RomiltonBatista19072011.mp3|titles=RomiltonBatista19072011Tarde";a:1:{s:9:"timestamp";i:1502112213;}s:116:"//www.gruponews.com.br/wp-content/uploads/2011/07/18JonatasWalker19072011Noite.mp3|titles=JonatasWalker19072011Noite";a:1:{s:9:"timestamp";i:1502112213;}}'
 post_date: 2011-07-21 23:57:21
 ---
 Confira as palestras ministradas no dia 19 de julho no Curso Preparação Profética Intensivo 2011, que acontece até o dia 22 de julho em Sorocaba-SP.

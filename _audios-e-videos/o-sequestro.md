@@ -26,7 +26,7 @@ tags:
   - pré-adolescentes
   - sequestro
   - teatro
-author:
+authors:
   - Equipe da Juventude
 aktt_notify_twitter:
   - 'yes'

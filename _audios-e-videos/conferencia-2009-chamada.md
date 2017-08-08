@@ -21,7 +21,7 @@ tags:
   - fazer
   - Tempo
   - Wayne Jacobsen
-author:
+authors:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

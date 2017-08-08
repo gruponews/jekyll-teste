@@ -16,7 +16,7 @@ tags:
   - Mentira
   - Pecado
   - presença
-author:
+authors:
   - Luiz Lourenço Gonçalves
 wpcf-gn_post_autor:
   - ""

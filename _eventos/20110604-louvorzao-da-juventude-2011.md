@@ -62,7 +62,7 @@ tags:
   - edba
   - FUCA
   - teatro
-author:
+authors:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

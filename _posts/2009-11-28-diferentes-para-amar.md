@@ -26,7 +26,7 @@ tags:
   - Marginalizado
   - Necessidade
   - Verdade
-author:
+authors:
   - Pedro Arruda
 post_autor:
   - Pedro Arruda

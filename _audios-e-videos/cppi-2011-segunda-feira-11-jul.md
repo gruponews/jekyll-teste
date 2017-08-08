@@ -55,7 +55,7 @@ dsq_thread_id:
 wpcf-gn_audiovideo_data:
   - "1311206400"
 amazonS3_cache:
-  - 'a:4:{s:105:"//www.gruponews.com.br/wp-content/uploads/2011/07/Christopher-Walker-11072011manha.mp3|titles=Christopher";a:1:{s:9:"timestamp";i:1501657178;}s:114:"//www.gruponews.com.br/wp-content/uploads/2011/07/EduardoOliveira110711manha.mp3|titles=EduardoOliveira110711manha";a:1:{s:9:"timestamp";i:1501657178;}s:102:"//www.gruponews.com.br/wp-content/uploads/2011/07/Abnério-Cabral-11_07_2011_tarde.mp3|titles=Abnério";a:1:{s:9:"timestamp";i:1501657178;}s:108:"//www.gruponews.com.br/wp-content/uploads/2011/07/TonyFelicio1107201Noite.mp3|titles=TonyFelicio1107201Noite";a:1:{s:9:"timestamp";i:1501657178;}}'
+  - 'a:4:{s:105:"//www.gruponews.com.br/wp-content/uploads/2011/07/Christopher-Walker-11072011manha.mp3|titles=Christopher";a:1:{s:9:"timestamp";i:1501942387;}s:114:"//www.gruponews.com.br/wp-content/uploads/2011/07/EduardoOliveira110711manha.mp3|titles=EduardoOliveira110711manha";a:1:{s:9:"timestamp";i:1501942387;}s:102:"//www.gruponews.com.br/wp-content/uploads/2011/07/Abnério-Cabral-11_07_2011_tarde.mp3|titles=Abnério";a:1:{s:9:"timestamp";i:1501942387;}s:108:"//www.gruponews.com.br/wp-content/uploads/2011/07/TonyFelicio1107201Noite.mp3|titles=TonyFelicio1107201Noite";a:1:{s:9:"timestamp";i:1501942387;}}'
 post_date: 2011-07-14 08:00:07
 ---
 Confira as palestras ministradas no dia 11 de julho no Curso de Preparação Profética Intensivo 2011, que acontece até o dia 22 de julho em Sorocaba-SP.

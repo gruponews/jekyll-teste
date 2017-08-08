@@ -15,7 +15,7 @@ permalink: audioevideo/a-paternidade-na-minha-vida
 published: true
 categories: ""
 tags: ""
-author:
+authors:
   - Junior César
 wpcf-gn_audiovideo_data:
   - "1362787200"
@@ -27,7 +27,7 @@ wpcf-gn_post_autor:
 wpcf-gn_post_destaques:
   - destaque_novidade
 amazonS3_cache:
-  - 'a:2:{s:2:"//";i:3012;s:69:"//www.gruponews.com.br/wp-content/uploads/2013/03/003junior-macae.mp3";a:1:{s:9:"timestamp";i:1501451513;}}'
+  - 'a:2:{s:2:"//";i:3012;s:69:"//www.gruponews.com.br/wp-content/uploads/2013/03/003junior-macae.mp3";a:1:{s:9:"timestamp";i:1502112212;}}'
 post_date: 2013-03-23 08:00:52
 ---
 [audio:http://www.gruponews.com.br/wp-content/uploads/2013/03/003junior-macae.mp3]
