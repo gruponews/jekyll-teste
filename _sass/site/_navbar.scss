@@ -45,6 +45,10 @@
 			font-size:16px;
 			padding: 0.2rem 16px;
 		}
+    @include to(2) {
+      height: auto;
+      padding: 0;
+    }
 	}
 	.has-form {
 		//height: 48px;
@@ -64,4 +68,13 @@
   &:focus, &:hover {
     background: none;
   }
+}
+
+.nav {
+  &-item {
+    @include to(2) {
+      padding: 12px 0;
+    }
+  }
+
 }
