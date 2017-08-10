@@ -23,7 +23,7 @@ post_date: 2009-11-23 16:17:05
 
 <div class="events row">
 {% for evento in site.data.upcomingEvents %}
-  <div class="event col col-md-4"  itemscope itemtype="http://schema.org/Event">
+  <div class="event col-sm-1 col-md-4"  itemscope itemtype="http://schema.org/Event">
     {% assign date_format = site.date_format | default: "%-d.%m.%Y" %}
     <header class="event__header">
       <img src="{{evento.image-sq-m}}" class="img-fluid" alt="">
