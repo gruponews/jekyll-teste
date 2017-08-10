@@ -1,30 +1,35 @@
 <div class="navbar-collapse collapse" id="mainNavbar">
   <ul class="nav navbar-nav navbar-left">
-    <li class="">
+    <li class="nav-item">
       <a href="/">Home</a>
     </li>
-    <li class="">
+    <li class="nav-item">
       <a href="{{ "/quem-somos.html" | relative_url }}">Quem somos</a>
     </li>
-    <li class="">
-      <a href="/">Artigos</a>
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="/" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Artigos</a>
+      <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
     </li>
-    <li class="">
-      <a href="/">Publicações</a>
+    <li class="nav-item">
+      <a href="{{ "/publicacaoes.html" | relative_url }}">Publicações</a>
     </li>
-    <li class="">
-      <a href="/">Áudio e vídeo</a>
+    <li class="nav-item">
+      <a href="{{ "/audios-e-videos.html" | relative_url }}">Áudio e vídeo</a>
     </li>
-    <li class="">
+    <li class="nav-item">
       <a href="{{ "/eventos/" | relative_url }}">Eventos</a>
     </li>
-    <li class="">
-      <a href="/contato.html">Contato</a>
+    <li class="nav-item">
+      <a href="{{ "/contato.html" | relative_url }}">Contato</a>
     </li>
   </ul>
   <hr class="hidden-md hidden-lg hidden-sm" />
   <ul class="nav navbar-nav navbar-right">
-    <li class="">
+    <li class="nav-item">
       <a href="/ajuda">Ajuda</a>
     </li>
   </ul>
