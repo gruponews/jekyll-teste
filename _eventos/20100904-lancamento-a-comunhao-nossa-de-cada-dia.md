@@ -71,11 +71,30 @@ event:
   event_rsvp_time: 00:00:00
   event_rsvp_spaces: null
   recurrence_rsvp_days: null
+location:
+  location_id: "10"
+  location_slug: >
+    centro-de-eventos-do-museu-da-biblia-mubi
+  location_name: 'Centro de Eventos do Museu da Bíblia - MuBi'
+  location_owner: "2"
+  location_address: Av. Sebastião Davino dos Reis, 672
+  location_town: ' Jardim dos Camargos - Barueri'
+  location_state: 'São Paulo - Brasil'
+  location_postcode: null
+  location_region: null
+  location_country: BR
+  location_latitude: "-23.495562"
+  location_longitude: "-46.868668"
+  post_content: 'Centro de Eventos do Museu da Bíblia - MuBi - Avenida Pr. Sebastião Davino dos Reis, 672 - Jardim dos Camargos - Barueri - São Paulo - Brasil'
+  post_id: "2939"
+  blog_id: "0"
+  location_status: "1"
+  location_private: "0"
 categories:
   - Geral
 tags:
   - Arruda
-authors:
+author:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'

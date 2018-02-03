@@ -58,6 +58,24 @@ event:
   event_rsvp_time: 15:30:00
   event_rsvp_spaces: null
   recurrence_rsvp_days: null
+location:
+  location_id: "5"
+  location_slug: espaco-gruponews
+  location_name: Espaço GrupoNews
+  location_owner: "2"
+  location_address: Rua Padre Donizete Tavares de Lima, 143
+  location_town: Barueri
+  location_state: São Paulo
+  location_postcode: 06442-080
+  location_region: null
+  location_country: BR
+  location_latitude: "-23.513412"
+  location_longitude: "-46.879265"
+  post_content: Teste
+  post_id: "2218"
+  blog_id: "0"
+  location_status: "1"
+  location_private: "0"
 categories: ""
 tags: ""
 author: ""

@@ -56,13 +56,31 @@ event:
   event_rsvp_time: 00:00:00
   event_rsvp_spaces: null
   recurrence_rsvp_days: null
+location:
+  location_id: "9"
+  location_slug: teatro-fuca
+  location_name: Teatro Fuca
+  location_owner: "2"
+  location_address: Rua José Fernandes Teixeira, 510
+  location_town: Carapicuíba
+  location_state: São Paulo, Brasil
+  location_postcode: null
+  location_region: null
+  location_country: BR
+  location_latitude: "-23.531311"
+  location_longitude: "-46.841396"
+  post_content: null
+  post_id: "2932"
+  blog_id: "0"
+  location_status: "1"
+  location_private: "0"
 categories:
   - Geral
 tags:
   - edba
   - FUCA
   - teatro
-authors:
+author:
   - Equipe GrupoNews
 aktt_notify_twitter:
   - 'yes'
