@@ -55,21 +55,14 @@ amazonS3_cache:
 post_date: 2009-12-01 21:07:58
 ---
 <h3>A contribuição e a natureza de Deus</h3>
-
 A contribuição não é algo natural do ponto de vista humano, mas faz parte da natureza de Deus. Doar é próprio de Deus. Como prova máxima, Ele nos deu seu Filho amado. Mesmo sendo rico, Jesus se fez pobre por nós para que nos tornássemos ricos. A igreja primitiva praticou esse princípio com muita diligência. Enquanto nos recusamos a dar, não estamos compartilhando do espírito de Cristo, mas manifestando a nossa carnalidade.
-
 <h3>Motivo para contribuir</h3>
-
 Se somos completamente de Deus, devemos ter o espírito de doação também. Isso requer de nós que estejamos muito além da obrigação legal dos dízimos do Antigo Testamento, pois, de acordo com o Novo Testamento, não cabe apenas dar a décima parte, mas tudo. Devemos estar dispostos a nos tornarmos pobres para que outros sejam enriquecidos, pois esta é a razão para a contribuição.
-
 <h3>O que é contribuir</h3>
-
 Há três palavras, ligadas à contribuição, que nos ajudam a defini-la: Graça, Bênção e Comunhão.
 
 É através da contribuição que manifestamos a graça de Deus. Esta, por sua vez, pode ser comparada com a bênção de Deus. Enquanto que para nós bênção significa receber, para Deus é sinônimo de dar. Entender isso é entender igualmente que mais alegria é dar do que receber. Abençoaremos e seremos abençoados. Contribuição também está ligada à comunhão, uma vez que não se trata apenas de administrar particularmente um bem pessoal, mas de disponibilizá-lo à administração de Deus através dos irmãos.
-
 <h3>Como contribuir</h3>
-
 <strong>1. Dê a si mesmo ao Senhor</strong>
 
 Esta é a primeira coisa que Deus requer de nós. Ele não aceita qualquer coisa e de qualquer modo, mas somente aquilo que vem dele mesmo. Assim, para que nossa oferta seja válida, temos que primeiro nos dar a ele. Uma vez que somos dele, não julgaremos que alguma coisa nos pertença, mas que apenas está sob nossa mordomia e que o Senhor é o nosso verdadeiro proprietário, bem como das coisas que estão, eventualmente, conosco.

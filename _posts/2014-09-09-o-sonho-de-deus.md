@@ -26,7 +26,7 @@ wpcf-gn_post_destaques:
   - destaque_novidade
 post_date: 2014-09-09 22:41:41
 ---
-Em João 17, temos registrado um momento muito especial da comunhão de Jesus com seus discípulos. Jesus ora ao Pai para que lhe seja concedida novamente a glória de que gozava diante dele antes que houvesse mundo (v.5) e para que também os seus discípulos fossem feitos igualmente participantes dessa glória (v.22).
+Em João 17, temos registrado um momento muito especial da comunhão de Jesus com seus discípulos. Jesus ora ao Pai para que lhe seja concedida novamente a glória de que gozava diante dele antes que houvesse mundo (v. 5) e para que também os seus discípulos fossem feitos igualmente participantes dessa glória (v. 22).
 
 O propósito eterno de Deus ao criar o homem foi estabelecer comunhão íntima com este. O Éden funcionaria como um laboratório de comunhão, uma espécie de plano-piloto que, doravante, deveria ser aplicado a toda a terra. Os princípios de governo aprendidos com o Criador diariamente no jardim, com base em comunhão, deveriam ser estendidos, fazendo recuar o reino do inimigo e submetendo novamente a terra a Deus.
 

@@ -65,12 +65,10 @@ Precisamos de arrependimento de nosso egoísmo e buscar a santificação com out
 
 Sob o enfoque da segunda milha, o que podemos reconsiderar sobre o nosso conceito de vida cristã, quanto a:
 
-<ul>
-<li>Sofrimento?</li>
-<li>Oração?</li>
-<li>Contribuição financeira?</li>
-<li>Tempo para as coisas de Deus?</li>
-<li>Tempo para a casa de Deus?</li>
-</ul>
+- Sofrimento?
+- Oração?
+- Contribuição financeira?
+- Tempo para as coisas de Deus?
+- Tempo para a casa de Deus?
 
 Em quais conceitos ou áreas eu preciso de arrependimentos? Como podemos obter o arrependimento genuíno?

@@ -39,12 +39,10 @@ Diante da incerteza dele, a boa senhora lhe ofereceu emprego na empresa de um am
 Durante quase um ano o rapaz viveu naquele quarto emprestado e comendo as refeições que ela lhe preparava, enquanto continuava trabalhando na firma do amigo da bondosa senhora.
 
 Numa noite, ela o chamou para conversarem, na sala. Sentada em frente a ele, perguntou:
-
 <ul>
-    <li>Você se lembra do que lhe falei no dia do julgamento, no tribunal?</li>
-    <li>Claro que sim. Jamais esquecerei.</li>
+	<li>Você se lembra do que lhe falei no dia do julgamento, no tribunal?</li>
+	<li>Claro que sim. Jamais esquecerei.</li>
 </ul>
-
 – Bem, cumpri exatamente o que prometi naquele dia. Eu não queria que o garoto que sem razão matou meu filho continuasse vivo neste mundo. Eu desejei profundamente que ele morresse. Esse foi o motivo que me fez arrumar-lhe um trabalho e permitir que você morasse na minha casa. Foi o modo que encontrei para mudá-lo. E aquele garoto de antes não existe mais, o assassino se foi, e você, se quiser, pode continuar aqui. Eu tenho um quarto vazio e gostaria de adotá-lo, se você concordar.
 
 Esse é o jeito correto de se vingar de alguém que nos tenha feito um grande mal. Toda pessoa, se receber gotas de amor, acabará reencontrando um sentido para sua vida. Não existe ninguém irrecuperável. O amor é a força que tudo pode mudar. O amor é o meio de matar o homem velho, viva ele em nosso coração ou na vida de alguma pessoa.

@@ -48,7 +48,6 @@ wpcf-gn_post_destaques:
 post_date: 2011-01-15 23:21:30
 ---
 <h3>Um adorável passeio pelo mundo de Nárnia</h3>
-
 <em>Este artigo é o primeiro de uma sequência de sete sobre “As Crônicas de Nárnia”, criação do escritor irlandês C.S.Lewis, que teve, recentemente, três episódios da série adaptados para o cinema: “O leão, a feiticeira e o guarda-roupa”, “Príncipe Caspian” e “A Viagem do Peregrino da Alvorada”. </em>
 
 “Nárnia, Nárnia, desperte! Ame! Pense! Fale! Que as árvores caminhem! Que os animais falem! Que as águas sejam divinas!”. Assim, com sopro prolongado e tépido, Aslam¹, chama à vida um lindo e agradável mundo, onde as árvores têm vida e a magia dá aos animais o poder da fala e uma alma. Onde os faunos, centauros, níades e sátiros existem.
@@ -61,9 +60,7 @@ Foi animador e impressionante assistir ao filme que estreou em junho de 2008 no 
 
 Voltando aos livros: eles permitem leitura fácil e cativante. Já li toda a série, e alguns dos volumes duas vezes; cada qual em menos de uma semana. Comecei a leitura pelo <em>Cadeira de Prata</em>¹¹, após ter assistido ao primeiro filme <em>O leão, a feiticeira e o guarda-roupa</em>, e logo me interessei pela leitura, o que fiz rapidamente. Utilizando a ordem seqüencial e não a de lançamento das <em>Crônicas</em>, pretendo selecionar alguns episódios para retratá-los aqui no site, com os quais espero atrair nosso público à leitura completa. Começaremos, portanto, com <em>O Sobrinho do mago</em>.
 Feitas as devidas apresentações, convido-o a ingressar no mundo de Nárnia. Bem-vindo a bordo!
-
 <h3>“O sobrinho do mago”</h3>
-
 O primeiro livro, escrito em 1955, é protagonizado por duas crianças, Digory e Polly, enviadas a “outros mundos” pelo tio de Digory, um mago que pretende testar suas fórmulas mágicas. De forma malandra, tio André envia as crianças e desconhece as confusões que estão por vir a partir daí. É assim que, mais tarde, acaba por se deparar com uma figura bonita e estranha em seu próprio quarto.
 
 Este livro, além da existência de O Ermo do Lampião e do guarda-roupa¹² que leva outras crianças ao reino de Aslam anos depois, descreve também a criação de Nárnia. É muito bonito e interessante imaginar a maneira poética como Aslam vai modelando o novo mundo. Assim acabamos por nos lembrar da criação de nosso próprio planeta que, como Nárnia, do disforme tomou forma. Ao som da voz doce de Aslam, o mundo vai vindo à luz, e o nada vai ganhando beleza e esplendor.

@@ -24,7 +24,8 @@ wpcf-gn_post_destaques:
   - destaque_novidade
 post_date: 2014-09-09 14:26:11
 ---
-<p class="small">Este é o 3º artigo que faz parte de uma série deste autor sobre igreja relacional. Wayne Jacobsen é escritor e palestrante. Ficou bastante conhecido no Brasil com a publicação dos livros “Por que você não quer mais ir à igreja?” e “Deus me ama”, ambos pela Editora Sextante. Em dezembro de 2009, esteve em nosso país para uma conferência em que compartilhou o que significa viver diariamente como um filho amado do Pai e como isso influencia a maneira de nos relacionarmos uns com os outros. <a href="http://www.gruponews.com.br/igreja/vivendo-como-igreja-relacional">Clique aqui para ler os artigos anteriores</a>.</p>
+<p class="small">Este é o 3º artigo que faz parte de uma série deste autor sobre igreja relacional. Wayne Jacobsen é escritor e palestrante. Ficou bastante conhecido no Brasil com a publicação dos livros “Por que você não quer mais ir à igreja?” e “Deus me ama”, ambos pela Editora Sextante. Em dezembro de 2009, esteve em nosso país para uma conferência em que compartilhou o que significa viver diariamente como um filho amado do Pai e como isso influencia a maneira de nos relacionarmos uns com os outros. <a href="http://www.gruponews.com.br/igreja/vivendo-como-igreja-relacional">Clique aqui para ler os artigos anteriores</a></p>
+
 Não importa o quão independentes nós humanos podemos tentar ser, há momentos em que não damos conta e precisamos compartilhar com outros.
 Momentos especiais são como estes. Há poucos meses atrás, eu e Sara caminhávamos na praia, assistindo a um casal de golfinhos brincar e surfar nas ondas. Não conseguimos deixar de apontá-los para alguns estranhos e ficamos lá compartilhando aquele momento com eles. Isto foi tão inacreditável que eu imagino que contamos isso para quase todas as pessoas que encontramos.
 
