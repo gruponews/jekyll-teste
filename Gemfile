@@ -30,4 +30,5 @@ group :jekyll_plugins do
    gem "jekyll-seo-tag"
    # gem 'octopress-minify-html'
    gem "jekyll-assets"
+   gem 'jekyll-maps'
 end

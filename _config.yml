@@ -29,6 +29,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-maps
   # - octopress-minify-html
 exclude:
   - Gemfile
@@ -46,3 +47,7 @@ collections:
     permalink: /:path/
   category:
     output: true
+
+maps:
+  google:
+    api_key: AIzaSyDgC5-QWvMxOKj-XgrZ3Kn5wHjXMFi0PHg
