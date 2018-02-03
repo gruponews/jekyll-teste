@@ -38,7 +38,7 @@ small, .font_small {font-size: 0.75em;}
 a {
 	color: $darkcolor;
 	&:hover {
-		color: $color-primary;
+		color: theme-color("primary");
 	}
 }
 

@@ -1,0 +1,22 @@
+.card {
+  &-deck {
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+
+    .card {
+      margin: 0 15px;
+      padding: 0;
+    }
+
+    h3 {
+      margin: 0;
+      font-size: 1.5em;
+    }
+    a {
+      color: $black;
+    }
+  }
+}
+
+

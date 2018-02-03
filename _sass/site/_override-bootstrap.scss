@@ -1,45 +1,85 @@
+.navbar {
+  &-main {
+    box-shadow: 0 1px #ececec;
+    margin-bottom: 0;
+  }
+  &-header {
+    @include to(2) {
+      display: inline-block;
+    }
+  }
+  &-brand {
+    height: 65px;
+    line-height: 42px;
+    @include to(2) {
+      height: 60px;
+      line-height: 40px;
+    }
+    img {
+      //height: 50px;
+      width: auto;
+      display: inline-block;
+      @include to(2) {
+        //height: 30px;
+      }
+    }
+    .section-name {
+      color: theme-color("primary");
+      line-height: 1;
+      vertical-align: bottom;
+      font-size: 32px;
+      font-weight: 400;
+      padding-bottom: 1px;
+      @include to(2) {
+        height: 30px;
+        font-size: 20px;
+      }
+    }
+  }
+  .icon-bar {
+    background-color: theme-color("primary");
+  }
+  &-nav>li>a {
+    // height: 65px;
+    // padding: 24px 15px;
+    padding-left: .5em;
+    padding-right: .5em;
+    &.btn {
+      height: 25px;
+      font-size: 16px;
+      padding: 0.2rem 16px;
+    }
+    @include to(2) {
+      height: auto;
+      padding: 0;
+    }
+  }
+  .has-form {
+    //height: 48px;
+    //line-height: 48px;
+    //padding-top: 20px;
+    padding-left: 16px;
+    padding-right: 16px;
+    @include to(2) {
+      padding-top: 20px;
+      display: inline-block;
+      float: left;
+    }
+  }
+}
 
-// Buttons
-.btn-primary {
-  @include button-variant($btn-primary-color, $btn-primary-bg, $btn-primary-border-color);
-}
-.btn-secondary {
-  @include button-variant($btn-secondary-color, $btn-secondary-bg, $btn-secondary-border-color);
-}
-.btn-info {
-  @include button-variant($btn-info-color, $btn-info-bg, $btn-info-border-color);
-}
-.btn-success {
-  @include button-variant($btn-success-color, $btn-success-bg, $btn-success-border-color);
-}
-.btn-warning {
-  @include button-variant($btn-warning-color, $btn-warning-bg, $btn-warning-border-color);
-}
-.btn-danger {
-  @include button-variant($btn-danger-color, $btn-danger-bg, $btn-danger-border-color);
+.nav>li>a {
+  &:focus,
+  &:hover {
+    background: none;
+  }
 }
 
-// Remove all backgrounds
-.btn-outline-primary {
-  @include button-outline-variant($btn-primary-bg, $btn-primary-color);
-}
-.btn-outline-secondary {
-  @include button-outline-variant($btn-secondary-border-color, $btn-secondary-color);
-}
-.btn-outline-info {
-  @include button-outline-variant($btn-info-bg, $btn-info-color);
-}
-.btn-outline-success {
-  @include button-outline-variant($btn-success-bg, $btn-success-color);
-}
-.btn-outline-warning {
-  @include button-outline-variant($btn-warning-bg, $btn-warning-color);
-}
-.btn-outline-danger {
-  @include button-outline-variant($btn-danger-bg, $btn-danger-color);
+.nav {
+  &-item {
+    @include to(2) {
+      padding: 12px 0;
+    }
+  }
 }
 
-
-.asteriskField {
-	color: $color-primary;
-}

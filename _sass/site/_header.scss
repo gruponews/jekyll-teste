@@ -32,7 +32,6 @@
     font-size: 13px;
     font-weight: 600;
     text-transform: uppercase;
-    font-family: $secondary-font;
 }
 .navbar-default .navbar-nav>li>a {
     color: $color-gray;
@@ -182,37 +181,10 @@ TOP BARS
 }
 /* Mega MENU */
 
-.yamm-content{
-    padding: 25px;
-    box-sizing: border-box;
-    background-color: #fff;
-}
 .dropdown-menu .divider{
     background-color:#222;
 }
-.yamm-content h3.heading{
-    border-bottom: none;
-    margin: 0 0 5px;
-    font-size: 13px;
-    font-weight: 600;
-    text-transform: uppercase;
-}
-.yamm-content h3:before{
-    content: "";
-    display:none;
-}
 
-.yamm-content .mega-vertical-nav{
-}
-.yamm-content .mega-vertical-nav li a{
-    padding: 8px 0px;
-    @include transition (all 0.3s ease-in);
-    color: #888;
-    font-size: 14px;
-    font-weight: 400;
-    text-transform: capitalize;
-    /*    border-bottom: 0px;*/
-}
 .nav.mega-vertical-nav li a:hover,.nav.mega-vertical-nav li a:focus{
     background-color:transparent;
     color:$skincolor;
@@ -433,7 +405,7 @@ TOP BARS
         position: absolute;
         right:10px;
         top: 14px;
-        display: inline-block;
+        // display: inline-block;
         font: normal normal normal 14px/1 FontAwesome;
         font-size: inherit;
         -webkit-font-smoothing: antialiased;
