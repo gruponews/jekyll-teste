@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="event">
+<article class="event" itemscope itemtype="http://schema.org/Event">
   <header class="event-header">
     {% if page.image-xl %}
     <div class="article-image">
@@ -9,29 +9,73 @@ layout: default
       </div>
       <div class="event-meta">
         <div class="container">
-          <h1 class="event-title">{{ page.title }}</h1>
-        </div>
-        <div class="cf event-meta-text">
-          <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person">{{ site.author }}</h4>
+          <h1 class="event-title" itemprop="name">{{ page.title }}</h1>
         </div>
         <div style="text-align:center">
           <a href="#topofpage" class="topofpage"><i class="fa fa-angle-down"></i></a>
         </div>
+        <meta itemprop="image" content="{{ page.image-xl | prepend: site.baseurl }}">
       </div>
     </div>
     {% else %}
     <div class="noarticleimage">
       <div class="event-meta">
         <h1 class="event-title">{{ page.title }}</h1>
-        <div class="cf event-meta-text">
-          <div class="author-image" style="background-image: url({{ site.author_image | prepend: site.baseurl }})">Blog Logo</div>
-          <h4 class="author-name" itemprop="author" itemscope itemtype="http://schema.org/Person"></h4> on
-        </div>
       </div>
     </div>
   {% endif %}
   </header>
-  <div class="event-content container">
-    {{ content }}
+  <div class="container">
+    <div class="row">
+      <div class="event-content col-sm-1 col-md-8">
+        <div class="event-content__description">
+          <h4>Descrição</h4>
+          <div itemprop="description">
+            {{ content }}
+          </div>
+        </div>
+         {% include share-bar.html %}
+      </div>
+      <div class="event-side col-sm-1 col-md-4">
+        <div class="event-side__date">
+          {% assign date_format = site.date_format | default: "%-d.%b.%Y" %}
+          <h3>Data e horário</h3>
+          {% if page.event.event_start_date == page.event.event_end_date %}
+          <span itemprop="startDate" content="{{page.event.event_start_date}}T{{page.event.event_start_time}}">{{page.event.event_start_date | date: date_format }}</span>
+          {% else %}
+          <span>
+            <span itemprop="startDate" content="{{page.event.event_start_date}}T{{page.event.event_start_time}}">{{page.event.event_start_date | date: date_format }}</span> à
+            <span itemprop="endDate" content="{{page.event.event_end_date}}T{{page.event.event_end_time}}">{{page.event.event_end_date | date: date_format }}</span>
+          </span>
+          {% endif %}
+        </div>
+        {% if page.location %}
+        <div class="event-side__date" itemprop="location" itemscope itemtype="http://schema.org/Place">
+          <h3>Localização</h3>
+          <h4 itemprop="name">{{page.location.location_name}}</h4>
+          <div class="address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            <span itemprop="streetAddress">{{page.location.location_address}}</span>
+            <br>
+            <span itemprop="addressLocality">{{page.location.location_town}}</span> -&nbsp;
+            <span itemprop="addressRegion">{{page.location.location_state}}</span>
+          </div>
+           {% if page.location.latitude %}
+          <div itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
+            <meta itemprop="latitude" content="{{page.location.latitude}}" />
+            <meta itemprop="longitude" content="{{page.location.longitude}}" />
+          </div>
+           {% endif %}
+        </div>
+        {% endif %}
+      </div>
+    </div>
+     {% if page.location %}
+    <div class="row">
+      <h3></h3>
+       {% if page.location.latitude %}
+       {% google_map %}
+       {% endif %}
+    </div>
+     {% endif %}
   </div>
 </article>
